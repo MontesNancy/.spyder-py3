@@ -1,0 +1,1211 @@
+<!DOCTYPE html>
+<html lang="en_US" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" href="https://mil.in.ua/uk/news/u-parlamenti-frantsiyi-zaklykaly-dozvolyty-ukrayini-byty-frantsuzkoyu-zbroyeyu-po-rf/" hreflang="uk" />
+<link rel="alternate" href="https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" hreflang="en" />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v22.6 (Yoast SEO v22.6) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation - Militarnyi</title>
+	<meta name="description" content="The French parliament calls for lifting restrictions on Ukraine&#039;s strikes on the territory of Russia with weapons handed over by France" />
+	<link rel="canonical" href="https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:locale:alternate" content="uk_UA" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation" />
+	<meta property="og:description" content="The French parliament calls for lifting restrictions on Ukraine&#039;s strikes on the territory of Russia with weapons handed over by France" />
+	<meta property="og:url" content="https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" />
+	<meta property="og:site_name" content="Militarnyi" />
+	<meta property="article:publisher" content="https://www.facebook.com/milinua/" />
+	<meta property="og:image" content="https://mil.in.ua/wp-content/uploads/2023/08/Polish_20230807_080048539-1.jpg" />
+	<meta property="og:image:width" content="1056" />
+	<meta property="og:image:height" content="585" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@mil_in_ua" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#article","isPartOf":{"@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/"},"author":{"name":"Kushnikov Vadim","@id":"https://mil.in.ua/en/#/schema/person/088fc9f43fd6dc07b54208540533605d"},"headline":"The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation","datePublished":"2024-05-20T10:12:02+00:00","dateModified":"2024-05-20T10:12:02+00:00","mainEntityOfPage":{"@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/"},"wordCount":422,"commentCount":0,"publisher":{"@id":"https://mil.in.ua/en/#organization"},"image":{"@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#primaryimage"},"thumbnailUrl":"https://mil.in.ua/wp-content/uploads/2023/08/Polish_20230807_080048539-1.jpg","keywords":["Europe","France","Military assistance","Ukraine","War with Russia","World"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#respond"]}]},{"@type":"WebPage","@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/","url":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/","name":"The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation - Militarnyi","isPartOf":{"@id":"https://mil.in.ua/en/#website"},"primaryImageOfPage":{"@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#primaryimage"},"image":{"@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#primaryimage"},"thumbnailUrl":"https://mil.in.ua/wp-content/uploads/2023/08/Polish_20230807_080048539-1.jpg","datePublished":"2024-05-20T10:12:02+00:00","dateModified":"2024-05-20T10:12:02+00:00","description":"The French parliament calls for lifting restrictions on Ukraine's strikes on the territory of Russia with weapons handed over by France","breadcrumb":{"@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#primaryimage","url":"https://mil.in.ua/wp-content/uploads/2023/08/Polish_20230807_080048539-1.jpg","contentUrl":"https://mil.in.ua/wp-content/uploads/2023/08/Polish_20230807_080048539-1.jpg","width":1056,"height":585,"caption":"SCALP EG missile under the wing of the Ukrainian Su-24M bomber. August 2023. Frame from the Ihor Smilyanskyi`s video"},{"@type":"BreadcrumbList","@id":"https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home page","item":"https://mil.in.ua/en/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://mil.in.ua/news/"},{"@type":"ListItem","position":3,"name":"News","item":"https://mil.in.ua/en/news/"},{"@type":"ListItem","position":4,"name":"The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation"}]},{"@type":"WebSite","@id":"https://mil.in.ua/en/#website","url":"https://mil.in.ua/en/","name":"Militarnyi","description":"Honest news about the army, war and defense.","publisher":{"@id":"https://mil.in.ua/en/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mil.in.ua/en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mil.in.ua/en/#organization","name":"Militarnyi","url":"https://mil.in.ua/en/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mil.in.ua/en/#/schema/logo/image/","url":"https://mil.in.ua/wp-content/uploads/2023/07/Dyzajn-bez-nazvy-2.png","contentUrl":"https://mil.in.ua/wp-content/uploads/2023/07/Dyzajn-bez-nazvy-2.png","width":1080,"height":1080,"caption":"Militarnyi"},"image":{"@id":"https://mil.in.ua/en/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/milinua/","https://x.com/mil_in_ua","https://mstdn.social/@militarnyi","https://www.youtube.com/channel/UC3cntnJoRiiLaZ7dZwTTQ8A","https://uk.wikipedia.org/wiki/Український_мілітарний_портал","https://t.me/milinua"]},{"@type":"Person","@id":"https://mil.in.ua/en/#/schema/person/088fc9f43fd6dc07b54208540533605d","name":"Kushnikov Vadim","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mil.in.ua/en/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/24e7ddfe61ff1ef51196c505121336d8?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/24e7ddfe61ff1ef51196c505121336d8?s=96&d=mm&r=g","caption":"Kushnikov Vadim"},"url":"https://mil.in.ua/en/author/vadkush/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//mil.in.ua' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Militarnyi &raquo; The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation Comments Feed" href="https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.22.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-NH1LWEGZ86"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.22.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-NH1LWEGZ86',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-NH1LWEGZ86', {"forceSSL":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mil.in.ua\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.5.3/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.5.3/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.5.3/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://mil.in.ua/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfc-css' href='https://mil.in.ua/wp-content/plugins/gs-facebook-comments/public/css/wpfc-public.css?ver=1.7.5' type='text/css' media='all' />
+<script type="text/javascript" src="https://mil.in.ua/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.min.js?ver=8.22.0" id="monsterinsights-frontend-script-js"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/mil.in.ua","hash_tracking":"false","v4_id":"G-NH1LWEGZ86"};/* ]]> */
+</script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.5.3/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.5.3/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://mil.in.ua/wp-content/plugins/gs-facebook-comments/public/js/wpfc-public.js?ver=1.7.5" id="wpfc-js"></script>
+<link rel="https://api.w.org/" href="https://mil.in.ua/wp-json/" /><link rel="alternate" type="application/json" href="https://mil.in.ua/wp-json/wp/v2/news/251807" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mil.in.ua/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.3" />
+<link rel='shortlink' href='https://mil.in.ua/?p=251807' />
+<link rel="alternate" type="application/json+oembed" href="https://mil.in.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmil.in.ua%2Fen%2Fnews%2Fthe-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mil.in.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmil.in.ua%2Fen%2Fnews%2Fthe-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation%2F&#038;format=xml" />
+<meta property="fb:app_id" content="2587652138187218" />	<style>img#wpstats{display:none}</style>
+		
+<!-- Meta Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js?v=next');
+</script>
+<!-- End Meta Pixel Code -->
+
+      <script type='text/javascript'>
+        var url = window.location.origin + '?ob=open-bridge';
+        fbq('set', 'openbridge', '394029588166353', url);
+      </script>
+    <script type='text/javascript'>fbq('init', '394029588166353', {}, {
+    "agent": "wordpress-6.5.3-3.0.16"
+})</script><script type='text/javascript'>
+    fbq('track', 'PageView', []);
+  </script>
+<!-- Meta Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=394029588166353&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Meta Pixel Code -->
+<link rel="icon" href="https://mil.in.ua/wp-content/uploads/2023/08/cropped-cropped-militarnyi-logos-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://mil.in.ua/wp-content/uploads/2023/08/cropped-cropped-militarnyi-logos-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mil.in.ua/wp-content/uploads/2023/08/cropped-cropped-militarnyi-logos-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://mil.in.ua/wp-content/uploads/2023/08/cropped-cropped-militarnyi-logos-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			@media (max-width: 991px){
+	.header__support{
+		font-size: 0 !important
+	}
+}		</style>
+		        <meta name="keywords" content="Війна, армія, оборонна промисловість. Новини та аналітика. Хроніка деокупації та перемоги. Інформаційна передова з 2009 року.">
+        <meta name="theme-color" content="#c9e0e04d">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        		        <link rel="shortcut icon" href="https://mil.in.ua/wp-content/themes/military/favicon.png" type="image/png">
+		<link rel="icon" href="https://mil.in.ua/wp-content/themes/military/favicon.png" sizes="192x192" />
+        <link rel="apple-touch-icon" href="https://mil.in.ua/wp-content/themes/military/favicon.png">
+        <link rel="stylesheet" href="https://mil.in.ua/wp-content/themes/military/styles/main.min.css?0.0019">
+<!-- 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/css/lightgallery.min.css"> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<meta name="google-site-verification" content="MPjesGNQD0KaaDsocyd7W-35_PlTnsAy495I_f1RSXw" />
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-92290467-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-92290467-1');
+		</script>
+		<!-- Hotjar Tracking Code for mil.in.ua -->
+		<script>
+			(function(h,o,t,j,a,r){
+				h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+				h._hjSettings={hjid:1431425,hjsv:6};
+				a=o.getElementsByTagName('head')[0];
+				r=o.createElement('script');r.async=1;
+				r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+				a.appendChild(r);
+			})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<script type='text/javascript'>
+                (function() {
+                var w = window,
+                        d = document,
+                        protocol =/https/i.test(w.location.protocol) ? 'https:' : 'http:',
+                        aml = typeof admixerML !== 'undefined' ? admixerML : { };
+                aml.fn = aml.fn || [];
+                aml.invPath = aml.invPath || (protocol + '//inv-nets.admixer.net/');
+                aml.cdnPath = aml.cdnPath || (protocol + '//cdn.admixer.net/');
+                if (!w.admixerML)
+                {
+                    var lodash = document.createElement('script');
+                    lodash.id = 'amlScript';
+                    lodash.async = true;
+                    lodash.type = 'text/javascript';
+                    lodash.src = aml.cdnPath + 'scripts3/loader2.js';
+                    var node = d.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(lodash, node);
+                    w.admixerML = aml;
+                }
+            })();
+            </script>
+			<script type='text/javascript'>
+				admixerML.fn.push(function() {
+				admixerML.defineSlot({z: '74653de4-796b-4749-89f8-b132ec12d46f', ph: 'admixer_74653de4796b474989f8b132ec12d46f_zone_38366_sect_11828_site_9352', i: 'inv-nets', s:'f7b7a339-59a5-4358-9a5b-d4f5c71d7d6a'});
+				admixerML.defineSlot({z: '5b101c01-ccff-4873-8e0c-07a69f8c7658', ph: 'admixer_5b101c01ccff48738e0c07a69f8c7658_zone_38367_sect_11828_site_9352', i: 'inv-nets', s:'f7b7a339-59a5-4358-9a5b-d4f5c71d7d6a'});
+				admixerML.defineSlot({z: '35b5371d-4a2f-4b50-8443-4fd584a7391b', ph: 'admixer_35b5371d4a2f4b5084434fd584a7391b_zone_38368_sect_11828_site_9352', i: 'inv-nets', s:'f7b7a339-59a5-4358-9a5b-d4f5c71d7d6a'});
+				admixerML.singleRequest();
+				});
+		</script>
+		<!-- Facebook Pixel Code -->
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2432605929504164" crossorigin="anonymous"></script>
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1767651270042090');
+  fbq('track', 'PageView');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 594505496 --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-594505496"></script> 
+<script> window.dataLayer = window.dataLayer || []; 
+function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-594505496'); 
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1767651270042090&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    </head>
+    <body>
+		        <header class="header">
+            <div class="header__wrapper">
+                <div class="container flex-container flex-container--space-between flex-container--align-end">
+                    <button class="header__nav-toggler js-nav-toggler">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    
+										
+					<a href="https://mil.in.ua/en" class="header__logo">
+							<img src="https://mil.in.ua/wp-content/themes/military/img/logo.svg" alt="header-logo" class="header__logo-img">
+                    </a>
+                    <nav class="header__nav">
+                        <a class="header__nav-link" href="https://mil.in.ua/en/news/">News</a><a class="header__nav-link" href="https://mil.in.ua/en/articles/">Articles</a><a class="header__nav-link" href="https://mil.in.ua/en/blogs/">Blogs</a><a class="header__nav-link" href="https://mil.in.ua/en/#video-special">Video content</a>						
+                        <div class="social social--header-mobile">							
+							<a target="_blank" href="https://www.facebook.com/Militarnyi" class="social__link facebook"></a>							<a target="_blank" href="https://twitter.com/militarnyi_en" class="social__link twitter"></a>							<a target="_blank" href="https://www.youtube.com/@MilitarnyiEN" class="social__link youtube"></a>							<a target="_blank" href="https://www.instagram.com/mil.in.ua/" class="social__link insta"></a>							<a target="_blank" href="https://t.me/militarnyi_eng" class="social__link telegram"></a>														<a target="_blank" href="https://mil.in.ua/en/news/feed/" class="social__link rss"></a>
+                                                                                </div>
+                        <div class="header__langs header__langs--mobile">
+                            <a href="https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" class="header__langs-item active">Eng</a>
+                            <a href="https://mil.in.ua/uk/news/u-parlamenti-frantsiyi-zaklykaly-dozvolyty-ukrayini-byty-frantsuzkoyu-zbroyeyu-po-rf/" class="header__langs-item ">Укр</a>
+                            <a href="https://mil.in.ua/pl/" class="header__langs-item ">Pol</a>
+                            <a href="https://mil.in.ua/es/" class="header__langs-item ">Esp</a>
+                        </div>
+                    </nav>
+                                        <a data-modal="modal-donate" class="header__support button button--red button--support js-modal-call">Donate</a>
+                    <form action="/en/" class="header__search">
+                        <input type="text" name="s" placeholder="Search..." class="form__input header__search-input js-header-input">
+                        <button aria-label="search-button" type="submit" class="header__search-button"></button>
+                    </form>
+                    <div class="social social--header-desktop">
+                        <a target="_blank" href="https://www.facebook.com/Militarnyi" class="social__link facebook"></a>                        <a target="_blank" href="https://twitter.com/militarnyi_en" class="social__link twitter"></a>                        <a target="_blank" href="https://www.youtube.com/@MilitarnyiEN" class="social__link youtube"></a>                        <a target="_blank" href="https://www.instagram.com/mil.in.ua/" class="social__link insta"></a>                        <a target="_blank" href="https://t.me/militarnyi_eng" class="social__link telegram"></a>                        						<a target="_blank" href="https://mil.in.ua/en/news/feed/" class="social__link rss"></a>
+                                                                    </div>
+                    <div class="header__langs header__langs--desktop">
+                        <a href="https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" class="header__langs-item active">Eng</a>
+                        <a href="https://mil.in.ua/uk/news/u-parlamenti-frantsiyi-zaklykaly-dozvolyty-ukrayini-byty-frantsuzkoyu-zbroyeyu-po-rf/" class="header__langs-item ">Укр</a>
+                                            </div>
+                    <button class="header__search-toggler js-search-toggler"></button>
+                </div>
+            </div>
+            <div class="header__hashtag">
+                <div class="container">
+                    <div class="header__hashtag-wrapper js-hashtag-slider">
+                        <a class="header__hashtag-item" href="https://mil.in.ua/en/tag/defense-industry-of-ukraine/">Defense industry of Ukraine</a><a href="https://mil.in.ua/en/tag/ukraine-en/" class="header__hashtag-item">Ukraine</a><a href="https://mil.in.ua/en/tag/war-with-russia/" class="header__hashtag-item">War with Russia</a><a href="https://mil.in.ua/en/tag/world/" class="header__hashtag-item">World</a><a href="https://mil.in.ua/en/tag/military-assistance/" class="header__hashtag-item">Military assistance</a><a href="https://mil.in.ua/en/tag/europe/" class="header__hashtag-item">Europe</a>                    </div>
+                </div>
+			</div>
+        </header>
+			<main>
+    <div class="main-container">
+        <div class="sidebar sidebar--right sidebar--gray hidden-lg">
+            <div class="sidebar--right__wrapper">
+	<p class="title title--main">Blogs</p>
+	<div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/the-last-samurai-japan-is-decommissioning-all-type-74-tanks-but-what-will-it-do-with-them/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2024/03/GCj5YMZbkAAtgFM-300x200.jpg" alt="The Last Samurai: Japan is decommissioning all Type 74 tanks, but what will it do with them?" class="blog-item__img lazyload">
+                <span class="blog-item__date">24 March, 2024</span>
+        <span class="blog-item__name">The Last Samurai: Japan is decommissioning all Type 74 tanks, but what will it do with them?</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/north/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2023/05/Kopiya-esp.png" alt="Роман Приходько">
+        Роман Приходько    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/werewolf-experts-how-anti-vaxxers-lie-about-mobilization-in-ukraine/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2024/02/news_pic_id68020-300x200.jpg" alt="Werewolf experts: how anti-vaxxers lie about mobilization in Ukraine" class="blog-item__img lazyload">
+                <span class="blog-item__date">26 February, 2024</span>
+        <span class="blog-item__name">Werewolf experts: how anti-vaxxers lie about mobilization in Ukraine</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/sholudko/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2024/01/IMG_6200.jpeg" alt="Віктор Шолудько">
+        Віктор Шолудько    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/end-of-saint-petersburg/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2021/09/lada-300x200.png" alt="End of &#8216;Saint Petersburg&#8217;" class="blog-item__img lazyload">
+                <span class="blog-item__date">11 February, 2024</span>
+        <span class="blog-item__name">End of &#8216;Saint Petersburg&#8217;</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/andrij-kharuk/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2019/10/21616247_1634588533282947_2895358724114928151_n.jpg" alt="Андрій Харук">
+        Андрій Харук    </a>
+</div><div class="ads"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2432605929504164"
+     crossorigin="anonymous"></script>
+<!-- BLOGSFEED -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:300px"
+     data-ad-client="ca-pub-2432605929504164"
+     data-ad-slot="7692356750"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/military-experts-are-ecstatic-how-russia-uses-pseudo-experts-to-spread-military-fakes/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2024/01/F3QzBNjXIAAHjW5-300x182.jpg" alt="&#8220;Military Experts Are Ecstatic&#8221;: How Russia Uses Pseudo-experts to Spread Military Fakes" class="blog-item__img lazyload">
+                <span class="blog-item__date">29 January, 2024</span>
+        <span class="blog-item__name">&#8220;Military Experts Are Ecstatic&#8221;: How Russia Uses Pseudo-experts to Spread Military Fakes</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/sholudko/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2024/01/IMG_6200.jpeg" alt="Віктор Шолудько">
+        Віктор Шолудько    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/ukraine-develops-bmp-weapon-station-and-unusual-armor-for-it/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/11/Znimok-ekrana-2023-11-27-124150-1-300x174.png" alt="Ukraine Develops BMP Weapon Station and Unusual Armor for It" class="blog-item__img lazyload">
+                <span class="blog-item__date">26 January, 2024</span>
+        <span class="blog-item__name">Ukraine Develops BMP Weapon Station and Unusual Armor for It</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/btvt/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2023/07/photo_2023-04-18_19-40-55.jpg" alt="Андрій Тарасенко">
+        Андрій Тарасенко    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/rare-soviet-era-object-14-resurfaces-in-ukrainian-military-service/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/12/photo_2023-12-12_23-54-38-e1702477272142-239x300.jpg" alt="Rare Soviet-Era Object 14 Resurfaces in Ukrainian Military Service" class="blog-item__img lazyload">
+                <span class="blog-item__date">13 December, 2023</span>
+        <span class="blog-item__name">Rare Soviet-Era Object 14 Resurfaces in Ukrainian Military Service</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/yann/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2023/01/IMG_20230114_002727_256-1.jpg" alt="Yann ">
+        Yann     </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/juche-projectiles-north-korea-tracks-in-russo-ukrainian-war/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/10/F85mQmLWcAAAT0P2-1-300x169.jpg" alt="Juche projectiles: North Korea tracks in Russo-Ukrainian war" class="blog-item__img lazyload">
+                <span class="blog-item__date">6 November, 2023</span>
+        <span class="blog-item__name">Juche projectiles: North Korea tracks in Russo-Ukrainian war</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/vodogray/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2023/11/image-3.png" alt="СПЖ "Водограй"">
+        СПЖ "Водограй"    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/ukrainian-pat/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/11/IMG_9163-201x300.jpg" alt="Ukrainian &#8220;Pat&#8221;" class="blog-item__img lazyload">
+                <span class="blog-item__date">4 November, 2023</span>
+        <span class="blog-item__name">Ukrainian &#8220;Pat&#8221;</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/andrij-kharuk/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2019/10/21616247_1634588533282947_2895358724114928151_n.jpg" alt="Андрій Харук">
+        Андрій Харук    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/search-for-mines-using-drones-with-thermal-imaging/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/02/photo_2023-02-06_21-36-22-300x200.jpg" alt="Search for mines using drones with thermal imaging" class="blog-item__img lazyload">
+                <span class="blog-item__date">20 October, 2023</span>
+        <span class="blog-item__name">Search for mines using drones with thermal imaging</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/boryviter/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2023/10/363286675_266736789434437_825529.jpg" alt="ГО "Військова школа "Боривітер"">
+        ГО "Військова школа "Боривітер"    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/how-many-t-90m-tanks-did-russia-produced/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/10/364459_O-300x169.jpg" alt="How many Т-90М tanks did Russia produce?" class="blog-item__img lazyload">
+                <span class="blog-item__date">6 October, 2023</span>
+        <span class="blog-item__name">How many Т-90М tanks did Russia produce?</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/btvt/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2023/07/photo_2023-04-18_19-40-55.jpg" alt="Андрій Тарасенко">
+        Андрій Тарасенко    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/another-round-of-escalation-in-the-northen-kosovo-comment/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/10/Zaplijenjeno-oruzje-i-ostalo-1-300x200.jpg" alt="Another Round of Escalation in the Northen Kosovo &#8211; Comment" class="blog-item__img lazyload">
+                <span class="blog-item__date">5 October, 2023</span>
+        <span class="blog-item__name">Another Round of Escalation in the Northen Kosovo &#8211; Comment</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/shkate/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2020/11/120841812_3296116290425362_5471435048730167666_o.jpg" alt="Катерина Шимкевич">
+        Катерина Шимкевич    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/structure-of-russian-fortifications-in-zaporizhzhia/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/10/F7TFAQFXEAAzzUk-300x225.jpg" alt="Structure of Russian fortifications in Zaporizhzhia" class="blog-item__img lazyload">
+                <span class="blog-item__date">2 October, 2023</span>
+        <span class="blog-item__name">Structure of Russian fortifications in Zaporizhzhia</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/solonko/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2023/09/sil.png" alt="Олександр Солонько">
+        Олександр Солонько    </a>
+</div><div class="blog-item">
+    <a href="https://mil.in.ua/en/blogs/further-possible-development-of-naval-drones/" class="blog-item__link">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2023/08/MAGURA_V5-300x190.jpg" alt="Further possible development of naval drones" class="blog-item__img lazyload">
+                <span class="blog-item__date">10 August, 2023</span>
+        <span class="blog-item__name">Further possible development of naval drones</span>
+    </a>
+    <a href="https://mil.in.ua/en/author/andrii-ryzhenko/" class="blog-item__author">
+        <img class="blog-item__author-img lazyload" data-src="https://mil.in.ua/wp-content/uploads/2020/11/Andrij-Ryzhenko.jpg" alt="Андрій Риженко">
+        Андрій Риженко    </a>
+</div></div>
+<a href="/en/blogs/" class="button button--blogs">All blogs</a>        </div>
+        <div class="container container--right-padding-lg single-news">
+                            <img data-src="https://mil.in.ua/wp-content/uploads/2023/08/Polish_20230807_080048539-1.jpg" alt="The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation" class="post-banner__img lazyload">
+                        <div class="post-info">
+                <!--<span class="views"></span>-->
+                <span class="post-info__date">20 May, 2024</span>
+                                    <span class="post-info__img-descr">SCALP EG missile under the wing of the Ukrainian Su-24M bomber. August 2023. Frame from the Ihor Smilyanskyi`s video</span>
+                            </div>
+            <div class="single-news__wrapper">
+                <h1 class="single-news__title">The French Parliament called for Ukraine to be allowed to hit with French weapons on the Russian Federation</h1>
+                <div class="hashtags hashtags--single-post">
+                                                                                                    <a href="https://mil.in.ua/en/tag/europe/" class="hashtags__item">Europe</a>
+                                                                                <a href="https://mil.in.ua/en/tag/france/" class="hashtags__item">France</a>
+                                                                                <a href="https://mil.in.ua/en/tag/military-assistance/" class="hashtags__item">Military assistance</a>
+                                                                                <a href="https://mil.in.ua/en/tag/ukraine-en/" class="hashtags__item">Ukraine</a>
+                                                                                <a href="https://mil.in.ua/en/tag/war-with-russia/" class="hashtags__item">War with Russia</a>
+                                                                                <a href="https://mil.in.ua/en/tag/world/" class="hashtags__item">World</a>
+                                                            </div>
+                <p>The French parliament calls for lifting restrictions on Ukraine&#8217;s strikes on the territory of Russia with weapons handed over by France.</p>
+<p>It is <a href="https://www.lefigaro.fr/international/armes-occidentales-fournies-a-l-ukraine-le-territoire-russe-ne-doit-plus-etre-sanctuarise-affirme-jean-louis-bourlanges-20240519">reported</a> by Le Figaro.</p>
+<p>The Chairman of the French National Assembly Foreign Affairs Committee, Jean-Louis Bourlanges, made such a call to the authorities of the country.</p><div class="ads"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2432605929504164"
+     crossorigin="anonymous"></script>
+<!-- NEWS 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2432605929504164"
+     data-ad-slot="4052456656"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p>The politician wrote a letter to the French leadership, in which he called for abandoning &#8220;restraint and making a decision&#8221; following the example of the UK, which allowed Ukrainian troops to strike with its weapons at the Russian territory.</p>
+<p><em>&#8220;It seems the time has come&#8230; The right to self-defense excludes the right to the inviolability of the aggressor&#8217;s territory,&#8221;</em> he stressed, and added that the change of doctrine will be absolutely legal, since it will end the asymmetry between the aggressor and the victim.</p>
+<img fetchpriority="high" decoding="async" class="size-full wp-image-235883" src="https://mil.in.ua/wp-content/uploads/2024/01/FB_IMG_1704557654819-1.jpg" alt="" width="1080" height="720" srcset="https://mil.in.ua/wp-content/uploads/2024/01/FB_IMG_1704557654819-1.jpg 1080w, https://mil.in.ua/wp-content/uploads/2024/01/FB_IMG_1704557654819-1-300x200.jpg 300w, https://mil.in.ua/wp-content/uploads/2024/01/FB_IMG_1704557654819-1-1024x683.jpg 1024w, https://mil.in.ua/wp-content/uploads/2024/01/FB_IMG_1704557654819-1-768x512.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /><label> SCALP EG missile under the wing of the Ukrainian Su-24M bomber. 2023. Photo credits: Ukrainian Air Force</label>
+<p>At the same time, Bourlanges stressed that neither France nor other Western partners of Ukraine were willing to go to war with the Russian Federation.</p>
+<p><em>&#8220;Therefore, this is not about their participation in the theater of war, but about lifting the unjustified taboo,&#8221;</em> he wrote in his letter.</p><div class="ads"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2432605929504164"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2432605929504164"
+     data-ad-slot="9256719863"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p>Since the beginning of the full-scale invasion of Russia, Ukraine has been limited in the use of weapons received from Western countries to strike at Russian territory.</p>
+<p>Usually in the West, this restriction was explained by the fact that they provide weapons to Ukraine in order to defend themselves from Russian invasion, and not to attack it.</p>
+<p>As <a href="https://mil.in.ua/en/news/the-united-states-does-not-allow-the-ukrainian-troops-to-use-us-weapons-to-strike-russian-soil/">previously reported</a>, earlier the Pentagon also said that they considered the weapons that the United States provided to Ukraine as military assistance should&#8217;ve been used within Ukrainian territory.</p>
+<img decoding="async" class="size-full wp-image-241320" src="https://mil.in.ua/wp-content/uploads/2024/02/Screenshot_36-1.png" alt="" width="954" height="568" srcset="https://mil.in.ua/wp-content/uploads/2024/02/Screenshot_36-1.png 954w, https://mil.in.ua/wp-content/uploads/2024/02/Screenshot_36-1-300x179.png 300w, https://mil.in.ua/wp-content/uploads/2024/02/Screenshot_36-1-768x457.png 768w" sizes="(max-width: 954px) 100vw, 954px" /><label> ATACMS. Photo credits: Strategic Communications Department of the General Staff of the Armed Forces of Ukraine</label>
+<p>The Wall Street Journal has learned that Ukraine has <a href="https://mil.in.ua/en/news/media-ukraine-asks-for-u-s-help-in-striking-targets-inside-russia/">asked</a> the United States to provide the intelligence to determine targets in Russia at which Kyiv could strike with its own weapons. And also asked to remove restrictions on the use of American weapons at military facilities on the territory of the Russian Federation.</p>
+<p>At a briefing on May 17, John Kirby, White House National Security Communications Advisor, said that at that moment Washington did not support assisting Kyiv in choosing targets or using American weapons to strike at the Russian territory.</p><div class="ads"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2432605929504164"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2432605929504164"
+     data-ad-slot="6055841451"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</p>            </div>
+			
+			
+
+
+	 
+				
+			
+	  
+      <!-- donate block -->
+      <div class="donate">
+        <p class="donate__title">SUPPORT MILITARNYI</p>
+        <p class="donate__subtitle">Even a single donation or a $1 subscription will help us contnue working and developing. Fund independent military media and have access to credible information.</p>
+        
+        <div class="donate__tabs js-tabs">
+          <div class="donate__tabs-heading js-tabs-heading">
+            <button class="donate__tabs-button active" data-target="dotate-content-1">Банківська карта</button>
+            <a href="https://www.patreon.com/milinua" target="_blank" class="donate__tabs-button">Patreon</a>
+            <a href="https://www.paypal.com/donate/?hosted_button_id=KP47TXPC9X9AQ" target="_blank" class="donate__tabs-button">PayPal</a>
+            <button class="donate__tabs-button" data-target="dotate-content-2">Крипта</button>
+          </div>
+
+          <div class="donate__tabs-wrapper js-tabs-content">
+            <div id="dotate-content-1" class="donate__tabs-content active">
+              <div class="donate-items">
+			  
+																			<div class="donate-item">
+						  <div>
+							<p class="donate-item__title">PrivatBank</p>
+							<p class="donate-item__code">5169 3351 0164 7408</p>
+						  </div>
+						  <button class="donate-item__btn js-copy-btn" data-copy-code="5169335101647408">
+							<img src="https://mil.in.ua/wp-content/themes/military/img/copy.svg" alt="copy icon">
+							<p class="donate-item__tooltip">copied</p>
+						  </button>
+						</div>
+											<div class="donate-item">
+						  <div>
+							<p class="donate-item__title">Bank Account in UAH (IBAN)</p>
+							<p class="donate-item__code">UA043052990000026007015028783</p>
+						  </div>
+						  <button class="donate-item__btn js-copy-btn" data-copy-code="UA043052990000026007015028783">
+							<img src="https://mil.in.ua/wp-content/themes/military/img/copy.svg" alt="copy icon">
+							<p class="donate-item__tooltip">copied</p>
+						  </button>
+						</div>
+									
+              </div>
+            </div>
+            <div id="dotate-content-2" class="donate__tabs-content">
+              <div class="donate-items">
+			  
+																		
+						<div class="donate-item donate-item--qr">
+						  <div>
+							<p class="donate-item__title">ETH</p>
+							<p class="donate-item__code">0x6db6D0E7acCa3a5b5b09c461Ae480DF9A928d0a2</p>
+						  </div>
+						  <button class="donate-item__btn js-copy-btn" data-copy-code="0x6db6D0E7acCa3a5b5b09c461Ae480DF9A928d0a2">
+							<img src="https://mil.in.ua/wp-content/themes/military/img/copy.svg" alt="copy icon">
+							<p class="donate-item__tooltip">copied</p>
+						  </button>
+
+						  <img src="https://mil.in.ua/wp-content/uploads/2023/03/qr1.png" class="donate-item__qr" alt="qr code">
+						</div>					
+										
+						<div class="donate-item donate-item--qr">
+						  <div>
+							<p class="donate-item__title">BTC</p>
+							<p class="donate-item__code">bc1qv58uev602j2twgxdtyv4z0mvly44ezq788kwsd</p>
+						  </div>
+						  <button class="donate-item__btn js-copy-btn" data-copy-code="bc1qv58uev602j2twgxdtyv4z0mvly44ezq788kwsd">
+							<img src="https://mil.in.ua/wp-content/themes/military/img/copy.svg" alt="copy icon">
+							<p class="donate-item__tooltip">copied</p>
+						  </button>
+
+						  <img src="https://mil.in.ua/wp-content/uploads/2023/03/qr2.png" class="donate-item__qr" alt="qr code">
+						</div>					
+										
+						<div class="donate-item donate-item--qr">
+						  <div>
+							<p class="donate-item__title">USDT</p>
+							<p class="donate-item__code">TMKUjnNbCN4Bv6Vvtyh7e3mnyz5QB9nu6V</p>
+						  </div>
+						  <button class="donate-item__btn js-copy-btn" data-copy-code="TMKUjnNbCN4Bv6Vvtyh7e3mnyz5QB9nu6V">
+							<img src="https://mil.in.ua/wp-content/themes/military/img/copy.svg" alt="copy icon">
+							<p class="donate-item__tooltip">copied</p>
+						  </button>
+
+						  <img src="https://mil.in.ua/wp-content/uploads/2023/03/qr3.png" class="donate-item__qr" alt="qr code">
+						</div>					
+													
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- donate block --> 
+			
+            <div class="hashtags hashtags--single-post">
+                                                            <a href="https://mil.in.ua/en/tag/europe/" class="hashtags__item">Europe</a>
+                                            <a href="https://mil.in.ua/en/tag/france/" class="hashtags__item">France</a>
+                                            <a href="https://mil.in.ua/en/tag/military-assistance/" class="hashtags__item">Military assistance</a>
+                                            <a href="https://mil.in.ua/en/tag/ukraine-en/" class="hashtags__item">Ukraine</a>
+                                            <a href="https://mil.in.ua/en/tag/war-with-russia/" class="hashtags__item">War with Russia</a>
+                                            <a href="https://mil.in.ua/en/tag/world/" class="hashtags__item">World</a>
+                                                </div>
+            			<form action="/en/" class="form form--post">
+				<input name="s" type="text" placeholder="Search..." class="form__input form__input--post">
+				<button aria-label="search-button" type="submit" class="header__search-button header__search-button--post"></button>
+			</form>
+        </div>
+        <div class="social social--post">
+    <div class="container container--right-padding-lg flex-container">
+        <p class="social__title">Share:</p>
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" class="social__link facebook"></a>
+        <a target="_blank" href="https://twitter.com/intent/tweet?text=&amp;url=https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" class="social__link twitter"></a>
+                <a target="_blank" href="tg://msg_url?url=https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/" class="social__link telegram"></a>
+		<a data-modal="modal-donate" class="button button--red button--support button--support-social js-modal-call">Donate</a>
+    </div>
+</div>        <div class="container container--right-padding-lg">
+            <div class="slider--line js-line-slider">
+                <div class="news-item ">
+    <span class="news-item__date">23 May, 2024</span>
+    <a href="https://mil.in.ua/en/news/poroshenko-donates-over-2-000-drones-to-ukrainian-military/">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2024/05/443840544_996423501843518_1181181284822452066_n-1-300x200.jpg" alt="Poroshenko Donates Over 2,000 Drones to Ukrainian Military" class="news-item__img lazyload">
+            </a>
+    <div class="news-item__wrapper">
+        <a href="https://mil.in.ua/en/news/poroshenko-donates-over-2-000-drones-to-ukrainian-military/" class="news-item__name">Poroshenko Donates Over 2,000 Drones to Ukrainian Military</a>
+        <div class="hashtags">
+                                    <a href="https://mil.in.ua/en/tag/aviation/" class="hashtags__item">Aviation</a>
+                                            <a href="https://mil.in.ua/en/tag/uav/" class="hashtags__item">UAV</a>
+                                            <a href="https://mil.in.ua/en/tag/ukraine-en/" class="hashtags__item">Ukraine</a>
+                                            <a href="https://mil.in.ua/en/tag/volunteers/" class="hashtags__item">Volunteers</a>
+                            </div>
+    </div>
+</div><div class="news-item ">
+    <span class="news-item__date">23 May, 2024</span>
+    <a href="https://mil.in.ua/en/news/drones-target-russian-voronezh-dm-radar-in-krasnodar-krai/">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2024/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-9-1-1-300x213.jpg" alt="Drones Target Russian Voronezh-DM Radar in Krasnodar Krai" class="news-item__img lazyload">
+            </a>
+    <div class="news-item__wrapper">
+        <a href="https://mil.in.ua/en/news/drones-target-russian-voronezh-dm-radar-in-krasnodar-krai/" class="news-item__name">Drones Target Russian Voronezh-DM Radar in Krasnodar Krai</a>
+        <div class="hashtags">
+                                    <a href="https://mil.in.ua/en/tag/europe/" class="hashtags__item">Europe</a>
+                                            <a href="https://mil.in.ua/en/tag/radar/" class="hashtags__item">Radar</a>
+                                            <a href="https://mil.in.ua/en/tag/russia/" class="hashtags__item">Russia</a>
+                                            <a href="https://mil.in.ua/en/tag/uav/" class="hashtags__item">UAV</a>
+                            </div>
+    </div>
+</div><div class="news-item ">
+    <span class="news-item__date">23 May, 2024</span>
+    <a href="https://mil.in.ua/en/news/poland-weighs-options-to-intercept-russian-missiles-over-ukraine/">
+                    <img data-src="https://mil.in.ua/wp-content/uploads/2024/05/Patriot-missile-Poland-1-1-300x200.jpg" alt="Poland Weighs Options to Intercept Russian Missiles Over Ukraine" class="news-item__img lazyload">
+            </a>
+    <div class="news-item__wrapper">
+        <a href="https://mil.in.ua/en/news/poland-weighs-options-to-intercept-russian-missiles-over-ukraine/" class="news-item__name">Poland Weighs Options to Intercept Russian Missiles Over Ukraine</a>
+        <div class="hashtags">
+                                    <a href="https://mil.in.ua/en/tag/air-defense/" class="hashtags__item">Air Defense</a>
+                                            <a href="https://mil.in.ua/en/tag/europe/" class="hashtags__item">Europe</a>
+                                            <a href="https://mil.in.ua/en/tag/neighbors/" class="hashtags__item">Neighbors</a>
+                                            <a href="https://mil.in.ua/en/tag/poland/" class="hashtags__item">Poland</a>
+                            </div>
+    </div>
+</div>            </div>
+                        			<div class="fb-background-color">
+		  <div 
+		  	class = "fb-comments" 
+		  	data-href = "https://mil.in.ua/en/news/the-french-parliament-called-for-ukraine-to-be-allowed-to-hit-with-french-weapons-on-the-russian-federation/"
+		  	data-numposts = "10"
+			data-lazy = "true"
+			data-colorscheme = "light"
+			data-order-by = "reverse_time"
+			data-mobile=true>
+		  </div></div>
+		  <style>
+		  	.fb-background-color {
+				background:  !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		          </div>
+    </div>
+</main>
+		<div id="modal-donate" class="modal modal--donate">
+						<p class="modal__title">Підтримати нас можна через:  </p>
+			<p>Приват: <b>4731 1856 1559 1812</b> </br> PayPal - <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4e3e2f373e2f220e232722602720603b2f">[email&#160;protected]</a> </br>  Стати нашим патроном за лінком ⬇</p>
+			<div class="modal__wrapper">
+																	<a href="https://patreon.com/milinua" class="button button--donate">Patreon</a>
+															</div>
+		</div>
+		<div id="modal-subscribe" class="modal modal--subscribe">
+            <p class="modal__title">Subscribe to our newsletter</p>
+            <form class="modal__form js-modal-form">
+                <input type="text" name="name" class="modal__input" placeholder="Name">
+                <input type="text" name="email" class="modal__input" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" placeholder="Email">
+                <button class="button modal__button">Subscribe</button>
+            </form>
+            <p class="modal__info">
+                or on ours <a href="https://t.me/milinua">Telegram</a></span>
+            </p>
+        </div>
+        <div id="modal-success" class="modal modal--success">
+            <p class="modal__title">Thank you!!</p>
+            <img data-src="https://mil.in.ua/wp-content/themes/military/img/sprites/sprite.svg#success" alt="modal-success lazyload">
+            <p>You are subscribed to our newsletter</p>
+        </div>
+        <div class="modal-bg js-modal-bg"></div>
+        <footer class="footer">
+            <a data-modal="modal-subscribe" class="footer__subscribe button button--red button--subscribe js-modal-call">Subscribe</a>
+            <div class="container flex-container flex-container--md-nowrap flex-container--md-column-reverse">
+				
+				                
+				<div class="footer__wrapper footer__wrapper--small footer__wrapper--logo">
+                    <a href="https://mil.in.ua/en" class="footer__logo">
+							<img data-src="https://mil.in.ua/wp-content/themes/military/img/logo-footer-new.svg" alt="logo-footer" class="footer__logo-img lazyload">                    
+                    </a>
+                    <p class="footer__company-name">«Ukrainian Military Center» Public Organization</p>
+                    <p class="footer__copyright">© 2024 Militarnyi</p>
+					
+					<p class="footer__copyright footer__empat-copyright">
+						Developed in
+						<a class="empat-link" href="http://empat.tech/" target="_blank">
+							<svg class="empat-logo" viewBox="0 0 312 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path stroke-width="6" d="M285.798 13.3401V3.60611L298.548 0V13.3401H311.218V25.1167H298.553V47.432C298.553 49.4117 298.95 50.3652 299.291 50.7703C299.714 51.1402 300.501 51.4932 301.985 51.5468C303.836 51.5459 306.138 51.4854 308.892 51.3679L311.223 51.2684V62.3399L309.284 62.5811C301.912 63.4981 295.947 63.043 291.9 60.6598L291.887 60.652L291.874 60.6441C287.601 58.049 285.803 53.3682 285.803 47.432V25.1167H276.367V13.3401H285.798ZM148.655 74.3906V72.2878C148.655 66.3482 148.657 60.4072 148.66 54.4672L148.66 54.3619L148.66 54.2538C148.662 48.2444 148.665 42.2359 148.665 36.2299C148.665 21.7346 161.151 9.99001 176.545 9.99001C191.939 9.99001 204.425 21.7346 204.425 36.2299C204.425 50.7252 191.939 62.4698 176.545 62.4698C170.976 62.4698 165.786 60.9316 161.432 58.2833V74.3906H148.655ZM176.545 22.0065C168.192 22.0065 161.427 28.3779 161.427 36.2299C161.427 44.0819 168.192 50.4533 176.545 50.4533C184.898 50.4533 191.663 44.0819 191.663 36.2299C191.663 28.3779 184.898 22.0065 176.545 22.0065ZM136.662 29.6942C136.59 24.5651 134.392 19.6488 130.52 16.0145C126.588 12.3192 121.259 10.2465 115.705 10.2465C110.262 10.2465 105.035 12.2374 101.127 15.7954C97.2192 12.2374 91.9921 10.2465 86.5494 10.2465C80.9946 10.2465 75.6643 12.3203 71.7317 16.0173C67.8724 19.6453 65.628 24.5507 65.5556 29.6942L65.5554 29.7082V62.295H78.3657V29.7487C78.4218 27.7831 79.2724 25.9104 80.7551 24.5165C82.292 23.0717 84.376 22.2604 86.5494 22.2604C88.722 22.2604 90.809 23.0737 92.3465 24.5191L92.3479 24.5205C93.9028 25.9794 94.8036 27.9462 94.8036 29.9554V62.295H107.614V29.7484C107.671 27.733 108.464 25.8766 109.911 24.5165C111.448 23.0717 113.532 22.2604 115.705 22.2604C117.878 22.2604 119.965 23.0737 121.502 24.5191L121.504 24.5205C123.034 25.9564 123.897 27.9143 123.897 29.9554V62.295H136.662V29.7082L136.662 29.6942ZM27.5565 11.832C19.6459 11.832 13.0257 14.2592 7.91159 19.2125C2.81966 24.1346 0.305054 30.3373 0.305054 37.5906C0.305054 44.9286 2.85304 51.1458 8.01322 56.0694L8.02366 56.0794L8.03423 56.0892C13.2754 60.9587 19.9469 63.3839 28.1328 63.3492C38.1501 63.3479 45.8649 59.7598 51.0097 52.2184L52.2852 50.3487L41.299 44.475L40.1702 46.2004C37.7828 49.8496 33.9892 51.7658 28.319 51.7658C24.2123 51.7658 20.8886 50.7632 18.2135 48.8661C16.2868 47.465 14.8592 45.6326 13.9545 43.2943H52.9677L53.2532 41.5041C53.4604 40.2045 53.5658 38.9345 53.5658 37.681C53.5658 30.6488 51.1508 24.5616 46.2993 19.5359L46.2968 19.5333L46.2942 19.5306C41.3774 14.472 35.1856 11.832 27.5565 11.832ZM17.9203 26.5032L17.9305 26.4951L17.9405 26.4869C20.4036 24.4707 23.5503 23.4059 27.5565 23.4059C30.8728 23.4059 33.7116 24.3591 36.164 26.2578C37.986 27.6685 39.3427 29.626 40.1569 32.2437H13.868C14.6909 29.8914 16.0491 27.9986 17.9203 26.5032ZM241.925 62.295C247.451 62.295 252.602 60.7704 256.926 58.1448V62.0667H269.677L269.663 35.7899L269.663 35.7759C269.455 21.5013 257.117 9.99001 241.925 9.99001C226.604 9.99001 214.185 21.6993 214.185 36.1425C214.185 50.5858 226.604 62.295 241.925 62.295ZM226.919 36.1425C226.919 28.3286 233.638 21.9949 241.925 21.9949C250.101 21.9949 256.749 28.1591 256.926 35.827V36.5133C256.718 44.1553 250.081 50.2902 241.925 50.2902C233.638 50.2902 226.919 43.9564 226.919 36.1425Z"></path>
+							</svg>
+                    </a>
+					</p>
+					<style>
+						.footer__empat-copyright {
+							display: flex;
+							align-items: center;
+							margin-top: 15px;
+						}
+						
+						@media (max-width: 991px) {
+							.footer__empat-copyright {
+								justify-content: center;
+							}
+						}
+                    .empat-logo {
+                        fill: rgba(0,0,0, 0.5);
+                        stroke: #2f80ed;
+                        stroke-dasharray: 500;
+                        stroke-dashoffset: 500;
+                        transition: stroke-dashoffset 1.5s, fill 0.45s 0.25s;
+                        width: 85px !important;
+                        height: 20px !important;
+                        margin-left: 5px;
+                        vertical-align: bottom;
+                    }
+
+                    .empat-logo:hover {
+                        stroke-dashoffset: 0;
+                        fill: transparent;
+                    }
+                </style>
+                </div>
+                <div class="footer__wrapper footer__wrapper--seo">
+                    <div class="footer__seo">
+                        <a class="footer__seo-item" href="https://mil.in.ua/en/tag/defense-industry-of-ukraine/">Defense industry of Ukraine</a><a href="https://mil.in.ua/en/tag/ukraine-en/" class="footer__seo-item">Ukraine</a><a href="https://mil.in.ua/en/tag/war-with-russia/" class="footer__seo-item">War with Russia</a><a href="https://mil.in.ua/en/tag/world/" class="footer__seo-item">World</a><a href="https://mil.in.ua/en/tag/military-assistance/" class="footer__seo-item">Military assistance</a><a href="https://mil.in.ua/en/tag/europe/" class="footer__seo-item">Europe</a><a href="https://mil.in.ua/en/tag/occupants-elimination/" class="footer__seo-item">Occupants elimination</a><a href="https://mil.in.ua/en/tag/russia/" class="footer__seo-item">Russia</a><a href="https://mil.in.ua/en/tag/aviation/" class="footer__seo-item">Aviation</a><a href="https://mil.in.ua/en/tag/uav/" class="footer__seo-item">UAV</a><a href="https://mil.in.ua/en/tag/usa/" class="footer__seo-item">USA</a><a href="https://mil.in.ua/en/tag/artillery/" class="footer__seo-item">Artillery</a><a href="https://mil.in.ua/en/tag/armored-vehicles/" class="footer__seo-item">Armored vehicles</a><a href="https://mil.in.ua/en/tag/air-defense/" class="footer__seo-item">Air Defense</a><a href="https://mil.in.ua/en/tag/armed-forces-of-ukraine/" class="footer__seo-item">Armed Forces of Ukraine</a><a href="https://mil.in.ua/en/tag/neighbors/" class="footer__seo-item">Neighbors</a><a href="https://mil.in.ua/en/tag/germany/" class="footer__seo-item">Germany</a><a href="https://mil.in.ua/en/tag/ammunition/" class="footer__seo-item">Ammunition</a><a href="https://mil.in.ua/en/tag/tank-en/" class="footer__seo-item">Tank</a><a href="https://mil.in.ua/en/tag/war-in-donbas/" class="footer__seo-item">War in Donbas</a><a href="https://mil.in.ua/en/tag/volunteers/" class="footer__seo-item">Volunteers</a>                    </div>
+                    <div class="footer__info">
+                        <h5 style="padding-bottom: 15px;font-size: 12px;font-weight: 700;">Ukrainian Military Portal publications may be cited only under condition of source indication</h5>
+                        <ul>
+                            <li>Web resources are required to provide a direct hyperlink available for search engines for the original publication in the first paragraph</li>
+                            <li>Offline media should provide our website address</li>
+                        </ul>
+						<br>
+						<h5 style="font-size: 12px;font-weight: 700;">Materials of Militarnyi Special Project are published as advertising.</h5>
+                    </div>
+                </div>
+                <div class="footer__wrapper footer__wrapper--small footer__contacts">
+                    <h5 class="footer__contacts-title">Contacts</h5>
+                    <a href="tel:" class="footer__contacts-item"></a>
+                    <a href="/cdn-cgi/l/email-protection#046d6a626b44696d682a6d6a2a7165" class="footer__contacts-item"><span class="__cf_email__" data-cfemail="4a23242c250a272326642324643f2b">[email&#160;protected]</span></a>
+                    <div class="social social--footer">
+						                        <a target="_blank" rel="nofollow external noopener noreferrer" href="https://www.facebook.com/Militarnyi" class="social__link facebook"></a>                        <a target="_blank" rel="nofollow external noopener noreferrer" href="https://twitter.com/militarnyi_en" class="social__link twitter"></a>                        <a target="_blank" rel="nofollow external noopener noreferrer" href="https://www.youtube.com/@MilitarnyiEN" class="social__link youtube"></a>                        <a target="_blank" rel="nofollow external noopener noreferrer" href="https://www.instagram.com/mil.in.ua/" class="social__link insta"></a>                        <a target="_blank" rel="nofollow external noopener noreferrer" href="https://t.me/militarnyi_eng" class="social__link telegram"></a>                        						<a target="_blank" href="https://mil.in.ua/en/news/feed/" class="social__link rss"></a>
+                                                                    </div>
+                </div>
+            </div>
+        </footer>
+		
+		
+			
+			
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://mil.in.ua/wp-content/themes/military/js/main.min.js?0.0008"></script>
+        
+	  	<div id="fb-root"></div>
+		<script 
+			async defer crossorigin="anonymous" 
+			src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0&amp;appId=2587652138187218&autoLogAppEvents=1">
+		</script>
+
+	  	    <!-- Meta Pixel Event Code -->
+    <script type='text/javascript'>
+        document.addEventListener( 'wpcf7mailsent', function( event ) {
+        if( "fb_pxl_code" in event.detail.apiResponse){
+          eval(event.detail.apiResponse.fb_pxl_code);
+        }
+      }, false );
+    </script>
+    <!-- End Meta Pixel Event Code -->
+    <div id='fb-pxl-ajax-code'></div><script type="text/javascript">
+		/* MonsterInsights Scroll Tracking */
+		if ( typeof(jQuery) !== 'undefined' ) {
+		jQuery( document ).ready(function(){
+		function monsterinsights_scroll_tracking_load() {
+		if ( ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) || ( typeof(__gtagTracker) !== 'undefined' && __gtagTracker ) ) {
+		(function(factory) {
+		factory(jQuery);
+		}(function($) {
+
+		/* Scroll Depth */
+		"use strict";
+		var defaults = {
+		percentage: true
+		};
+
+		var $window = $(window),
+		cache = [],
+		scrollEventBound = false,
+		lastPixelDepth = 0;
+
+		/*
+		* Plugin
+		*/
+
+		$.scrollDepth = function(options) {
+
+		var startTime = +new Date();
+
+		options = $.extend({}, defaults, options);
+
+		/*
+		* Functions
+		*/
+
+		function sendEvent(action, label, scrollDistance, timing) {
+		if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+		return;
+		}
+			var paramName = action.toLowerCase();
+	var fieldsArray = {
+	send_to: 'G-NH1LWEGZ86',
+	non_interaction: true
+	};
+	fieldsArray[paramName] = label;
+
+	if (arguments.length > 3) {
+	fieldsArray.scroll_timing = timing
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	} else {
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	}
+			}
+
+		function calculateMarks(docHeight) {
+		return {
+		'25%' : parseInt(docHeight * 0.25, 10),
+		'50%' : parseInt(docHeight * 0.50, 10),
+		'75%' : parseInt(docHeight * 0.75, 10),
+		/* Cushion to trigger 100% event in iOS */
+		'100%': docHeight - 5
+		};
+		}
+
+		function checkMarks(marks, scrollDistance, timing) {
+		/* Check each active mark */
+		$.each(marks, function(key, val) {
+		if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+		sendEvent('Percentage', key, scrollDistance, timing);
+		cache.push(key);
+		}
+		});
+		}
+
+		function rounded(scrollDistance) {
+		/* Returns String */
+		return (Math.floor(scrollDistance/250) * 250).toString();
+		}
+
+		function init() {
+		bindScrollDepth();
+		}
+
+		/*
+		* Public Methods
+		*/
+
+		/* Reset Scroll Depth with the originally initialized options */
+		$.scrollDepth.reset = function() {
+		cache = [];
+		lastPixelDepth = 0;
+		$window.off('scroll.scrollDepth');
+		bindScrollDepth();
+		};
+
+		/* Add DOM elements to be tracked */
+		$.scrollDepth.addElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.merge(options.elements, elems);
+
+		/* If scroll event has been unbound from window, rebind */
+		if (!scrollEventBound) {
+		bindScrollDepth();
+		}
+
+		};
+
+		/* Remove DOM elements currently tracked */
+		$.scrollDepth.removeElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.each(elems, function(index, elem) {
+
+		var inElementsArray = $.inArray(elem, options.elements);
+		var inCacheArray = $.inArray(elem, cache);
+
+		if (inElementsArray != -1) {
+		options.elements.splice(inElementsArray, 1);
+		}
+
+		if (inCacheArray != -1) {
+		cache.splice(inCacheArray, 1);
+		}
+
+		});
+
+		};
+
+		/*
+		* Throttle function borrowed from:
+		* Underscore.js 1.5.2
+		* http://underscorejs.org
+		* (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+		* Underscore may be freely distributed under the MIT license.
+		*/
+
+		function throttle(func, wait) {
+		var context, args, result;
+		var timeout = null;
+		var previous = 0;
+		var later = function() {
+		previous = new Date;
+		timeout = null;
+		result = func.apply(context, args);
+		};
+		return function() {
+		var now = new Date;
+		if (!previous) previous = now;
+		var remaining = wait - (now - previous);
+		context = this;
+		args = arguments;
+		if (remaining <= 0) {
+		clearTimeout(timeout);
+		timeout = null;
+		previous = now;
+		result = func.apply(context, args);
+		} else if (!timeout) {
+		timeout = setTimeout(later, remaining);
+		}
+		return result;
+		};
+		}
+
+		/*
+		* Scroll Event
+		*/
+
+		function bindScrollDepth() {
+
+		scrollEventBound = true;
+
+		$window.on('scroll.scrollDepth', throttle(function() {
+		/*
+		* We calculate document and window height on each scroll event to
+		* account for dynamic DOM changes.
+		*/
+
+		var docHeight = $(document).height(),
+		winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+		scrollDistance = $window.scrollTop() + winHeight,
+
+		/* Recalculate percentage marks */
+		marks = calculateMarks(docHeight),
+
+		/* Timing */
+		timing = +new Date - startTime;
+
+		checkMarks(marks, scrollDistance, timing);
+		}, 500));
+
+		}
+
+		init();
+		};
+
+		/* UMD export */
+		return $.scrollDepth;
+
+		}));
+
+		jQuery.scrollDepth();
+		} else {
+		setTimeout(monsterinsights_scroll_tracking_load, 200);
+		}
+		}
+		monsterinsights_scroll_tracking_load();
+		});
+		}
+		/* End MonsterInsights Scroll Tracking */
+		
+</script><script type="text/javascript" src="https://mil.in.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/mil.in.ua\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mil.in.ua/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.4" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202421.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"166357110\",\"post\":\"251807\",\"tz\":\"3\",\"srv\":\"mil.in.ua\",\"j\":\"1:13.4.1\"}") ]);
+_stq.push([ "clickTrackerInit", "166357110", "251807" ]);
+/* ]]> */
+</script>
+<script type="text/javascript">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+
+</script>
+    </body>
+</html>

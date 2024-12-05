@@ -1,0 +1,1281 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+	
+<!-- OneTrust Cookies Consent Notice start for igamingbusiness.com -->
+		<script src="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="bdda07a2-303f-4039-833b-eb79469dce15"></script>
+		<script type="text/javascript">
+		function OptanonWrapper() { }
+		</script>
+		<!-- OneTrust Cookies Consent Notice end for igamingbusiness.com -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<script>document.documentElement.classList.remove( 'no-js' );</script>
+
+	<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M92QGPQ');</script><!-- End Google Tag Manager --><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>window.googletag = window.googletag || {cmd: []};</script><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.2.1 (Yoast SEO v20.2.1) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>GambleAware defends its position after "misleading claims"</title>
+	<meta name="description" content="GambleAware chief executive Zoë Osmond has defended the charity’s work following a complaint by the Good Law Project.">
+	<link rel="canonical" href="https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="GambleAware defends its position after &quot;misleading and outdated claims&quot;">
+	<meta property="og:description" content="GambleAware chief executive Zoë Osmond has defended the charity’s work following a complaint by the Good Law Project.">
+	<meta property="og:url" content="https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+	<meta property="og:site_name" content="iGB">
+	<meta property="article:publisher" content="https://www.facebook.com/iGamingBusinessMagazine">
+	<meta property="article:published_time" content="2024-05-20T15:03:15+00:00">
+	<meta property="article:modified_time" content="2024-05-21T07:12:40+00:00">
+	<meta property="og:image" content="https://igamingbusiness.com/wp-content/uploads/2020/10/london-eye-945497_1920.jpg">
+	<meta property="og:image:width" content="1300">
+	<meta property="og:image:height" content="731">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="Kyle Goldsmith">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@iGamingBusiness">
+	<meta name="twitter:site" content="@iGamingBusiness">
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Kyle Goldsmith">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="2 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/#article","isPartOf":{"@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/"},"author":{"name":"Kyle Goldsmith","@id":"https://igamingbusiness.com/#/schema/person/678b683afb578da4041340f25dbe59f4"},"headline":"GambleAware defends its position after &#8220;misleading and outdated claims&#8221;","datePublished":"2024-05-20T15:03:15+00:00","dateModified":"2024-05-21T07:12:40+00:00","mainEntityOfPage":{"@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/"},"wordCount":421,"publisher":{"@id":"https://igamingbusiness.com/#organization"},"image":{"@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/#primaryimage"},"thumbnailUrl":"https://igamingbusiness.com/img-srv/rn23xoJlStx7v_nwTYsIZihqWS9ff_ucHxo6ysBYrtQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp","keywords":["GambleAware"],"articleSection":["Sustainable Gambling"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/","url":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/","name":"GambleAware defends its position after \"misleading claims\"","isPartOf":{"@id":"https://igamingbusiness.com/#website"},"primaryImageOfPage":{"@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/#primaryimage"},"image":{"@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/#primaryimage"},"thumbnailUrl":"https://igamingbusiness.com/img-srv/rn23xoJlStx7v_nwTYsIZihqWS9ff_ucHxo6ysBYrtQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp","datePublished":"2024-05-20T15:03:15+00:00","dateModified":"2024-05-21T07:12:40+00:00","description":"GambleAware chief executive Zoë Osmond has defended the charity’s work following a complaint by the Good Law Project.","breadcrumb":{"@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/#primaryimage","url":"https://igamingbusiness.com/img-srv/rn23xoJlStx7v_nwTYsIZihqWS9ff_ucHxo6ysBYrtQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp","contentUrl":"https://igamingbusiness.com/img-srv/rn23xoJlStx7v_nwTYsIZihqWS9ff_ucHxo6ysBYrtQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp","width":1300,"height":731,"caption":"GambleAware"},{"@type":"BreadcrumbList","@id":"https://igamingbusiness.com/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://igamingbusiness.com/"},{"@type":"ListItem","position":2,"name":"Sustainable Gambling","item":"https://igamingbusiness.com/topic/sustainable-gambling/"},{"@type":"ListItem","position":3,"name":"GambleAware defends its position after &#8220;misleading and outdated claims&#8221;"}]},{"@type":"WebSite","@id":"https://igamingbusiness.com/#website","url":"https://igamingbusiness.com/","name":"iGB","description":"","publisher":{"@id":"https://igamingbusiness.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://igamingbusiness.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://igamingbusiness.com/#organization","name":"iGB","url":"https://igamingbusiness.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://igamingbusiness.com/#/schema/logo/image/","url":"https://igamingbusiness.com/img-srv/yy_2F8b1SINs6gnqe5iwKp2UmQVnKsjM3TTxPAlqS2o/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDgvbG9nby1ibGFjay5wbmc.webp","contentUrl":"https://igamingbusiness.com/img-srv/yy_2F8b1SINs6gnqe5iwKp2UmQVnKsjM3TTxPAlqS2o/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDgvbG9nby1ibGFjay5wbmc.webp","width":123,"height":57,"caption":"iGB"},"image":{"@id":"https://igamingbusiness.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/iGamingBusinessMagazine","https://twitter.com/iGamingBusiness","https://www.instagram.com/igamingbusiness/","https://www.linkedin.com/company/igaming-business","https://www.youtube.com/channel/UCAmygde8zUEz_OgLi09tCmQ"]},{"@type":"Person","@id":"https://igamingbusiness.com/#/schema/person/678b683afb578da4041340f25dbe59f4","name":"Kyle Goldsmith"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//s.w.org">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https://igamingbusiness.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="animate-css" href="https://igamingbusiness.com/wp-content/plugins/qi-blocks/assets/css/plugins/animate/animate.min.css?ver=4.1.1" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color),html :where([style*=border-width]){border-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}
+</style>
+<link rel="stylesheet" id="swiftype-facets-css" href="https://igamingbusiness.com/wp-content/plugins/qala-elastic-indexer/assets/facets.css?ver=1716477328" type="text/css" media="all">
+<link rel="stylesheet" id="qi-blocks-grid-css" href="https://igamingbusiness.com/wp-content/plugins/qi-blocks/assets/dist/grid.css?ver=1.2.7" type="text/css" media="all">
+<link rel="stylesheet" id="qi-blocks-main-css" href="https://igamingbusiness.com/wp-content/plugins/qi-blocks/assets/dist/main.css?ver=1.2.7" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://igamingbusiness.com/wp-includes/css/dashicons.min.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="to-top-css" href="https://igamingbusiness.com/wp-content/plugins/to-top/public/css/to-top-public.css?ver=2.5" type="text/css" media="all">
+<link rel="stylesheet" id="swiper-css-css" href="https://igamingbusiness.com/wp-content/themes/clariongaming/assets/css/swiper-bundle.min.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="megamenu-css" href="https://igamingbusiness.com/wp-content/uploads/maxmegamenu/style.css?ver=6248d4" type="text/css" media="all">
+<link rel="stylesheet" id="megamenu-genericons-css" href="https://igamingbusiness.com/wp-content/plugins/megamenu-pro/icons/genericons/genericons/genericons.css?ver=2.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="megamenu-fontawesome-css" href="https://igamingbusiness.com/wp-content/plugins/megamenu-pro/icons/fontawesome/css/font-awesome.min.css?ver=2.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="megamenu-fontawesome5-css" href="https://igamingbusiness.com/wp-content/plugins/megamenu-pro/icons/fontawesome5/css/all.min.css?ver=2.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="search-filter-plugin-styles-css" href="https://igamingbusiness.com/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.13" type="text/css" media="all">
+<link rel="stylesheet" id="wp-rig-global-css" href="https://igamingbusiness.com/wp-content/themes/clariongaming/dist/css/global.css?ver=1716477329" type="text/css" media="all">
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="qubely_local_script-js-extra">
+/* <![CDATA[ */
+var qubely_urls = {"plugin":"https://igamingbusiness.com\/wp-content\/plugins\/qubely\/","ajax":"https://igamingbusiness.com\/wp-admin\/admin-ajax.php","nonce":"0a7a8fc4ae","actual_url":"igamingbusiness.com"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="qubely_container_width-js-extra">
+/* <![CDATA[ */
+var qubely_container_width = {"sm":"540","md":"720","lg":"960","xl":"1140"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="to-top-js-extra">
+/* <![CDATA[ */
+var to_top_options = {"scroll_offset":"100","icon_opacity":"50","style":"icon","icon_type":"dashicons-arrow-up-alt2","icon_color":"#ffffff","icon_bg_color":"#009fe3","icon_size":"32","border_radius":"50","image":"https://igamingbusiness.com\/wp-content\/plugins\/to-top\/admin\/images\/default.png","image_width":"65","image_alt":"","location":"bottom-right","margin_x":"20","margin_y":"20","show_on_admin":"0","enable_autohide":"0","autohide_time":"2","enable_hide_small_device":"0","small_device_max_width":"640","reset":"0"};
+/* ]]> */
+</script>
+<script async type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/to-top/public/js/to-top-public.js?ver=2.5" id="to-top-js"></script>
+<script type="text/javascript" id="search-filter-plugin-build-js-extra">
+/* <![CDATA[ */
+var SF_LDATA = {"ajax_url":"https://igamingbusiness.com\/wp-admin\/admin-ajax.php","home_url":"https://igamingbusiness.com\/","extensions":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/search-filter-pro/public/assets/js/search-filter-build.min.js?ver=2.5.13" id="search-filter-plugin-build-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/search-filter-pro/public/assets/js/select2.min.js?ver=2.5.13" id="search-filter-plugin-select2-js"></script>
+<link rel="https://api.w.org/" href="https://igamingbusiness.com/wp-json/"><link rel="alternate" type="application/json" href="https://igamingbusiness.com/wp-json/wp/v2/posts/279574"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://igamingbusiness.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://igamingbusiness.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.3">
+<link rel="shortlink" href="https://igamingbusiness.com/?p=279574">
+<link rel="alternate" type="application/json+oembed" href="https://igamingbusiness.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figamingbusiness.com%2Fsustainable-gambling%2Fgambleaware-defends-treatment-misleading-claims%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://igamingbusiness.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figamingbusiness.com%2Fsustainable-gambling%2Fgambleaware-defends-treatment-misleading-claims%2F&amp;format=xml">
+<!-- Stream WordPress user activity plugin v3.9.0 -->
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<meta name="facebook-domain-verification" content="qola75hlhn4vw9r1ejx7a7eymzik8t">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://igamingbusiness.com/img-srv/XwxLwr8r4rcSpojAQyZLITK4xJAWPQmJ-EiFkXl5Uko/resizing_type:auto/width:32/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvY3JvcHBlZC1JR0ItQmxhY2tfNTEyeDUxMi0xLmpwZw.webp" sizes="32x32">
+<link rel="icon" href="https://igamingbusiness.com/img-srv/YdwpbHB8KhvQ9bPmpzlPGzYH8xA3BDgxIM2pGoj6mtc/resizing_type:auto/width:192/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvY3JvcHBlZC1JR0ItQmxhY2tfNTEyeDUxMi0xLmpwZw.webp" sizes="192x192">
+<link rel="apple-touch-icon" href="https://igamingbusiness.com/img-srv/KVDO2eXhA_kSxYEwXr713Ti3rzz1MJpLfURG--Q7y9A/resizing_type:auto/width:180/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvY3JvcHBlZC1JR0ItQmxhY2tfNTEyeDUxMi0xLmpwZw.webp">
+<meta name="msapplication-TileImage" content="https://igamingbusiness.com/img-srv/g2N1Nxcl-9UrsLvmoVjc6e5Ih3bx3hYZq2s9hTh2to4/resizing_type:auto/width:270/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvY3JvcHBlZC1JR0ItQmxhY2tfNTEyeDUxMi0xLmpwZw.webp">
+<style type="text/css"></style>		<style type="text/css" id="wp-custom-css">
+			/* Gravity Forms */
+
+.gform_wrapper .gf_left_half .ginput_complex .ginput_left,
+.gform_wrapper .gf_left_half .ginput_complex .ginput_right,
+.gform_wrapper .gf_right_half .ginput_complex .ginput_left,
+.gform_wrapper .gf_right_half .ginput_complex .ginput_right {
+	width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+/* Centers Events filter past webinars toggle – to be committed to codebase */
+.c-events-filters form > ul .sf-field-sort_order > ul {
+	justify-content: center;
+}
+		</style>
+		<!-- To Top Custom CSS --><style type="text/css">#to_top_scrollup {background-color: #009fe3;-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%;}</style><style type="text/css">/** Mega Menu CSS: fs **/</style>
+</head>
+
+<body class="post-template-default single single-post postid-279574 single-format-standard wp-embed-responsive  qubely qubely-frontend qi-blocks-premium-1.0.6 qi-blocks-1.2.7 qodef-gutenberg--no-touch mega-menu-primary t-single-post">
+	<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M92QGPQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627" /><fefuncg type="table" tablevalues="0 0.49803921568627" /><fefuncb type="table" tablevalues="0 0.49803921568627" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 0.27843137254902" /><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0" /><fefuncg type="table" tablevalues="0 0.64705882352941" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1" /><fefuncg type="table" tablevalues="0 0.94901960784314" /><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.44705882352941 0.4" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1" /><fefuncg type="table" tablevalues="0 0.66274509803922" /><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+	<div id="site-wrapper">
+
+		<header class="c-site-header" id="header">
+			<div class="c-site-header__primary">
+				<div class="o-container">
+
+					<div class="c-site-header__actions">
+						<form class="c-site-header__search" action="https://igamingbusiness.com/">
+							<input type="hidden" name="s" value="">
+							<label class="screen-reader-text" for="site_search">Search the site</label>
+																	<div class="wp-block-qala-elastic-search-qala-elastic-search qala-elastic-search" data-options="{&quot;filters&quot;:{&quot;all&quot;:[{&quot;blog_id&quot;:&quot;1&quot;}]},&quot;sort&quot;:{&quot;date&quot;:&quot;desc&quot;}}" data-template="qala-elastic-search-results-qala" id="qala-elastic-search-">
+		<div id="qala-elastic-search-box-container" class="qala-elastic-search-box-container">
+	<div class="switch qala-elastic-search-icon">
+		<img src="https://igamingbusiness.com/wp-content/plugins/qala-elastic-search/assets/svg/search.svg">
+		<img src="https://igamingbusiness.com/wp-content/plugins/qala-elastic-search/assets/svg/cross.svg" id="qala-elastic-search-clear-search-btn">
+	</div>
+	<div class="qala-elastic-search-input-container">
+		<input type="text" id="qala-elastic-search-box" placeholder="What are you looking for?">
+	</div>
+	<div class="switch qala-elastic-search-button">
+		<img src="https://igamingbusiness.com/wp-content/plugins/qala-elastic-search/assets/svg/microphone.svg" class="voice-search-button">
+		<img src="https://igamingbusiness.com/wp-content/plugins/qala-elastic-search/assets/svg/right-arrow.svg" id="qala-elastic-search-search-btn">
+	</div>
+</div>
+		</div>
+		
+<script type="text/html" id="tmpl-qala-elastic-search-results-qala">
+	<# data.results.forEach( result => { #>
+	<a class="resultsContainer" href="{{{result.url}}}" >
+		<div><img src="{{{result.image}}}"/></div>
+		<div>{{{result.title}}}</div>
+		<div>{{result.object_type_label}}</div>
+	</a>
+	<# } ); #>
+	<div class="allResultsButton" onclick="jQuery('#qala-elastic-search-search-btn').click();">
+		<div role="button" class="button">
+			<span>View all results</span>
+			<img class="search-icon" src="https://igamingbusiness.com/wp-content/plugins/qala-elastic-search/assets/svg/right-arrow.svg" />
+		</div>
+	</div>
+</script>
+													</form>
+					</div>
+
+					
+<a class="o-logo o-logo-link c-site-header__logo" href="https://igamingbusiness.com/">
+	<img class="o-logo-image" src="https://igamingbusiness.com/img-srv/Lt8j8GWA3X-9cebLnuOMlyXkLFfP6k1Gac5VpvIVzCM/resizing_type:auto/width:300/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvaUdCLUJsYWNrLWNyb3BwZWQucG5n.webp" alt="Home page">
+</a>
+
+					<nav class="c-site-header__header-top-menu"><ul id="menu-header-top" class="c-navigation c-navigation--header-top"><li id="menu-item-34939" class="c-navigation__link--cta menu-item menu-item-type-post_type menu-item-object-page menu-item-34939"><a href="https://igamingbusiness.com/newsletter/">Newsletter sign up</a></li>
+</ul></nav>					
+<div class="c-social-menu c-site-footer__top-branding-item">
+	<ul class="c-social-menu__list">
+
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--linkedin" target="_blank" href="https://www.linkedin.com/company/igaming-business">
+					<span class="screen-reader-text">LinkedIn</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--facebook" target="_blank" href="https://www.facebook.com/iGamingBusinessMagazine">
+					<span class="screen-reader-text">Facebook</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--twitter" target="_blank" href="https://twitter.com/iGamingBusiness">
+					<span class="screen-reader-text">Twitter</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--instagram" target="_blank" href="https://www.instagram.com/igamingbusiness/?hl=en">
+					<span class="screen-reader-text">Instagram</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--youtube" target="_blank" href="https://www.youtube.com/channel/UCAmygde8zUEz_OgLi09tCmQ">
+					<span class="screen-reader-text">YouTube</span>
+				</a>
+			</li>
+		
+	</ul><!-- .c-social-menu__list -->
+</div><!-- .c-social-menu -->
+				</div>
+			</div>
+
+			<div class="o-container">
+				<div class="c-site-header__secondary">
+					<div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class="mega-toggle-block mega-menu-toggle-block mega-toggle-block-1" id="mega-toggle-block-1" tabindex="0"><span class="mega-toggle-label" role="button" aria-expanded="false"><span class="mega-toggle-label-closed">MENU</span><span class="mega-toggle-label-open">MENU</span></span></div></div></div><ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="click" data-effect="disabled" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="600" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-150486" id="mega-menu-item-150486"><a class="mega-menu-link" href="https://igamingbusiness.com/" tabindex="0">Home</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-disable-link mega-menu-item-33068" id="mega-menu-item-33068"><a class="mega-menu-link" tabindex="0" aria-haspopup="true" aria-expanded="false" role="button">News &amp; Content<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-row" id="mega-menu-33068-0">
+	<ul class="mega-sub-menu">
+<li class="mega-menu-column mega-menu-columns-2-of-10" id="mega-menu-33068-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_nav_menu mega-menu-item-nav_menu-8" id="mega-menu-item-nav_menu-8"><h4 class="mega-block-title">Topic</h4><div class="menu-megamenu-news-topic-container"><ul id="menu-megamenu-news-topic" class="menu"><li id="menu-item-33076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33076"><a href="https://igamingbusiness.com/topic/casino-games/">Casino &amp; games</a></li>
+<li id="menu-item-33077" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33077"><a href="https://igamingbusiness.com/topic/esports/">Esports</a></li>
+<li id="menu-item-33078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33078"><a href="https://igamingbusiness.com/topic/finance/">Finance</a></li>
+<li id="menu-item-33079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33079"><a href="https://igamingbusiness.com/topic/legal-compliance/">Legal &amp; compliance</a></li>
+<li id="menu-item-33080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33080"><a href="https://igamingbusiness.com/topic/lottery/">Lottery</a></li>
+<li id="menu-item-33081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33081"><a href="https://igamingbusiness.com/topic/marketing-affiliates/">Marketing &amp; affiliates</a></li>
+<li id="menu-item-33082" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33082"><a href="https://igamingbusiness.com/topic/people/">People</a></li>
+<li id="menu-item-33072" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-33072"><a href="https://igamingbusiness.com/topic/sustainable-gambling/">Sustainable Gambling</a></li>
+<li id="menu-item-33073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33073"><a href="https://igamingbusiness.com/topic/sports-betting/">Sports betting</a></li>
+<li id="menu-item-33074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33074"><a href="https://igamingbusiness.com/topic/strategy/">Strategy</a></li>
+<li id="menu-item-33075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33075"><a href="https://igamingbusiness.com/topic/tech-innovation/">Tech &amp; innovation</a></li>
+</ul></div></li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-10" id="mega-menu-33068-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_nav_menu mega-menu-item-nav_menu-9" id="mega-menu-item-nav_menu-9"><h4 class="mega-block-title">Region</h4><div class="menu-megamenu-news-region-container"><ul id="menu-megamenu-news-region" class="menu"><li id="menu-item-33096" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33096"><a href="https://igamingbusiness.com/region/africa/">Africa</a></li>
+<li id="menu-item-33097" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33097"><a href="https://igamingbusiness.com/region/asia/">Asia</a></li>
+<li id="menu-item-33098" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33098"><a href="https://igamingbusiness.com/region/canada/">Canada</a></li>
+<li id="menu-item-33099" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33099"><a href="https://igamingbusiness.com/region/china/">China</a></li>
+<li id="menu-item-33100" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33100"><a href="https://igamingbusiness.com/region/europe/">Europe</a></li>
+<li id="menu-item-33101" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33101"><a href="https://igamingbusiness.com/region/latam/">LATAM</a></li>
+<li id="menu-item-33102" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33102"><a href="https://igamingbusiness.com/region/oceania/">Oceania</a></li>
+<li id="menu-item-33103" class="menu-item menu-item-type-taxonomy menu-item-object-region current-post-ancestor current-menu-parent current-post-parent menu-item-33103"><a href="https://igamingbusiness.com/region/uk-ireland/">UK &amp; Ireland</a></li>
+<li id="menu-item-33104" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-33104"><a href="https://igamingbusiness.com/region/us/">US</a></li>
+</ul></div></li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-10" id="mega-menu-33068-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_nav_menu mega-menu-item-nav_menu-11" id="mega-menu-item-nav_menu-11"><h4 class="mega-block-title">In-depth</h4><div class="menu-megamenu-news-in-depth-container"><ul id="menu-megamenu-news-in-depth" class="menu"><li id="menu-item-33085" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-33085"><a href="https://igamingbusiness.com/content-type/analysis/">Analysis</a></li>
+<li id="menu-item-168311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168311"><a href="https://igamingbusiness.com/data/">Data</a></li>
+<li id="menu-item-147857" class="menu-item menu-item-type-post_type_archive menu-item-object-brand_view menu-item-147857"><a href="https://igamingbusiness.com/brand-views/">Brand Views</a></li>
+<li id="menu-item-36316" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-36316"><a href="https://igamingbusiness.com/content-type/reports/">Reports</a></li>
+<li id="menu-item-42381" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-42381"><a href="https://igamingbusiness.com/content-type/interviews/">Interviews</a></li>
+<li id="menu-item-33084" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-33084"><a href="https://igamingbusiness.com/content-type/in-depth/">See all</a></li>
+</ul></div></li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-10" id="mega-menu-33068-0-3">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_nav_menu mega-menu-item-nav_menu-14" id="mega-menu-item-nav_menu-14"><h4 class="mega-block-title">Data dashboards</h4><div class="menu-megamenu-news-data-dashboards-container"><ul id="menu-megamenu-news-data-dashboards" class="menu"><li id="menu-item-155358" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155358"><a href="https://igamingbusiness.com/sports-betting/us-sports-betting-dashboard/">The US sports betting dashboard</a></li>
+<li id="menu-item-155361" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155361"><a href="https://igamingbusiness.com/esports/esports-betting-calendar/">Esports Betting Calendar</a></li>
+<li id="menu-item-155364" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155364"><a href="https://igamingbusiness.com/gaming/gaming-regulation/introducing-the-european-regulatory-dashboard/">The European Regulatory dashboard</a></li>
+</ul></div></li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-10" id="mega-menu-33068-0-4">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_nav_menu mega-menu-item-nav_menu-13" id="mega-menu-item-nav_menu-13"><h4 class="mega-block-title">More from IGB</h4><div class="menu-megamenu-news-more-from-igb-container"><ul id="menu-megamenu-news-more-from-igb" class="menu"><li id="menu-item-189630" class="menu-item menu-item-type-post_type_archive menu-item-object-event menu-item-189630"><a href="https://igamingbusiness.com/events/">Upcoming events</a></li>
+<li id="menu-item-34756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34756"><a href="https://igamingbusiness.com/apps/">Apps</a></li>
+<li id="menu-item-33089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33089"><a href="https://igamingbusiness.com/newsletter/">Newsletters</a></li>
+<li id="menu-item-42392" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-42392"><a href="https://igamingbusiness.com/content-type/slots-news/">Slots news</a></li>
+<li id="menu-item-42393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42393"><a href="/company-news/">Company news</a></li>
+</ul></div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-155372" id="mega-menu-item-155372"><a class="mega-menu-link" href="https://igamingbusiness.com/data/" tabindex="0">Data</a></li><li class="mega-is-company-hub-page mega-menu-item mega-menu-item-type-post_type_archive mega-menu-item-object-company mega-align-bottom-left mega-menu-flyout mega-menu-item-33065 is-company-hub-page" id="mega-menu-item-33065"><a class="mega-menu-link" href="https://igamingbusiness.com/directory/" tabindex="0">Directory</a></li><li class="mega-menu-item mega-menu-item-type-post_type_archive mega-menu-item-object-webinar mega-align-bottom-left mega-menu-flyout mega-menu-item-147862" id="mega-menu-item-147862"><a class="mega-menu-link" href="https://igamingbusiness.com/webinars/" tabindex="0">Webinars</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-40048" id="mega-menu-item-40048"><a class="mega-menu-link" href="https://igamingbusiness.com/on-demand-library/" aria-haspopup="true" aria-expanded="false" tabindex="0">On Demand<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-content_type mega-menu-item-76713" id="mega-menu-item-76713"><a class="mega-menu-link" href="https://igamingbusiness.com/content-type/videos/">Videos</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-147859" id="mega-menu-item-147859"><a class="mega-menu-link" href="https://igamingbusiness.com/on-demand-webinars/">Webinars</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-content_type mega-menu-item-76710" id="mega-menu-item-76710"><a class="mega-menu-link" href="https://igamingbusiness.com/content-type/podcasts/">Podcasts</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-76719" id="mega-menu-item-76719"><a class="mega-menu-link" href="https://igamingbusiness.com/on-demand-library/">See all</a></li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type_archive mega-menu-item-object-publication mega-align-bottom-left mega-menu-flyout mega-menu-item-88770" id="mega-menu-item-88770"><a class="mega-menu-link" href="https://igamingbusiness.com/publications/" tabindex="0">Publications</a></li><li class="mega-is-jobs-hub-page mega-menu-item mega-menu-item-type-post_type_archive mega-menu-item-object-job mega-align-bottom-left mega-menu-flyout mega-menu-item-33067 is-jobs-hub-page" id="mega-menu-item-33067"><a class="mega-menu-link" href="https://igamingbusiness.com/jobs/" tabindex="0">Jobs</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-36320" id="mega-menu-item-36320"><a class="mega-menu-link" href="https://igamingbusiness.com/contact/" tabindex="0">Contact us</a></li><li class="mega-mobile-search mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-138252 mobile-search" id="mega-menu-item-138252"><div class="mega-search-wrap mega-static"><form class="mega-search mega-search-open" role="search" action="https://igamingbusiness.com/">
+						<span class="dashicons dashicons-search search-icon"></span>
+						<input type="submit" value="Search">
+						<input type="text" aria-label="Search..." data-placeholder="Search..." placeholder="Search..." name="s">
+						
+					</form></div></li></ul></div>				</div>
+			</div>
+		</header>
+
+		<main id="main">
+
+						
+<div class="c-full-ad-slot-wrapper-outer ads-3">
+	<div class="c-full-ad-slot-wrapper-inner o-container">
+		<div class="c-full-ad-slot ad-1">
+			
+
+	
+			<div id="div-gpt-ad-140749830266365706-0" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_Buttons" style="max-width: 248px; max-height: 90px; min-width: 248px; min-height: 90px;" data-slot-id="/1028495/iGB_Buttons" data-sizes="[[248,90]]" data-ad-id="div-gpt-ad-140749830266365706-0" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_Buttons',
+							[[248,90]],
+							'div-gpt-ad-140749830266365706-0'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-140749830266365706-0' );
+						});
+					});
+				</script>
+					</div>
+	
+			</div>
+		<div class="c-full-ad-slot ad-2">
+			
+
+	
+			<div id="div-gpt-ad-7174930570884558710-1" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_Leaderboard1" style="max-width: 728px; max-height: 100px; min-width: 320px; min-height: 50px;" data-slot-id="/1028495/iGB_Leaderboard1" data-sizes="[[320,50],[320,100],[728,90]]" data-ad-id="div-gpt-ad-7174930570884558710-1" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_Leaderboard1',
+							[[320,50],[320,100],[728,90]],
+							'div-gpt-ad-7174930570884558710-1'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-7174930570884558710-1' );
+						});
+					});
+				</script>
+					</div>
+	
+			</div>
+		<div class="c-full-ad-slot ad-3">
+			
+
+	
+			<div id="div-gpt-ad-2323659167712512958-2" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_ButtonRight" style="max-width: 248px; max-height: 90px; min-width: 248px; min-height: 90px;" data-slot-id="/1028495/iGB_ButtonRight" data-sizes="[[248,90]]" data-ad-id="div-gpt-ad-2323659167712512958-2" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_ButtonRight',
+							[[248,90]],
+							'div-gpt-ad-2323659167712512958-2'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-2323659167712512958-2' );
+						});
+					});
+				</script>
+					</div>
+	
+			</div>
+	</div>
+</div>
+
+<section class="o-single-template o-container c-single-post">
+	<article class="o-single-template__content">
+		<header class="c-single-post-header ">
+		<div class="c-share-buttons addthis_inline_share_toolbox"></div>
+
+			<p class="c-breadcrumbs"><span><span><a href="https://igamingbusiness.com/">Home</a></span> &gt; <span><a href="https://igamingbusiness.com/topic/sustainable-gambling/">Sustainable Gambling</a></span> &gt; <span class="breadcrumb_last" aria-current="page"><strong>GambleAware defends its position after “misleading and outdated claims”</strong></span></span></p>
+			<h1 class="c-single-post-title">GambleAware defends its position after “misleading and outdated claims”</h1>
+			<div class="c-single-post-subtitle">
+				
+<time datetime="2024-05-20">20th May 2024</time>
+ | By Kyle Goldsmith
+			</div>
+
+			
+		</header>
+
+		<div class="c-single-post-excerpt"><strong>GambleAware chief executive Zoë Osmond has defended the charity’s work following a complaint by the Good Law Project.</strong></div><picture><source height="731" width="1300" sizes="(max-width: 1300px) 100vw, 1300px" srcset="https://igamingbusiness.com/img-srv/JfzFd9W4zBR8ncV1HGRQr8D0cXaT17Ym36cieE9RoGs/resizing_type:auto/width:130/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 130w, https://igamingbusiness.com/img-srv/tF0MK92x00UkynlybkZv9QOausIGPl4yXj4CSzVKeic/resizing_type:auto/width:260/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 260w, https://igamingbusiness.com/img-srv/uKBYRerNDaWJv15t_oo-_RsP9_BKjTr3LsRdtXr8HXo/resizing_type:auto/width:390/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 390w, https://igamingbusiness.com/img-srv/U86BRWf8Kpvo5bx3Q5kMSYVir_rb51OXOjw6aQhmmUg/resizing_type:auto/width:520/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 520w, https://igamingbusiness.com/img-srv/oZwlBzhjgDEDGdQc_cUdTz94C6YTAaj1HxF4yV1FYKg/resizing_type:auto/width:650/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 650w, https://igamingbusiness.com/img-srv/jDegV5TzY9RZ6Hg6yJUYuNvI15Hjb158Wa_HCIWYMng/resizing_type:auto/width:780/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 780w, https://igamingbusiness.com/img-srv/mJvvOjOX-o1V9yXevrLtg7ftysAMb3eG31VNjD6cRaA/resizing_type:auto/width:910/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 910w, https://igamingbusiness.com/img-srv/d9l2gPRvHtxXV5iWG7SST2v9AvTip9hrBiWzoUnT3bg/resizing_type:auto/width:1040/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1040w, https://igamingbusiness.com/img-srv/jfkGFnDi-mRcud30kLCLLHf5eHO7AHQ1u7cerOPWhsE/resizing_type:auto/width:1170/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1170w, https://igamingbusiness.com/img-srv/7cATeN7WDkcBUuIsorgCtsjvT9gwRopMge1DlYcq2as/resizing_type:auto/width:1300/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1300w, https://igamingbusiness.com/img-srv/9O-mVUymFVV1XwQv1YYa5c8dNbAghp0QluhheVovjhM/resizing_type:auto/width:1430/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1430w, https://igamingbusiness.com/img-srv/DAdfwt4JujOykUsrQxpueL6VdkTMRZrcFrPTDPVl-hs/resizing_type:auto/width:1560/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1560w, https://igamingbusiness.com/img-srv/qUwxxtkkI6j3lwVcd-1Tg-qm9t_QnLGyP8-hG_lqEN0/resizing_type:auto/width:1690/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1690w, https://igamingbusiness.com/img-srv/dQjtYQ4QPp8eRP3aH9M-RxnL-KBC_Ddixxxrzk9-SQs/resizing_type:auto/width:1820/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1820w, https://igamingbusiness.com/img-srv/LuXCgn8qMSy6Vt-XlusAyQ7mjhuxK74ZYSdbuxvjM8I/resizing_type:auto/width:1950/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1950w, https://igamingbusiness.com/img-srv/aAqVCJRI8B7gKGW-40XCySWqjB9FG_P6QipuLr2aqrM/resizing_type:auto/width:2080/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2080w, https://igamingbusiness.com/img-srv/qEshQu-UJxin9JiECWiR4bqXwUyHbS7CzSzUcTu-f4E/resizing_type:auto/width:2210/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2210w, https://igamingbusiness.com/img-srv/G6k471GbDCQbtmZ202hixOWlsVWP6yY3A7tAr2aggAg/resizing_type:auto/width:2340/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2340w, https://igamingbusiness.com/img-srv/WsOYcp2AF8Q-4t3eWxuBsBcosrneAacnk6VVHz1APyI/resizing_type:auto/width:2470/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2470w, https://igamingbusiness.com/img-srv/ZT5YJilT-AjTK6iXIVV39hHLjHMlgfsPtxmjPK3xEik/resizing_type:auto/width:2600/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2600w, https://igamingbusiness.com/img-srv/Yqozn1yYO9QWpYSxl2OKrySUnKslnbxzQpZ5-o559Uc/resizing_type:auto/width:2730/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2730w, https://igamingbusiness.com/img-srv/1e0fsPQ-SsSCrtp9K4orkmkPrV_v9rt2UyyCv4-OVuo/resizing_type:auto/width:2860/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2860w, https://igamingbusiness.com/img-srv/1gxVSifWq9rt-ObBLLiSUHToOYOLeYgv6J-eGNeVyD4/resizing_type:auto/width:2990/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 2990w, https://igamingbusiness.com/img-srv/xes6w45dVfbFTBJm0lrx0h6lqy_gVHCn8DAB1NfPpvA/resizing_type:auto/width:3120/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 3120w, https://igamingbusiness.com/img-srv/mdt5NWMG8PmE8sGawkxnJW74F6weBTCe4I8PmOmvhYE/resizing_type:auto/width:3250/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 3250w, https://igamingbusiness.com/img-srv/9ONlWgBLQd9j9gHwOk_yJ4kGWgpb_YtMgnPH3Xa6kLU/resizing_type:auto/width:3380/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 3380w, https://igamingbusiness.com/img-srv/b50XclANVUv43CL7a4oKjuz_JqjWd2QbBQyUVHQAj4Q/resizing_type:auto/width:3510/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 3510w, https://igamingbusiness.com/img-srv/SvFwYzObhXU3nLrjRmDqCrS9ztBYwgpzRrRUwuXZPX0/resizing_type:auto/width:3640/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 3640w, https://igamingbusiness.com/img-srv/WmSAKyCPi-K5QqbWY4-AZ-6-09-gvQBUtk_OSuihnkw/resizing_type:auto/width:3770/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 3770w" type="image/webp"><source height="731" width="1300" sizes="(max-width: 1300px) 100vw, 1300px" srcset="https://igamingbusiness.com/img-srv/rn23xoJlStx7v_nwTYsIZihqWS9ff_ucHxo6ysBYrtQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1300w" type="image/webp"><img src="https://igamingbusiness.com/img-srv/rn23xoJlStx7v_nwTYsIZihqWS9ff_ucHxo6ysBYrtQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp" class="c-single-post-featured-image wp-post-image" alt="GambleAware" loading="eager" data-blur-hash="LEB3{ws4rrt91-V_S%WA00RjxvWA" style="background-size: cover; background-origin: content-box; background-repeat: no-repeat; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAIAAAC1qksFAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACgElEQVQ4jVWU4a7lRAyDP2em566ABYk/+wiIF+V9QauF5TY2P9Kec6nS0WjUxI6dqfT7H8yTkGDjezMnAUCiRBWrWOten1Gsou6YjxFi8xBAniECvjfRBT85mkK6K4ol1mA/AwSTJzY/reFPAiEiIb5LX/yRkKhCRS3qw6q6zqV7nRRA+8svaxh38i/5O/ETbKpLwJU55VSvzQSFPtD+8Ozfft5DciR3YtLEYLAIytBXSUuvtaT/K3JblpBk2t9fPu/bgsvTJIYoQRGgqKSiSloXDENcUDyLmiS+XpIE9q8/rjxNmPPZD6dL1pq6zybQYrhHgalo205sB98Y+/OnglwY0dWEFEDK2FtXUWlJi+kAZeiHJHZs0rZl2x6+2T8cI1Z4qXT7KyJmKiQhqUqjjEoo0ZVjBsCKO1Ysx068H9W85vTW5wJQVFwYUUUyqjGej9ZNfU201aEjJ9k77/e03z5dWQoiFRVlYZxbswVRCnRPXhTLXW7ntDvpkWmrv49Cue/xzU1ctAutaKvOaEuNFlwmJ+DgYKs73epTbrprJPL3by99cjXhELAUBmBTC21pzyotKEVDKTM33XG7ezZxk+z+5yskIcTx864ZjExFK1poo0Pa1Ja22FIpNVeUBIep240HwCT7/dtfo09iE8eOezghU9aKdi6AgzqkXdr3T06akbBlp4174gI4v/4ZCHMB3e4B6KQjU80APNBBPaRDdUhHaYk1/zYFObIHBjf2TMx0MLPQtttnp9s+nQ6darb1iB7Rm+pBvdUFsEu7VONSJYOhPGEM40GSxOn22T7b72efbZ/h9GoO82Z9oibOqreqs+pYA0AtZh5ScxNiHMUk/wEoZY0gpzr7VAAAAABJRU5ErkJggg==);" width="1300" height="731" srcset="https://igamingbusiness.com/img-srv/rn23xoJlStx7v_nwTYsIZihqWS9ff_ucHxo6ysBYrtQ/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvbG9uZG9uLWV5ZS05NDU0OTdfMTkyMC5qcGc.webp 1300w" sizes="(max-width: 1300px) 100vw, 1300px">
+
+</picture>
+		<div id="post-279574" class="u-user-content post-279574 post type-post status-publish format-standard has-post-thumbnail hentry category-sustainable-gambling tag-gambleaware content_type-news region-uk-ireland">
+			
+<p>In March, the <a href="https://igamingbusiness.com/sustainable-gambling/gambleaware-good-law-project/" target="_blank" rel="noreferrer noopener">Good Law Project submitted a complaint</a> to the Charity Commission over how GambleAware spreads information. The Good Law Project accuses GambleAware trustees of not meeting the charity’s objectives to offer adequate gambling harm education.</p>
+
+
+
+<p>The complaint asserted that GambleAware’s poor performance was down to its connections with the industry and its “reliance on industry funding”.</p>
+<div style="clear:both">
+
+	
+			<div id="div-gpt-ad-3364808474564373114-3" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_inArticle_video" style="max-width: 675px; max-height: 480px; min-width: 320px; min-height: px;" data-slot-id="/1028495/iGB_inArticle_video" data-sizes="[[320,240],[320,180],[426,240],[640,360],[640,480],[675]]" data-ad-id="div-gpt-ad-3364808474564373114-3" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_inArticle_video',
+							[[320,240],[320,180],[426,240],[640,360],[640,480],[675]],
+							'div-gpt-ad-3364808474564373114-3'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-3364808474564373114-3' );
+						});
+					});
+				</script>
+					</div>
+	
+	</div>
+
+
+<p>At the time, Osmond responded in a <a href="https://igamingbusiness.com/sustainable-gambling/gambleaware-good-law-project/" target="_blank" rel="noreferrer noopener">statement issued to iGB</a> stressing GambleAware was “robustly independent” from the industry.</p>
+
+
+
+<p>Now, Osmond has again defended GambleAware and is confident the complaint will not be upheld. It is understood that the Commission’s assessment of whether it needs to intervene is still ongoing.</p>
+
+
+
+<p>Osmond said: “Our robust governance and commissioning practices ensure that the industry has no influence over our operations. GambleAware’s independence has been widely recognised by a range of stakeholders including the government, as evidenced in the gambling white paper.</p>
+
+
+
+<p>“The complaint lodged to the Charity Commission by the Good Law Project is based on misleading and outdated information. While we are confident that this complaint will not be upheld, we are deeply concerned that inaccurate headlines and misleading newspaper articles may have a damaging impact on our services and the people that rely on them.”</p>
+
+
+
+<h2><strong>GambleAware concerned over effects of complaint on vulnerable players</strong></h2>
+
+
+
+<p>While GambleAware has accused the Good Law Project of basing its complaint on inaccurate information, the charity is also apprehensive over the impacts of such claims on at-risk players who may need its services.</p>
+
+
+
+<p>“The deeply stigmatised nature of gambling harms often makes it difficult for individuals to reach out for help,” Osmond continued. “Maintaining the credibility and reputation of essential support services is crucial to reaching people before their gambling issues become catastrophic.</p>
+
+
+
+<p>“Undermining these services, and the dedicated workers and experts who operate them, risks not only those directly relying on them but also the many indirectly affected by a loved one’s gambling problems.”</p>
+
+
+
+<h2 id="h-gambleaware-defends-effectiveness-of-its-treatment"><strong>GambleAware defends effectiveness of its treatment</strong></h2>
+
+
+
+<p>GambleAware pointed to the annual National Gambling Support Network statistics to defend its work. The data showed that nine out of 10 vulnerable players who complete their treatment see an “improvement in their condition”.</p>
+
+
+
+<p>For those who don’t see their condition improve, 69% of the time it is because they did not complete their treatment.</p>
+
+
+
+<p>Additionally, GambleAware pointed to the reach of its website, which has 6.5 million visits a year, as well as its national stigma public health campaign, which reached over 95% of the population.</p>
+		</div><!-- #post-279574 -->
+
+		<footer class="c-single-post-footer">
+			
+
+	
+			<div id="div-gpt-ad-924188596008062036-4" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_inArticle_Smallleaderboard" style="max-width: 675px; max-height: 100px; min-width: 320px; min-height: 50px;" data-slot-id="/1028495/iGB_inArticle_Smallleaderboard" data-sizes="[[675,80],[320,50],[320,100]]" data-ad-id="div-gpt-ad-924188596008062036-4" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_inArticle_Smallleaderboard',
+							[[675,80],[320,50],[320,100]],
+							'div-gpt-ad-924188596008062036-4'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-924188596008062036-4' );
+						});
+					});
+				</script>
+					</div>
+	
+	
+<div class="c-single-post-terms">
+
+	
+			<ul class="c-single-post-terms__list">
+
+			<li class="c-single-post-terms__term">Topics:</li>
+
+							<li class="c-single-post-terms__term"><a href="https://igamingbusiness.com/topic/sustainable-gambling/">Sustainable Gambling</a></li>
+					</ul>
+			<ul class="c-single-post-terms__list">
+
+			<li class="c-single-post-terms__term">Tags:</li>
+
+							<li class="c-single-post-terms__term"><a href="https://igamingbusiness.com/tag/gambleaware/">GambleAware</a></li>
+					</ul>
+			<ul class="c-single-post-terms__list">
+
+			<li class="c-single-post-terms__term">Regions:</li>
+
+							<li class="c-single-post-terms__term"><a href="https://igamingbusiness.com/region/uk-ireland/">UK &amp; Ireland</a></li>
+					</ul>
+	
+</div>
+
+
+<div class="c-single-post-newsletter">
+	<h3 class="c-single-post-newsletter__title">Subscribe to the iGaming newsletter</h3> 	
+<form action="https://igamingbusiness.com/newsletter/" method="GET" class="c-newsletter-form" id="c-newsletter-form664fc9a54df84">
+	<label class="screen-reader-text" for="email-c-newsletter-form664fc9a54df84">Email Address</label>
+
+			<input class="c-newsletter-form__input " type="email" name="igb_email" id="email-c-newsletter-form664fc9a54df84" placeholder="Your email address" required>
+	
+	<input class="c-newsletter-form__button" type="submit" value="Subscribe">
+</form>
+</div>
+		</footer>
+	</article>
+
+	<aside class="o-single-template__sidebar c-sticky-sidebar">
+		<div class="c-sticky-sidebar__item">
+			<div class="c-sticky-sidebar__item-inner">
+				
+
+	
+			<div id="div-gpt-ad-7214488692890003281-5" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_Article_Skyscraper" style="max-width: 300px; max-height: 600px; min-width: 300px; min-height: 250px;" data-slot-id="/1028495/iGB_Article_Skyscraper" data-sizes="[[300,600],[300,250]]" data-ad-id="div-gpt-ad-7214488692890003281-5" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_Article_Skyscraper',
+							[[300,600],[300,250]],
+							'div-gpt-ad-7214488692890003281-5'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-7214488692890003281-5' );
+						});
+					});
+				</script>
+					</div>
+	
+				</div>
+		</div>
+
+					<div class="c-sticky-sidebar__item">
+				<div class="c-sticky-sidebar__item-inner">
+					
+
+	
+			<div id="div-gpt-ad-1394659321591070182-6" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_MPU1" style="max-width: 300px; max-height: 250px; min-width: 300px; min-height: 250px;" data-slot-id="/1028495/iGB_MPU1" data-sizes="[[300,250]]" data-ad-id="div-gpt-ad-1394659321591070182-6" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_MPU1',
+							[[300,250]],
+							'div-gpt-ad-1394659321591070182-6'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-1394659321591070182-6' );
+						});
+					});
+				</script>
+					</div>
+	
+					</div>
+			</div>
+		
+		<div class="c-sticky-sidebar__item">
+			<div class="c-sticky-sidebar__item-inner">
+				
+<div class="c-related-content c-related-content--vertical">
+	<div class="c-related-content__inner">
+		<h2 class="c-related-content__title">Related content</h2>
+
+		<ul class="c-related-content__list">
+							<li class="c-related-content__list-item">
+					
+<article class="c-card c-card--post-type-post c-card--simple c-card--mobile-media">
+	
+	<div class="c-card__meta">
+					<div class="c-card__tags">
+
+				
+						<a href="https://igamingbusiness.com/topic/sustainable-gambling/sports-integrity/">
+							Sports integrity						</a>
+
+					
+							</div>
+		
+		<!-- show content series tags on ice365 hub page -->
+		
+		<h2 class="c-card__title"><a href="https://igamingbusiness.com/sustainable-gambling/sports-integrity/itia-bans-tennis-players-corruption/">ITIA bans two tennis players for corruption linked to Belgian syndicate</a></h2>
+
+		
+		
+		
+					<span class="c-card__tags c-card__date has-text-color has-grey-5-color">
+				<time datetime="2024-05-13 08:54:03">
+					13 May 2024				</time>
+
+				
+					<span class="c-card__tags">
+						<a href="https://igamingbusiness.com/content-type/news/">
+							 - News						</a>
+					</span>
+
+							</span>
+		
+	</div>
+</article>
+
+				</li>
+							<li class="c-related-content__list-item">
+					
+<article class="c-card c-card--post-type-post c-card--simple c-card--mobile-media">
+	
+	<div class="c-card__meta">
+					<div class="c-card__tags">
+
+				
+						<a href="https://igamingbusiness.com/topic/sustainable-gambling/">
+							Sustainable Gambling						</a>
+
+					
+							</div>
+		
+		<!-- show content series tags on ice365 hub page -->
+		
+		<h2 class="c-card__title"><a href="https://igamingbusiness.com/sustainable-gambling/greening-the-game-the-path-to-sustainable-gaming/">Greening the Game: The Path to Sustainable Gaming&nbsp;</a></h2>
+
+		
+		
+		
+					<span class="c-card__tags c-card__date has-text-color has-grey-5-color">
+				<time datetime="2024-05-08 14:21:18">
+					08 May 2024				</time>
+
+				
+					<span class="c-card__tags">
+						<a href="https://igamingbusiness.com/content-type/news/">
+							 - News						</a>
+					</span>
+
+							</span>
+		
+	</div>
+</article>
+
+				</li>
+							<li class="c-related-content__list-item">
+					
+<article class="c-card c-card--post-type-post c-card--simple c-card--mobile-media">
+	
+	<div class="c-card__meta">
+					<div class="c-card__tags">
+
+				
+						<a href="https://igamingbusiness.com/topic/legal-compliance/legal/">
+							Legal						</a>
+
+					
+							</div>
+		
+		<!-- show content series tags on ice365 hub page -->
+		
+		<h2 class="c-card__title"><a href="https://igamingbusiness.com/legal-compliance/legal/west-ham-paqueta-charged-over-betting-breaches/">West Ham’s Lucas Paqueta charged over betting breaches</a></h2>
+
+		
+		
+		
+					<span class="c-card__tags c-card__date has-text-color has-grey-5-color">
+				<time datetime="2024-05-23 19:49:13">
+					23 May 2024				</time>
+
+				
+					<span class="c-card__tags">
+						<a href="https://igamingbusiness.com/content-type/news/">
+							 - News						</a>
+					</span>
+
+							</span>
+		
+	</div>
+</article>
+
+				</li>
+					</ul>
+	</div>
+</div>
+			</div>
+		</div>
+	</aside>
+</section>
+
+
+			
+<div class="c-full-ad-slot-wrapper-outer">
+	<div class="c-full-ad-slot-wrapper-inner o-container">
+		<div class="c-full-ad-slot bottom">
+			
+
+	
+			<div id="div-gpt-ad-8675846835610587513-8" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_Leaderboard4" style="max-width: 970px; max-height: 100px; min-width: 320px; min-height: 50px;" data-slot-id="/1028495/iGB_Leaderboard4" data-sizes="[[970,90],[728,90],[320,50],[320,100]]" data-ad-id="div-gpt-ad-8675846835610587513-8" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_Leaderboard4',
+							[[970,90],[728,90],[320,50],[320,100]],
+							'div-gpt-ad-8675846835610587513-8'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-8675846835610587513-8' );
+						});
+					});
+				</script>
+					</div>
+	
+			</div>
+	</div>
+</div>
+		</main><!-- #main opening in header.php -->
+
+		<footer class="c-site-footer" id="footer">
+			<div class="c-site-footer__primary">
+				<div class="o-container">
+
+					<div class="c-site-footer__top">
+						<div class="o-container c-site-footer__top-branding">
+
+							
+<a class="o-logo o-logo-link c-site-footer__top-branding-item" href="https://igamingbusiness.com/">
+	<img class="o-logo-image" src="https://igamingbusiness.com/img-srv/hIdCCVf-1eGXfKzUrEK9d3SLCL234EtV8Abv2_68euo/resizing_type:auto/width:300/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/bG9jYWw6Ly8vb3JpZ2luLmlnYW1pbmdidXNpbmVzcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvSUdCLVcyLnBuZw.webp" alt="Home page">
+</a>
+							
+<div class="c-social-menu c-site-footer__top-branding-item">
+	<ul class="c-social-menu__list">
+
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--linkedin" target="_blank" href="https://www.linkedin.com/company/igaming-business">
+					<span class="screen-reader-text">LinkedIn</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--facebook" target="_blank" href="https://www.facebook.com/iGamingBusinessMagazine">
+					<span class="screen-reader-text">Facebook</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--twitter" target="_blank" href="https://twitter.com/iGamingBusiness">
+					<span class="screen-reader-text">Twitter</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--instagram" target="_blank" href="https://www.instagram.com/igamingbusiness/?hl=en">
+					<span class="screen-reader-text">Instagram</span>
+				</a>
+			</li>
+		
+					<li class="c-social-menu__list-item">
+				<a class="c-social-menu__link c-social-menu__link--youtube" target="_blank" href="https://www.youtube.com/channel/UCAmygde8zUEz_OgLi09tCmQ">
+					<span class="screen-reader-text">YouTube</span>
+				</a>
+			</li>
+		
+	</ul><!-- .c-social-menu__list -->
+</div><!-- .c-social-menu -->
+
+						</div>
+
+						<div class="o-container c-site-footer__footer-top-navigation">
+							<ul id="menu-megamenu-news-topic-1" class="c-navigation c-navigation--footer-top"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33076 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/casino-games/" class="c-site-footer__menu-link">Casino &amp; games</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33077 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/esports/" class="c-site-footer__menu-link">Esports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33078 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/finance/" class="c-site-footer__menu-link">Finance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33079 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/legal-compliance/" class="c-site-footer__menu-link">Legal &amp; compliance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33080 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/lottery/" class="c-site-footer__menu-link">Lottery</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33081 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/marketing-affiliates/" class="c-site-footer__menu-link">Marketing &amp; affiliates</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33082 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/people/" class="c-site-footer__menu-link">People</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-33072 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/sustainable-gambling/" class="c-site-footer__menu-link">Sustainable Gambling</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33073 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/sports-betting/" class="c-site-footer__menu-link">Sports betting</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33074 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/strategy/" class="c-site-footer__menu-link">Strategy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33075 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/topic/tech-innovation/" class="c-site-footer__menu-link">Tech &amp; innovation</a></li>
+</ul>						</div>
+					</div>
+
+					<div class="c-site-footer__bottom">
+						<div class="c-site-footer__footer-menu c-site-footer__footer-1-menu">
+							<h3 class="c-site-footer__navigation__heading">Links</h3><ul id="menu-links" class="c-navigation c-navigation--footer-one"><li id="menu-item-33059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33059 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/" class="c-site-footer__menu-link">Home</a></li>
+<li id="menu-item-33060" class="menu-item menu-item-type-post_type_archive menu-item-object-company menu-item-33060 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/directory/" class="c-site-footer__menu-link">Directory</a></li>
+<li id="menu-item-33061" class="menu-item menu-item-type-post_type_archive menu-item-object-event menu-item-33061 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/events/" class="c-site-footer__menu-link">Events</a></li>
+<li id="menu-item-33063" class="menu-item menu-item-type-post_type_archive menu-item-object-job menu-item-33063 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/jobs/" class="c-site-footer__menu-link">Jobs</a></li>
+</ul>						</div>
+
+						<div class="c-site-footer__footer-menu c-site-footer__footer-2-menu">
+							<h3 class="c-site-footer__navigation__heading">Company</h3><ul id="menu-company" class="c-navigation c-navigation--footer-two"><li id="menu-item-33037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33037 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/about/" class="c-site-footer__menu-link">About us</a></li>
+<li id="menu-item-33038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33038 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/contact/" class="c-site-footer__menu-link">Contact us</a></li>
+<li id="menu-item-33039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33039 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/frequently-asked-questions/" class="c-site-footer__menu-link">FAQ</a></li>
+<li id="menu-item-33040" class="menu-item menu-item-type-post_type_archive menu-item-object-publication menu-item-33040 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/publications/" class="c-site-footer__menu-link">Publications</a></li>
+<li id="menu-item-33041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33041 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/testimonials/" class="c-site-footer__menu-link">Testimonials</a></li>
+<li id="menu-item-33042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33042 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/apps/" class="c-site-footer__menu-link">Apps</a></li>
+</ul>						</div>
+
+						<div class="c-site-footer__footer-menu c-site-footer__footer-3-menu">
+							<h3 class="c-site-footer__navigation__heading">Our Brands</h3><ul id="menu-our-brands" class="c-navigation c-navigation--footer-three"><li id="menu-item-70234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70234 c-site-footer__menu-list-item"><a target="_blank" rel="noopener" href="https://www.igbnorthamerica.com/" class="c-site-footer__menu-link">iGB North America</a></li>
+<li id="menu-item-70240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70240 c-site-footer__menu-list-item"><a target="_blank" rel="noopener" href="https://www.igblive.com/" class="c-site-footer__menu-link">iGB Live!</a></li>
+<li id="menu-item-70228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70228 c-site-footer__menu-list-item"><a target="_blank" rel="noopener" href="https://www.igbaffiliate.com/" class="c-site-footer__menu-link">iGB Affiliate</a></li>
+<li id="menu-item-70237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70237 c-site-footer__menu-list-item"><a target="_blank" rel="noopener" href="https://london.igbaffiliate.com/" class="c-site-footer__menu-link">iGB Affiliate London</a></li>
+<li id="menu-item-70231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70231 c-site-footer__menu-list-item"><a target="_blank" rel="noopener" href="https://ice365.com/" class="c-site-footer__menu-link">ICE365</a></li>
+<li id="menu-item-70243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70243 c-site-footer__menu-list-item"><a target="_blank" rel="noopener" href="https://www.icelondon.uk.com/" class="c-site-footer__menu-link">ICE London</a></li>
+</ul>						</div>
+
+						<div class="c-site-footer__footer-menu c-site-footer__footer-4-menu c-site-footer__latest-posts">
+							<h3 class="c-site-footer__navigation__heading">Latest posts</h3>
+							
+<article class="c-card c-card--post-type-post c-card--simple">
+	
+	<div class="c-card__meta">
+		
+		<!-- show content series tags on ice365 hub page -->
+		
+		<h2 class="c-card__title"><a href="https://igamingbusiness.com/legal-compliance/regulation/noga-response-ksa/">NOGA urges rigorous KSA response after research finds illegal operators accepting bets from minors</a></h2>
+
+		
+		
+		
+					<span class="c-card__tags c-card__date has-text-color has-grey-5-color">
+				<time datetime="2024-05-23 20:00:27">
+					3 hours ago				</time>
+
+				
+					<span class="c-card__tags">
+						<a href="https://igamingbusiness.com/content-type/news/">
+							 - News						</a>
+					</span>
+
+							</span>
+		
+	</div>
+</article>
+
+
+<article class="c-card c-card--post-type-post c-card--simple">
+	
+	<div class="c-card__meta">
+		
+		<!-- show content series tags on ice365 hub page -->
+		
+		<h2 class="c-card__title"><a href="https://igamingbusiness.com/legal-compliance/legal/west-ham-paqueta-charged-over-betting-breaches/">West Ham’s Lucas Paqueta charged over betting breaches</a></h2>
+
+		
+		
+		
+					<span class="c-card__tags c-card__date has-text-color has-grey-5-color">
+				<time datetime="2024-05-23 19:49:13">
+					3 hours ago				</time>
+
+				
+					<span class="c-card__tags">
+						<a href="https://igamingbusiness.com/content-type/news/">
+							 - News						</a>
+					</span>
+
+							</span>
+		
+	</div>
+</article>
+
+
+<article class="c-card c-card--post-type-post c-card--simple">
+	
+	<div class="c-card__meta">
+		
+		<!-- show content series tags on ice365 hub page -->
+		
+		<h2 class="c-card__title"><a href="https://igamingbusiness.com/strategy/ma/draftkings-begins-integrating-jackpocket-as-750m-deal-completes/">DraftKings begins integrating Jackpocket as $750m deal completes</a></h2>
+
+		
+		
+		
+					<span class="c-card__tags c-card__date has-text-color has-grey-5-color">
+				<time datetime="2024-05-23 13:08:44">
+					10 hours ago				</time>
+
+				
+					<span class="c-card__tags">
+						<a href="https://igamingbusiness.com/content-type/news/">
+							 - News						</a>
+					</span>
+
+							</span>
+		
+	</div>
+</article>
+
+						</div>
+
+
+						<div class="c-site-footer__newsletter">
+							<h3 class="c-site-footer__navigation__heading">Subscribe to our newsletter</h3>
+
+							
+<form action="https://igamingbusiness.com/newsletter/" method="GET" class="c-newsletter-form" id="c-newsletter-form664fc9a567892">
+	<label class="screen-reader-text" for="email-c-newsletter-form664fc9a567892">Email Address</label>
+
+			<input class="c-newsletter-form__input " type="email" name="igb_email" id="email-c-newsletter-form664fc9a567892" placeholder="Your email address" required>
+	
+	<input class="c-newsletter-form__button" type="submit" value="Subscribe">
+</form>
+
+															<div class="c-site-footer__newsletter-perks">
+									<ul>
+																					
+											<li>Daily news digests every morning</li>
+																					
+											<li>Access to industry leading insights</li>
+																			</ul>
+								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="c-site-footer__secondary">
+				<div class="o-container">
+					<span class="c-site-footer__copyright">
+						© iGB 2024					</span>
+
+					<div class="c-site-footer__footer-bottom-menu"><ul id="menu-legal-footer" class="c-navigation c-navigation--footer-bottom"><li id="menu-item-33057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33057 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/privacy-policy/" class="c-site-footer__menu-link">Privacy Policy</a></li>
+<li id="menu-item-33056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33056 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/cookie-policy/" class="c-site-footer__menu-link">Cookies</a></li>
+<li id="menu-item-33058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33058 c-site-footer__menu-list-item"><a href="https://igamingbusiness.com/terms-and-conditions/" class="c-site-footer__menu-link">Terms and Conditions</a></li>
+</ul></div>				</div>
+			</div>
+		</footer>
+
+		
+<div class="c-ads-side skyscraper-width-250">
+	<div class="c-ads-side__ad c-ads-side__ad--left">
+		
+
+	
+			<div id="div-gpt-ad-7782701833058894095-9" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_SkyscraperLeft" style="max-width: 250px; max-height: 800px; min-width: 120px; min-height: 600px;" data-slot-id="/1028495/iGB_SkyscraperLeft" data-sizes="[[120,600],[160,600],[250,800]]" data-ad-id="div-gpt-ad-7782701833058894095-9" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_SkyscraperLeft',
+							[[120,600],[160,600],[250,800]],
+							'div-gpt-ad-7782701833058894095-9'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-7782701833058894095-9' );
+						});
+					});
+				</script>
+					</div>
+	
+		</div>
+	<div class="c-ads-side__ad c-ads-side__ad--right">
+		
+
+	
+			<div id="div-gpt-ad-7944514106626690610-10" class="c-ad-slot-item js-ad-slot-container" data-ad_slot_code="iGB_SkyscraperRight" style="max-width: 600px; max-height: 800px; min-width: 120px; min-height: px;" data-slot-id="/1028495/iGB_SkyscraperRight" data-sizes="[[120,600],[160],[600],[250,800]]" data-ad-id="div-gpt-ad-7944514106626690610-10" data-page-type="news" data-primary-topic="sustainable-gambling" data-post-type="post" data-url="/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/">
+							<script>
+					googletag.cmd.push(function() {
+						googletag.defineSlot(
+							'/1028495/iGB_SkyscraperRight',
+							[[120,600],[160],[600],[250,800]],
+							'div-gpt-ad-7944514106626690610-10'
+						)
+
+						.setTargeting('page_type', 'news')
+						.setTargeting('taxonomy_term', 'sustainable-gambling')
+						.setTargeting('post_type', 'post')
+						.setTargeting('url', '/sustainable-gambling/gambleaware-defends-treatment-misleading-claims/')
+
+						.addService( googletag.pubads() );
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						googletag.cmd.push(function() {
+							googletag.display(  'div-gpt-ad-7944514106626690610-10' );
+						});
+					});
+				</script>
+					</div>
+	
+		</div>
+</div>
+	</div><script type="text/javascript">
+  if (!window.Zephr) window.Zephr = {};
+  if (!window.Zephr.outcomes) window.Zephr.outcomes = {};
+  window.Zephr.outcomes['ice-365-total-gate'] = {
+    featureLabel: 'ICE 365 - Total Gate',
+    outcomeId: 'transformation/1',
+    outcomeLabel: 'Show article'
+  };
+</script>
+<!-- #site-wrapper -->
+
+	<script>
+				window.onload = event => {
+				dataLayer = window.dataLayer || [];
+				dataLayer.push({'content_type': 'News'});};</script><span aria-hidden="true" id="to_top_scrollup" class="dashicons dashicons-arrow-up-alt2"><span class="screen-reader-text">Scroll Up</span></span><link rel="stylesheet" id="qala-elastic-search-style-css" href="https://igamingbusiness.com/wp-content/plugins/qala-elastic-search/dist/css/styles.css?ver=202405231515" type="text/css" media="all">
+<style id="wp-block-paragraph-inline-css" type="text/css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}
+</style>
+<style id="wp-block-heading-inline-css" type="text/css">
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}
+</style>
+<style id="wp-block-list-inline-css" type="text/css">
+ol,ul{box-sizing:border-box}ol.has-background,ul.has-background{padding:1.25em 2.375em}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--igb-blue: #009FE3;--wp--preset--color--igb-navy: #1C2649;--wp--preset--color--igb-mid-blue: #004D7C;--wp--preset--color--igb-grey: #73798B;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 14px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--heading-1: 40px;--wp--preset--font-size--heading-2: 28px;--wp--preset--font-size--heading-3: 24px;--wp--preset--font-size--heading-4: 22px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="text/javascript" id="power-bi-main-js-extra">
+/* <![CDATA[ */
+var powerBiEmbed = {"rest_url":"https://igamingbusiness.com\/wp-json\/powerbi\/v1","mobile_breakpoint":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/embed-power-bi/assets/js/powerbi.min.js?ver=1716477328" id="power-bi-main-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/embed-power-bi/assets/js/powerbi-report.js?ver=1716477328" id="power-bi-report-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/embed-power-bi/assets/js/url-search-params-polyfill.js?ver=1716477328" id="url-search-params-polyfill-js"></script>
+<script type="text/javascript" id="qi-blocks-main-js-extra">
+/* <![CDATA[ */
+var qiBlocks = {"vars":{"arrowLeftIcon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0.5\" y1=\"16\" x2=\"33.5\" y2=\"16\"\/><line x1=\"0.3\" y1=\"16.5\" x2=\"16.2\" y2=\"0.7\"\/><line x1=\"0\" y1=\"15.4\" x2=\"16.2\" y2=\"31.6\"\/><\/svg>","arrowRightIcon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0\" y1=\"16\" x2=\"33\" y2=\"16\"\/><line x1=\"17.3\" y1=\"0.7\" x2=\"33.2\" y2=\"16.5\"\/><line x1=\"17.3\" y1=\"31.6\" x2=\"33.5\" y2=\"15.4\"\/><\/svg>","closeIcon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 9.1 9.1\" xml:space=\"preserve\"><g><path d=\"M8.5,0L9,0.6L5.1,4.5L9,8.5L8.5,9L4.5,5.1L0.6,9L0,8.5L4,4.5L0,0.6L0.6,0L4.5,4L8.5,0z\"\/><\/g><\/svg>","restUrl":"https://igamingbusiness.com\/wp-json\/","restNonce":"9a0e68af14","viewCartText":"View Cart"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/qi-blocks/assets/dist/main.js?ver=1.2.7" id="qi-blocks-main-js"></script>
+<script type="text/javascript" id="ads-refresh-js-extra">
+/* <![CDATA[ */
+var adsRefresh = {"refreshDebug":"","refreshRate":"160"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/clariongaming-core/src/Ads/js/ads_refresh.js?ver=2.1.0" id="ads-refresh-js" async></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/themes/clariongaming/assets/js/swiper-bundle.min.js?ver=1716477328" id="swiper-js-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.1" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="megamenu-js-extra">
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.8" id="megamenu-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/megamenu-pro/assets/public.js?ver=2.2.6" id="megamenu-pro-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3" id="wp-hooks-js"></script>
+<script type="text/javascript" id="qala-elastic-search-script-js-extra">
+/* <![CDATA[ */
+var QalaElasticSearch = {"slug":"qala-elastic-search","currentBlog":"1","elastic":{"engineName":"igamingbusiness-com","endpointBase":"https:\/\/clus1-dcs1.synotiosearch.net","searchKey":"search-2t8y4cc8ej9yh9cufhujes9v"},"translations":{"post":"Post","page":"Page","attachment":"Media","revision":"Revision","nav_menu_item":"Navigation Menu Item","custom_css":"Custom CSS","customize_changeset":"Changeset","oembed_cache":"oEmbed Response","user_request":"User Request","wp_block":"Reusable block","wp_template":"Template","wp_template_part":"Template Part","wp_global_styles":"Global Styles","wp_navigation":"Navigation Menu","acf-post-type":"Post Type","acf-taxonomy":"Taxonomies","acf-field-group":"Field Group","acf-field":"Field","search-filter-widget":"Search Form","powerbi":"Power BI","qesf_config":"Filter configuration","hub":"Hub","event":"Event","webinar":"Webinar","brand_view":"Brand View","company":"Company","company_news":"Company News","job":"Job","live_report":"Live Report","publication":"Publication","igbex_event":"iGB Executive Event","igbex_post":"iGB Executive Post","igbex_member":"iGB Executive Member","wp_stream_alerts":"Alert","category":"Topic","post_tag":"Tag","nav_menu":"Navigation Menu","link_category":"Link Category","post_format":"Format","wp_theme":"Theme","wp_template_part_area":"Template Part Area","event_type":"Event Type","event_location":"Event Location","company_relation":"Company","company_type":"Company Type","gaming_type":"Gaming Type","products_service":"Products & Service","job_sector":"Job Sector","job_type":"Job Type","job_location":"Job Location","publication_type":"Publication Type","content_series":"Content Series","content_type":"Content Type","region":"Region","igbex_event_category":"Category","igbex_event_tag":"Tag"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://igamingbusiness.com/wp-content/plugins/qala-elastic-search/dist/javascript/frontend.js?ver=202405231515" id="qala-elastic-search-script-js"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js?ver=1.0.0#pubid=ra-5e970f1777e57b22" id="igb-add-this-js" async></script>
+		<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+		</script>
+		
+	<script type="text/javascript">
+  window.Zephr = window.Zephr || {};
+  window.Zephr.includeOutcomes = true;
+  window.Zephr.outcomesAsEvents = true;
+  window.Zephr.groupFields = true;
+(function() {
+    var xhr = new(XMLHttpRequest || ActiveXObject)('MSXML2.XMLHTTP.3.0');
+    xhr.open('GET', '/blaize/datalayer', true);
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+            var response;
+            try {
+                response = JSON.parse(xhr.response);
+            } catch (e) {
+                response = xhr.response;
+            }
+            if (xhr.status === 200) {
+                for (var dataLayerFieldName in response) {
+                    if (!(dataLayerFieldName in window)) window[dataLayerFieldName] = [];
+
+                    var pageView = response[dataLayerFieldName];
+                    var events = [];
+
+                    if (window.Zephr && window.Zephr.includeOutcomes && window.Zephr.outcomes) {
+                        pageView.zephrOutcomes = window.Zephr.outcomes;
+
+                        if (window.Zephr.outcomesAsEvents) {
+                            Object.keys(window.Zephr.outcomes || []).forEach(function(outcomeKey) {
+                                var outcomeEvent = {
+                                    event: "zephr-outcome-" + outcomeKey,
+                                    featureId: outcomeKey,
+                                    featureLabel: window.Zephr.outcomes[outcomeKey].featureLabel,
+                                    outcomeId: window.Zephr.outcomes[outcomeKey].outcomeId,
+                                    outcomeLabel: window.Zephr.outcomes[outcomeKey].outcomeLabel,
+                                };
+                                events.push(outcomeEvent);
+                            });
+                        }
+                    }
+                    if (window.Zephr && window.Zephr.accessDetails) {
+                        Object.keys((window.Zephr.accessDetails.trials || {})).forEach(function(trialId){
+                            var trial = window.Zephr.accessDetails.trials[trialId]
+                            if(trial.reportInDataLayer){
+                                var usedCredits = trial.totalCredits - trial.remainingCredits
+                                if (window.Zephr.groupFields && !pageView.zephrTrials) pageView.zephrTrials = {};
+                                var target = window.Zephr.groupFields ? pageView.zephrTrials : pageView
+                                if (trial.dataLayerCreditsUsedKey) {
+                                   target[trial.dataLayerCreditsUsedKey] = usedCredits;
+                                }
+                                if (trial.dataLayerCreditsRemainingKey) {
+                                   target[trial.dataLayerCreditsRemainingKey] = trial.remainingCredits;
+                                }
+                            }
+                        });
+                        (window.Zephr.accessDetails.trialTrackingDetails || []).forEach(function(details) {
+                            var type = details.entitlementType === 'credits' ? 'credits' : 'meters';
+                            var trial = (window.Zephr.accessDetails[type] || {})[details.entitlementId];
+                            if (!trial) return;
+                            if (window.Zephr.groupFields && !pageView.zephrTrials) pageView.zephrTrials = {};
+                            if (details.creditsRemainingKey) {
+                                if (window.Zephr.groupFields) {
+                                    pageView.zephrTrials[details.creditsRemainingKey] = trial.remainingCredits;
+                                } else {
+                                    pageView[details.creditsRemainingKey] = trial.remainingCredits;
+                                }
+                            }
+                            if (details.creditsUsedKey) {
+                                if (window.Zephr.groupFields) {
+                                    pageView.zephrTrials[details.creditsUsedKey] = trial.totalCredits - trial.remainingCredits;
+                                } else {
+                                    pageView[details.creditsUsedKey] = trial.totalCredits - trial.remainingCredits;
+                                }
+                            }
+                        });
+                        try {
+                          (Object.keys(window.Zephr.accessDetails.timeTrials || {})).forEach(function(timeTrialId) {
+                               var timeTrial = window.Zephr.accessDetails.timeTrials[timeTrialId]
+                               if(timeTrial.reportInDataLayer){
+                                   if (window.Zephr.groupFields && !pageView.zephrTrials) pageView.zephrTrials = {};
+                                   var target = window.Zephr.groupFields ? pageView.zephrTrials : pageView
+
+                                   if (timeTrial.dataLayerTrialDurationKey) {
+                                    target[timeTrial.dataLayerTrialDurationKey] = timeTrial.trialDuration;
+                                   }
+                                   if (timeTrial.dataLayerTrialDurationUnitsKey) {
+                                    target[timeTrial.dataLayerTrialDurationUnitsKey] = timeTrial.trialDurationUnits;
+                                   }
+                                   if (timeTrial.dataLayerTrackerEntryTimeKey) {
+                                    target[timeTrial.dataLayerTrackerEntryTimeKey] = timeTrial.entryTime;
+                                   }
+                                   if (timeTrial.dataLayerTrackerHitsKey) {
+                                    target[timeTrial.dataLayerTrackerHitsKey] = timeTrial.trackerHits;
+                                   }
+                                   if (timeTrial.dataLayerTrialTimeRemainingKey) {
+                                    target[timeTrial.dataLayerTrialTimeRemainingKey] = timeTrial.timeRemainingInTrial;
+                                   }
+                               }
+                          });
+                        } catch (err) {
+                          console.error("Error aggregating Zephr time trials", err);
+                        }
+                    }
+                    if (Object.keys(pageView).length) {
+                        pageView.event = "zephr-pageview";
+                        events.unshift(pageView);
+                    }
+                    if (!events.length) continue;
+
+                    events.forEach(function(event) {
+                        window[dataLayerFieldName].push(event);
+                    });
+                }
+                var readyEvent = document.createEvent('Event');
+                readyEvent.initEvent('zephr.dataLayerReady', true, true);
+                document.dispatchEvent(readyEvent);
+            }
+        }
+    }
+    xhr.send({});
+})();
+</script>
+<script type="text/javascript">
+  if (!window.Zephr) window.Zephr = {};
+  window.Zephr.accessDetails = {"isAuthenticated":false,"accessDecisions":{},"entitlements":{},"credits":{},"meters":{},"trials":{},"timeTrials":{},"trialTrackingDetails":[],"testGroups":{"cc2ea1b7-160f-4fc7-90bf-1fdcaee97549":"B","029b3898-8f6c-4f4c-91c3-2442e198ee83":"A","1b7c69de-1fb7-425b-b9bb-a2944a7857f8":"B","68f07f88-0243-402b-acda-86e795357637":"B","dfbc4c05-70fd-4bf7-8621-ec08dc7f6599":"A"},"activeProducts":[]};
+</script>
+</body>
+</html>

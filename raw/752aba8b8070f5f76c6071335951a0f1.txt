@@ -1,0 +1,10 @@
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;benarnews&#46;org&#47;english&#47;news&#47;philippine&#47;senate&#45;probes&#45;mayor&#45;china&#45;ties&#45;05162024150331&#46;html" on this server.<P>
+Reference&#32;&#35;18&#46;8ed8f7bd&#46;1716504910&#46;3806e93
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;8ed8f7bd&#46;1716504910&#46;3806e93</P>
+</BODY>
+</HTML>

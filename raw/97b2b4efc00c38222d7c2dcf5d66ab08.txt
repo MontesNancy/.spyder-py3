@@ -1,0 +1,1685 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head itemscope itemtype="https://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+	<title>Egypt warns it may withdraw from Gaza war mediation - The Jerusalem Post </title>
+	<meta name="description" content="Egypt said some &quot;parties&quot; recently directed blame towards Egyptian and Qatari mediators and accused them of being biased." />
+	<meta name='keywords' content='Israel,Egypt,Hamas,ceasefire,Legal Headline'>
+	<link rel="canonical" href="https://www.jpost.com/breaking-news/article-802286" itemprop="url" />
+
+	<meta property="fb:pages" content="159050394216641">
+	<meta property="fb:app_id" content="313311835670174">
+
+
+<link rel="alternate" media='only screen and (max-width:640px)' href="https://m.jpost.com/breaking-news/article-802286" />
+    
+    <link rel="alternate" hreflang="es" href="https://www.jpost.com/spanish/omg/article-802318" />
+    <link rel="alternate" hreflang="en" href="https://www.jpost.com/breaking-news/article-802286" />
+    <link rel="alternate" hreflang="x-default" href="https://www.jpost.com/breaking-news/article-802286" />
+
+    <meta property="og:site_name" content=" The Jerusalem Post | JPost.com " />
+
+    <meta property="og:title" content="Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role" />
+    <meta property="og:type" content="Article" />
+
+    <meta property="og:image" content="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/597691" name="image" />
+
+    <meta property="og:url" content="https://www.jpost.com/breaking-news/article-802286" />
+    <meta property="og:description" content="Egypt said some &quot;parties&quot; recently directed blame towards Egyptian and Qatari mediators and accused them of being biased." />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/597691" />
+    <meta name="twitter:url" content="https://www.jpost.com/breaking-news/article-802286" />
+    <meta name="twitter:site" content="Jerusalem_Post" />
+    <meta name="twitter:description" content="Egypt said some &quot;parties&quot; recently directed blame towards Egyptian and Qatari mediators and accused them of being biased." />
+    <meta name="twitter:title" content="Egypt warns it may withdraw from Gaza war mediation " />
+
+
+
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+ 'Article Creator': 'Darcie Grunblatt',
+ 'Article Author': 'REUTERS',
+ 'Article Tags': 'Israel# Egypt# Hamas# ceasefire# Legal Headline',
+ 'Article Date': '5/22/2024 9:42:56 PM',
+ 'Article Category': 'Israel-Hamas War',
+ 'Article Premium': 'False',
+ 'Article Edit': 'False'
+ });
+</script>
+
+
+
+
+
+
+
+    
+<!-- generics -->
+<link rel="icon" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/PNG/jp-favicon-16.png" sizes="16x16">
+<link rel="icon" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/PNG/jp-favicon-32.png" sizes="32x32">
+
+<!-- Android -->
+<link rel="shortcut icon" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/PNG/jp-favicon-192.png" sizes="192x192">
+
+<!-- iOS -->
+<link rel="apple-touch-icon" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/PNG/jp-favicon-180.png" sizes="180x180">
+
+<!-- Windows 8 IE 10-->
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/PNG/jp-favicon-180.png">
+
+<!-- IE11 and above -->
+<link rel="shortcut icon" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/PNG/jp-favicon-32.ico">
+    
+    <!-- Google Tag Managerrr -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T4BJGTM');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="robots" content="max-snippet:160, max-image-preview:large, max-video-preview:15" />  <script async >
+fetch('https://pro.ip-api.com/json?key=ay3FPSS6OcBXPHg&fields=countryCode,region')
+    .then(response => response.json())
+    .then(data => {
+      if(data!="" && data!=null){
+        var country=data.countryCode;
+        var region=data.region;
+        console.log("country "+country);
+        console.log("region "+region);
+
+
+var countryCodesToShowOneTruse = ["BE","EL","LT","PT","BG","ES","LU","RO","CZ","FR","HU","SI","DK","HR","MT","SK","DE","IT","NL","FI","EE","CY","AT","SE","IE","LV","PL","UK","GB"];
+console.log("country test"+country);
+var show = countryCodesToShowOneTruse.includes(country);
+
+if ( show == true || (country== "US" && region == "CA" ))
+
+{
+    console.log("gdpr is on");
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js?';    
+    script.setAttribute('charset','UTF-8');
+    script.setAttribute('data-domain-script','698d81e3-0509-48c7-a961-e0a9d16db8a2');
+    document.getElementsByTagName('head')[0].appendChild(script);
+}
+
+       }    
+    })
+    .catch(err => {
+        console.error('An error ocurred -api geolocation', err);
+    });
+
+</script>
+
+<script async  type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for jpost.com -->
+
+
+
+        <link rel="preload" as="image" href="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/597691" media="all">
+
+
+    <link rel="preload stylesheet" as="style" href="/css/css_1280.min.css?v=KoiJ9-u5CBW7M9M4STDRcVsNucM0g-MI5ek-ZFyeme0" media="all and  (min-width: 1281px)" />
+    <link rel="preload stylesheet" as="style" href="/css/css_1024.min.css?v=hqjAk7Ozou19BjwTYxvRcVTaV6fKur6gRyWVjv9jTE8" media="all and (max-width: 1280px)" />
+    <link rel="preload stylesheet" as="style" href="/css/css_artile.min.css?v=LLihKxXVTVg8eh1C7-tOqyZB_hqQhBLHWCpZXUmq4JI" media="all" />
+    <link rel="preload stylesheet" as="style" href="/css/css_magnific-popup.min.css?v=BsgyQG1V7HvdVARr75Ruz0OrgUwzEgrvvrR9_lA0Uew" media="all">
+    
+    <link rel="preload stylesheet" as="style" href="/css/css_swiper_gallery.min.css?v=w8BPKy4I4E89NNAUFutpk44EEaBkVHPZ0azlIKtdXpA" media="all" />
+
+    
+    <script>
+		let catID =161;
+		var subCatID = 0;
+        var articleID =802286;
+    </script>
+    
+
+
+    
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script type='text/javascript'>
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1);
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+        var valcookie = getCookie("rennabtuohtiweikooc");
+        if (valcookie == "") {
+            googletag.cmd.push(function () {
+            
+                var urlParts = window.location.pathname.split('/');
+                googletag.pubads().setTargeting('urlType', document.URL);
+                googletag.pubads().setTargeting('IsDev', 'false');
+                if (urlParts.length > 1) {
+                    if (urlParts[1] == "")
+                        googletag.pubads().setTargeting('catName', 'jpost_Home Page');
+                    else
+                        googletag.pubads().setTargeting('catName', "jpost_" + urlParts[1].replace("-", " "));
+                    var articleText = urlParts[urlParts.length-1].split('-');
+
+                    if (Number.isInteger(parseInt(articleText[articleText.length - 1])))
+                        googletag.pubads().setTargeting('articleId',  articleText[articleText.length-1]);
+                }
+                googletag.pubads().collapseEmptyDivs();
+                googletag.pubads().disableInitialLoad();
+                googletag.enableServices();
+            });
+
+        }
+</script>
+<script>
+    !function (a9, a, p, s, t, A, g) { if (a[a9]) return; function q(c, r) { a[a9]._Q.push([c, r]) } a[a9] = { init: function () { q("i", arguments) }, fetchBids: function () { q("f", arguments) }, setDisplayBids: function () { }, targetingKeys: function () { return [] }, _Q: [] }; A = p.createElement(s); A.async = !0; A.src = t; g = p.getElementsByTagName(s)[0]; g.parentNode.insertBefore(A, g) }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    document.addEventListener("DOMContentLoaded", () => {
+        apstag.init({
+            pubID: 'e106c355-e3d9-47e5-969a-8493743303a6',
+            adServer: 'googletag',
+            simplerGPT: true
+        });
+        googletag.cmd.push(function () {
+            apstag.fetchBids({
+                timeout: 2000
+            },
+                function (bids) {
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh();
+                });
+        });
+    });
+</script>
+
+
+
+
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/send-icon.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/arrow-areucle.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/mail-icon-small.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/twitter-icon-small.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/fb-icon-small.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/messenger-icon-small.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/v1686470035/Icons/Untitled-4.png" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/Icons/more.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/v1653543096/Icons/pin.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/v1653474175/Icons/facebookicon-liveblog.svg" media="all">
+    <link rel="preload" as="image" href="https://images.jpost.com/image/upload/v1653474175/Icons/twittericon-liveblog.svg" media="all">
+
+    <script src="/lib/jquery/dist/jquery.min.js?v=9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0"></script>
+    <script src="/js/js_hdarticle.min.js?v=Lu-UjQA40jttWF7inECiuPDZ3k9i9ukv3IwJn_hiA9s"></script>
+    
+    
+    <script async >
+var trintyPlayerTag = document.createElement('script');
+let language = catID === 151 ? "es" : "en";
+
+if (valcookie == "") {
+trintyPlayerTag.setAttribute('src', 'https://trinitymedia.ai/player/trinity/2900003088/?language='+language);
+}
+else{
+trintyPlayerTag.setAttribute('src', 'https://trinitymedia.ai/player/trinity/2900003088/?subscriber=1&language='+language);
+}
+trintyPlayerTag.setAttribute('type', 'text/javascript');
+document.getElementsByTagName('head')[0].appendChild(trintyPlayerTag );
+
+</script>
+
+
+
+
+<script id="h_spot_im1" async src="https://launcher.spot.im/spot/sp_jpost"  ></script>
+<script>
+let scriptEl = document.getElementById("h_spot_im1");
+
+if(!scriptEl){
+scriptEl = document.createElement("script");
+scriptEl.src = "https://launcher.spot.im/spot/sp_jpost";
+scriptEl.id = "h_spot_im1";
+scriptEl.setAttribute("async","async");
+document.head.appendChild(scriptEl);
+}
+</script><!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1730128020581377');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1730128020581377&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --> 
+<script async >
+(function () {
+    var node = document.getElementsByTagName('script')[0],
+rvbP = document.createElement('script');
+    window.CMT = { appId: '9de4bd6f-10af-4e2c-b51d-42a4360a6eec' };
+    rvbP.defer = true;
+    rvbP.type = 'text/javascript';
+    rvbP.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+'//revboostprocdnadsprod.azureedge.net/scripts/latest/min.js';
+    node.parentNode.insertBefore(rvbP, node);
+})();
+</script>
+
+<script>
+var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://widgets.outbrain.com/outbrain.js';    
+    script.setAttribute('async','async');
+    document.getElementsByTagName('head')[0].appendChild(script);
+</script><script async data-src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script async  type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "NewsMediaOrganization",
+"name": "The Jerusalem Post",
+"alternateName": "JPOST",
+"url": "https://www.jpost.com/",
+"logo": "https://images.jpost.com/image/upload/v1604486421/Icons/jpost-logo.svg",
+"sameAs": [
+"https://en.wikipedia.org/wiki/The_Jerusalem_Post",
+"https://www.facebook.com/TheJerusalemPost/",
+"https://twitter.com/Jerusalem_Post",
+"https://www.instagram.com/thejerusalem_post/",
+"https://www.youtube.com/channel/UCLLLdCANnMAdMyrXdYbSlxg",
+"https://www.reddit.com/domain/jpost.com/",
+"https://www.linkedin.com/company/jerusalem-post"]
+}
+
+</script>
+ <script async >
+if (valcookie == "") {
+  var generalAdapex= document.createElement('script');
+  generalAdapex.setAttribute('src', 'https://cdn.adapex.io/hb/aaw.jpost.js');
+  document.getElementsByTagName('Head')[0].appendChild(generalAdapex);
+}
+</script><template async >var domain=window.location.hostname; var params_totm = ""; (new URLSearchParams(window.location.search)).forEach(function(value, key) {if (key.startsWith('totm')) { params_totm = params_totm +"&"+key.replace('totm','')+"="+value}}); var rand=Math.floor(10*Math.random()); var script=document.createElement("script"); script.src=`https://stag-core.tfla.xyz/pre_onetag?pub_id=34&domain=${domain}&rand=${rand}&min_ugl=0${params_totm}`; document.head.append(script); </template><script type="text/javascript">
+  (function() {
+    var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+    _sf_async_config.uid = 20047;
+    _sf_async_config.domain = "jpost.com"; 
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.useCanonicalDomain = true;
+    _sf_async_config.sections = "Israel-Hamas War";
+    _sf_async_config.authors = "REUTERS, Creator: Darcie Grunblatt"; 
+   _sf_async_config.path = "www.jpost.com/breaking-news/article-802286"; 
+   _sf_async_config.title = "Egypt warns it may withdraw from Gaza war mediation over 'attempts to doubt' its role (Article- 802286 )"; 
+
+    function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';
+        n.parentNode.insertBefore(e, n);
+    }
+    loadChartbeat();
+  })();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script><script async >
+
+    fetch('https://pro.ip-api.com/json?key=ay3FPSS6OcBXPHg&fields=countryCode,region')
+        .then(response => response.json())
+        .then(data => {
+            if (data != "" && data != null) {
+                var country = data.countryCode;
+                console.log("country: "+country);
+                if (country == "IL" || country == "CA" || country == "US") {                  
+                   console.log("JP");
+var s = document.createElement("script");
+        s.setAttribute("src", "//rumcdn.geoedge.be/grumi-ip.js");
+        var head = document.getElementsByTagName('head')[0];
+        head.appendChild(s);
+       window.grumi = {      
+            cfg: {
+                    pbGlobal: 'aaw'
+            },  
+            key: 'f7ae3efe-f9e8-44be-8cf9-3b564afd5f4b'
+        };
+                }
+               }
+        })
+        .catch(err => {
+            console.error('An error ocurred -api geolocation', err);
+        });
+</script><script async   type='text/javascript'>
+var valcookieUser = getCookie("rennabtuohtiweikooc");
+if (valcookieUser !== "" && valcookieUser !== null) {
+console.log("Script for delete outbrain for user: " + valcookieUser);
+
+const style = document.createElement('style');
+
+style.textContent = `
+div[data-widget-id=SL_1] {
+display: none !important;
+}
+`;
+
+document.head.appendChild(style);
+ }
+</script><script async >
+try{
+console.log('Check country 1');
+ 
+    var pathArticleLink=window.location.pathname;
+    console.log(pathArticleLink);
+
+    fetch('https://pro.ip-api.com/json?key=ay3FPSS6OcBXPHg&fields=countryCode,region')
+            .then(response => response.json())
+            .then(data => {
+                console.log('Check country 2 ');
+                if (data != "" && data != null) {
+                    var country = data.countryCode;
+                    console.log("Check country 3: " + country);
+                    if (country == "AU") {
+                       console.log("Check country 4: YES - AU");
+                        if(pathArticleLink !== null && pathArticleLink.length > 0 && pathArticleLink.indexOf("730978") !=  -1)
+{
+console.log("Check country 5:");
+window.location.href="https://www.jpost.com/";
+}
+                    }
+            }
+        })
+    .catch(err => {
+        console.error('An error ocurred -api geolocation', err);
+    });
+}
+catch(e){
+console.log("script 3552 error: " + e);
+}  
+</script>
+<style>
+vdz[data-view="floater"] {
+margin-bottom: 3px;
+}
+</style>
+
+</head>
+<body>
+
+     <!-- Googleee Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4BJGTM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<script async >
+ if (window.location.href.indexOf('jpostvideo.com') != -1) {    
+     window.location.href = window.location.href.replace('jpostvideo','jpost');
+    }
+</script>
+
+
+
+
+<section class='hide-for-premium'>  </section> 
+
+    
+		<section class="sticky-top-banner">
+			<section class="top-banner-container one-row hide-for-premium">
+				<section class="article-header-top-banner">
+						<section class="banner banner-view-v2">
+                            <section class="replace-for-language top-bannner-label">
+                                Advertisement
+                            </section>
+							<section class='hide-for-premium'> <div data-aaad='true' data-aa-adunit='/6943/JPost_2017/Desktop/All_Regular_Ad_Units/Article_970x250_1_Top' ></div></section>
+						</section>
+				</section>
+			</section>
+		</section>
+<header class="header-wrap header-sticky">
+	<section id="header-sticky" class="sticky positionrelative" >
+		
+
+    <section class="menu-level-1-wrap">
+        <nav class="menu-level-1">
+            <a href="https://www.jpost.com/" class="img-logo-sticky">
+                <img width="240" height="31" alt="The Jerusalem Post Logo - Bring them home now" title="The Jerusalem Post Logo - Bring them home now" src="https://images.jpost.com/image/upload/v1713438137/logo4_d8nmsc.png" class="width-100">
+            </a>
+
+                <a href="https://congress.jpost.com/the-jerusalem-post-new-york-conference-2024/" class="menu-level-1-item">
+                    <span class="menu-level-1-title" target=_blank  style=color:white;background:#cb0f3e;padding-left:5px;padding-right:5px;padding-top:3px;>NY Conf</span>
+                </a>
+                <a href="/israel-news" class="menu-level-1-item">
+                    <span class="menu-level-1-title" >Israel News</span>
+                </a>
+                <a href="/health-and-wellness" class="menu-level-1-item">
+                    <span class="menu-level-1-title" >Health &amp; Wellness</span>
+                </a>
+                <a href="/international" class="menu-level-1-item">
+                    <span class="menu-level-1-title" >WORLD NEWS</span>
+                </a>
+                <a href="/middle-east" class="menu-level-1-item">
+                    <span class="menu-level-1-title" >Middle East</span>
+                </a>
+                <a href="/business-and-innovation" class="menu-level-1-item">
+                    <span class="menu-level-1-title" >Business &amp; Innovation</span>
+                </a>
+                <a href="/opinion" class="menu-level-1-item">
+                    <span class="menu-level-1-title" >Opinion</span>
+                </a>
+                <a href="https://store.jpost.com/" class="menu-level-1-item">
+                    <span class="menu-level-1-title" target=_blank >JP Store</span>
+                </a>
+
+            <div class="search-wrap-link"><a href="/jpost-search-page#/search"><img width="21" height="21" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/search.svg"  alt="search" /></a></div>
+
+
+            
+<section class="paywall-header-wrap">
+	<span class="paywall-before-login">
+		<a class="paywall-login-link" href="/PayWalllogin?returnUrl=%2Fbreaking-news%2Farticle-802286" rel="nofollow">Login</a>
+	</span>
+	<section class="paywall-after-login"> 
+		<img width="21" height="50" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/profile-user.svg" class="img-paywall-after-login" alt="login" />
+		<section class="paywall-user-name-and-sign-out-wrap">
+			<section class="paywall-user-name"></section>
+			<section class="paywall-sign-out">Log Out</section>
+		</section>
+	</section>
+</section>
+
+
+            <section class="header-more-categories-in-hover">
+                <img width="18" height="50" alt="More..." src="https://images.jpost.com/image/upload/Icons/more.svg" class="img-3-points" />
+                <section class="artile-menu-level-2-hover menu-level-2-hover">
+                    
+<a href="https://www.jpost.com/archaeology" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Archaeology
+        </span>
+    </span>
+</a>
+<a href="/business-and-innovation/real-estate" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Israel Real Estate
+        </span>
+    </span>
+</a>
+<a href="/judaism" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Judaism
+        </span>
+    </span>
+</a>
+<a href="https://www.jpost.com/kabbalah" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height"  id=&quot;KabbalahMain&quot;>
+        <span class="menu-level-2-article-item-padding">
+            Kabbalah
+        </span>
+    </span>
+</a>
+<a href="/science" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Science
+        </span>
+    </span>
+</a>
+<a href="/diaspora/antisemitism" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Antisemitism
+        </span>
+    </span>
+</a>
+<a href="https://www.jpost.com/spanish" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            JP Spanish
+        </span>
+    </span>
+</a>
+<a href="https://www.jpost.com/podcast" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Podcasts
+        </span>
+    </span>
+</a>
+<a href="https://www.jpost.com/shopping" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            JP Shopping
+        </span>
+    </span>
+</a>
+<a href="https://www.jpost.com/tags/ono-conversation-corner" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Conversation Corner
+        </span>
+    </span>
+</a>
+<a href="/premium" class="menu-level-2-article-item">
+    <span class="menu-level-2-title menu-level-article-item-height" >
+        <span class="menu-level-2-article-item-padding">
+            Premium
+        </span>
+    </span>
+</a>
+
+                    
+
+                </section>
+            </section>
+
+        </nav>
+    </section>
+
+	</section>
+</header>
+
+
+
+    <main class="container body-content">
+        
+
+
+<script type="application/ld+json">
+    {
+
+    "@context": "http://schema.org",
+
+    "@type": "NewsArticle",
+
+    "mainEntityOfPage": "https://www.jpost.com/breaking-news/article-802286",
+
+    "headline": "Egypt warns it may withdraw from Gaza war mediation ",
+
+    "datePublished": "2024-05-22T21:42Z",
+
+    "dateModified": "2024-05-23T00:37Z",
+
+    "description": "Egypt said some &quot;parties&quot; recently directed blame towards Egyptian and Qatari mediators and accused them of being biased.",
+
+
+                "keywords":[
+        
+               "Israel",
+            
+               "Egypt",
+            
+               "Hamas",
+            
+               "ceasefire",
+            
+               "Legal Headline"
+            
+          ],
+        
+    "author": {
+
+    "@type": "Person",
+
+    "name": "By  REUTERS"
+
+    
+
+    },
+
+    "publisher": {
+
+    "@type": "NewsMediaOrganization",
+
+    "url": "https://www.jpost.com/",
+
+    "name" : "The Jerusalem Post",
+
+    "logo": {
+
+    "@type": "ImageObject",
+
+    "url": "https://images.jpost.com/image/upload/493376",
+
+    "width": 468,
+
+    "height": 61
+
+    }
+
+    },
+
+    "image": {
+
+    "@type": "ImageObject",
+
+    "url": "https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/597691",
+
+    "height":  537,
+
+    "width": 822
+    },
+    "video":{
+    },
+    "articleBody": "Egypt threatened on Wednesday to withdraw as a mediator in Gaza ceasefire negotiations after CNN reported that Egyptian intelligence changed the terms of a recent truce proposal and scuttled a deal.&quot;Attempts to cast doubt and offend Egypt&#x27;s mediation efforts... will only lead to further complications of the situation in Gaza and the entire region and may push Egypt to completely withdraw from its mediation in the current conflict,&quot; Diaa Rashwan, head of Egypt&#x27;s State Information Service, said in a statement published on social media.Quoting three people familiar with the discussions, CNN on Tuesday said Egyptian intelligence changed the terms of a ceasefire proposal that Israel agreed to earlier in May.console.log(&quot;2390 BODY2. CatId is:&quot;&#x2B;catID);if(catID==120){&#x9;console.log(&quot;2390 BODY. YES for anyclip script&quot;);&#x9;var script = document.createElement(&#x27;script&#x27;);                  script.src = &#x27;https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js&#x27;;        script.setAttribute(&#x27;pubname&#x27;,&#x27;jpostcom&#x27;);    script.setAttribute(&#x27;widgetname&#x27;,&#x27;0011r00001lcD1i_12258&#x27;);    document.getElementsByClassName(&#x27;divAnyClip&#x27;)[0].appendChild(script);&#x9;&#x9;&#x9;}else if(catID !== 151) {&#x9;let widgetid = &quot;60fd6becf6393400049e6535&quot;;&#x9;if(catID === 69){&#x9;&#x9;widgetid = &quot;65c3a2148772803523c6f41b&quot;;&#x9;}else if(catID === 161){&#x9;&#x9;widgetid = &quot;65c3a224fb10822a0a7db2dd&quot;;&#x9;}&#x9;&#x9;console.log(&quot;2390 BODY. YES for vidazoo script&quot;);    var script = document.createElement(&#x27;script&#x27;);                  script.src = &#x27;https://static.vidazoo.com/basev/vwpt.js&#x27;;        script.setAttribute(&#x27;data-widget-id&#x27;, widgetid);    document.getElementsByClassName(&#x27;divVidazoo&#x27;)[0].appendChild(script);&#x9;if(!document.getElementById(&quot;qortex-ext-script&quot;)){&#x9;&#x9;script = document.createElement(&#x27;script&#x27;);&#x9;&#x9;script.src = &quot;https://tags.qortex.ai/bootstrapper?group-id=qAAQHrWEnkO20EfZMXnAw&amp;html-container=vdz[data-view=floater]&quot;;&#x9;&#x9;script.setAttribute(&#x27;defer&#x27;, &quot;defer&quot;);&#x9;&#x9;script.setAttribute(&#x27;id&#x27;, &quot;qortex-ext-script&quot;);&#x9;&#x9;document.head.appendChild(script);&#x9;}&#x9;}  When Hamas announced on May 6 that it accepted the agreement, it was not the proposal that fellow mediators from the U.S. and Qatar thought was submitted to Hamas for review, according to CNN. DISPLACED PALESTINIANS, who fled Rafah as the IDF began evacuating civilians ahead of a threatened assault, travel on a vehicle in Khan Yunis, earlier this month. Israel has taken unprecedented measures to protect civilians, the writer asserts.  (credit: Ramadan Abed/Reuters)The sudden changeThe changes made by Egyptian intelligence caused anger and recrimination among US, Israeli and Qatari officials and caused an impasse in the talks, the CNN report said.The CIA, whose director, William Burns, has been leading the US mediation efforts, declined to comment on the report.Rashwan said in the statement that Cairo&#x27;s participation as a mediator resulted from &quot;repeated requests and insistence&quot; from Israel and the US Egypt said some &quot;parties&quot; recently directed blame towards Egyptian and Qatari mediators and accused them of being biased, he added.Tensions have been growing between Egypt and Israel over the Israeli military operation in Rafah at the southern end of the Gaza Strip, just across the border from Egypt.Since the war between Israel and Hamas began on Oct. 7, Egypt has expressed concern that Israel&#x27;s campaign could push residents of the Palestinian enclave across its border, where it has bolstered security.",
+
+    "articleSection" : "Israel-Hamas War",
+
+
+            "isAccessibleForFree": "true"
+            }
+</script>
+
+
+
+
+
+
+
+<nav class="one-row">
+    <section class="left-side">
+        
+<section class="g-row breadcrumbs-wrap">
+    <section class="g-row breadcrumbs">
+        <section class="breadcrumbs-list">
+            <section class="breadcrumbs-link-section">
+                <a title="Jerusalem Post" href="/">Jerusalem Post</a>
+
+                    <figure class="figMergInline">
+                        <img width="10" height="12" alt="Separator" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/arrow-areucle.svg" />
+                    </figure>
+                    <a title="Israel-Hamas War" href="https://www.jpost.com/israel-hamas-war">Israel-Hamas War</a>
+
+            </section>
+        </section>
+     </section>
+  
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+    "@id": "https://www.jpost.com",
+    "name": "Home"
+    }
+    }
+ ,{
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+            "@id": "https://www.jpost.com/israel-hamas-war",
+            "name": "Israel-Hamas War"
+            }
+            }
+          ,{
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+            "@id": "https://www.jpost.com/breaking-news/article-802286",
+            "name": "Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role"
+            }
+            }
+            ]
+    }
+    </script>
+
+</section>
+
+
+
+    </section>
+</nav>
+<section class="one-row">
+    <article class="g-row left-side">
+        <section class="margin-container-body">
+            
+<section class="body-first-part">
+	<section class="g-row">
+		
+<h1 class="g-row article-title">Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role</h1>
+
+    <section>
+        <h2 class="g-row article-subtitle">Egypt said some &quot;parties&quot; recently directed blame towards Egyptian and Qatari mediators and accused them of being biased.</h2>
+    </section>
+
+<section class="g-row article-subline">
+    <section class="article-subline-inner">
+        <section class="article-subline-inner-author">
+            <section class="article-subline-name">By <span class='article-reporter'> REUTERS</span></section>
+        </section>
+            <section class="article-subline-inner-updated-date">
+                <section class="date-data">
+                    <section class="published-date-data">
+                        <time datetime="2024-05-22T21:42:56&#x2B;03:00">
+                            MAY 22, 2024 21:42
+                        </time>
+                    </section>
+                        <section class="updated-date-data"><b>Updated:</b> MAY 23, 2024 00:37</section>
+                </section>
+                <section class="article-subline-inner-share-buttons">
+                    <section class="article-subline-share" data-share-url="https://www.jpost.com/breaking-news/article-802286" data-share-title="Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role">
+                        <nav>
+                            <ul  class="secUlHtml5 nav_ul">
+                                <li data-share-url="https://www.jpost.com/breaking-news/article-802286#802286" data-share-title="Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role">
+                                    <button type="button" class="share-mail-button icon-btn" title="Share with mail: Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role" >
+                                        <img width="31" height="31" class="mail" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/mail-icon-small.svg" alt="Email" />
+                                    </button>
+                                </li>
+                                <li data-share-url="https://www.jpost.com/breaking-news/article-802286#802286" data-share-title="Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role">
+                                    <button type="button" class="share-twitter-button icon-btn" title="Share on twitter: Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role" >
+                                        <img width="31" height="31" class="twitter-copy" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/twitter-icon-small.svg" alt="Twitter">
+                                    </button>
+                                </li>
+                                <li data-share-url="https://www.jpost.com/breaking-news/article-802286#802286" data-share-title="Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role">
+                                    <button class="share-facebook-button icon-btn" title="Share on facebook: Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role" >
+                                        <img width="31" height="31" class="fb-copy" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/fb-icon-small.svg" alt="Facebook">
+                                    </button>
+                                </li>
+                                <li data-share-url="https://www.jpost.com/breaking-news/article-802286#802286" data-share-title="Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role">
+                                    <button type="button" class="share-fb-copy-message-button icon-btn" id="fb-message" title="Share on fb-messenger: Egypt warns it may withdraw from Gaza war mediation over &#x27;attempts to doubt&#x27; its role" >
+                                        <img width="31" height="31" class="fb-copy-message" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/messenger-icon-small.svg" alt="fb-messenger">
+                                    </button>
+                                </li>
+                            </ul>
+                        </nav>
+                    </section>
+                </section>               
+            </section>
+    </section>
+</section>
+
+
+	</section>
+	<section class="g-row">
+			<figure class="article-image">
+				<img class="article-image-element"
+					 src="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/597691"
+					 width="290" height="260"
+					 alt=" The sun rises behind the Pyramids in Giza, on the outskirts of Cairo, Egypt, June 16, 2023.  (photo credit: REUTERS/MOHAMED ABD EL GHANY)"
+					 title=" The sun rises behind the Pyramids in Giza, on the outskirts of Cairo, Egypt, June 16, 2023. " />
+				<figcaption>
+					<section class="article-image-credit">
+						<section> The sun rises behind the Pyramids in Giza, on the outskirts of Cairo, Egypt, June 16, 2023. </section>
+						<section>(photo credit: REUTERS/MOHAMED ABD EL GHANY)</section>
+					</section>
+				</figcaption>
+			</figure>
+	</section>
+
+</section>
+<section class="g-row">
+	<section>
+		<section class="margin-container-body-text">
+			<section class="mb-5">
+				<div class="trinityAudioPlaceholder trinityAudioPlaceholder_1" ></div>
+			</section>
+			<section class="article-inner-content" itemprop="articleBody" id="startBannerSticky">
+				<p>Egypt threatened on Wednesday to withdraw as a mediator in Gaza ceasefire negotiations after CNN reported that <a href="https://www.jpost.com/breaking-news/article-802124">Egyptian intelligence changed the terms of a recent truce proposal</a> and scuttled a deal.<section class='fake-br-for-article-body'></section><p>"Attempts to cast doubt and offend Egypt's mediation efforts... will only lead to further complications of the situation in Gaza and the entire region and may push Egypt to completely withdraw from its mediation in the current conflict," Diaa Rashwan, head of Egypt's State Information Service, said in a statement published on social media.<section class='fake-br-for-article-body'></section><p>Quoting three people familiar with the discussions, CNN on Tuesday said Egyptian intelligence changed the terms of a ceasefire proposal that Israel agreed to earlier in May.<section class='fake-br-for-article-body'></section><div class="divAnyClip hide-for-premium"></div><div class="divVidazoo hide-for-premium"></div><script async >console.log("2390 BODY2. CatId is:"+catID);if(catID==120){	console.log("2390 BODY. YES for anyclip script");	var script = document.createElement('script');                  script.src = 'https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js';        script.setAttribute('pubname','jpostcom');    script.setAttribute('widgetname','0011r00001lcD1i_12258');    document.getElementsByClassName('divAnyClip')[0].appendChild(script);			}else if(catID !== 151) {	let widgetid = "60fd6becf6393400049e6535";	if(catID === 69){		widgetid = "65c3a2148772803523c6f41b";	}else if(catID === 161){		widgetid = "65c3a224fb10822a0a7db2dd";	}		console.log("2390 BODY. YES for vidazoo script");    var script = document.createElement('script');                  script.src = 'https://static.vidazoo.com/basev/vwpt.js';        script.setAttribute('data-widget-id', widgetid);    document.getElementsByClassName('divVidazoo')[0].appendChild(script);	if(!document.getElementById("qortex-ext-script")){		script = document.createElement('script');		script.src = "https://tags.qortex.ai/bootstrapper?group-id=qAAQHrWEnkO20EfZMXnAw&html-container=vdz[data-view=floater]";		script.setAttribute('defer', "defer");		script.setAttribute('id', "qortex-ext-script");		document.head.appendChild(script);	}	}</script><section class='fake-br-for-article-body'></section><section class='hide-for-premium'> <div class="OUTBRAIN" data-src="https://www.jpost.com//breaking-news/article-802286" data-widget-id="AR_36"></div> </section><section class='fake-br-for-article-body'></section><p>When Hamas announced on May 6 that it accepted the agreement, it was not the proposal that fellow mediators from the U.S. and Qatar thought was submitted to Hamas for review, according to CNN.<section class='fake-br-for-article-body'></section><figure class='article-image-in-body'><img width="822" height="537" style="max-width: 758px;" src="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/597453" alt=" DISPLACED PALESTINIANS, who fled Rafah as the IDF began evacuating civilians ahead of a threatened assault, travel on a vehicle in Khan Yunis, earlier this month. Israel has taken unprecedented measures to protect civilians, the writer asserts.  (credit: Ramadan Abed/Reuters)" title=" DISPLACED PALESTINIANS, who fled Rafah as the IDF began evacuating civilians ahead of a threatened assault, travel on a vehicle in Khan Yunis, earlier this month. Israel has taken unprecedented measures to protect civilians, the writer asserts.  (credit: Ramadan Abed/Reuters)" class="mfp-image-popup-container-link" data-mfp-src="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/597453" data-image-name=" DISPLACED PALESTINIANS, who fled Rafah as the IDF began evacuating civilians ahead of a threatened assault, travel on a vehicle in Khan Yunis, earlier this month. Israel has taken unprecedented measures to protect civilians, the writer asserts.  (credit: Ramadan Abed/Reuters)" data-image-credit=""><figcaption class="article-image-caption article-image-credit" style="max-width:100%;height:auto;"> DISPLACED PALESTINIANS, who fled Rafah as the IDF began evacuating civilians ahead of a threatened assault, travel on a vehicle in Khan Yunis, earlier this month. Israel has taken unprecedented measures to protect civilians, the writer asserts.  (credit: Ramadan Abed/Reuters)</figcaption></figure><h3>The sudden change</h3><p>The changes made by Egyptian intelligence caused anger and recrimination among US, Israeli and Qatari officials and caused an impasse in the talks, the CNN report said.<section class='fake-br-for-article-body'></section><p>The CIA, whose director, William Burns, has been leading the US mediation efforts, declined to comment on the report.<section class='fake-br-for-article-body'></section><p>Rashwan said in the statement that <a href="https://www.jpost.com/middle-east/voices-from-the-arab-press-cairo-negotiations-why-are-mediators-optimistic-797717">Cairo's participation as a mediator</a> resulted from "repeated requests and insistence" from Israel and the US<section class='fake-br-for-article-body'></section><section class='hide-for-premium'> <div class="OUTBRAIN" data-src="https://www.jpost.com//breaking-news/article-802286" data-widget-id="AR_37" style="width:auto;display:inline-block;margin-right:15px;min-height: 390px;margin-top:-27px;margin-bottom:10px;margin-left:-10px;"></div></section><p>Egypt said some "parties" recently directed blame towards Egyptian and Qatari mediators and accused them of being biased, he added.<section class='fake-br-for-article-body'></section><p>Tensions have been growing between Egypt and Israel over the Israeli military operation in Rafah at the southern end of the Gaza Strip, just across the border from Egypt.<section class='fake-br-for-article-body'></section><p>Since the war between Israel and Hamas began on Oct. 7, Egypt has expressed concern that Israel's campaign could push residents of the Palestinian enclave <a href="https://www.jpost.com/breaking-news/article-801034">across its border</a>, where it has bolstered security.
+				<section>
+					
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+
+
+            <section class="margin-container-body-text">
+                
+	<br />
+	<br />
+	<section class="g-row article-tags">
+		<section class="related-tags-title">Related Tags</section>
+		<section class="related-tags">
+				<section class="related-tag-container">
+
+					<section>
+						<a class="related-tag" title="Israel" target="_blank" href="/tags/israel">Israel</a>
+					</section>
+				</section>
+				<section class="related-tag-container">
+
+					<section>
+						<a class="related-tag" title="Egypt" target="_blank" href="/tags/egypt">Egypt</a>
+					</section>
+				</section>
+				<section class="related-tag-container">
+
+					<section>
+						<a class="related-tag" title="Hamas" target="_blank" href="/tags/hamas">Hamas</a>
+					</section>
+				</section>
+				<section class="related-tag-container">
+
+					<section>
+						<a class="related-tag" title="ceasefire" target="_blank" href="/tags/ceasefire">ceasefire</a>
+					</section>
+				</section>
+				<section class="related-tag-container">
+
+					<section>
+						<a class="related-tag" title="Legal Headline" target="_blank" href="/tags/legal-headline">Legal Headline</a>
+					</section>
+				</section>
+		</section>
+	</section>
+
+
+                <section class="g-row" id="premium-link">
+                    
+<p style= "padding-right: 40px; padding-top: 13px;padding-left: 40px;" id="linkPremium"></p>
+<script type="text/javascript">
+
+if(catID != 151){
+
+var cont = `<span><span class="premium-link-first-text " style="color: #fff; font-size: 25px;  padding-bottom: 10px;  font-family: Khula !important;">Take Israel home with the new </span></br>
+<span class="premium-link-second-text" style="color: #fff; font-weight: 700; font-family: Khula !important;  font-size: 35px; text-transform: uppercase; line-height: 50px"> Jerusalem Post Store</span><br /><br /><span style="font-family: Khula !important; border-radius: 5px;" class="premium-button-click"><a href="https://store.jpost.com/" target="_blank">Shop now >> </a></span></span><br />`;
+
+document.getElementById("linkPremium").innerHTML = cont;
+var divWithLink = document.getElementById("premium-link");
+if(divWithLink !== null && divWithLink !== 'undefined')
+{
+divWithLink.style.border = "solid 1px #cb0f3e";
+divWithLink.style.textAlign = "center";
+divWithLink.style.marginBottom = "40px";
+divWithLink.style.marginTop = "40px";
+divWithLink.style.width = "728px";
+divWithLink.style.backgroundColor = "#3c4860";
+divWithLink.style.color = "#ffffff";
+}
+}
+
+(function (v, i){
+});
+</script>
+
+                </section>
+            </section>
+        </section>
+        <section>
+
+                <section class="line-left-side-after-container spotim-banner">
+                    <section>
+                         <div id="spotim-ad-wrapper"></div> 
+<script async >
+try
+{
+if(catID!==151){
+	const spotimEl = document.getElementById("spotim-ad-wrapper");
+	spotimEl.innerHTML = "<div data-openweb-ad data-row=\"1\" data-column=\"1\"></div>";
+}
+}
+catch(e)
+{
+console.log("error banner spot-in 3614: " + e);
+}
+</script>
+                    </section>
+                </section>
+
+                <section class="line-left-side-after-container">
+                    <section>
+                        <section class='hide-for-premium'> <div class="OUTBRAIN" data-src="https://www.jpost.com//breaking-news/article-802286" data-widget-id="AR_23" ></div> 
+</section>
+                    </section>
+                </section>
+
+            <section class="line-left-side-after-container">
+                <section class="g-row article-spot-im">
+                    <div id="spotim_section" class="" style="display:block;">
+<div data-spotim-module="conversation" data-spot-id="sp_jpost" data-post-id="802286" data-article-tags="Israel,Egypt,Hamas,ceasefire,Legal Headline" data-messages-count="1"></div>
+</div>
+
+<script async >
+try
+{
+	console.log("spot-im script 3610: " + catID);
+	if(catID === 147)
+	{
+		console.log("spot-im script 3610: remove spot-im script to article page");
+		const elem_spot = document.getElementById("spotim_section");
+		elem_spot.remove();
+
+	} 
+	else
+	{
+		console.log("spot-im script 3610: add spot-im script to article page");
+	}
+}
+catch(e)
+{
+console.log("script 3610 error" + e);
+}
+</script>
+                </section>
+            </section>
+
+                <section class="line-left-side-after-container">
+                    <section class="g-row">
+                        <section class='hide-for-premium'> <div class="OUTBRAIN" data-src="https://www.jpost.com//breaking-news/article-802286" data-widget-id="AR_27"></div> 
+</section>
+                    </section>
+                </section>
+        </section>
+    </article>
+    <aside class="g-row-right right-side">
+            <section class="margin-container-right">
+                
+	<section class="hot-opinion-wrap" controlID="3899">
+		
+<section class="view-title">
+
+            <span>
+                <a href="/opinion">Hot Opinion</a>
+            </span>
+</section>
+			<section class="hot-opinion-item" id="hot_opinion_item_1">
+				<section class="sectionFlex">
+                    <section class="txtLeft">
+                            <a href="https://www.jpost.com/author/jpost-editorial" class="hot-opinion-img-wrap_html5">
+                                <figure class="hothtml5">
+                                    <img width="58" height="58" src="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_58,w_58/254834" alt="Jpost editorial logo " title="Jpost editorial logo " />
+                                </figure>
+                            </a>
+                    </section>
+					<section class="hot-opinion-text-wrap">
+						<a href="https://www.jpost.com/opinion/article-802279" class="hot-opinion-title draft-title-cms">
+							<h3>Hamas should not be rewarded for terrorism with a Palestinian state</h3>
+						</a>
+						<section class="hot-opnion-reporter">By <span class="article-reporter"><a href="https://www.jpost.com/author/jpost-editorial" target='_blank'>JPOST EDITORIAL</a></span></section>
+					</section>
+
+				</section>
+			</section>
+			<section class="hot-opinion-item" id="hot_opinion_item_2">
+				<section class="sectionFlex">
+                    <section class="txtLeft">
+                            <a href="https://www.jpost.com/author/salem-alketbi" class="hot-opinion-img-wrap_html5">
+                                <figure class="hothtml5">
+                                    <img width="58" height="58" src="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_58,w_58/472447" alt="Salem Alketbi" title="Salem Alketbi" />
+                                </figure>
+                            </a>
+                    </section>
+					<section class="hot-opinion-text-wrap">
+						<a href="https://www.jpost.com/opinion/article-802256" class="hot-opinion-title draft-title-cms">
+							<h3>A quiet Chinese rapprochement with Europe - opinion</h3>
+						</a>
+						<section class="hot-opnion-reporter">By <span class="article-reporter"><a href="https://www.jpost.com/author/salem-alketbi" target='_blank'>SALEM ALKETBI</a></span></section>
+					</section>
+
+				</section>
+			</section>
+			<section class="hot-opinion-item" id="hot_opinion_item_3">
+				<section class="sectionFlex">
+                    <section class="txtLeft">
+                            <a href="https://www.jpost.com/author/douglas-bloomfield" class="hot-opinion-img-wrap_html5">
+                                <figure class="hothtml5">
+                                    <img width="58" height="58" src="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_58,w_58/257525" alt="Douglas Bloomfield" title="Douglas Bloomfield" />
+                                </figure>
+                            </a>
+                    </section>
+					<section class="hot-opinion-text-wrap">
+						<a href="https://www.jpost.com/opinion/article-802264" class="hot-opinion-title draft-title-cms">
+							<h3>Ethically bankrupt: The US needs to take a serious look at corrupt courts</h3>
+						</a>
+						<section class="hot-opnion-reporter">By <span class="article-reporter"><a href="https://www.jpost.com/author/douglas-bloomfield" target='_blank'>DOUGLAS BLOOMFIELD</a></span></section>
+					</section>
+
+				</section>
+			</section>
+			<section class="hot-opinion-item" id="hot_opinion_item_4">
+				<section class="sectionFlex">
+                    <section class="txtLeft">
+                            <a href="https://www.jpost.com/author/elie-podeh" class="hot-opinion-img-wrap_html5">
+                                <figure class="hothtml5">
+                                    <img width="58" height="58" src="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_58,w_58/372261" alt="Elie Podeh" title="Elie Podeh" />
+                                </figure>
+                            </a>
+                    </section>
+					<section class="hot-opinion-text-wrap">
+						<a href="https://www.jpost.com/israel-hamas-war/article-801756" class="hot-opinion-title draft-title-cms">
+							<h3>Israel&#x27;s Rafah operation hurts Egypt&#x27;s plans</h3>
+						</a>
+						<section class="hot-opnion-reporter">By <span class="article-reporter"><a href="https://www.jpost.com/author/elie-podeh" target='_blank'>ELIE PODEH</a></span></section>
+					</section>
+
+				</section>
+			</section>
+			<section class="hot-opinion-item" id="hot_opinion_item_5">
+				<section class="sectionFlex">
+                    <section class="txtLeft">
+                            <a href="https://www.jpost.com/blogger/mordechai-kedar" class="hot-opinion-img-wrap_html5">
+                                <figure class="hothtml5">
+                                    <img width="58" height="58" src="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_58,w_58/249720" alt="man" title="man" />
+                                </figure>
+                            </a>
+                    </section>
+					<section class="hot-opinion-text-wrap">
+						<a href="https://www.jpost.com/opinion/article-802273" class="hot-opinion-title draft-title-cms">
+							<h3>The tightening of Armenian-Iranian ties</h3>
+						</a>
+						<section class="hot-opnion-reporter">By <span class="article-reporter"><a href="https://www.jpost.com/blogger/mordechai-kedar" target='_blank'>MORDECHAI KEDAR</a></span></section>
+					</section>
+
+				</section>
+			</section>
+	</section>
+
+            </section>
+
+
+            <section class="margin-container-right mb40 banner-h-880">
+                <section class='hide-for-premium'> <div class="OUTBRAIN" data-src="https://www.jpost.com//breaking-news/article-802286" data-widget-id="SB_10"></div> </section>
+            </section>
+
+
+            <section class="mb40">
+                
+
+
+	<section class="most-read-wrap" controlID="3913">
+        <section>
+            <section>
+                
+<section class="view-title">
+
+            <span>
+               Most Read
+            </span>
+</section>
+            </section>
+                <section class="most-read-item">
+                    <a href="https://www.jpost.com/international/article-800822">
+                        <section class="most-read-text-wrap">
+                            <span class="most-read-num">1</span>
+                            <h3 class="most-read-title draft-title-cms">Last year&#x27;s Swedish Eurovision winner says she won&#x27;t hand over trophy to Israeli contestant</h3>
+                        </section>
+                        <section class="most-read-img-wrap">
+                            <figure class="most-read-img-wrap dispInline">
+                                <img width="76" height="76" class="lazy" data-original="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_76,w_76/596632" alt=" Loreen from Sweden holds her trophy after winning the 2023 Eurovision Song Contest, in Liverpool, Britain, May 14, 2023. Uploaded on 11/5/2024" title=" Loreen from Sweden holds her trophy after winning the 2023 Eurovision Song Contest, in Liverpool, Britain, May 14, 2023. Uploaded on 11/5/2024" />
+                            </figure>
+                        </section>
+                    </a>
+                </section>
+                <section class="most-read-item">
+                    <a href="https://www.jpost.com/american-politics/article-792302">
+                        <section class="most-read-text-wrap">
+                            <span class="most-read-num">2</span>
+                            <h3 class="most-read-title draft-title-cms">Donald Trump: &#x27;If I don&#x27;t get elected, it&#x27;s going to be a bloodbath for the country!&#x27;</h3>
+                        </section>
+                        <section class="most-read-img-wrap">
+                            <figure class="most-read-img-wrap dispInline">
+                                <img width="76" height="76" class="lazy" data-original="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_76,w_76/582359" alt=" Former US President Donald Trump gestures during a campaign event in Waterford Township, Michigan, US, February 17, 2024." title=" Former US President Donald Trump gestures during a campaign event in Waterford Township, Michigan, US, February 17, 2024." />
+                            </figure>
+                        </section>
+                    </a>
+                </section>
+                <section class="most-read-item">
+                    <a href="https://www.jpost.com/international/article-801437">
+                        <section class="most-read-text-wrap">
+                            <span class="most-read-num">3</span>
+                            <h3 class="most-read-title draft-title-cms">Jewish children savagely beaten by man in New York City attack</h3>
+                        </section>
+                        <section class="most-read-img-wrap">
+                            <figure class="most-read-img-wrap dispInline">
+                                <img width="76" height="76" class="lazy" data-original="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_76,w_76/597503" alt=" An unidentified man assaults Jewish children in in New York. May 12, 2024." title=" An unidentified man assaults Jewish children in in New York. May 12, 2024." />
+                            </figure>
+                        </section>
+                    </a>
+                </section>
+                <section class="most-read-item">
+                    <a href="https://www.jpost.com/middle-east/iran-news/irans-aerial-attack-in-april-irrevocably-shifted-how-its-nuclear-threat-is-viewed-analysis-801308">
+                        <section class="most-read-text-wrap">
+                            <span class="most-read-num">4</span>
+                            <h3 class="most-read-title draft-title-cms">Iran&#x2019;s aerial attack in April irrevocably shifted how its nuclear threat is viewed</h3>
+                        </section>
+                        <section class="most-read-img-wrap">
+                            <figure class="most-read-img-wrap dispInline">
+                                <img width="76" height="76" class="lazy" data-original="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_76,w_76/592370" alt=" Anti-missile system fires interception missiles as drones and missiles fired from Iran, as it seen over the West Bank city of Hebron, on April 14, 2024. " title=" Anti-missile system fires interception missiles as drones and missiles fired from Iran, as it seen over the West Bank city of Hebron, on April 14, 2024. " />
+                            </figure>
+                        </section>
+                    </a>
+                </section>
+                <section class="most-read-item">
+                    <a href="https://www.jpost.com/israel-hamas-war/article-800772">
+                        <section class="most-read-text-wrap">
+                            <span class="most-read-num">5</span>
+                            <h3 class="most-read-title draft-title-cms">UN seemingly halves estimate of Gazan women, children killed</h3>
+                        </section>
+                        <section class="most-read-img-wrap">
+                            <figure class="most-read-img-wrap dispInline">
+                                <img width="76" height="76" class="lazy" data-original="https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_76,w_76/517090" alt=" THE UNITED NATIONS headquarters building in New York City, and the UN logo: Today&#x2019;s UN needs to be reimagined and reformed to address the limited problems it can effectively handle, says the writer." title=" THE UNITED NATIONS headquarters building in New York City, and the UN logo: Today&#x2019;s UN needs to be reimagined and reformed to address the limited problems it can effectively handle, says the writer." />
+                            </figure>
+                        </section>
+                    </a>
+                </section>
+        </section>
+	</section>
+
+            </section>
+
+            <section class="margin-container-right sticky-parent-block banner-h-620">
+                <section class="banner-300X600-left-side sticky-child-block">
+                    
+	<section class="right-side-banner-padding banner hide-for-1024">
+        <section class="replace-for-language label-body-bannner"> 
+            Advertisement
+        </section>
+		<section class='hide-for-premium'> <div data-aaad='true' data-aa-adunit='/6943/JPost_2017/Desktop/All_Regular_Ad_Units/Article_300x600_Sidebar_2' ></div></section>
+	</section>
+
+                </section>
+            </section>
+    </aside>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </main>
+
+    <footer>
+        
+
+<section class="all-screen-footer-wrap position-relative">
+    <section class="footer-wrap">
+        <figure class="footer-logo">
+            <img width="240" height="31" class="logo-img lazy footer-logo-img" alt="The Jerusalem Post - Israel News" title="The Jerusalem Post - Israel News" data-original="https://images.jpost.com/image/upload/245904" />
+        </figure>
+        <section class="footer-share-buttons">
+            <nav>
+                <ul class="secUlHtml5 nav_ul">
+                    <li>
+                        <a href="https://www.jpost.com/landedpages/jpostnewsletterandjpostalert.aspx" title="Newsletter">
+                            <img width="44" height="44" alt="Share by email" data-original="https://images.jpost.com/image/upload/v1680521745/mail1-footer_dwfxfv.svg" class="img-mail-footer lazy" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/Jerusalem_Post" title="JPost On Twitter">
+                            <img width="44" height="44" alt="Share on Twitter" data-original="https://images.jpost.com/image/upload/v1680521745/twitter1-footer_j9nys9.svg" class="img-twitter-footer lazy" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/TheJerusalemPost" title="JPost On Facebook">
+                            <img width="44" height="44" alt="Share on Facebook" data-original="https://images.jpost.com/image/upload/v1680521745/facebook1-footer_sq9jm0.svg" class="img-facebook-footer lazy" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCLLLdCANnMAdMyrXdYbSlxg" title="JPost On youtube">
+                            <img width="44" height="44" alt="Share on Youtube" data-original="https://images.jpost.com/image/upload/v1680521743/youtube1-footer_kuzudx.svg" class="img-youtube-footer lazy" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://t.me/The_Jerusalem_Post" title="JPost On Telegram">
+                            <img width="44" height="44" alt="Share on Telegram" data-original="https://images.jpost.com/image/upload/v1680426878/telegram-footer_zxck2w.svg" class="img-telegram-footer lazy" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/thejerusalem_post/" title="JPost On Instagram">
+                            <img width="44" height="44" alt="Share on Instagram" data-original="https://images.jpost.com/image/upload/v1680426878/instegram-footer_brctag.svg" class="img-instagram-footer lazy" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/jerusalem-post/" title="JPost On Linkedin">
+                            <img width="44" height="44" alt="Share on Linkedin" data-original="https://images.jpost.com/image/upload/v1680426878/linkein-footer_jeeib8.svg" class="img-linkedin-footer lazy" />
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+
+        <section class="follow-in-app">
+            <nav>
+                <ul class="secUlHtml5 nav_ul">
+                    <li>
+                        <a href="https://www.jpost.com/landedpages/jpostapps.aspx">
+                            <img width="172" height="49" data-original="https://images.jpost.com/image/upload/f_auto,fl_lossy/445635" alt="Available On App Store" title="Available On App Store" class="lazy inline" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.jpost.com/landedpages/jpostapps.aspx">
+                            <img width="172" height="49" data-original="https://images.jpost.com/image/upload/f_auto,fl_lossy/445636" alt="Android App On Google play" title="Android App On Google play" class="lazy inline" />
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+        <section class="all-footer-column-wrap">
+                
+
+	<section class="footer-column-wrap" controlID="41">
+		<section class="footer-column-title">
+Information		</section>
+				<section class="footer-item">
+					<a href="/landedpages/aboutus.aspx" class="footer-item-link-name" target="_blank" >About Us</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/contactus" class="footer-item-link-name" target="_blank" >Contact us</a>
+				</section>
+				<section class="footer-item">
+					<a href="/landedpages/feedback.aspx" class="footer-item-link-name" target="_blank" target='_blank' rel="nofollow">Feedback</a>
+				</section>
+				<section class="footer-item">
+					<a href="/landedpages/termsofservice.aspx" class="footer-item-link-name" target="_blank" >Terms Of Service</a>
+				</section>
+				<section class="footer-item">
+					<a href="/landedpages/privacypolicy.aspx" class="footer-item-link-name" target="_blank" rel="nofollow">Privacy Policy</a>
+				</section>
+				<section class="footer-item">
+					<a href="/landedpages/contract.pdf" class="footer-item-link-name" target="_blank" target='blank' rel="nofollow">Subscriber Agreement</a>
+				</section>
+				<section class="footer-item">
+					<a href="/jpost-jobs" class="footer-item-link-name" target="_blank" rel="nofollow">JPost Jobs</a>
+				</section>
+				<section class="footer-item">
+					<a href="/customer-service/cancel-subscription" class="footer-item-link-name" target="_blank" >Cancel Subscription</a>
+				</section>
+				<section class="footer-item">
+					<a href="/sitemap" class="footer-item-link-name" target="_blank" >Sitemap</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/advertise-in-hebrew" class="footer-item-link-name" target="_blank" rel="nofollow">&#x5E4;&#x5E8;&#x5E1;&#x5D5;&#x5DD; &#x5D1;&#x5D2;&#x27;&#x5E8;&#x5D5;&#x5D6;&#x5DC;&#x5DD; &#x5E4;&#x5D5;&#x5E1;&#x5D8;</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/customer-service" class="footer-item-link-name" target="_blank" rel="nofollow">Customer Service</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/advertise" class="footer-item-link-name" target="_blank" target='_blank' style=font-weight:bold; rel="nofollow">Advertise with Us</a>
+				</section>
+	</section>
+
+                
+
+	<section class="footer-column-wrap" controlID="44">
+		<section class="footer-column-title">
+The Jerusalem Post Group		</section>
+				<section class="footer-item">
+					<a href="/breaking-news" class="footer-item-link-name" target="_blank" >Breaking News</a>
+				</section>
+				<section class="footer-item">
+					<a href="/international" class="footer-item-link-name" target="_blank" >World News</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/middle-east/iran-news" class="footer-item-link-name" target="_blank" >Iran News</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/mdaheroes" class="footer-item-link-name" target="_blank" >MDA Heroes</a>
+				</section>
+				<section class="footer-item">
+					<a href="/jerusalem-report" class="footer-item-link-name" target="_blank" rel="nofollow">The Jerusalem Report</a>
+				</section>
+				<section class="footer-item">
+					<a href="http://www.jpostlite.co.il/" class="footer-item-link-name" target="_blank" target='_blank' Jerusalem Post Lite >Jerusalem Post Lite</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.maariv.co.il/" class="footer-item-link-name" target="_blank" target='_blank' >&#x5D7;&#x5D3;&#x5E9;&#x5D5;&#x5EA; &#x5DE;&#x5E2;&#x5E8;&#x5D9;&#x5D1; </a>
+				</section>
+				<section class="footer-item">
+					<a href="https://realestate.jpost.com/" class="footer-item-link-name" target="_blank" id="IsraelRealEstateMain">Real Estate Listings</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/hype" class="footer-item-link-name" target="_blank" >Hype</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/Special-Content" class="footer-item-link-name" target="_blank"  rel="nofollow">Special Content</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/influencers/50jews-23" class="footer-item-link-name" target="_blank" rel="nofollow">50 Jews</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://store.jpost.com/" class="footer-item-link-name" target="_blank" target=_blank >JP Store</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/brandblend" class="footer-item-link-name" target="_blank" >BrandBlend</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/home-services" class="footer-item-link-name" target="_blank" >Home Services</a>
+				</section>
+	</section>
+
+                
+
+	<section class="footer-column-wrap" controlID="46">
+		<section class="footer-column-title">
+Tools and services		</section>
+				<section class="footer-item">
+					<a href="https://payments.jpost.com/paywall/paywallpersonaldetails" class="footer-item-link-name" target="_blank" target='_blank' JPost Premium rel="nofollow">JPost Premium</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://members.jpost.com/ulpanonline/ulpanonlinehome.aspx" class="footer-item-link-name" target="_blank" target='_blank' Ulpan Online rel="nofollow">Ulpan Online</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/subscribe-daily-email" class="footer-item-link-name" target="_blank" title='Subscribe To The JPost NewsLetter '  target='_blank' rel="nofollow">JPost Newsletter</a>
+				</section>
+				<section class="footer-item">
+					<a href="/landedpages/subscribe.aspx" class="footer-item-link-name" target="_blank" target='_blank'>Our Magazines</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://members.jpost.com/LandedPages/hebrew.aspx" class="footer-item-link-name" target="_blank" target='_blank' Learn Hebrew rel="nofollow">Learn Hebrew</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/rss/" class="footer-item-link-name" target="_blank" target='_blank'>RSS feed</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/articlearchive/listarticlearchive.aspx" class="footer-item-link-name" target="_blank" target='_blank'  rel="nofollow">JPost.com Archive</a>
+				</section>
+				<section class="footer-item">
+					<a href="/magazineprint/digitallibrary.aspx" class="footer-item-link-name" target="_blank" target='_blank'>Digital Library</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/judaism/lists-of-holidays/2023" class="footer-item-link-name" target="_blank" target='_blank' >Lists of Jewish holidays</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/law" class="footer-item-link-name" target="_blank"  id="LAWMain" target='_blank'  >Law</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.maariv.co.il/jewishism/Lists-of-holidays" class="footer-item-link-name" target="_blank" >&#x5DC;&#x5D5;&#x5D7; &#x5D7;&#x5D2;&#x5D9;&#x5DD; &#x5D5;&#x5DE;&#x5D5;&#x5E2;&#x5D3;&#x5D9;&#x5DD; 2023</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.maariv.co.il/jewishism/shabat-times" class="footer-item-link-name" target="_blank" >&#x5D6;&#x5DE;&#x5E0;&#x5D9; &#x5DB;&#x5E0;&#x5D9;&#x5E1;&#x5EA; &#x5E9;&#x5D1;&#x5EA;</a>
+				</section>
+	</section>
+
+                
+
+	<section class="footer-column-wrap" controlID="43">
+		<section class="footer-column-title">
+Sites Of Interest		</section>
+				<section class="footer-item">
+					<a href="http://www.bankhapoalim.com/?refferer=Jpost&amp;subject=hp" class="footer-item-link-name" target="_blank" target='_blank' Poalim Online rel="nofollow">Poalim Online</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://www.jpost.com/tags/jnf-usa" class="footer-item-link-name" target="_blank" target="_blank"  rel="nofollow">JNF-USA</a>
+				</section>
+				<section class="footer-item">
+					<a href="https://whoishamas.com/" class="footer-item-link-name" target="_blank" target='_blank'  rel="nofollow">Who is Hamas</a>
+				</section>
+	</section>
+
+                
+
+
+        </section>
+
+        <section class="footer-bottom-text">
+            The Jerusalem Post Customer Service Center can be contacted with any questions or requests:
+            <br />
+            Telephone: *2421 * Extension 4 Jerusalem Post or 03-7619056
+            Fax: 03-5613699
+            E-mail: subs@jpost.com
+            <br />
+            The center is staffed and provides answers on Sundays through Thursdays between 07:00 AM and 14:00 PM and Fridays only handles distribution requests between 7:00 AM and 12:30 PM
+            <br />
+            For international customers: The center is staffed and provides answers on Sundays through Thursdays between 7AM and 14PM Israel time Toll
+            Free number 1-800-448-9291
+            Telephone +972-3-761-9056
+            Fax: 972-3-561-3699
+            E-mail: subs@jpost.com
+        </section>
+        <section class="footer-bottom-copyright-text">
+            <span>
+                Copyright © 2024 Jpost Inc. All rights reserved
+                <a href="/landedpages/termsofservice.aspx" target="_blank">
+                    • Terms of Use
+                </a>
+                <a href="/landedpages/privacypolicy.aspx" target="_blank">
+                    • Privacy Policy
+                </a>
+            </span>
+            <span class="footer-bottom-text-designer">Designed by <a href="https://www.danielchen.co.il/" target="_blank" rel="nofollow"><img width="100" height="12" alt="Daniel Chen" class="lazy footerlink" data-original="https://images.jpost.com/image/upload/f_auto,fl_lossy/445638" /></a></span>
+        </section>
+    </section>
+</section>
+
+    </footer>
+
+    <script src="/js/site.min.js?v=i2Jg6Yyuj562mgd9bx3QMiQWQV9s0szsY0a03dKgYR8"></script>
+    <script src="/js/js_article.min.js?v=foEwAGrAGZu_BsOTxekcqXgZz8yFiC7URaxcUABhjMk"></script>
+    <script src="/js/js_magnific-popup.min.js?v=XXv9VTLdMNOXCzQtxYc1yyZI0w0YmTvgO81OxPi1mtw"></script>
+
+    
+    <script async  type="text/javascript">
+
+    function getPremiumCookieByName(cname) {
+        var c_name = cname + "=";
+        var c_a = document.cookie.split(';');
+        for (var i = 0; i < c_a.length; i++) {
+            var c_c = c_a[i];
+            while (c_c.charAt(0) == ' ') {
+                c_c = c_c.substring(1);
+            }
+            if (c_c.indexOf(c_name) == 0) {
+                return c_c.substring(c_name.length, c_c.length);
+            }
+        }
+        return "";
+    }
+
+    $(document).ready(function () {
+        try {
+ 	console.log('SPOTIM_ADS_DISABLED1');
+ 	console.log('SPOTIM_ADS_DISABLED2 ' + getPremiumCookieByName("rennabtuohtiweikooc"));
+	if (getPremiumCookieByName("rennabtuohtiweikooc").length > 0) {
+                     
+               console.log('SPOTIM_ADS_DISABLED');
+                window.__SPOTIM_ADS_DISABLED__ = true;
+                window.__SPOTIM_DISABLE_ADS__ && window.__SPOTIM_DISABLE_ADS__()             
+            }
+
+        document.addEventListener('spot-im-current-user-typing-start', function () {
+            console.log('spot-im-current-user-typing-start');
+            stopRefreshSite();
+            console.log("refresh Site not active");
+        });
+
+        document.addEventListener('spot-im-current-user-typing-end', function () { console.log('spot-im-current-user-typing-end'); });
+        document.addEventListener('spot-im-current-user-sent-message', function () {
+            console.log('spot-im-current-user-sent-message');
+            refreshSiteInterval();
+            console.log("refresh Site active");
+        });
+    }
+    catch (err) { console.log(err); }
+    });
+
+</script><script async  type="text/javascript">
+
+    function getCookieByName(cname) {
+        var c_name = cname + "=";
+        var c_a = document.cookie.split(';');
+        for (var i = 0; i < c_a.length; i++) {
+            var c_c = c_a[i];
+            while (c_c.charAt(0) == ' ') {
+                c_c = c_c.substring(1);
+            }
+            if (c_c.indexOf(c_name) == 0) {
+                return c_c.substring(c_name.length, c_c.length);
+            }
+        }
+        return "";
+    }
+
+    $(document).ready(function () {
+        try {
+            console.log(getCookieByName("rennabtuohtiweikooc").length);
+            if (getCookieByName("rennabtuohtiweikooc").length > 0) {
+                $(".is-hide-for-premium").remove();
+
+
+                console.log('SPOTIM_ADS_DISABLED');
+                window.__SPOTIM_ADS_DISABLED__ = true;
+                window.__SPOTIM_DISABLE_ADS__ && window.__SPOTIM_DISABLE_ADS__()  
+
+            }
+        }
+        catch (err) { console.log(err);}
+    });
+
+</script>
+
+<script type="text/javascript" async="">
+
+    var num = 420000; // 7 min
+    var pathArticle=window.location.pathname;
+
+    var refreshSiteNew;
+    refreshSiteInterval();
+
+   var MAX_REFRESH = 100;
+   if (sessionStorage.getItem('numRefresh') == null) {
+       sessionStorage.setItem("numRefresh", "1");
+   }
+
+    function refreshSiteInterval() {
+       
+const now = new Date();		
+console.log('Last refreshSite in: ' + now);
+		
+var nextRefreshTime = new Date(now.setMilliseconds(now.getMilliseconds() + num));
+console.log('Next refreshSite in: ' + nextRefreshTime);
+
+        refreshSiteNew = setInterval(function () {
+            if (typeof (Storage) !== "undefined") {
+                sessionStorage.setItem("yPosition" + articleID, window.pageYOffset);
+            } else {
+                // Sorry! No Web Storage support..
+            }
+            
+          
+        var numRefreshInSession = parseInt(sessionStorage.getItem("numRefresh"));
+        if (numRefreshInSession <= MAX_REFRESH) {
+            sessionStorage.setItem("numRefresh", (numRefreshInSession + 1));
+             document.location = document.location;                    
+         }
+            
+        }, num);
+
+        if (typeof (Storage) !== "undefined") {
+            var yPosition = sessionStorage.getItem("yPosition" + articleID);
+            if (yPosition != null && yPosition > 0) {
+                window.scrollTo(0, yPosition);
+            }
+        } else {
+            // Sorry! No Web Storage support..
+        }
+
+    };
+    function stopRefreshSite() {
+        clearInterval(refreshSiteNew);
+console.log('Stop Refresh Site activated');
+    }
+        
+    function success() {
+        console.log('success');
+    }
+
+    function fail() {
+        console.log('fail');
+    }
+
+if(pathArticle.indexOf("667820") !=  -1 || pathArticle.indexOf("667820") !=  -1 || 
+pathArticle.indexOf("734063") !=  -1 ||
+pathArticle.indexOf("695957") !=  -1)
+{
+stopRefreshSite();
+}
+
+console.log("catpod: " + catID);
+if(catID == 130)
+{
+stopRefreshSite();
+}
+
+        </script>
+<script async >
+jQuery('.twitter-block').delegate('#twitter-widget-0','DOMSubtreeModified propertychange', function() {
+        //function call to override the base twitter styles
+        customizeTweet();
+    });
+
+    var customizeTweet = function() {
+        jQuery('.twitter-block').find('.twitter-timeline').contents().find('.timeline-Header').css('display', 'none');
+        jQuery('.twitter-block').find('.twitter-timeline').contents().find('.timeline-Footer').css('display', 'none');
+ 
+    }
+</script>
+<script async >
+    (function () {
+        var clientIP = "";
+        $.getJSON("https://api.ipify.org?format=json", function (data) {
+            clientIP = data.ip;
+
+            $.ajax({
+                url: 'https://graph.facebook.com/v12.0/1730128020581377/events?access_token=EAAImek5wZBIABAJstt216O1qMPtr9SBYs0UWAcEZBOmYZAtH1taP21ZCZAJ5g1O0uhbuGZBBZBsZBQZBgWKNsrLYAT1RtlVBkCc0ynBCHZCjymX7HX2ZB10AMYm3nQ9uI8h557gZB6Y777ZBhheFWecRX1iDUhkQH3C7MdzPUjI92cURpCafjJIRGNEx7',
+                type: 'post',
+                dataType: 'json',
+                data: {
+                    "data": [{
+                        event_name: "Pageview",
+                        event_time: Math.floor(new Date() / 1000),
+                        action_source: "website",
+                        event_source_url: window.location.href,
+                        user_data: {
+                            "client_ip_address": clientIP,
+                            "client_user_agent": navigator.userAgent
+                        }
+                    }]
+                },
+                success: function (response) {
+                    console.log(response);
+                },
+                error: function (response) {
+                    console.log("error");
+                }
+            });
+        })
+    })();
+</script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,786 @@
+<!-- Detail -->
+
+
+
+
+
+<!DOCTYPE html>
+<html class="full">
+<head prefix="og: http://ogp.me/ns#">
+    <meta name="csrf-token" content="JLmGUREYaVtGlauLwAz14lGKBFLiyu4ixJcvpHYL" />
+    <meta charset="utf-8">
+    <title>Taiwan&#039;s new leader Lai urges China to stop military threats</title>
+    <meta name="apple-mobile-web-app-title" content="Kyodo News+">
+    <meta name="keywords"    content="taiwan news, taiwan president, taiwan new president, Lai Ching-te, taiwan lai">
+    <meta name="description" content="Taiwan&#039;s new President Lai Ching-te urges China to stop its military and political threats against the self-ruled island in his inaugural speech, saying peace is the &amp;quot;only option,&amp;quot; amid heightened tensions with the Communist-led mainland, which condemns him as an advocate for independence.">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+
+    <meta name="block_download_image" content="1">
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-180x180-precomposed.png" />
+    <meta name="robots" content="noarchive,noodp,noydir" />
+    <meta name="application-name" content="Kyodo News+" />
+    <meta name="author"           content="KYODO NEWS" />
+
+    <meta property="og:url"              content="https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html" />
+    <meta property="og:type"             content="article" />
+    <meta property="og:title"            content="Taiwan&#039;s new leader Lai urges China to stop military threats" />
+    <meta property="og:description"      content="Taiwan&#039;s new President Lai Ching-te urges China to stop its military and political threats against the self-ruled island in his inaugural speech, saying peace is the &amp;quot;only option,&amp;quot; amid heightened tensions with the Communist-led mainland, which condemns him as an advocate for independence." />
+    <meta property="og:image"            content="https://img.kyodonews.net/english/public/images/posts/b148b968eb6f00cf44863b7fdf52c863/photo_l.jpg" />
+    <meta property="og:site_name"        content="Kyodo News+" />
+    <meta property="og:locale"           content="en_US" />
+
+    <meta name="twitter:site"            content="@kyodo_official" />
+    <meta property="twitter:url"         content="https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html" />
+    <meta property="twitter:title"       content="Taiwan&#039;s new leader Lai urges China to stop military threats" />
+    <meta property="twitter:description" content="Taiwan&#039;s new President Lai Ching-te urges China to stop its military and political threats against the self-ruled island in his inaugural speech, saying peace is the &amp;quot;only option,&amp;quot; amid heightened tensions with the Communist-led mainland, which condemns him as an advocate for independence." />
+    <meta property="twitter:image:alt"   content="Taiwan&#039;s new leader Lai urges China to stop military threats" />
+    <meta property="twitter:image"       content="https://img.kyodonews.net/english/public/images/posts/b148b968eb6f00cf44863b7fdf52c863/photo_l.jpg" />
+    <meta name="twitter:card"            content="summary_large_image" />
+    <script type="application/ld+json">[{"@context":"http:\/\/schema.org","@type":"NewsArticle","url":"https:\/\/english.kyodonews.net","publisher":{"@type":"Organization","name":"KYODO NEWS+","logo":{"@type":"ImageObject","url":"https:\/\/english.kyodonews.net\/en\/img\/tw_og_image.jpg","width":300,"height":100},"address":{"@type":"PostalAddress","postalCode":"105-7201 Japan","addressRegion":"Tokyo","addressLocality":"Minato","streetAddress":"1-7-1 Higashi Shimbashi"}},"image":{"@type":"ImageObject","url":"https:\/\/img.kyodonews.net\/english\/public\/images\/posts\/b148b968eb6f00cf44863b7fdf52c863\/photo_l.jpg","width":715,"height":400},"headline":"Taiwan's new leader Lai urges China to stop military threats","author":{"@type":"Person","name":"KYODO NEWS","image":"https:\/\/s3.us-west-2.amazonaws.com\/img.kyodonews.net\/public\/article_sources\/3884c84f021421803366d27b21f8b699\/logo_image.png"},"datePublished":"2024-05-20 21:17:00","dateModified":"2024-05-20 21:17:00","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/english.kyodonews.net\/news\/2024\/05\/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html"}},{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/english.kyodonews.net","name":"TOP"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/english.kyodonews.net\/news\/2024\/05\/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html","name":"Taiwan's new leader Lai urges China to stop military threats"}}]}]</script>
+
+    <link media="all" type="text/css" rel="stylesheet" href="https://cdn.kyodo-d.info/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link media="all" type="text/css" rel="stylesheet" href="https://english.kyodonews.net/en/css/bootstrap.min.css">
+    <link media="all" type="text/css" rel="stylesheet" href="https://english.kyodonews.net/en/css/additional.css?timestamp=20240306102500">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet" />
+    <link media="all" type="text/css" rel="stylesheet" href="https://english.kyodonews.net/assets/css/app.css?timestamp=20240524080137">
+    <link media="all" type="text/css" rel="stylesheet" href="https://english.kyodonews.net/assets/css/additional_wysiwyg.css?timestamp=20240524080137">
+    <link media="print" type="text/css" rel="stylesheet" href="https://english.kyodonews.net/assets/css/print.css?timestamp=20240524080137">
+
+    <link media="all" type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.5.0/slick/slick.css">
+    <link media="all" type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.5.0/slick/slick-theme.css">
+
+    <script src="https://english.kyodonews.net/assets/js/lib/jquery-1.11.3.min.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/lib/jquery.browser.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/lib/jquery.lazy.min.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/lib/jquery-iframe-auto-height.min.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/lib/ofi.min.js"></script>
+        <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://english.kyodonews.net/en/js/itemslide.min.js"></script>
+    <script src="https://english.kyodonews.net/en/js/tether.min.js"></script>
+    <script src="https://english.kyodonews.net/en/js/bootstrap.min.js"></script>
+    <script src="https://english.kyodonews.net/en/js/additional.js"></script>
+
+    <script src="https://english.kyodonews.net/assets/js/lib/jquery.inview.min.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/app.js?timestamp=20240524080137"></script>
+    <script src="https://english.kyodonews.net/assets/js/page.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/search_post.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/contact.js"></script>
+    <script src="https://english.kyodonews.net/assets/js/more.js"></script>
+
+            <script src="https://english.kyodonews.net/assets/js/lib/jquery.cookie.js"></script>
+
+            
+            <script>
+          <!-- Google Tag Manager -->
+          (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-WDJ9QGW');
+          <!-- End Google Tag Manager -->
+
+        </script>
+    
+            
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/11700466/KyodoNewsPlus/KyodoNewsPlus_detail', [[320, 50], [970, 90]], 'div-gpt-ad-1520575437863-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+     var contentAdsMapping = googletag.sizeMapping().
+        addSize([1050, 200], [728,90], [728, 182]). // Desktop
+        addSize([320, 700], [728,90], [728, 182]). // Tablet
+        addSize([640, 480], [345, 150],[320,50]). // mobile
+        addSize([0, 0],[320,50]).
+        build();
+    googletag.defineSlot('/21751293123/knp_english/knp_english_detail_bottom', [[728,90], [320, 50]], 'div-gpt-ad-1558486644854-0').defineSizeMapping(contentAdsMapping).setCollapseEmptyDiv(true).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<style>
+.partners .partnersLinks {
+display: flex;
+align-items: center;
+flex-wrap:wrap;
+}
+.partners .partnersLinks a {
+display: block;
+margin-bottom: 20px;
+}
+.partners .partnersLinks a img {
+padding: 0 30px;
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-o-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+filter: grayscale(100%);
+transition:0.5s;
+transition:0.5s;
+opacity: .5;
+display: table-cell;
+max-width:200px;
+max-height:40px;
+}
+ 
+.partners .partnersLinks a img:hover{
+-webkit-filter: grayscale(0%);
+-moz-filter: grayscale(0%);
+-o-filter: grayscale(0%);
+-ms-filter: grayscale(0%);
+filter: grayscale(0%);
+opacity: 1;
+}
+
+</style>
+
+<style>
+	.dejikan-wrapper {
+		position: relative;
+		overflow: hidden;
+	}
+
+	@media screen and (max-width:514px) {
+			.dejikan-wrapper iframe {
+			height: 700px;
+			}
+		}
+</style>
+    
+    </head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDJ9QGW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    
+    
+    <!--Header-->
+<header>
+    <div class="container clearfix">
+                <div class="logo"><a href="https://english.kyodonews.net">
+                                <img src="/en/img/logo.svg" alt="KYODO NEWS">
+                        </a></div>
+        <div class="global"><a href="" data-toggle="dropdown"><i class="fa fa-globe fa-lg" aria-hidden="true"></i></a>
+            <ul class="dropdown-menu">
+                                                    <li>
+                        <a href="https://english.kyodonews.net"  >
+                            ENGLISH
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://china.kyodonews.net"  target="_blank"  >
+                            简体中文
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://tchina.kyodonews.net"  target="_blank"  >
+                            繁體中文
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.47news.jp/"  target="_blank"  >
+                            日本語
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+        <div class="search" id="search-button"><a href="https://english.kyodonews.net/search"><i class="fa fa-search fa-lg" aria-hidden="true"></i></a></div>
+        <div class="socialnav-header">
+                    <div class="facebook">
+                <a href="https://www.facebook.com/pg/kyodoenglish/" target="_blank">
+                    <i class="fa fa-facebook fa-lg" aria-hidden="true"></i>
+                </a>
+            </div>
+                            <div class="twitter">
+                <a href="https://twitter.com/kyodo_english" target="_blank">
+                    <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
+                </a>
+            </div>
+                            <div class="rss">
+                <a href="https://english.kyodonews.net/rss/kyodonews-fzone.xml" target="_blank">
+                    <i class="fa fa-rss fa-lg" aria-hidden="true"></i>
+                </a>
+            </div>
+            </div>
+    </div>
+</header>
+
+    <nav class="nav"><div class="container"><ul class="clearfix">
+<li><a class="" href="https://english.kyodonews.net/news">Latest</a></li>
+<li><a class="" href="https://english.kyodonews.net/news/japan">Japan</a></li>
+<li><a class="" href="https://immersive.kyodonews.net/kyodo-visual-stories/index.html">Visual Stories</a></li>
+<li><a class="" href="https://english.kyodonews.net/news/travel-tourism">Travel/Tourism</a></li>
+<li><a class="" href="https://english.kyodonews.net/news/world">World</a></li>
+<li><a class="" href="https://english.kyodonews.net/news/sports">Sports</a></li>
+<li><a class="" href="https://english.kyodonews.net/news/feature">Feature</a></li>
+<li><a class="" href="https://english.kyodonews.net/news/arts">Arts</a></li>
+<li><a class="" href="https://english.kyodonews.net/news/podcast">Podcast</a></li>
+<li><a class="" href="https://english.kyodonews.net/olympics">Olympics</a></li>
+<li><a class="" href="https://english.kyodonews.net/paralympics">Paralympics</a></li>
+<li><a class="" href="https://english.kyodonews.net/about.html">About us</a></li>
+</ul></div></nav>
+
+    <div class="wrapper">
+                            
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                                            <div class="main">
+    <h1>Taiwan's new leader Lai urges China to stop military threats</h1>
+    <div class="js-more-url" data-title="Taiwan&#039;s new leader Lai urges China to stop military threats" data-url="/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html"
+         style="width:1px; height:1px; background-color:transparent;"></div>
+    <p class="credit"  style="margin-bottom: 0;" >
+                    <img src="/en/img/thumbnail.png" data-src="https://s3.us-west-2.amazonaws.com/img.kyodonews.net/public/article_sources/3884c84f021421803366d27b21f8b699/logo_image_thumbnail.png" alt="KYODO NEWS" />
+        
+        
+                    <a href="/kyodo_news">KYODO NEWS</a>
+        
+                    -
+        
+                May 20, 2024 - 21:17 |  <a href="/news/world" >World</a>, <a href="/news" >All</a>
+    </p>
+    
+    <div class="socialnav">
+    <ul>
+        <li><a href="javascript:fbShare('https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html')"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><li><a href="http://twitter.com/share?url=https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html&text=Taiwan&#039;s new leader Lai urges China to stop military threats" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a data-pin-do="buttonBookmark" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.reddit.com/submit?title=Taiwan&#039;s new leader Lai urges China to stop military threats&url=https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></li>
+            </ul>
+</div><!--end.socialnav-->
+
+
+                <style>
+            .article-body > p:nth-of-type(1)::before {
+                content: "TAIPEI − ";
+            }
+        </style>
+    
+    
+    
+    <div class="article-body">
+                    <p>Taiwan's new President Lai Ching-te urged China to stop its military and political threats against the self-ruled island in his inaugural speech Monday, saying peace is the "only option," amid heightened tensions with the Communist-led mainland, which condemns him as an advocate for independence.</p>
+<p>Lai also said his new government will "neither yield nor provoke, and maintain the status quo" in the two sides' relationship, calling on Beijing to share the responsibility of "maintaining peace and stability in the Taiwan Strait" to ensure the world is "free from the fear of war."</p>
+<p>China, which claims Taiwan as its own, aims to bring the island into its fold, by force if necessary. It has regularly sent military vessels and warplanes near it while also pressuring it economically.</p>
+<p>Lai, who leads the independence-leaning Democratic Progressive Party, urged China to "choose dialogue over confrontation, exchange over containment" and "under the principles of parity and dignity" cooperate with "the legal government chosen by Taiwan's people" in order to "together pursue peace and mutual prosperity."</p>
+<div style="text-align: right;"><img src="https://img.kyodonews.net/english/public/images/posts/b148b968eb6f00cf44863b7fdf52c863/photo_l.jpg" width="100%" />
+<div class="caption"><em> Taiwan's new president, Lai Ching-te, makes a speech at his inauguration ceremony held in front of the presidential office building in Taipei on May 20, 2024. (Kyodo) ==Kyodo</em></div>
+</div>
+<p>In Beijing, China's State Council Taiwan Affairs Office accused Lai of sending a "dangerous signal" in his inaugural speech, claiming he "stubbornly" sought the island's independence and made provocations that could undermine cross-strait peace and stability.</p>
+<p>Beijing has shunned talks with the DPP government since Tsai Ing-wen, Lai's predecessor, took office in 2016. Her successor said that neither Taiwan nor mainland China, having split after a civil war in 1949, are "subordinate to each other."</p>
+<p>The 64-year-old new leader also said Taiwan must boost its defense capabilities in the "face of the many threats and attempts of infiltration from China," enhance its economic security and work with other democracies to achieve peace.</p>
+<p>"By standing side-by-side with other democratic countries, we can form a peaceful global community that can demonstrate the strength of deterrence and prevent war," he added. Taiwan has been boosting ties with countries including the United States in recent years.</p>
+<p>On the economic front, Lai said Taiwan has already mastered advanced semiconductor manufacturing and is "a key player in supply chains for global democracies." He also called for speeding up the territory's transformation into an "AI island" to make its economy and military stronger by adopting artificial intelligence.</p>
+<p>Together with Lai, Vice President Hsiao Bi-khim, 52, a former de facto ambassador to the United States, took office at the swearing-in ceremony.</p>
+<div style="text-align: right;"><img src="https://img.kyodonews.net/english/public/images/posts/e4f505eb01a3bd88fe8bdfe25a4413b9/photo_l.jpg" width="100%" />
+<div class="caption"><em> People gather in front of the presidential office building in Taipei on May 20, 2024, ahead of the inauguration of Taiwan's new president, Lai Ching-te, on May 20, 2024. ==Kyodo</em></div>
+</div>
+<p>Among over 500 foreign guests who attended the inauguration ceremony were some 30 parliamentarians from Japan and two former senior U.S. officials -- former Director of the National Economic Council Brian Deese and former Deputy Secretary of State Richard Armitage.</p>
+<p>In Tokyo, Chief Cabinet Secretary Yoshimasa Hayashi said Japan will work to expand its cooperation with Taiwan on "a nongovernmental basis," and that the island, which shares fundamental values and maintains close economic relations and people-to-people exchanges, is an "extremely crucial partner and an important friend" for Tokyo.</p>
+<p>The United States, in a statement issued Sunday by Secretary of State Antony Blinken, vowed to deepen its "longstanding unofficial relationship" with Taiwan to work together to maintain cross-strait peace and stability.</p>
+<p>In contrast to its stance toward the DPP, which was also in power from 2000 to 2008, Beijing favorably treats the island's main opposition Nationalist Party, or Kuomintang (KMT).</p>
+<p>The KMT ruled Taiwan for most of the period since the end of World War II, including between 2008 and 2016 under then President Ma Ying-jeou, and now has the largest number of seats in parliament.</p>
+<p>Ma's office criticized Lai over his inaugural speech, claiming it showed his "direct and explicit" independence-leaning stance that could trigger "an unprecedentedly dangerous situation" between the two sides. Ma met with Chinese President Xi Jinping last month in Beijing.</p>
+<p>Lai defeated his two opposition party rivals in a closely watched election in January, securing a third consecutive four-year term for the DPP for the first time since the direct leadership poll was introduced in 1996.</p>
+<p>Taiwan is not officially recognized by most countries and cannot participate in meetings of the United Nations and its agencies. Its diplomatic allies have plummeted to 12 amid China's pressure on countries to break ties with it.</p>
+<p>Taiwan's presidents can serve up to two four-year terms. Lai, who was prime minister from 2017 to 2019, unsuccessfully challenged Tsai in the 2019 DPP presidential primary and served as vice president in her second term.</p>
+<hr />
+<p><em>Related coverage:</em></p>
+<p><a title="Kyodo News Plus" href="/news/2024/05/75b953582ef9-us-to-send-ex-govt-officials-to-taiwan-president-inauguration.html" target="_blank" rel="noopener"><span style="text-decoration: underline;"><strong>U.S. to send ex-government officials to Taiwan president inauguration</strong></span></a></p>
+<p><a title="Kyodo News Plus" href="/news/2024/05/de84f9bfd07d-update1-taipei-mayor-ex-japan-pm-aso-agree-to-promote-exchanges.html" target="_blank" rel="noopener"><span style="text-decoration: underline;"><strong>Taipei mayor, ex-Japan PM Aso agree to promote exchanges</strong></span></a></p>
+<hr />
+            </div>
+
+    
+            <p class="time">
+            May 20, 2024
+                            | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+
+        <div class="socialnav">
+    <ul>
+        <li><a href="javascript:fbShare('https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html')"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><li><a href="http://twitter.com/share?url=https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html&text=Taiwan&#039;s new leader Lai urges China to stop military threats" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a data-pin-do="buttonBookmark" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.reddit.com/submit?title=Taiwan&#039;s new leader Lai urges China to stop military threats&url=https://english.kyodonews.net/news/2024/05/0e549f9ad17d-taiwan-president-elect-lai-to-take-office-amid-tensions-with-china.html" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></li>
+            </ul>
+</div><!--end.socialnav-->
+
+    
+    </div>
+
+                                            <div class="sec-sidebar">
+    <div class="main-triple">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9428565087621497"
+     data-ad-slot="3768672703"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+</div>
+                                            <div class="sec-sidebar">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-9428565087621497"
+     data-ad-slot="9403112534"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+                                    </div>
+                <div class="col-lg-4">
+                                            <div class="sec-sidebar">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9428565087621497"
+     crossorigin="anonymous"></script>
+<!-- 右サイドスクエア広告 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9428565087621497"
+     data-ad-slot="6482175578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+                                            <div class="sec-sidebar popular">
+        <h2 class="sidebar-title">Popular</h2>
+                    <article>
+                <a href="/news/2024/05/add6bc8342d2-over-80000-foreigners-working-at-convenience-stores-in-japan.html">
+                    <div class="pic"  data-src="https://img.kyodonews.net/english/public/images/posts/51e252005d8a278d214d2016e2d6321c/photo_m.jpg" style="background-image: url('/en/img/thumbnail.png')" >
+                    </div>
+                    <h3>Over 80,000 foreigners working at convenience stores in Japan</h3>
+                </a>
+                <p class="time">
+                    May 15, 2024
+                                            | <a href="/kyodo_news">KYODO NEWS</a>
+                                    </p>
+            </article>
+                    <article>
+                <a href="/news/2024/05/533e57d6979e-putin-xi-meet-to-affirm-unity-in-countering-west-boost-cooperation.html">
+                    <div class="pic"  data-src="https://img.kyodonews.net/english/public/images/posts/ebe0a76b0f4af86a11f63e9acba144e6/image_m.jpg" style="background-image: url('/en/img/thumbnail.png')" >
+                    </div>
+                    <h3>Xi, Putin agree on political settlement of Ukraine crisis</h3>
+                </a>
+                <p class="time">
+                    May 16, 2024
+                                            | <a href="/kyodo_news">KYODO NEWS</a>
+                                    </p>
+            </article>
+                    <article>
+                <a href="/news/2024/05/e2fea2ab825e-japan-ranks-3rd-among-top-world-travel-destinations-report.html">
+                    <div class="pic"  data-src="https://img.kyodonews.net/english/public/images/posts/bfd10a3bc163287045165d69a99921b3/cropped_image_m.jpg" style="background-image: url('/en/img/thumbnail.png')" >
+                    </div>
+                    <h3>Japan ranks 3rd among top world travel destinations: report</h3>
+                </a>
+                <p class="time">
+                    May 21, 2024
+                                            | <a href="/kyodo_news">KYODO NEWS</a>
+                                    </p>
+            </article>
+                    <article>
+                <a href="/news/2024/05/7483d70178a7-update2-us-conducted-1st-subcritical-nuclear-test-since-sept-2021.html">
+                    <div class="pic"  data-src="https://img.kyodonews.net/english/public/images/posts/633cf6aa5ad2c19410981093acfffa1b/photo_m.jpg" style="background-image: url('/en/img/thumbnail.png')" >
+                    </div>
+                    <h3>U.S. conducted first subcritical nuclear test since September 2021</h3>
+                </a>
+                <p class="time">
+                    May 18, 2024
+                                            | <a href="/kyodo_news">KYODO NEWS</a>
+                                    </p>
+            </article>
+                    <article>
+                <a href="/news/2024/05/a6eb4855b7a3-update1-us-to-have-official-in-tokyo-dedicated-to-monitoring-china.html">
+                    <div class="pic"  data-src="https://img.kyodonews.net/english/public/images/posts/64b98b03376ddbab2e0830b61dccbbf5/cropped_image_m.jpg" style="background-image: url('/en/img/thumbnail.png')" >
+                    </div>
+                    <h3>U.S. to have official in Tokyo dedicated to monitoring China</h3>
+                </a>
+                <p class="time">
+                    May 18, 2024
+                                            | <a href="/kyodo_news">KYODO NEWS</a>
+                                    </p>
+            </article>
+            </div>
+
+                                            <div class="sec-sidebar">
+    <iframe src="https://omny.fm/shows/news-2/46-english-world/embed?style=Cover" width="100%" height="180" allow="autoplay; clipboard-write" frameborder="0" title="#46 【English World】ガイドがでたらめしか言わない「嘘のツアー」が大人気、現地取材した英国人記者が魅力を解説"></iframe>
+</div>
+                                            <div class="sec-sidebar">
+    <div class="row topics">
+	<section class="col-md-12 Presented">
+	<a href="https://immersive.kyodonews.net/shinkansen-part-1-of-2/index.html">
+	<div class="">
+	<img src="https://img.kyodonews.net/english/public/banner_ads/774423eafd3ed4814d5c7523e9140849/image.jpg" alt="The dream super limited express marks six decades" style="display: inline;">
+	</div>
+	</a>
+	</section>
+	</div>
+</div>
+                                    </div>
+            </div>
+        </div>
+
+                                    <div class="container">
+        <div class="sec-related" style="padding-bottom: 60px;">
+            <h2>More from World</h2>
+
+                                                                        <div class="row">
+                            
+                            <article class="col-md-3">
+    <a href="/news/2024/05/ed372253cde1-philippines-japan-to-seal-defense-deal-at-2-plus-2-meeting-in-july.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/5ccbb2aa6c3de0f836550458009e2918/cropped_image_m.jpg" alt="Philippines, Japan to seal defense deal at 2-plus-2 meeting in July">
+                
+                    </div>
+        <h3>Philippines, Japan to seal defense deal at 2-plus-2 meeting in July</h3>
+    </a>
+    <p class="time">
+        May 24, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                                
+                            <article class="col-md-3">
+    <a href="/news/2024/05/2c705cab1437-kyodo-news-digest-may-23-2024.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/b124f1200e648e932ca5454d04c0c373/photo_m.jpg" alt="Kyodo News Digest: May 23, 2024">
+                <i class='fa fa-play-circle fa-2x'></i>
+                    </div>
+        <h3>Kyodo News Digest: May 23, 2024</h3>
+    </a>
+    <p class="time">
+        May 23, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                                
+                            <article class="col-md-3">
+    <a href="/news/2024/05/7f1701d69f53-update2-s-korean-japanese-chinese-leaders-to-hold-summit-in-seoul-on-mon.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/d64c6dc8a8409ac1266da36019c67390/photo_m.jpg" alt="South Korean, Japanese, Chinese leaders to hold summit in Seoul on May 27">
+                
+                    </div>
+        <h3>South Korean, Japanese, Chinese leaders to hold summit in Seoul on May 27</h3>
+    </a>
+    <p class="time">
+        May 23, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                                
+                            <article class="col-md-3">
+    <a href="/news/2024/05/eacdc302251c-japan-to-work-with-asean-to-train-100000-digital-professionals.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/7b811b522c32b070bc5343c2b40284cd/photo_m.jpg" alt="Japan to work with ASEAN to train 100,000 digital professionals">
+                
+                    </div>
+        <h3>Japan to work with ASEAN to train 100,000 digital professionals</h3>
+    </a>
+    <p class="time">
+        May 23, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                    </div>
+                                                                                <div class="row">
+                            
+                            <article class="col-md-3">
+    <a href="/news/2024/05/5b49632445a7-macron-visits-new-caledonia-in-bid-to-quell-deadly-riots.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/6596b3d4bff832b71b9c0611f1deede5/cropped_image_m.jpg" alt="Emmanuel Macron visits New Caledonia in bid to quell deadly riots">
+                
+                    </div>
+        <h3>Emmanuel Macron visits New Caledonia in bid to quell deadly riots</h3>
+    </a>
+    <p class="time">
+        May 23, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                                
+                            <article class="col-md-3">
+    <a href="/news/2024/05/49cde4612a17-urgent-china-conducts-military-drills-around-taiwan.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/8abcffb371d331edd601f4ea4b83a6ce/cropped_image_m.jpg" alt="China conducts military drills around Taiwan as &quot;punishment&quot;">
+                
+                    </div>
+        <h3>China conducts military drills around Taiwan as &quot;punishment&quot;</h3>
+    </a>
+    <p class="time">
+        May 23, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                                
+                            <article class="col-md-3">
+    <a href="/news/2024/05/e778052516c5-japan-malaysia-leaders-agree-to-boost-cooperation-amid-chinas-rise.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/61b0d7dd6fce4af9c9aa4d89e9a01fdf/photo_m.jpg" alt="Japan, Malaysia leaders agree to boost cooperation amid China&#039;s rise">
+                
+                    </div>
+        <h3>Japan, Malaysia leaders agree to boost cooperation amid China&#039;s rise</h3>
+    </a>
+    <p class="time">
+        May 23, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                                
+                            <article class="col-md-3">
+    <a href="/news/2024/05/9fe85e56a9a3-ex-us-presidential-candidate-haley-says-she-will-vote-for-trump.html">
+        <div class="pic">
+                            <img src="/en/img/thumbnail.png" data-src="https://img.kyodonews.net/english/public/images/posts/8aec03876d015adccc68e8b55686fee7/cropped_image_m.jpg" alt="Ex-U.S. presidential candidate Haley says she will vote for Trump">
+                
+                    </div>
+        <h3>Ex-U.S. presidential candidate Haley says she will vote for Trump</h3>
+    </a>
+    <p class="time">
+        May 23, 2024
+                | <a href="/kyodo_news">KYODO NEWS</a>
+                    </p>
+</article>
+
+                            
+                                                    </div>
+                                                        </div>
+                                <div id="js-more-autoload" data-next="692653" data-articles="692653,692394,692620,692631,692610,692409,692581,692391" data-widget="5" data-num="1"
+                 style="width:1px; height:1px; background-color:transparent;"></div>
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="main" id="js-more-articles">
+                        <h1 style="margin-top: 0;">Philippines, Japan to seal defense deal at 2-plus-2 meeting in July</h1>
+                        <div class="js-more-url" data-title="Philippines, Japan to seal defense deal at 2-plus-2 meeting in July" data-url="/news/2024/05/ed372253cde1-philippines-japan-to-seal-defense-deal-at-2-plus-2-meeting-in-july.html"
+                             style="width:1px; height:1px; background-color:transparent;"></div>
+                        <p class="credit"  style="margin-bottom: 0;" >
+                                                            <img src="/en/img/thumbnail.png"
+                                     data-src="https://s3.us-west-2.amazonaws.com/img.kyodonews.net/public/article_sources/3884c84f021421803366d27b21f8b699/logo_image_thumbnail.png"
+                                     alt="KYODO NEWS"/>
+                            
+                            
+                                                            <a href="/kyodo_news">KYODO NEWS</a>
+                            
+                                                            -
+                            
+                                                        4 hours ago - 03:18 | <a href="/news/world" >World</a>, <a href="/news" >All</a>, <a href="/news/japan" >Japan</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            </div><!--end.container-->
+
+                    
+        <footer>
+    <div class="container">
+        <div class="socialnav">
+        <ul>
+                            <li><a href="https://www.facebook.com/pg/kyodoenglish/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://twitter.com/kyodo_english" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://english.kyodonews.net/rss/kyodonews-fzone.xml" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                    </ul>
+    </div><!--end.socialnav-->
+
+        <div class="footernav">
+            <ul>
+                                                    <li><a href="/about.html/"  >About Us</a></li>
+                                    <li><a href="/privacypolicy.html"  >Privacy Policy</a></li>
+                                    <li><a href="/cookiepolicy.html"  >Cookie Policy</a></li>
+                                    <li><a href="/copyright.html"  >Copyright</a></li>
+                                    <li><a href="/links.html"  >Links</a></li>
+                                    <li><a href="/contact"  >Contact</a></li>
+                            </ul>
+        </div><!--end.footernav-->
+
+        <p>&copy; Kyodo News.</p>
+    </div><!--end.container-->
+</footer>
+    </div>
+
+    <div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="subscribeModalLabel">Subscribe</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>Subscribe to get daily news</h3>
+                <div class="message">
+                    <p>To have the latest news and stories delivered to your inbox, subscribe here. Simply enter your email address below and an email will be sent through which to complete your subscription.</p>
+                </div>
+                <form>
+                    <div class="row">
+                        <div class="col-md-7">
+                            <input required type="email" class="form-control" id="Email" aria-describedby="emailHelp" placeholder="Enter email">
+                        </div>
+                        <div class="col-md-5">
+                            <button type="submit" class="btn btn-primary">Subscribe</button>
+                        </div>
+                    </div>
+                    <p class="text-danger error-message" style="display:none;">* Something went wrong</p>
+                </form>
+            </div>
+        </div>
+    </div>
+</div><!--end#subscribeModal-->
+
+<div class="modal fade" id="thanksModal" tabindex="-1" role="dialog" aria-labelledby="thanksModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="thanksModalLabel">Subscribe</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>Thank you.</h3>
+                <div class="message">
+                    <p>Please check your inbox for a confirmation email.</p>
+
+                                                                <h4>Follow us</h4>
+                        <div class="socialnav">
+        <ul>
+                            <li><a href="https://www.facebook.com/pg/kyodoenglish/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://twitter.com/kyodo_english" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://english.kyodonews.net/rss/kyodonews-fzone.xml" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                    </ul>
+    </div><!--end.socialnav-->
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div><!--end#thanksModal-->    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="contactModalLabel">Contact Us</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="message">
+                    <p>If you wish to change your message, press 'Cancel' to go back and edit.</p>
+                    <table class="table table-striped">
+                        <tr><td class="contactus_label">Subject</td><td id="subject_modal"></tr>
+                        <tr><td class="contactus_label">Name</td><td id="your_name_modal"></tr>
+                        <tr><td class="contactus_label">Email</td><td id="your_email_modal"></tr>
+                        <tr><td class="contactus_label">Message</td><td id="your_message_modal"></tr>
+                    </table>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 text-center contactModalCancel">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"
+                                    aria-label="Close">Cancel</button>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <button type="button" class="btn btn-primary" id="contact_button"
+                                    name="hidden-input">Send</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div><!--end#subscribeModal-->
+
+<div class="modal fade" id="contactThanksModal" tabindex="-1" role="dialog" aria-labelledby="contactThanksModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="contactThanksModalLabel">Contact Us</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3></h3>
+                <div class="message">
+                    <p><b>Thank you for reaching out to us.</b><br>We will get back to you as soon as possible.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!--end#thanksModal-->
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '1572248506141103',
+            xfbml      : true,
+            version    : 'v2.8'
+        });
+        FB.AppEvents.logPageView();
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript" async defer data-pin-custom="true" src="//assets.pinterest.com/js/pinit.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.5.0/slick/slick.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".main-five-slider").slick({
+                dots:true,
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrows: false,
+                dotsClass: 'custom-dots',
+            });
+        });
+    </script>
+    
+    </body>
+</html>

@@ -1,0 +1,1628 @@
+
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="a58df52b-2812-4cc9-99c6-cf9bcfe5af8b"></script>
+<script src="https://www.rte.ie/djstatic/dotie/privacy/cookie-functions.js?v=20240523v33762"></script>
+<script type="text/javascript">
+    var optanonCallbacks = [
+        __eraseIllegalCookies
+    ];
+    function OptanonWrapper() {
+        for (var i = 0; i < optanonCallbacks.length; i++) {
+            optanonCallbacks[i].call();
+        }
+    }
+</script>
+
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, height=device-height, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+<title>Govt briefing due as Cabinet discusses Palestinian state</title>
+<meta name="siteCS" content="master" />
+<meta name="language" content="en" />
+<meta http-equiv="Content-Language" content="en" />
+<meta name="app-name" content="dotie" />
+<meta property="fb:admins" content="1048256502" />
+<meta property="fb:admins" content="100010507681175" />
+<meta property="fb:pages" content="257558294273180" />
+<link rel="manifest" href="/manifest.json" />
+<link rel="shortcut icon" type="image/png" href="https://www.rte.ie/favicon.ico" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700,700i|Montserrat:400,500,700|IBM+Plex+Serif:400,400i,600,600i|IBM+Plex+Sans:400,400i,500,500i,600,600i,700,700i|Merriweather:300,400i" type="text/css" />
+<link rel="stylesheet" href="https://www.rte.ie/djstatic/dotie/css/foundation.css?v=20240523v33762" />
+<link rel="stylesheet" href="https://www.rte.ie/djstatic/dotie/css/style.css?v=20240523v33762" />
+<link rel="alternate" type="application/rss+xml" title="RTE.ie | News Headlines" href="/feeds/rss/?index=/news/" />
+<meta name="pillar" content="news" />
+<meta name="description" content="The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine." />
+<meta name="topic" content="news" />
+<meta name="pillarCS" content="news" />
+<meta name="chapter1" content="news" />
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="urn:epic:1450478" />
+<meta name="apple-itunes-app" content="app-id=355836123, app-argument=rtenewsnow://article:1450478" />
+<meta name="categories" content="News, Ireland, Middle East, Politics, Gaza, Israel" />
+<meta name="gender" content />
+<meta name="toptag" content="Ireland" />
+<meta name="htags" content="Criminal, stab, Terrorism, terrorist, War" />
+<meta name="DC.type" scheme="DCTERMS.URI" content="article" />
+<meta name="DC.isPartOf" scheme="DCTERMS.URI" content="urn:epic:350" />
+<meta name="section" content="News" />
+<meta name="level2" content="News" />
+<meta name="author" content="Paul Cunningham" />
+<meta name="article:author" content="https://www.facebook.com/rtenews/" />
+<meta name="safe_ads" content />
+<meta name="article-type" content="newsdocument" />
+<meta name="DC.date" scheme="DCTERMS.URI" content="2024-05-22T06:03:02+01:00" />
+<meta name="date" content="2024-05-21" />
+<meta property="fb:app_id" content="212765848759773" />
+<meta property="og:title" content="Govt briefing due as Cabinet discusses Palestinian state" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.rte.ie/news/2024/0521/1450478-palestine-recognition/" />
+<meta property="og:image" content="https://img.rasset.ie/00203614-1600.jpg" />
+<meta property="og:site_name" content="RTE.ie" />
+<meta property="og:description" content="The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine." />
+<meta property="og:published_time" content="2024-05-21T18:13:37+01:00" />
+<meta property="article:publisher" content="https://www.facebook.com/rtenews/" />
+<meta property="article:published_time" content="2024-05-21T18:13:37+01:00" />
+<meta property="article:modified_time" content="2024-05-22T06:03:02+01:00" />
+<meta property="article:section" content="News" />
+<meta property="article:tag" content="News, Ireland, Middle East, Politics, Gaza, Israel" />
+<meta property="article:featured" content="video" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@rte" />
+<meta name="twitter:title" content="Govt briefing due as Cabinet discusses Palestinian state" />
+<meta name="twitter:domain" content="rte.ie" />
+<meta name="twitter:creator" content="@rtenews" />
+<meta name="twitter:description" content="The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine." />
+<meta name="twitter:image:src" content="https://img.rasset.ie/00203614-1600.jpg" />
+<meta name="twitter:image" content="https://img.rasset.ie/00203614-1600.jpg" />
+<meta itemprop="name" content="Govt briefing due as Cabinet discusses Palestinian state" />
+<meta itemprop="description" content="The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine." />
+<meta itemprop="image" content="https://img.rasset.ie/00203614-100.jpg" />
+<meta itemprop="photo" content="https://img.rasset.ie/00203614-100.jpg" />
+<meta name="estagid" content="313" />
+<link rel="canonical" href="https://www.rte.ie/news/2024/0521/1450478-palestine-recognition/" />
+<link rel="stylesheet" href="https://www.rte.ie/djstatic/dotie/css/sites/news.css?v=20240523v33762" />
+
+<link rel="stylesheet" href="https://www.rte.ie/djstatic/dotie/css/print.css?v=20240523v33762" media="print" />
+<script type="text/javascript" src="https://tag.aticdn.net/592983/smarttag.js"></script>
+<script>
+    //This is required for the Bosco Iframe to communicate with the parent page
+    if (location.hostname.indexOf('rte.ie') !== -1){
+        document.domain = 'rte.ie';
+    }
+</script>
+<script type="text/plain" class="optanon-category-C0004" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+        window.googletag = window.googletag || {cmd: []};
+    </script>
+<script>
+        /* Note: Sport and Ten have 2 different account IDS */
+        var siteID = "a0838780f3b7d742ef4fcb10127d581a"; //default to sport
+        if (window.location.pathname.indexOf('/entertainment/') === 0) {
+            siteID = "93b6fbdfca7a8fd43f87f07095298e08";
+        } else if (window.location.pathname.indexOf('/lifestyle/') === 0) {
+            siteID = "58fa7a053f2bca34539133c47b72d332";
+        }
+        var idcomments_acct = siteID,
+            canonicalUrl = 'https://www.rte.ie' + '/news/2024/0521/1450478-palestine-recognition/',
+            idcomments_post_id = canonicalUrl,
+            idcomments_post_url = canonicalUrl;
+    </script>
+<script type="text/plain" class="optanon-category-C0003">
+    (function (p, u, s, h, e, r, l, i, b) {
+        p['XtremePushObject'] = h;
+        p[h] = function () {
+            (p[h].q = p[h].q || []).push(arguments)
+        };
+        i = u.createElement('script');
+        i.async = 1;
+        i.src = s;
+        b = u.getElementsByTagName('script')[0];
+        b.parentNode.insertBefore(i, b);
+    })(window, document, 'https://prod.webpu.sh/TwCT31YGGaOAVbHmJAlrKUgzYN0aB3BZ/sdk.js', 'xtremepush');
+</script>
+<script>
+        var SERVICE_LAYER_URL = 'https://www.rte.ie/servicelayer/api/idm/account/ctv/associate';
+    </script>
+</head>
+<body class="rte news news-headlines article news" data-rte-stage="live">
+<script type="text/javascript">ns_tc_time = + new Date();</script>
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "NewsArticle",
+      "headline":"Govt briefing due as Cabinet discusses Palestinian state",
+      "description":"The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine.",
+      "articleSection":"News",
+      "thumbnailUrl": "https://img.rasset.ie/00203614-500.jpg",
+      "keywords": "News, Ireland, Middle East, Politics, Gaza, Israel",
+      "publisher": {
+    "@type": "Organization",
+    "name": "RTÉ",
+    "logo":{
+        "@type": "ImageObject",
+        "url": "https://www.rte.ie/img/rte-logo-152x152.png"
+    }
+},
+      "author": {
+    "@type": "Person",
+    "url": "https://www.rte.ie/author/954890-paul-cunningham/",
+    "name": "Paul Cunningham",
+    "sameAs":"https://twitter.com/@RTENewsPaulC"
+},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.rte.ie/"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://img.rasset.ie/00203614-1600.jpg",
+        "height": "900",
+        "width": "1600"
+      },
+      "dateCreated": "2024-05-21T17:13:37+00:00",
+      "dateModified": "2024-05-22T05:03:02+00:00",
+      "datePublished": "2024-05-21T17:13:37+00:00"
+     }
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.rte.ie/news",
+      "name": "News"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.rte.ie/news/news/",
+      "name": "News"
+    }
+  }]
+}
+</script>
+<noscript>
+    Your browser does not support Javascript. Please turn Javascript on to get the best experience from rte.ie
+</noscript>
+<div id="top-anchor"></div>
+<div class="ad-container masthead-advert-container">
+<div class="topcontainer" style="width: 100%; position: fixed; z-index:999998;">
+<div style="width: 100%!important;  margin-top: 0!important; z-index:1400;" id="stickyleader">
+<div class="ad-container leaderboard-container">
+<div class="advert leaderboard topbanner" data-adType="topbanner" data-sizes="[[728, 90], [970, 250], [970, 90]]" data-mappings="{&quot;desktop&quot;:[ [1024, 0], [[88,31], [970, 250], [970, 90], [728, 90]] ],&quot;mid-tablet&quot;:[ [768, 0], [[88,31], [728, 90]] ], &quot;tablet&quot;:[ [640, 0], [[88,31], [468, 60]] ],&quot;mobile&quot;:[ [0, 0], [88,31] ]}">
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript"> ns_tc_time = +new Date(); </script>
+<style>
+    .inner-nav {
+        z-index: 99999;
+        max-width: 1160px;
+        margin: 0 auto;
+        padding: 6px 0;
+    }
+</style>
+<div class="masthead rte_foundation">
+<div id="skiptocontent"><a href="#maincontent" class>skip to main content</a></div>
+<div class="nav-gap-mob"></div>
+<div id="static-nav" class="row nav-header">
+<div class="hamburger-container" id="more-btn-mob">
+<a class="menu nav-btn" data-trackevent-action="menu_icon" data-trackevent-label="hamburger" id="menu-icon-mob" role="button" aria-label="Additional links" tabindex="0">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</a>
+<span class="menu-title">Menu</span>
+</div>
+<div class="col columns medium-3 left-weather-container">
+<a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" class="weather-widget" href="https://www.rte.ie/weather/">
+<span class="warning"></span>
+<span class="link">Weather</span>
+<span class="icon"></span>
+<span class="temperature"></span>
+</a>
+</div>
+<div class="rte-logo-container col columns medium-6">
+<a href="https://www.rte.ie/" id="rte-logo" data-trackevent-action="menu_icon" data-trackevent-label="logo" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;logo&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Logo&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" role="link" aria-label="Ireland's National Public Service Media | Meáin Náisiúnta Seirbhíse Poiblí na hÉireann" title="Ireland's National Public Service Media | Meáin Náisiúnta Seirbhíse Poiblí na hÉireann" tabindex="0">
+<i class="dotie-icon_logo_rte"></i>
+<span class="english-title">Ireland's National Public Service Media</span>
+<span class="irish-title">Meáin Náisiúnta Seirbhíse Poiblí na hÉireann</span>
+</a>
+</div>
+<div class="search-user-container col columns medium-3">
+<div class="hamburger-container" id="more-btn" role="button" aria-label="Additional links" tabindex="0">
+<a class="menu nav-btn" data-trackevent-action="menu_icon" data-trackevent-label="hamburger" id="menu-icon">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</a>
+<span class="menu-title">Menu</span>
+</div>
+<a id="login-btn" class="dotie-icon_login_new nav-btn" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rteid&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTEID&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="menu_icon" data-trackevent-label="login" href="https://www.rte.ie/id/profile/" role="button" aria-label="Login"></a>
+<a id="mobile_search_nav_button" class="dotie-icon_search nav-btn" href="javascript:void(0);" data-trackevent-action="menu_icon" data-trackevent-label="search" role="button" aria-label="Search"></a>
+</div>
+</div>
+<div id="compact-nav" class role="menu">
+<div class="row nav-header">
+<div class="col columns medium-9 large-8">
+<div class="rte-logo-container">
+<a href="https://www.rte.ie/" id="rte-logo" data-trackevent-action="menu_icon" data-trackevent-label="logo" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;logo&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Logo&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}">
+<i class="dotie-icon_logo_rte"></i>
+</a>
+</div>
+
+<nav class="nav" id="primary-nav">
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;1&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;News&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}" href="https://www.rte.ie/news/" class="news-nav-item first current">News</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;sport&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;2&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Sport&quot;, &quot;detailedPlacement&quot;:&quot;Sport&quot;}" href="https://www.rte.ie/sport/" class="sport-nav-item ">Sport</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;entertainment&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;3&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Entertainment&quot;, &quot;detailedPlacement&quot;:&quot;Entertainment&quot;}" href="https://www.rte.ie/entertainment/" class="entertainment-nav-item ">Entertainment</a></li>
+<li class="business-nav-item"><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;business&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;4&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Business&quot;, &quot;detailedPlacement&quot;:&quot;Business&quot;}" href="https://www.rte.ie/news/business/" class="business-nav-item ">Business</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;lifestyle&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;5&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Lifestyle&quot;, &quot;detailedPlacement&quot;:&quot;Lifestyle&quot;}" href="https://www.rte.ie/lifestyle/" class="lifestyle-nav-item ">Lifestyle</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;culture&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;6&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Culture&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/culture/" class="culture-nav-item ">Culture</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;player&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;7&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Player&quot;, &quot;detailedPlacement&quot;:&quot;Player&quot;}" class="player-nav-item" href="https://www.rte.ie/player/">Player</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;tv&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV&quot;, &quot;detailedPlacement&quot;:&quot;TV&quot;}" class="tv-nav-item" href="https://www.rte.ie/tv/">TV</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;radio&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;9&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Radio&quot;, &quot;advertiser&quot;:&quot;Radio&quot;, &quot;detailedPlacement&quot;:&quot;Radio&quot;}" class="radio-nav-item" href="/radio/">Radio</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/" class="gaeilge-nav-item ">Gaeilge</a></li>
+<li class="weather-link"><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" href="https://www.rte.ie/weather/">Weather <span class="mobile-weather-widget"><span class="icon"></span><span class="temperature"></span></span></a></li>
+</ul>
+<ul class="show-for-small-only">
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/">Gaeilge</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;archives&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Archives&quot;, &quot;detailedPlacement&quot;:&quot;Archives&quot;}" href="https://www.rte.ie/archives/">Archives</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;brainstorm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Brainstorm&quot;, &quot;detailedPlacement&quot;:&quot;Brainstorm&quot;}" href="https://www.rte.ie/brainstorm/">Brainstorm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;history&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;History&quot;, &quot;detailedPlacement&quot;:&quot;History&quot;}" href="https://www.rte.ie/history/">History</a></li>
+</ul>
+</nav>
+</div>
+<div class="col columns medium-3 large-4 right-nav-container">
+<a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" class="weather-widget" href="https://www.rte.ie/weather/">
+<span class="warning"></span>
+<span class="link">Weather</span>
+<span class="icon"></span>
+<span class="temperature"></span>
+</a>
+<div class="search-user-container">
+<div class="hamburger-container" id="more-btn-comp" role="menu" aria-label="Additional links" tabindex="0">
+<a class="menu nav-btn" data-trackevent-action="menu_icon" data-trackevent-label="hamburger" id="nav-btn-comp">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</a>
+<span class="menu-title">Menu</span>
+</div>
+<a id="login-btn" class="dotie-icon_login_new nav-btn" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rteid&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTEID&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="menu_icon" data-trackevent-label="login" href="https://www.rte.ie/id/profile/" role="button" aria-label="Login"></a>
+<a class="dotie-icon_search nav-btn" id="search_nav_button" href="javascript:void(0);" data-trackevent-action="menu_icon" data-trackevent-label="search" role="button" aria-label="Search"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="compact secondary-nav-container" tabindex="-1" id="compact-secondary-nav">
+<div class="row nav-header-more">
+<div class="large-2 medium-4 columns">
+<ul class="weather-widget-container">
+<li class="show-for-medium">
+<a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" class="weather-widget" href="https://www.rte.ie/weather/">
+<span class="warning"></span>
+<span class="link">Weather</span>
+<span class="icon"></span>
+<span class="temperature"></span>
+</a>
+</li>
+</ul>
+<div class="menu-heading">Discover<i class="arrow_"></i></div>
+<ul class="first">
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;archives&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Archives&quot;, &quot;detailedPlacement&quot;:&quot;Archives&quot;}" href="https://www.rte.ie/archives/">RTÉ Archives</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;brainstorm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Brainstorm&quot;, &quot;detailedPlacement&quot;:&quot;Brainstorm&quot;}" href="https://www.rte.ie/brainstorm/">RTÉ Brainstorm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;history&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;History&quot;, &quot;detailedPlacement&quot;:&quot;History&quot;}" href="https://www.rte.ie/history/">History</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/">Gaeilge</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;Eile&quot;}" href="https://www.rte.ie/learn/">RT&Eacute; Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Watch<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;player&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;11&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Player&quot;, &quot;detailedPlacement&quot;:&quot;Player&quot;}" href="https://www.rte.ie/player/">RTÉ Player</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;tv&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV&quot;, &quot;detailedPlacement&quot;:&quot;TV&quot;}" href="https://www.rte.ie/tv/">TV</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;rteone&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rteone&quot;, &quot;detailedPlacement&quot;:&quot;rteone&quot;}" href="https://www.rte.ie/player/onnow/66546216066">RTÉ One</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;rte2&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rte2&quot;, &quot;detailedPlacement&quot;:&quot;rte2&quot;}" href="https://www.rte.ie/player/onnow/66546216064">RTÉ2</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216065">RTÉ News</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216063">RTÉjr</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Listen<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;radio&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;14&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Radio&quot;, &quot;advertiser&quot;:&quot;Radio&quot;, &quot;detailedPlacement&quot;:&quot;Radio&quot;}" href="https://www.rte.ie/radio/">Radio</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;podcasts&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Podcasts&quot;, &quot;detailedPlacement&quot;:&quot;Podcasts&quot;}" href="https://www.rte.ie/radio/podcasts/">Podcasts</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;radio1&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;radio1&quot;, &quot;detailedPlacement&quot;:&quot;radio1&quot;}" href="https://www.rte.ie/radio/radio1/">RTÉ Radio 1</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;2fm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2fm&quot;, &quot;detailedPlacement&quot;:&quot;2fm&quot;}" href="https://www.rte.ie/radio/2fm/">RTÉ 2FM</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;lyricfm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lyricfm&quot;, &quot;detailedPlacement&quot;:&quot;lyricfm&quot;}" href="https://www.rte.ie/radio/lyricfm/">RTÉ lyric fm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;rnag&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnag&quot;, &quot;detailedPlacement&quot;:&quot;rnag&quot;}" href="https://www.rte.ie/radio/rnag/">RTÉ Raidió na Gaeltachta</a></li>
+</ul>
+</div>
+<div class="show-for-medium blank"></div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Services<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;17&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Orchestras&quot;, &quot;detailedPlacement&quot;:&quot;Orchestras&quot;}" href="https://www.rte.ie/orchestras/">Orchestra</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;7&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" href="https://www.rte.ie/weather/">RTÉ Weather</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;lotto&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;20&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lotto&quot;, &quot;detailedPlacement&quot;:&quot;Lotto&quot;}" href="https://www.rte.ie/lotto/">Lotto</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;century ireland&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;19&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Century Ireland&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/centuryireland/">Century Ireland</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;orchestras&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;18&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Shop&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/shop/">RTÉ Shop</a></li>
+</ul>
+<div class="menu-heading youth">Kids<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;kids&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;21&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Kids&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Kids&quot;}" href="https://www.rte.ie/kids/">RTÉ Kids</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;22&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Learn&quot;}" href="https://www.rte.ie/learn/">RTÉ Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Help<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;contact&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;23&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Contact&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/contact-details/">Contact</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;feedback&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;24&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Feedback&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/feedback-complaints/">Feedback</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;policies&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;25&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Policies&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/policies-and-guidelines/">Policies and Reports</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;complaints&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;26&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Complaints&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/complaints/">Complaints</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;terms&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;27&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Terms & Conditions&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/terms">Terms & Conditions</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;28&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Individual Rights Guide&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/individual-rights-guide">Individual Rights Guide</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;29&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/privacy">Privacy Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;cookie-policy&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;30&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/cookie-policy/">Cookie Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot; Freedom-Information&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;31&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Freedom Information&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href=" https://about.rte.ie/freedom-of-information-foi/what-is-freedom-of-information/"> Freedom of Information </a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Information<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;about&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;32&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;About&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/">About RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;tv licence&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;33&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV Licence&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.tvlicence.ie/home/tv-licence-home.html">TV Licence</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;34&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Careers&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/working-with-rte/vacancies/">Vacancies</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;annual report&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;35&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Annual Report&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/en/policies-and-reports/annual-reports/">Latest Annual Report</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;mediasales&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;36&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Media Sales&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/mediasales/">Advertise with RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;37&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2rn&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.2rn.ie/">2rn</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;38&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Saorview&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.saorview.ie/">Saorview</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;39&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Newsletters&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/id/profile/">Newsletters</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;more&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;40&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Supporting the Arts&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/supporting-the-arts/about-rte-supporting-the-arts/">RTÉ Supporting the Arts</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="searchbox" class="searchbox-global">
+<div class="row">
+<div class="small-12 columns">
+<form class="searchform dotie-searchform quicksearch" name="searchform">
+<i class="icon dotie-icon_search"></i>
+<input type="text" id="searchterm" autocomplete="off" placeholder="Search rte.ie..." />
+<div class="pannel quicksearch-pannel">
+<div class="row grid" id="quicksearch_results">
+</div>
+</div>
+<button id="QsearchBtn" data-ati-tracking="{&quot;campaign&quot;:&quot;100[header]&quot;,&quot;generalPlacement&quot;:&quot;search&quot;,&quot;creation&quot;:&quot;search&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;search.query&quot;, &quot;url&quot;:&quot;Search&quot;, &quot;detailedPlacement&quot;:&quot;see-all&quot;}"><span>See all results</span></button>
+</form>
+</div>
+</div>
+</div>
+<div class="search-block"></div>
+
+<div class="primary-nav-container" id="primary-nav-global">
+
+<nav class="nav" id="primary-nav">
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;1&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;News&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}" href="https://www.rte.ie/news/" class="news-nav-item first current">News</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;sport&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;2&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Sport&quot;, &quot;detailedPlacement&quot;:&quot;Sport&quot;}" href="https://www.rte.ie/sport/" class="sport-nav-item ">Sport</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;entertainment&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;3&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Entertainment&quot;, &quot;detailedPlacement&quot;:&quot;Entertainment&quot;}" href="https://www.rte.ie/entertainment/" class="entertainment-nav-item ">Entertainment</a></li>
+<li class="business-nav-item"><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;business&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;4&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Business&quot;, &quot;detailedPlacement&quot;:&quot;Business&quot;}" href="https://www.rte.ie/news/business/" class="business-nav-item ">Business</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;lifestyle&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;5&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Lifestyle&quot;, &quot;detailedPlacement&quot;:&quot;Lifestyle&quot;}" href="https://www.rte.ie/lifestyle/" class="lifestyle-nav-item ">Lifestyle</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;culture&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;6&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Culture&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/culture/" class="culture-nav-item ">Culture</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;player&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;7&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Player&quot;, &quot;detailedPlacement&quot;:&quot;Player&quot;}" class="player-nav-item" href="https://www.rte.ie/player/">Player</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;tv&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV&quot;, &quot;detailedPlacement&quot;:&quot;TV&quot;}" class="tv-nav-item" href="https://www.rte.ie/tv/">TV</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;radio&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;9&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Radio&quot;, &quot;advertiser&quot;:&quot;Radio&quot;, &quot;detailedPlacement&quot;:&quot;Radio&quot;}" class="radio-nav-item" href="/radio/">Radio</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/" class="gaeilge-nav-item ">Gaeilge</a></li>
+<li class="weather-link"><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" href="https://www.rte.ie/weather/">Weather <span class="mobile-weather-widget"><span class="icon"></span><span class="temperature"></span></span></a></li>
+</ul>
+<ul class="show-for-small-only">
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/">Gaeilge</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;archives&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Archives&quot;, &quot;detailedPlacement&quot;:&quot;Archives&quot;}" href="https://www.rte.ie/archives/">Archives</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;brainstorm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Brainstorm&quot;, &quot;detailedPlacement&quot;:&quot;Brainstorm&quot;}" href="https://www.rte.ie/brainstorm/">Brainstorm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;history&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;History&quot;, &quot;detailedPlacement&quot;:&quot;History&quot;}" href="https://www.rte.ie/history/">History</a></li>
+</ul>
+</nav>
+<div class="small-12 columns nav more-nav-mobile">
+<div class="large-2 medium-4 columns">
+<ul class="weather-widget-container">
+<li class="show-for-medium">
+<a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" class="weather-widget" href="https://www.rte.ie/weather/">
+<span class="warning"></span>
+<span class="link">Weather</span>
+<span class="icon"></span>
+<span class="temperature"></span>
+</a>
+</li>
+</ul>
+<div class="menu-heading">Discover<i class="arrow_"></i></div>
+<ul class="first">
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;archives&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Archives&quot;, &quot;detailedPlacement&quot;:&quot;Archives&quot;}" href="https://www.rte.ie/archives/">RTÉ Archives</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;brainstorm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Brainstorm&quot;, &quot;detailedPlacement&quot;:&quot;Brainstorm&quot;}" href="https://www.rte.ie/brainstorm/">RTÉ Brainstorm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;history&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;History&quot;, &quot;detailedPlacement&quot;:&quot;History&quot;}" href="https://www.rte.ie/history/">History</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/">Gaeilge</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;Eile&quot;}" href="https://www.rte.ie/learn/">RT&Eacute; Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Watch<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;player&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;11&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Player&quot;, &quot;detailedPlacement&quot;:&quot;Player&quot;}" href="https://www.rte.ie/player/">RTÉ Player</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;tv&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV&quot;, &quot;detailedPlacement&quot;:&quot;TV&quot;}" href="https://www.rte.ie/tv/">TV</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rteone&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rteone&quot;, &quot;detailedPlacement&quot;:&quot;rteone&quot;}" href="https://www.rte.ie/player/onnow/66546216066">RTÉ One</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rte2&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rte2&quot;, &quot;detailedPlacement&quot;:&quot;rte2&quot;}" href="https://www.rte.ie/player/onnow/66546216064">RTÉ2</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216065">RTÉ News</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216063">RTÉjr</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Listen<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;radio&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;14&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Radio&quot;, &quot;advertiser&quot;:&quot;Radio&quot;, &quot;detailedPlacement&quot;:&quot;Radio&quot;}" href="https://www.rte.ie/radio/">Radio</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;podcasts&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Podcasts&quot;, &quot;detailedPlacement&quot;:&quot;Podcasts&quot;}" href="https://www.rte.ie/radio/podcasts/">Podcasts</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;radio1&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;radio1&quot;, &quot;detailedPlacement&quot;:&quot;radio1&quot;}" href="https://www.rte.ie/radio/radio1/">RTÉ Radio 1</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;2fm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2fm&quot;, &quot;detailedPlacement&quot;:&quot;2fm&quot;}" href="https://www.rte.ie/radio/2fm/">RTÉ 2FM</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;lyricfm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lyricfm&quot;, &quot;detailedPlacement&quot;:&quot;lyricfm&quot;}" href="https://www.rte.ie/radio/lyricfm/">RTÉ lyric fm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rnag&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnag&quot;, &quot;detailedPlacement&quot;:&quot;rnag&quot;}" href="https://www.rte.ie/radio/rnag/">RTÉ Raidió na Gaeltachta</a></li>
+</ul>
+</div>
+<div class="show-for-medium blank"></div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Services<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;17&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Orchestras&quot;, &quot;detailedPlacement&quot;:&quot;Orchestras&quot;}" href="https://www.rte.ie/orchestras/">Orchestra</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;7&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" href="https://www.rte.ie/weather/">RTÉ Weather</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;lotto&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;20&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lotto&quot;, &quot;detailedPlacement&quot;:&quot;Lotto&quot;}" href="https://www.rte.ie/lotto/">Lotto</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;century ireland&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;19&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Century Ireland&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/centuryireland/">Century Ireland</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;orchestras&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;18&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Shop&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/shop/">RTÉ Shop</a></li>
+</ul>
+<div class="menu-heading youth">Kids<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;kids&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;21&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Kids&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Kids&quot;}" href="https://www.rte.ie/kids/">RTÉ Kids</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;22&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Learn&quot;}" href="https://www.rte.ie/learn/">RTÉ Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Help<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;contact&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;23&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Contact&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/contact-details/">Contact</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;feedback&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;24&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Feedback&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/feedback-complaints/">Feedback</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;policies&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;25&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Policies&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/policies-and-guidelines/">Policies and Reports</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;complaints&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;26&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Complaints&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/complaints/">Complaints</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;terms&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;27&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Terms & Conditions&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/terms">Terms & Conditions</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;28&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Individual Rights Guide&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/individual-rights-guide">Individual Rights Guide</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;29&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/privacy">Privacy Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;cookie-policy&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;30&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/cookie-policy/">Cookie Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot; Freedom-Information&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;31&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Freedom Information&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href=" https://about.rte.ie/freedom-of-information-foi/what-is-freedom-of-information/"> Freedom of Information </a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Information<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;about&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;32&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;About&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/">About RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;tv licence&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;33&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV Licence&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.tvlicence.ie/home/tv-licence-home.html">TV Licence</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;34&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Careers&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/working-with-rte/vacancies/">Vacancies</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;annual report&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;35&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Annual Report&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/en/policies-and-reports/annual-reports/">Latest Annual Report</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;mediasales&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;36&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Media Sales&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/mediasales/">Advertise with RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;37&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2rn&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.2rn.ie/">2rn</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;38&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Saorview&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.saorview.ie/">Saorview</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;39&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Newsletters&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/id/profile/">Newsletters</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;40&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Supporting the Arts&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/supporting-the-arts/about-rte-supporting-the-arts/">RTÉ Supporting the Arts</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="secondary-nav-container" id="global-secondary-nav">
+<div class="row nav-header-more">
+<div class="large-2 medium-4 columns">
+<ul class="weather-widget-container">
+<li class="show-for-medium">
+<a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" class="weather-widget" href="https://www.rte.ie/weather/">
+<span class="warning"></span>
+<span class="link">Weather</span>
+<span class="icon"></span>
+<span class="temperature"></span>
+</a>
+</li>
+</ul>
+<div class="menu-heading">Discover<i class="arrow_"></i></div>
+<ul class="first">
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;archives&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Archives&quot;, &quot;detailedPlacement&quot;:&quot;Archives&quot;}" href="https://www.rte.ie/archives/">RTÉ Archives</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;brainstorm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Brainstorm&quot;, &quot;detailedPlacement&quot;:&quot;Brainstorm&quot;}" href="https://www.rte.ie/brainstorm/">RTÉ Brainstorm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;history&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;History&quot;, &quot;detailedPlacement&quot;:&quot;History&quot;}" href="https://www.rte.ie/history/">History</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/">Gaeilge</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;Eile&quot;}" href="https://www.rte.ie/learn/">RT&Eacute; Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Watch<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;player&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;11&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Player&quot;, &quot;detailedPlacement&quot;:&quot;Player&quot;}" href="https://www.rte.ie/player/">RTÉ Player</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;tv&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV&quot;, &quot;detailedPlacement&quot;:&quot;TV&quot;}" href="https://www.rte.ie/tv/">TV</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rteone&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rteone&quot;, &quot;detailedPlacement&quot;:&quot;rteone&quot;}" href="https://www.rte.ie/player/onnow/66546216066">RTÉ One</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rte2&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rte2&quot;, &quot;detailedPlacement&quot;:&quot;rte2&quot;}" href="https://www.rte.ie/player/onnow/66546216064">RTÉ2</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216065">RTÉ News</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216063">RTÉjr</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Listen<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;radio&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;14&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Radio&quot;, &quot;advertiser&quot;:&quot;Radio&quot;, &quot;detailedPlacement&quot;:&quot;Radio&quot;}" href="https://www.rte.ie/radio/">Radio</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;podcasts&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Podcasts&quot;, &quot;detailedPlacement&quot;:&quot;Podcasts&quot;}" href="https://www.rte.ie/radio/podcasts/">Podcasts</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;radio1&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;radio1&quot;, &quot;detailedPlacement&quot;:&quot;radio1&quot;}" href="https://www.rte.ie/radio/radio1/">RTÉ Radio 1</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;2fm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2fm&quot;, &quot;detailedPlacement&quot;:&quot;2fm&quot;}" href="https://www.rte.ie/radio/2fm/">RTÉ 2FM</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;lyricfm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lyricfm&quot;, &quot;detailedPlacement&quot;:&quot;lyricfm&quot;}" href="https://www.rte.ie/radio/lyricfm/">RTÉ lyric fm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;rnag&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnag&quot;, &quot;detailedPlacement&quot;:&quot;rnag&quot;}" href="https://www.rte.ie/radio/rnag/">RTÉ Raidió na Gaeltachta</a></li>
+</ul>
+</div>
+<div class="show-for-medium blank"></div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Services<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;17&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Orchestras&quot;, &quot;detailedPlacement&quot;:&quot;Orchestras&quot;}" href="https://www.rte.ie/orchestras/">Orchestra</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;7&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" href="https://www.rte.ie/weather/">RTÉ Weather</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;lotto&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;20&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lotto&quot;, &quot;detailedPlacement&quot;:&quot;Lotto&quot;}" href="https://www.rte.ie/lotto/">Lotto</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;century ireland&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;19&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Century Ireland&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/centuryireland/">Century Ireland</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;orchestras&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;18&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Shop&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/shop/">RTÉ Shop</a></li>
+</ul>
+<div class="menu-heading youth">Kids<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;kids&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;21&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Kids&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Kids&quot;}" href="https://www.rte.ie/kids/">RTÉ Kids</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;22&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Learn&quot;}" href="https://www.rte.ie/learn/">RTÉ Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Help<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;contact&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;23&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Contact&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/contact-details/">Contact</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;feedback&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;24&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Feedback&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/feedback-complaints/">Feedback</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;policies&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;25&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Policies&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/policies-and-guidelines/">Policies and Reports</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;complaints&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;26&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Complaints&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/complaints/">Complaints</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;terms&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;27&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Terms & Conditions&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/terms">Terms & Conditions</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;28&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Individual Rights Guide&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/individual-rights-guide">Individual Rights Guide</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;29&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/privacy">Privacy Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;cookie-policy&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;30&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/cookie-policy/">Cookie Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot; Freedom-Information&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;31&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Freedom Information&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href=" https://about.rte.ie/freedom-of-information-foi/what-is-freedom-of-information/"> Freedom of Information </a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Information<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;about&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;32&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;About&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/">About RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;tv licence&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;33&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV Licence&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.tvlicence.ie/home/tv-licence-home.html">TV Licence</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;34&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Careers&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/working-with-rte/vacancies/">Vacancies</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;annual report&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;35&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Annual Report&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/en/policies-and-reports/annual-reports/">Latest Annual Report</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;mediasales&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;36&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Media Sales&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/mediasales/">Advertise with RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;37&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2rn&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.2rn.ie/">2rn</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;38&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Saorview&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.saorview.ie/">Saorview</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;39&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Newsletters&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/id/profile/">Newsletters</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;40&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Supporting the Arts&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/supporting-the-arts/about-rte-supporting-the-arts/">RTÉ Supporting the Arts</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script src="https://www.rte.ie/djstatic/dotie/js/header-scripts.js?v=20240523v33762"></script>
+<script src="https://www.rte.ie/djstatic/dotie/auth/js/header-script.js?v=20240523v33762"></script>
+</div>
+<div class="subnav" id="subnav">
+<div class="row">
+<nav class="small-12 column" id="secondary-nav">
+<ul>
+<li class="tag">
+<a data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;2&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;News&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="index-news" href="/news/">
+<span class="title  no-line ">
+News
+</span>
+</a>
+</li>
+<li class="first">
+<a href="/news/middle-east/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;3&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Middle East&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="middle-east">
+Middle East
+</a>
+</li>
+<li>
+<a href="/sport" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;4&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Sport&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="sport">
+Sport
+</a>
+</li>
+<li>
+<a href="/entertainment" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;5&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Entertainment&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="entertainment">
+Entertainment
+</a>
+</li>
+<li>
+<a href="/news/business/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;6&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Business&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="business">
+Business
+</a>
+</li>
+<li>
+<a href="/news/regional" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;7&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Regional&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="regional">
+Regional
+</a>
+</li>
+<li>
+<a href="/news/ireland" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Ireland&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="ireland">
+Ireland
+</a>
+</li>
+<li>
+<a href="/eile/climate-change/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;9&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Climate&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="climate">
+Climate
+</a>
+</li>
+<li>
+<a href="/news/nuacht/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Nuacht&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="nuacht">
+Nuacht
+</a>
+</li>
+<li>
+<a href="/news/politics/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;11&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Politics&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="politics">
+Politics
+</a>
+</li>
+<li>
+<a href="/news/world/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;12&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;World&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="world">
+World
+</a>
+</li>
+<li>
+<a href="/news/investigations-unit/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Investigates&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="rte-investigates">
+RTÉ Investigates
+</a>
+</li>
+<li class="last">
+<a href="/news/player/live/7/" data-ati-tracking="{&quot;campaign&quot;:&quot;header&quot;,&quot;generalPlacement&quot;:&quot;news&quot;,&quot;creation&quot;:&quot;sub&quot;, &quot;variant&quot;:&quot;14&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Programmes&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" data-trackevent-action="subnav" data-trackevent-label="programmes">
+Programmes
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="advert skin" data-adType="skin" data-sizes="[[1, 1]]" data-oop="true"></div>
+<div class="content" id="maincontent">
+<article class="rte-article article-pillar-news document">
+<div class="row main-article-row" id="main" data-equalizer data-equalize-on="large" data-equalize-by-row>
+<div class="small-12 medium-12 large-8 columns" data-equalizer-watch id="main_inner" itemscope itemtype="http://schema.org/Article">
+<div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+<meta itemprop="name" content="RTÉ" />
+<meta itemprop="url" content="https://www.rte.ie/" />
+<meta itemprop="logo" content="https://www.rte.ie/img/rte-logo-152x152.png" />
+</div>
+<header>
+<h1 class="headline" itemprop="name" data-epic-field="title">
+Govt briefing due as Cabinet discusses Palestinian recognition
+</h1>
+</header>
+<div class="article-meta">
+<div class="small-12 medium-5 columns">
+<span class="modified-date">
+Updated / Wednesday, 22 May 2024 <strong>06:03</strong>
+</span>
+</div>
+<div class="small-12 medium-7 social-btn-container top columns">
+<div class="btn-group">
+<i class="facebook dotie-icon_facebook">
+<a data-trackevent-action="share" data-trackevent-label="facebook-1450478" href="https://www.facebook.com/sharer/sharer.php?u=https://www.rte.ie/news/2024/0521/1450478-palestine-recognition/" target="_blank"></a>
+</i>
+<i class="twitter dotie-icon_twitter">
+<a data-trackevent-action="share" data-trackevent-label="twitter-1450478" href="https://twitter.com/share?url=https://www.rte.ie/news/2024/0521/1450478-palestine-recognition/&text=Govt briefing due as Cabinet discusses Palestinian state&via=rte" target="_blank"></a>
+</i>
+<i class="whatsapp2 dotie-icon_whatsapp2">
+<a data-trackevent-action="share" data-trackevent-label="whatsapp-1450478" href="whatsapp://send?text=Govt briefing due as Cabinet discusses Palestinian state - https://www.rte.ie/news/2024/0521/1450478-palestine-recognition/" data-action="share/whatsapp/share"></a>
+</i>
+<i class="linkedin dotie-icon_linkedin">
+<a data-trackevent-action="share" data-trackevent-label="linkedin-1450478" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.rte.ie/news/2024/0521/1450478-palestine-recognition/&title=Govt briefing due as Cabinet discusses Palestinian state&summary=The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine.&source=rte.ie" target="_blank"></a>
+</i>
+<i class="envelope dotie-icon_email">
+<a data-trackevent-action="share" data-trackevent-label="email-1450478" href="mailto:?&subject=The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine.&body=https://www.rte.ie/news/2024/0521/1450478-palestine-recognition/" target="_blank"></a>
+</i>
+<i class="envelope dotie-icon_print">
+<a data-trackevent-action="share" data-trackevent-label="print-1450478" href="#" onClick="window.print()"></a>
+</i>
+<span id="idc-commentcount"></span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+
+<figure id="main-article-image" class="clearfix gallery-image ">
+<div style="position: relative;">
+<img itemprop="image" class="changeable" src="https://img.rasset.ie/00203614-500.jpg" data-src="https://img.rasset.ie/00203614-800.jpg" alt="Currently, eight EU member states recognise the State of Palestine, the most recent being Sweden in 2014. (File image)">
+</div>
+<figcaption class="gutter" data-epic-field="thumbnail_caption">Currently, eight EU member states recognise the State of Palestine, the most recent being Sweden in 2014. (File image)</figcaption>
+</figure>
+<div class="byline">
+
+<div itemprop="author" itemscope itemtype="http://schema.org/Person" class="author_lite no-sponsor">
+<div class="va-parent">
+<div class="va-child">
+<a href="/author/954890-paul-cunningham/ " class="byline-image" style="background-image: url(https://img.rasset.ie/001d398f-160.jpg)">
+<img src="https://img.rasset.ie/001d398f-300.jpg" data-src="https://img.rasset.ie/001d398f-300.jpg" alt="By Paul Cunningham" title="By Paul Cunningham">
+</a>
+</div>
+<div class="va-child">
+<div class="article-meta">
+<a itemprop="url" content="https://www.rte.ie/author/954890-paul-cunningham/" class="byline-link" data-ati-tracking="{&quot;campaign&quot;:&quot;9[columnist]&quot;,&quot;generalPlacement&quot;:&quot;body&quot;,&quot;creation&quot;:&quot;body&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;byline&quot;, &quot;url&quot;:&quot;More by Paul Cunningham&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="/author/954890-paul-cunningham/ ">
+By <span class="primary-color" itemprop="name"><strong>Paul Cunningham</strong></span>
+</a>
+<p>Political Correspondent</p>
+<meta itemprop="sameAs" content="https://twitter.com/@RTENewsPaulC" />
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<section class="medium-10 medium-offset-1 columns article-body  " itemprop="articleBody" data-epic-field="content">
+<p>The three leaders of the Coalition Government are expected to announce this morning that Ireland will recognise the State of Palestine.</p>
+<p>Taoiseach Simon Harris, Tánaiste Micheál Martin and Minister Eamon Ryan will hold a news conference at 8am at Government Buildings.</p>
+<p>No agenda has been disclosed but it is now widely expected that they will recognise the Palestinian State.</p>
+<p>The Taoiseach signalled at the weekend that the Government would take that decision, along with a number of other unspecified EU member states, before the end of May.</p>
+<p>The Coalition leaders briefed their Cabinet colleagues on the subject of Palestinian recognition yesterday morning.</p>
+<p>It is understood the discussions centred on the practicalities of what recognition means rather than the date on when it will happen.</p>
+<p>A Government spokesman said there was ongoing liaison and coordination between several EU capitals on the issue, including Madrid.</p>
+<blockquote align="center" class="twitter-tweet">
+<p>Breaking - Coalition leaders to hold news conference at 8am tomorrow in Dublin. Agenda not disclosed but seems highly likely Ireland is about to recognise the State of <a href="https://twitter.com/hashtag/Palestine">#Palestine</a> - despite major objections by <a href="https://twitter.com/hashtag/Israel">#Israel</a>. <a href="https://twitter.com/rtenews">@rtenews</a> <a href="https://t.co/5yxuWbb1he">pic.twitter.com/5yxuWbb1he</a></p>
+— Paul Cunningham (@RTENewsPaulC) <a href="https://twitter.com/RTENewsPaulC/status/1793019990926324020">May 21, 2024</a></blockquote>
+<p>Amid the move, the Israeli foreign ministry has posted a video message directed at Ireland, which claims that if the Irish Government recognises the State of Palestine it will be encouraging terrorism.</p>
+<p>The headline states: "Recognising a Palestinian state will lead to more terrorism, instability in the region and jeopardise any prospects for peace. Don't be a pawn in the hands of Hamas."</p>
+<p>In the 35-second video, the script declares: "Ireland: The possibility of recognising a Palestinian state risks turning you into a pawn of Iran and Hamas."</p>
+<p>It continues: "Such a move will only strengthen Hamas and weaken an already dysfunctional Palestinian Authority. The fact that Hamas leaders are thanking you should serve as a wake-up call."</p>
+<p>The video concludes by saying: "Your actions will only fuel extremism and instability.</p>
+<p>"Progress can only be achieved by direct negotiations within a wider regional context. Don't be pawns in the hands of Hamas. Say no to recognition."</p>
+<p>A spokesman for the Irish Government said: "We have been very clear. Hamas is not the Palestinian people.</p>
+<p>He added: "Hamas is a terrorist organisation that we utterly condemn. Ireland will recognise the state of Palestine shortly in order to keep the two state peace solution alive.</p>
+<p>"We continue to see a humanitarian catastrophe in Gaza and again call for a ceasefire, the release of hostages and for aid to flow."</p>
+<blockquote align="center" class="twitter-tweet">
+<p>Recognizing a Palestinian state will lead to more terrorism, instability in the region and jeopardize any prospects for peace.<br/>
+<br/>
+Don't be a pawn in the hands of Hamas. <a href="https://t.co/81f7Gxweol">pic.twitter.com/81f7Gxweol</a></p>
+— Israel Foreign Ministry (@IsraelMFA) <a href="https://twitter.com/IsraelMFA/status/1792943282105848152">May 21, 2024</a></blockquote>
+<p>In a statement jointly signed on 22 March, former taoiseach Leo Varadkar and his Spanish, Maltese and Slovenian counterparts said they had <a href="https://www.rte.ie/news/world/2024/0322/1439417-ireland-palestine/">discussed their "readiness to recognise Palestine and said that we would do so when it can make a positive contribution and the circumstances are right"</a>.</p>
+<p>Currently, eight EU member states recognise the State of Palestine, the most recent being Sweden in 2014.</p>
+<p><a href="https://www.rte.ie/news/ireland/2024/0519/1449998-ireland-israel/" target="_blank">Last Friday, President of Israel Isaac Herzog warned Simon Harris that unilateral recognition of Palestine could jeopardise any hope of Hamas releasing the hostages it continues to hold in Gaza and encourage further attacks on Israel</a>.</p>
+<p>However, the Taoiseach contended that Ireland's plan to recognise the State of Palestine before the end of the month was not unilateral and said: "Ireland is working with a number of like-minded countries in relation to this.</p>
+<p>When asked if the Irish move could lead to a break in diplomatic relations with Israel, Mr Harris said: "Certainly Ireland doesn't wish to sever diplomatic relations. You can strongly disagree with a country. You can differentiate between the government of a country and the people of a country."</p>
+<p>He repeated that Ireland's position on Gaza is "very straightforward and very consistent and said: "We need to see an immediate cessation of violence, we need to see unimpeded and unhindered access to humanitarian aid because there is a humanitarian catastrophe unfolding in front of our eyes."</p>
+<p>Mr Harris added: "We need to see a two-state solution. In order to see a two-state solution and to help bring one about you have to recognise the very existence of two states. In the coming days Ireland intends to do just that."</p>
+<p><b>Former Israeli PM says move would be a mistake</b></p>
+<p>Meanwhile, former Israeli prime minister Ehud Olmert has said it would be a mistake if Ireland declared Palestine a state.</p>
+<p>Speaking on RTÉ's Six One News, he said: "If I could advise the Irish Government not to do it..."</p>
+<p>He added that he was in favour of a two-state solution, but if there was recognition of an independent Palestinian state without negotiations with Israel then "the Palestinians will never negotiate with Israel anymore".</p>
+<p>"It will not advance the chances of creating a Palestinian state, it will block the chances of communication and negotiations, which I am very much in favour of, and I think that the Israeli government should be in favour of.</p>
+<p>"And I think that we have to do everything in our power to force the Israeli government and to the Palestinian leadership to agree to embark on negotiations to reach such an agreement for a two-state solution..."</p>
+<p alt="Ireland declaring a Palestinian State a mistake - Former Israeli PM Ehud Olmert" class="tpe" data-description data-embed="rte-player" data-id="22397907" data-ot-category="C0004" data-title><span class="blocked-container"><span class="blocked-heading">We need your consent to load this rte-player content</span><span class="blocked-notice">We use rte-player to manage extra content that can set cookies on your device and collect data about your activity. Please review their details and accept them to load the content.</span><a class="blocked-button" href="javascript:void(0);" onclick="OneTrust.ToggleInfoDisplay()">Manage Preferences</a></span><iframe allowfullscreen="true" class="optanon-category-C0004" data-ot-category="C0004" data-src="//www.rte.ie/bosco/components/player/iframe.html?clipid=22397907&amp;amp;autostart=false&amp;amp;app=true" frameborder="0" height="345" width="614"></iframe></p>
+<p>Israel has urged "nations of the civilised world" to oppose the International Criminal Court (ICC) prosecutor's request for arrest warrants against its leaders and to declare they would ignore the warrants.</p>
+<p>Mr Olmert said he is on Israeli Prime Minister Benjamin Netanyahu's side because he is on "Israel's side".</p>
+<p>"I think that this is a major mistake. First, I do not think that there has been any serious evidence that justifies the issue of arrest warrant against Netanyahu and the Minister for Defence Gallant.</p>
+<p>"But to bind them together with the two murders and killers of a terrorist organisation, by definition, a terrorist organisation such as Hamas..."</p>
+<p>He said the attempt to create an equivalence between the two is "absolutely degusting".</p>
+<p>Mr Olmert said he did not know if Hamas could be eradicated.</p>
+<p>"I do not think there is much more to do in terms of fighting, and therefore I advocated in stopping the war and bringing back the hostages.</p>
+<p>"The hostages are still held by Hamas, and they need to be back and if what needs to be done in order to bring them back is to end the war, I am absolutely in favour of stopping the war right now."</p>
+</section>
+<div class="clearfix"></div>
+<div class="article-footer tags-container medium-10 medium-offset-1 columns">
+<h4 class="falsecap">More stories on</h4>
+<ul class="tags">
+<li>
+<a class="hover" href="/news/">News</a>
+</li>
+<li>
+<a class="hover" href="/news/ireland/">Ireland</a>
+</li>
+<li>
+<a class="hover" href="/news/middle-east/">Middle East</a>
+</li>
+<li>
+<a class="hover" href="/news/politics/">Politics</a>
+</li>
+<li>
+<a class="hover" href="/news/gaza/">Gaza</a>
+</li>
+<li>
+<a class="hover" href="/news/israel/">Israel</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="small-12 medium-12 large-4 columns sidebar" data-equalizer-watch id="sidebar_outer">
+<div id="sticky-mpu-top-anchor" class="anchor" style="display:block; height: 1px;"></div>
+<div id="sticky-mpu">
+<div class="ad-container">
+<div class="advert mpu" data-adType="sidempu" data-sizes="[&quot;fluid&quot;, [300, 600], [300, 250], [160, 600]]" data-mappings="{&quot;desktop&quot;:[ [1024, 0], [&quot;fluid&quot;, [300, 600], [300, 250], [160, 600]] ],&quot;mid-tablet&quot;:[ [768, 0], [&quot;fluid&quot;, [300, 600], [300, 250], [160, 600]] ], &quot;tablet&quot;:[ [640, 0], [&quot;fluid&quot;, [300, 600], [300, 250], [160, 600]] ],&quot;mobile&quot;:[ [0, 0], [&quot;fluid&quot;, [300, 250]] ]}"></div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div id="sidebar_panels" class="sidebar_panels">
+<div class="medium-12 large-12 show-for-large">
+<div class="ajaxed-content" data-url="/modules/most-popular/news/"></div>
+</div>
+<div class="floating-advertising-panel" style="position: relative;">
+<div id="second-sticky-mpu-top-anchor" class="anchor" style="display: block;"></div>
+<div id="second-sticky-mpu">
+<div class="ad-container">
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="second-sticky-mpu-bottom-anchor" class="anchor" style="height: 1px; display: block; position: absolute; bottom:0"></div>
+</div>
+</div>
+<p data-embed="rte-email-signup" class="rte-email-signup-container" data-id="855182"></p>
+<div class="clearfix"></div>
+</article>
+<div class="clearfix"></div>
+<div class="after">
+<div class="panel panel-author">
+<div class="row">
+<div class="columns small-12 medium-6 large-4 byline">
+<div class=" small-6 byline-image-container columns">
+<a href="/author/954890-paul-cunningham/" data-ati-tracking="{&quot;campaign&quot;:&quot;9[columnist]&quot;,&quot;generalPlacement&quot;:&quot;body&quot;,&quot;creation&quot;:&quot;body&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;author&quot;, &quot;url&quot;:&quot;More by Paul Cunningham&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" class="byline-image">
+<img src="https://img.rasset.ie/001d398f-300.jpg" data-src="https://img.rasset.ie/001d398f-300.jpg" alt="More by Paul Cunningham" title="More by Paul Cunningham">
+</a>
+</div>
+<div class=" small-6 meta">
+<h3>More by <br><a href="/author/954890-paul-cunningham/" data-ati-tracking="{&quot;campaign&quot;:&quot;9[columnist]&quot;,&quot;generalPlacement&quot;:&quot;body&quot;,&quot;creation&quot;:&quot;body&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;author&quot;, &quot;url&quot;:&quot;More by Paul Cunningham&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}">Paul Cunningham</a></h3>
+<p class="about ">Political Correspondent</p>
+<p class="twitter-handle">
+<span class="follow-text">Follow</span><a href="https://twitter.com/RTENewsPaulC" target="_blank">&commat;RTENewsPaulC</a>
+</p>
+</div>
+</div>
+
+<div class="columns small-12 medium-6 large-8 articles" data-equalizer="authors-articles" data-equalize-on="medium" data-equalize-on-stack="true">
+<div class="columns small-12 large-6 article-wrapper">
+<article data-equalizer-watch="authors-articless" class="  card card-1 small-12 columns pillar-news pillar-middle-east ">
+<div class="article-parent" style="display: block; overflow: hidden;">
+<a class="image-link img-container" href="/news/ireland/2024/0523/1450820-israel-katz/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Irish ambassador reprimanded over Palestine recognition&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<div class="inner">
+<div class="gradient"></div>
+<img class src="https://img.rasset.ie/00204d6d-600.jpg" data-src="https://img.rasset.ie/00204d6d-600.jpg" alt="Sonya McGuinness (R) pictured alongside the ambassadors from Norway and Spain during the meeting with Israeli officials earlier" title="Sonya McGuinness (R) pictured alongside the ambassadors from Norway and Spain during the meeting with Israeli officials earlier">
+</div>
+<div class="icon-overlay"><i class="dotie-icon_video "></i></div>
+</a>
+<div class="article-meta">
+<a href="/news/ireland/2024/0523/1450820-israel-katz/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Irish ambassador reprimanded over Palestine recognition&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<h3>
+<span class="underline">
+Irish ambassador reprimanded over Palestine recognition
+</span>
+</h3>
+<span class="category-name primary-color">
+Middle East
+</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="columns small-12 large-6 article-wrapper">
+<article data-equalizer-watch="authors-articless" class="  card card-2 small-12 columns pillar-news pillar-ireland ">
+<div class="article-parent" style="display: block; overflow: hidden;">
+<a class="image-link img-container" href="/news/ireland/2024/0523/1450800-housing-commission/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Housing report a \u0027damning indictment\u0027 of Government \u002D SF&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<div class="inner">
+<div class="gradient"></div>
+<img class src="https://img.rasset.ie/00204c00-600.jpg" data-src="https://img.rasset.ie/00204c00-600.jpg" alt="The commission was established as part of the Programme for Government to examine housing issues (Stock image)" title="The commission was established as part of the Programme for Government to examine housing issues (Stock image)">
+</div>
+</a>
+<div class="article-meta">
+<a href="/news/ireland/2024/0523/1450800-housing-commission/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Housing report a \u0027damning indictment\u0027 of Government \u002D SF&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<h3>
+<span class="underline">
+Housing report a &#x27;damning indictment&#x27; of Government - SF
+</span>
+</h3>
+<span class="category-name primary-color">
+Ireland
+</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="columns small-12 large-6 article-wrapper">
+<article data-equalizer-watch="authors-articless" class="  card card-3 small-12 columns pillar-news pillar-analysis-and-comment ">
+<div class="article-parent" style="display: block; overflow: hidden;">
+<a class="image-link img-container" href="/news/analysis-and-comment/2024/0522/1450579-palestine-analysis/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Historic announcement is one step on long path to peace&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<div class="inner">
+<div class="gradient"></div>
+<img class src="https://img.rasset.ie/001d3df4-600.jpg" data-src="https://img.rasset.ie/001d3df4-600.jpg" alt="Coalition leaders made the announcement this morning" title="Coalition leaders made the announcement this morning">
+</div>
+<div class="icon-overlay"><i class="dotie-icon_video "></i></div>
+</a>
+<div class="article-meta">
+<a href="/news/analysis-and-comment/2024/0522/1450579-palestine-analysis/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Historic announcement is one step on long path to peace&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<h3>
+<span class="underline">
+Historic announcement is one step on long path to peace
+</span>
+</h3>
+<span class="category-name primary-color">
+Analysis and Comment
+</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="columns small-12 large-6 article-wrapper">
+<article data-equalizer-watch="authors-articless" class="  card card-4 small-12 columns pillar-news pillar-politics ">
+<div class="article-parent" style="display: block; overflow: hidden;">
+<a class="image-link img-container" href="/news/politics/2024/0521/1450505-outdoor-alcohol/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Outdoor alcohol consumption law extended for six months&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<div class="inner">
+<div class="gradient"></div>
+<img class src="https://img.rasset.ie/0015e845-600.jpg" data-src="https://img.rasset.ie/0015e845-600.jpg" alt="The changes were introduced as a Covid-19 measure to facilitate safer outdoor socialising" title="The changes were introduced as a Covid-19 measure to facilitate safer outdoor socialising">
+</div>
+</a>
+<div class="article-meta">
+<a href="/news/politics/2024/0521/1450505-outdoor-alcohol/" data-ati-tracking="{&quot;campaign&quot;:&quot;2[index]&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;Outdoor alcohol consumption law extended for six months&quot;, &quot;detailedPlacement&quot;:&quot;News&quot;}">
+<h3>
+<span class="underline">
+Outdoor alcohol consumption law extended for six months
+</span>
+</h3>
+<span class="category-name primary-color">
+Politics
+</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="panel hide-for-large mobile-most-popular-panel">
+<div class="medium-12 large-12 hide-for-large sidebar_panels ">
+<div class="ajaxed-content" data-url="/modules/most-popular/news/"></div>
+</div>
+</div>
+</div>
+<div class="ad-container leaderboard-container bottomcontainer">
+<div class="advert leaderboard bottombanner" data-adType="bottombanner" data-sizes="[[728, 90], [970, 250], [970, 90]]" data-mappings="{&quot;desktop&quot;:[ [1024, 0], [[88,31], [970, 250], [970, 90], [728, 90]] ],&quot;mid-tablet&quot;:[ [768, 0], [[88,31], [728, 90]] ], &quot;tablet&quot;:[ [640, 0], [[88,31], [468, 60]] ],&quot;mobile&quot;:[ [0, 0], [88,31] ]}"></div>
+</div>
+</div>
+<footer class="rte-global-footer rte_foundation">
+<div class="row more-links">
+<div class="large-2 medium-4 columns">
+<ul class="weather-widget-container">
+<li class="show-for-medium">
+<a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" class="weather-widget" href="https://www.rte.ie/weather/">
+<span class="warning"></span>
+<span class="link">Weather</span>
+<span class="icon"></span>
+<span class="temperature"></span>
+</a>
+</li>
+</ul>
+<div class="menu-heading">Discover<i class="arrow_"></i></div>
+<ul class="first">
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;archives&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Archives&quot;, &quot;detailedPlacement&quot;:&quot;Archives&quot;}" href="https://www.rte.ie/archives/">RTÉ Archives</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;brainstorm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Brainstorm&quot;, &quot;detailedPlacement&quot;:&quot;Brainstorm&quot;}" href="https://www.rte.ie/brainstorm/">RTÉ Brainstorm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;history&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;10&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;History&quot;, &quot;detailedPlacement&quot;:&quot;History&quot;}" href="https://www.rte.ie/history/">History</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;gaeilge&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;8&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Gaeilge&quot;, &quot;detailedPlacement&quot;:&quot;Gaeilge&quot;}" href="https://www.rte.ie/gaeilge/">Gaeilge</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;top&quot;, &quot;variant&quot;:&quot;16&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;Eile&quot;}" href="https://www.rte.ie/learn/">RT&Eacute; Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Watch<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;player&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;11&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Player&quot;, &quot;detailedPlacement&quot;:&quot;Player&quot;}" href="https://www.rte.ie/player/">RTÉ Player</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;tv&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV&quot;, &quot;detailedPlacement&quot;:&quot;TV&quot;}" href="https://www.rte.ie/tv/">TV</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;rteone&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rteone&quot;, &quot;detailedPlacement&quot;:&quot;rteone&quot;}" href="https://www.rte.ie/player/onnow/66546216066">RTÉ One</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;rte2&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rte2&quot;, &quot;detailedPlacement&quot;:&quot;rte2&quot;}" href="https://www.rte.ie/player/onnow/66546216064">RTÉ2</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216065">RTÉ News</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;rnn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;13&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnn&quot;, &quot;detailedPlacement&quot;:&quot;rnn&quot;}" href="https://www.rte.ie/player/onnow/66546216063">RTÉjr</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Listen<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;radio&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;14&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Radio&quot;, &quot;advertiser&quot;:&quot;Radio&quot;, &quot;detailedPlacement&quot;:&quot;Radio&quot;}" href="https://www.rte.ie/radio/">Radio</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;podcasts&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Podcasts&quot;, &quot;detailedPlacement&quot;:&quot;Podcasts&quot;}" href="https://www.rte.ie/radio/podcasts/">Podcasts</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;radio1&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;radio1&quot;, &quot;detailedPlacement&quot;:&quot;radio1&quot;}" href="https://www.rte.ie/radio/radio1/">RTÉ Radio 1</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;2fm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2fm&quot;, &quot;detailedPlacement&quot;:&quot;2fm&quot;}" href="https://www.rte.ie/radio/2fm/">RTÉ 2FM</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;lyricfm&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lyricfm&quot;, &quot;detailedPlacement&quot;:&quot;lyricfm&quot;}" href="https://www.rte.ie/radio/lyricfm/">RTÉ lyric fm</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;rnag&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;15&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;rnag&quot;, &quot;detailedPlacement&quot;:&quot;rnag&quot;}" href="https://www.rte.ie/radio/rnag/">RTÉ Raidió na Gaeltachta</a></li>
+</ul>
+</div>
+<div class="show-for-medium blank"></div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Services<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;17&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Orchestras&quot;, &quot;detailedPlacement&quot;:&quot;Orchestras&quot;}" href="https://www.rte.ie/orchestras/">Orchestra</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;weather&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;7&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Weather&quot;, &quot;detailedPlacement&quot;:&quot;Weather&quot;}" href="https://www.rte.ie/weather/">RTÉ Weather</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;lotto&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;20&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;lotto&quot;, &quot;detailedPlacement&quot;:&quot;Lotto&quot;}" href="https://www.rte.ie/lotto/">Lotto</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;century ireland&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;19&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Century Ireland&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/centuryireland/">Century Ireland</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;orchestras&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;18&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Shop&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/shop/">RTÉ Shop</a></li>
+</ul>
+<div class="menu-heading youth">Kids<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;kids&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;21&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Kids&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Kids&quot;}" href="https://www.rte.ie/kids/">RTÉ Kids</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;learn&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;22&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Learn&quot;, &quot;detailedPlacement&quot;:&quot;RTÉ Learn&quot;}" href="https://www.rte.ie/learn/">RTÉ Learn</a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Help<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;contact&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;23&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Contact&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/contact-details/">Contact</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;feedback&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;24&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Feedback&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/feedback-complaints/">Feedback</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;policies&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;25&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Policies&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/policies-and-guidelines/">Policies and Reports</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;complaints&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;26&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Complaints&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/contact/complaints/">Complaints</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;terms&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;27&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Terms & Conditions&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/terms">Terms & Conditions</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;28&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Individual Rights Guide&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/individual-rights-guide">Individual Rights Guide</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;policies-guidelines&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;29&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/privacy">Privacy Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;cookie-policy&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;30&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Privacy Policy&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/reports-and-policies/cookie-policy/">Cookie Policy</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot; Freedom-Information&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;31&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Freedom Information&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href=" https://about.rte.ie/freedom-of-information-foi/what-is-freedom-of-information/"> Freedom of Information </a></li>
+</ul>
+</div>
+<div class="large-2 medium-4 columns">
+<div class="menu-heading">Information<i class="arrow_"></i></div>
+<ul>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;about&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;32&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;About&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/">About RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;tv licence&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;33&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;TV Licence&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.tvlicence.ie/home/tv-licence-home.html">TV Licence</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;34&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Careers&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/working-with-rte/vacancies/">Vacancies</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;annual report&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;35&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Annual Report&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/about/en/policies-and-reports/annual-reports/">Latest Annual Report</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;mediasales&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;36&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Media Sales&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/mediasales/">Advertise with RTÉ</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;37&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;2rn&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.2rn.ie/">2rn</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;38&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Saorview&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.saorview.ie/">Saorview</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;39&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Newsletters&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://www.rte.ie/id/profile/">Newsletters</a></li>
+<li><a data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;No Title&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;40&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;RTÉ Supporting the Arts&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" href="https://about.rte.ie/supporting-the-arts/about-rte-supporting-the-arts/">RTÉ Supporting the Arts</a></li>
+</ul>
+</div>
+<div class="large-12 columns social-btn-container">
+<div class="menu-heading">Follow RTÉ</div>
+<div class="btn-group">
+<i class="twitter dotie-icon_twitter"><a href="https://twitter.com/rte" data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;twitter&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}" target="_blank"></a></i>
+<i class="facebook dotie-icon_facebook"><a href="https://www.facebook.com/ExploreRTE/" target="_blank" data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;facebook&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}"></a> </i>
+<i class="instagram dotie-icon_instagram"><a href="https://www.instagram.com/explorerte/" target="_blank" data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;instagram&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}"></a></i>
+<i class="linkedin dotie-icon_linkedin"><a href="https://ie.linkedin.com/company/rte/" target="_blank" data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;linkedin&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}"></a></i>
+<i class="youtube dotie-icon_youtube"><a href="https://www.youtube.com/user/rte" target="_blank" data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;youtube&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;&quot;, &quot;format&quot;:&quot;&quot;, &quot;url&quot;:&quot;&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}"></a></i>
+</div>
+</div>
+</div>
+<div class="disclaimer">
+<div class="row">
+<div class="large-12 columns">
+<a class="footer-logo" href="/" data-ati-tracking="{&quot;campaign&quot;:&quot;footer&quot;,&quot;generalPlacement&quot;:&quot;logo&quot;,&quot;creation&quot;:&quot;end&quot;, &quot;variant&quot;:&quot;0&quot;, &quot;format&quot;:&quot;nav&quot;, &quot;url&quot;:&quot;Logo&quot;, &quot;detailedPlacement&quot;:&quot;&quot;}">
+<i class="dotie-icon_logo_rte"></i>
+</a>
+<div class="vcenter"><p>© RTÉ 2024. RTÉ.ie is the website of Raidió Teilifís Éireann, Ireland's National Public Service Media. RTÉ is not responsible for the content of external internet sites.
+<br> Images Courtesy of Getty Images.
+</p></div>
+</div>
+</div>
+</div>
+</footer>
+<script>
+        window.addScript = function (d, id, scr, ot_cat) {
+            var js, fjs = d.getElementsByTagName("script")[0],
+                t = window.addScript || {};
+            if (d.getElementById(id)) return t;
+            js = d.createElement("script");
+            js.id = id;
+            js.src = scr;
+            js.type = "text/plain";
+            js.className = ot_cat ? "optanon-category-" + ot_cat : "";
+            fjs.parentNode.insertBefore(js, fjs);
+
+            t._e = [];
+            t.ready = function (f) {
+                t._e.push(f);
+            };
+
+            return t;
+        };
+        window.twttr = window.addScript(document, "twitter-wjs", "https://platform.twitter.com/widgets.js","C0001");
+    </script>
+<script>
+        var RTE_IMG_ENDPOINT = 'https://img.rasset.ie/';
+
+        function getRteImageUrl(refcode, scale_dx) {
+            refcode = refcode || '0014e5f6';
+            scale_dx = scale_dx || '178';
+            var extension = refcode && refcode.indexOf('p') === 0 ? 'png' : 'jpg';
+            return RTE_IMG_ENDPOINT + refcode + '-' + scale_dx + '.' + extension;
+        }
+    </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.10/iframeResizer.min.js" integrity="sha256-0FsDr6k3iiIaao/F1olkJHUfEU/eGSYClQ7ZhVc2md8=" crossorigin="anonymous"></script>
+<script>
+        iFrameResize({log: false, checkOrigin: false}, '.iframe_panel');
+    </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.4.0/jquery-migrate.min.js" integrity="sha512-QDsjSX1mStBIAnNXx31dyvw4wVdHjonOwrkaIhpiIlzqGUCdsI62MwQtHpJF+Npy2SmSlGSROoNWQCOFpqbsOg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=" crossorigin="anonymous"></script>
+<script src="https://www.rte.ie/djstatic/dotie/vendor/foundation/foundation.min.js?v=20240523v33762"></script>
+<script src="https://www.rte.ie/djstatic/dotie/vendor/foundation/foundation.equalizer.js?v=20240523v33762"></script>
+<script src="https://www.rte.ie/djstatic/dotie/js/script.js?v=20240523v33762"></script>
+<script>
+        var RTE_ADS_PATH = "https://www.rte.ie/djstatic/dotie/js/rte.ads.js?v=20240523v33762";
+    </script>
+<script>
+        iFrameResize({log: false, checkOrigin: false}, '[data-embed="rte-sport-results"] iframe, .embed-chart');
+        var RTE_BINDER_URL = "/news/2024/0521/1450478-palestine-recognition/";
+    </script>
+<script type="text/plain" class="optanon-category-C0004" src="https://www.rte.ie/djstatic/dotie/js/peach-collector.js?v=20240523v33762"></script>
+<script>
+    String.prototype.capitalize = function () {
+        return this.charAt(0).toUpperCase() + this.slice(1);
+    };
+
+    var RTE_AT_INTERNET = {
+        init: function () {
+            this.atInternetObject = this.getAtInternetObject();
+        },
+        getUdmMetadata: function (tagName, attr1, attr2) {
+            var metaObj = {},
+                metaTags1 = document.getElementsByTagName(tagName);
+
+            for (var i = 0; i < metaTags1.length; i++) {
+                var metaTag = metaTags1[i],
+                    key = metaTag.getAttribute(attr1),
+                    value = metaTag.getAttribute(attr2);
+
+                if (key && value) {
+                    metaObj[key] = value;
+                }
+            }
+            return metaObj;
+        },
+
+        /**
+         * Returns value of a specified request parameter
+         * from the window URL. Option to specify default
+         * value if parameter not present.
+         *
+         * e.g. RTE_AT_INTERNET.getQueryString('clipid', '000000');
+         *
+         * @param key
+         * @param default_
+         * @returns String
+         */
+        getQueryString: function (key, default_) {
+            var url = window.location.href;
+            return this.getQueryStringFromUrl(url, key, default_);
+        },
+
+        getQueryStringFromUrl: function (url, key, default_) {
+            url = url || window.location.href;
+            default_ = default_ || '';
+            key = key.replace(/[\[]/, '\\\[').replace(/[\]]/, '\\\]');
+
+            var regex = new RegExp('[\\?&]' + key + '=([^&#]*)'),
+                qs = regex.exec(url);
+
+            if (qs && qs.length > 1) {
+                return qs[1];
+            }
+            return default_;
+        },
+
+        /**
+         * Determines the sport pillar from the url, it can be one of the
+         * 5 main sports or just sport,
+         * N.B. Can now be done by adding meta tag pillarCS to page instead
+         * @param pillar
+         * @param categories
+         * @returns {string}
+         */
+        getPillarSection: function (pillar, categories) {
+            var sections = {
+                    'Sport': ['soccer', 'golf', 'gaa', 'racing', 'rugby', 'euro-2016']
+                },
+                section;
+
+            if (categories && pillar in sections) {
+                var pillarSections = sections[pillar];
+                categories = categories.toLowerCase();
+
+                for (var i = 0; i < pillarSections.length; i++) {
+                    section = pillarSections[i];
+                    if (categories.indexOf(section) !== -1) {
+                        return section;
+                    }
+                }
+            }
+            return pillar;
+        },
+
+        /**
+         * Extracts the search term text from the
+         * search hash
+         * @returns {?string}
+         */
+        getSearchTermText: function () {
+            var urlHash = window.location.hash,
+                searchTextRegEx = /q=([a-zA-Z0-9\%\-\_\.,]+)/,
+                matchArray = urlHash.match(searchTextRegEx),
+                searchTermText;
+
+            // Archives search?
+            if (!matchArray || urlHash.indexOf('search?') === -1) {
+                var pathName = window.location.pathname,
+                    pathArray = [];
+
+                if (pathName.length) {
+                    pathArray = pathName.split('/');
+                }
+
+                if (pathArray.length > 3 && pathArray[1] === 'search' && pathArray[2] === 'query') {  // dotie search?
+                    searchTermText = pathArray[3];
+                } else { // There's no search term
+                    return null;
+                }
+            } else {
+                searchTermText = matchArray[1];
+            }
+
+            return decodeURIComponent(searchTermText);
+        },
+        cleanC1: function (title) {
+            if (!title) {
+                return null;
+            }
+
+            var decodeEntities = (function () {
+                // this prevents any overhead from creating the object each time
+                var element = document.createElement('div');
+
+                function decodeHTMLEntities(str) {
+                    if (str && typeof str === 'string') {
+                        // strip script/html tags
+                        str = str.replace(/<script[^>]*>([\S\s]*?)<\/script>/gmi, '');
+                        str = str.replace(/<\/?\w(?:[^"'>]|"[^"]*"|'[^']*')*>/gmi, '');
+                        element.innerHTML = str;
+                        str = element.textContent;
+                        element.textContent = '';
+                    }
+
+                    return str;
+                }
+
+                return decodeHTMLEntities;
+            })();
+
+            var str = decodeEntities(title);
+            str = str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+            str = str.replace(/[^a-zA-Z0-9._&,-/\s]/g, '');
+            str = str.toLowerCase();
+            str = str.replace(/^rte[\S\s]/g, '');
+            return str;
+        },
+        cleanUdmTitle: function (title) {
+            if (title) {
+                return window.encodeURIComponent(title);
+            }
+            return null;
+        },
+        cleanUdmUrl: function (url) {
+            if (!url) {
+                return '';
+            }
+
+            var str = url.replace(new RegExp("http:\/\/[^.\s]+.rte.ie\/", "gm"), '');
+            str = str.split("?")[0];
+            str = str.replace(new RegExp("https://[^.\s]+.rte.ie/", "gm"), '');
+            str = str.replace(new RegExp("//[^.\s]+.rte.ie/", "gm"), '');
+            str = str.replace('http://', '');
+            str = str.replace('https://', '');
+            str = str.replace(/\/$/, "");
+            str = str.replace(/\//g, '.');
+            str = str.replace(/[^a-zA-Z0-9._,-]/g, '');
+            str = window.encodeURIComponent(str.toLowerCase());
+
+            return str;
+        },
+        getAtInternetObject: function () {
+            var hash = window.location.hash.substr(1);
+            var params_hash = hash.split('&').reduce(function (result, item) {
+                var parts = item.split('=');
+                result[parts[0]] = parts[1];
+                return result;
+            }, {});
+            var atiObj = {},
+                metaTags = this.getUdmMetadata('meta', 'name', 'content'),
+                linkTags = this.getUdmMetadata('link', 'rel', 'href'),
+                categories = metaTags['categories'],
+                language = metaTags['language'],
+                appName = metaTags['app-name'] ? metaTags['app-name'] : '',
+                pillar = metaTags['pillar'] ? this.cleanUdmUrl(metaTags['pillar']) : '',
+                chapter1 = this.cleanC1(metaTags['chapter1']),
+                chapter2 = this.cleanUdmUrl(metaTags['chapter2']),
+                section = metaTags['section'] ? this.cleanUdmUrl(metaTags['section']) : '',
+                dcTitle = metaTags['DC.title'],
+                docTitle = window.document.title,
+                dcType = metaTags['DC.type'] ? metaTags['DC.type'].toLowerCase() : '',
+                dcId = metaTags['DC.identifier'] ? metaTags['DC.identifier'] : '',
+                date = metaTags['date'],
+                programme = metaTags['programme'] ? metaTags['programme'] : '',
+                // path = window.location.pathname,
+                // firstFolder = path.substring(1, path.indexOf('/', 1)),
+                escortTag = metaTags['estagid'],
+                author = metaTags['author'],
+                source = metaTags['source'],
+                url = linkTags['canonical'] ? linkTags['canonical'] : window.location.href,
+                pageError = metaTags['error'] ? metaTags['error'] : '',
+                name = this.cleanUdmUrl(url),
+                isApp = this.getQueryString('app'),
+                atiPageOpts = metaTags['ati-tagging'];
+            gender = metaTags['gender'];
+
+            atiObj.customParams = {};
+
+            var rte_userid = readRteCookie("rteuserid");
+            if (pageError == '404') {
+                atiObj.name = '404';
+                atiObj.customParams.URL = name;
+            } else {
+                atiObj.name = name;
+            }
+
+            if (pillar == 'home') {
+                atiObj.name = 'home';
+            }
+
+            atiObj.rte_userid = rte_userid ? rte_userid : '';
+            atiObj.atiuserid = params_hash.atiuserid ? params_hash.atiuserid : RTE_AT_INTERNET.getQueryString('atiuserid');
+            atiObj.keywords = categories ? categories.trim().split(/\s*,\s*/) : '';
+            atiObj.chapter1 = chapter1 ? chapter1 : this.cleanC1(pillar);
+            if (atiObj.chapter1 == null) {
+                atiObj.chapter1 = '';
+            }
+            atiObj.chapter2 = chapter2 ? chapter2 : '';
+            atiObj.level2 = section ? section : pillar;
+            atiObj.customParams.Title = dcTitle ? dcTitle : docTitle;
+            //atiObj.customParams.Pillar = pillar ? pillar : firstFolder;
+            //atiObj.customParams.SubSection = section ? section : '';
+            atiObj.customParams.Content_Type = dcType ? dcType : '';
+            atiObj.customParams.Pub_Date = date ? date : '';
+            atiObj.customParams.Content_ID = dcId.replace('urn:epic:', '');  // Epic ID / Clipper ID on Player
+            atiObj.customParams.Author = author ? author : '';
+            atiObj.customParams.Article_Source = source ? source : '';
+            atiObj.customParams.Programme_Name = programme; // on Player and Radio
+            atiObj.customParams.Country_Code = ''; // on Player
+            atiObj.customParams.Language = language;
+            atiObj.customParams.Escort_Tag = escortTag ? escortTag : '';
+            atiObj.atiPageOpts = atiPageOpts;
+            if (isApp) {
+                //Override Meta-Tag Values if hash parameters are present in URL
+                atiObj.customParams.App_Name = params_hash.app_name ? params_hash.app_name : 'rnn';
+                atiObj.customParams.Platform = params_hash.platform ? params_hash.platform : 'app';
+            } else {
+                atiObj.customParams.App_Name = appName;
+                atiObj.customParams.Platform = 'web';
+            }
+
+            if (atiObj.customParams.Content_Type === 'audio' || atiObj.customParams.Content_Type === 'video') {
+                atiObj.customParams.Media_Type = atiObj.customParams.Content_Type.substring(0, 3);
+            } else {
+                atiObj.customParams.Media_Type = 'web';
+            }
+            //We are using the tag "Genre" for the moment as we are limited to 20 custom parameters
+            atiObj.customParams.Genre = gender ? gender : '';
+
+            return atiObj;
+        },
+
+        // Add event tags to specific links
+        addEventTags: function (container) {
+            container = (typeof container !== 'undefined') ? container : "";
+            var pageLinks = document.querySelectorAll(container + ' [data-ati-tracking]');
+            for (var i = 0; i < pageLinks.length; i++) {
+                var pageLink = pageLinks[i];
+                pageLink.addEventListener('click', sendEvTags);
+            }
+
+        },
+
+    };
+
+    function sendEvTags(event) {
+        var etData = JSON.parse(this.dataset["atiTracking"]);
+        var escapedTitle = etData.url;
+        var escapedURL_dot = '';
+        escapedTitle = escapedTitle.replace(/\s+/g, "_");
+        escapedTitle = RTE_AT_INTERNET.cleanUdmUrl(escapedTitle.replace(/'/g, ''));
+
+        var campaingId = etData.campaign;
+        if (campaingId == '2[index]') {
+            campaingId = etData.format;
+        }
+        if (this.getAttribute("href")) {
+            escapedURL_dot = RTE_AT_INTERNET.cleanUdmUrl(this.getAttribute("href"));
+            if (escapedURL_dot[0] == '.') {
+                escapedURL_dot = escapedURL_dot.substring(1);
+            }
+
+            //destinationPillar = this.getAttribute("href").split('/')[1];
+        }
+
+        var eventData = {
+            elem: new Array(event.target),
+            click: {
+                campaignId: '[' + campaingId + ']',
+                generalPlacement: '[' + etData.generalPlacement + ']',
+                creation: '[' + etData.creation + ']',
+                variant: '[' + etData.variant + ']',
+                //format: '[' + etData.format + ']',
+                format: '[' + escapedURL_dot + ']', //page title or url
+                url: '[' + escapedTitle + ']',
+                advertiserId: etData.advertiser ? '[' + etData.advertiser + ']' : '[' + RTE_AT_INTERNET.atInternetObject.name + ']',
+                detailedPlacement: '[' + etData.detailedPlacement + ']'
+            },
+            event: event
+        };
+        return tag.publisher.send(eventData);
+    }
+
+    function verifyUserStatus() {
+        gigya.accounts.verifyLogin({
+            callback: function (response) {
+                if (response.isActive) {
+                    // User is logged in
+                    createRteCookie("rteuserid", response.UID, null, ".rte.ie");
+                } else {
+                    // User is not logged in
+                    eraseRteCookie("rteuserid");
+                }
+            }
+        });
+    }
+
+    function injectGigyaAndVerify() {
+        // Check for Functional Cookies
+        if (getActiveCookieCategories().indexOf("C0003") !== -1) {
+            if (typeof gigya !== "undefined") {
+                verifyUserStatus();
+            } else {
+                var gigyaScript = document.createElement("script");
+                gigyaScript.src = "https://cdns.eu1.gigya.com/js/gigya.js?apikey=3_L-OXyAWCXfbx17zMDZJf-osSrOJvZ-XdrJSfZCvJoC1MRcStY6WjP2oDZj_TjeVi"
+                gigyaScript.setAttribute("data-ot-ignore", "");
+                gigyaScript.onload = function () {
+                    window.onGigyaLoaded = window.onGigyaLoaded ? window.onGigyaLoaded : [];
+                    var i = onGigyaLoaded.length;
+                    while (i--) {
+                        onGigyaLoaded[i].apply();
+                        onGigyaLoaded.splice(i, 1);
+                    }
+                    verifyUserStatus();
+                };
+                document.head.appendChild(gigyaScript);
+            }
+        }
+    }
+
+    typeof optanonCallbacks !== "undefined" && optanonCallbacks.push(injectGigyaAndVerify);
+
+    var isATIreporting = true;
+
+    if (isATIreporting) {
+        RTE_AT_INTERNET.init();
+
+        var ati_config = {site: 592983},
+            ati_context = {};
+
+        // Getting the Device ID pasased as a query string
+        var atiuserid = RTE_AT_INTERNET.atInternetObject.atiuserid;
+
+        if (atiuserid) {
+            ati_config.ClientSideUserId = {
+                clientSideMode: 'required',
+                userIdCookieDuration: 397,
+                userIdExpirationMode: 'fixed'
+            };
+
+            ati_context = {
+                userIdentifier: atiuserid
+            };
+        }
+
+        var tag = new ATInternet.Tracker.Tag(ati_config, ati_context);
+
+        tag.page.set({
+            name: RTE_AT_INTERNET.atInternetObject.name, // (cleanUdmUrl())
+            chapter1: RTE_AT_INTERNET.atInternetObject.chapter1.toLowerCase(),
+            chapter2: RTE_AT_INTERNET.atInternetObject.chapter2,
+            chapter3: '',
+            level2: RTE_AT_INTERNET.atInternetObject.level2.capitalize(),
+            customObject: RTE_AT_INTERNET.atInternetObject.customParams
+        });
+
+        // Sending Categories as Keywords
+        var keywordsLength = RTE_AT_INTERNET.atInternetObject.keywords.length;
+        if (keywordsLength) {
+            for (var i = 0; i < keywordsLength; i++) {
+                tag.publisher.add({
+                    impression: {
+                        campaignId: '1',
+                        creation: '[' + RTE_AT_INTERNET.atInternetObject.keywords[i] + ']',
+                        url: '[' + RTE_AT_INTERNET.atInternetObject.name + ']'
+                    }
+                });
+            }
+        }
+
+        tag.identifiedVisitor.set({
+            id: RTE_AT_INTERNET.atInternetObject.rte_userid
+        });
+
+        // Setting search terms
+        if (typeof ati_search === 'object') {
+            tag.internalSearch.set(
+                ati_search.params
+            );
+            tag.page.set({
+                name: ati_search.pagename
+            });
+        }
+
+        // Send all page hit paramaters to ATInternet, sometimes we should ignore a page (radio stations panel for example)
+        if (RTE_AT_INTERNET.atInternetObject.atiPageOpts != "page-hit-ignore") {
+            tag.dispatch();
+        }
+
+        // Clicks and Event Tracker (for rte.ie only)
+
+        RTE_AT_INTERNET.addEventTags();
+        var counter = 0;
+        var checkExist = setInterval(function () {
+            if (document.querySelectorAll('.ajaxed-content').length) {
+                RTE_AT_INTERNET.addEventTags('.ajaxed-content');
+                clearInterval(checkExist);
+            } else {
+                counter++;
+                if (counter === 10) {
+                    clearInterval(checkExist);
+                }
+            }
+        }, 100);
+
+    }
+
+</script>
+<script type="text/plain" class="optanon-category-C0002">
+    var _comscore = _comscore || [];
+    _comscore.push({c1: "2", c2: "6422572"});
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<script type="text/plain" class="optanon-category-C0002-C0004">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    var trackingID = 'UA-65085526-6';
+    ga('create', trackingID, 'auto');
+    ga('send', 'pageview');
+    ga('set', 'anonymizeIp', true);
+</script>
+<img border="0" width="1" height="1" style="display: none;" src="//www.rte.ie/static/images/advertising/ad.gif" onerror="blockaTest()" onload="nobloacka()" alt="tester" />
+<script src="https://www.rte.ie/djstatic/dotie/privacy/privacy.js?v=20240523v33762"></script>
+</body>
+</html>

@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta property="fb:app_id" content="1495581714056366"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Mexico's drought, heatwave and water shortage are so bad even police are blocking traffic in protest - World News - Castanet.net</title>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@CastanetNews"/>
+<meta property="og:type" content="article"/>
+<meta property="article:publisher" content="https://www.facebook.com/Castanet.net"/>
+<meta property="article:content_tier" content="free"/>
+<meta property="article:opinion" content="false"/>
+<meta property="og:title" content="Mexico's drought, heatwave and water shortage are so bad even police are blocking traffic in protest - World News"/>
+<meta name="description" content="Mexico&rsquo;s drought, heatwave and water shortages have gotten so bad that even police blocked traffic in protest Wednesday."/>
+<meta property="og:description" content="Mexico&rsquo;s drought, heatwave and water shortages have gotten so bad that even police blocked traffic in protest Wednesday."/>
+<link rel="canonical" href="https://www.castanet.net/news/World/488717/Mexico-s-drought-heatwave-and-water-shortage-are-so-bad-even-police-are-blocking-traffic-in-protest"/>
+<meta property="og:url" content="https://www.castanet.net/news/World/488717/Mexico-s-drought-heatwave-and-water-shortage-are-so-bad-even-police-are-blocking-traffic-in-protest"/>
+<meta property="og:image" content="https://www.castanet.net/content/2024/5/download._p3802183.jpg"/>
+<link href="https://www.castanet.net/rss/page-5.xml" rel="alternate" type="application/rss+xml" title="Castanet - World" />
+<meta name="referrer" content="always"/>
+<link rel="dns-prefetch" href="https://www.google-analytics.com/" />
+<link rel="preconnect" href="https://www.google-analytics.com/" />
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap' rel='stylesheet' type='text/css'/>
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/css/ie7.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="/css/new93.css" />
+<link rel="stylesheet" type="text/css" href="/css/business8.css" />
+<style type="text/css">
+#content{margin-top:15px}
+h4{font-weight:normal}
+#s1 {width:300px;margin-right:40px}
+#s2 {width:300px}
+#s1headlines {width:300px}
+#s1headlines ul li {padding-bottom:10px}
+#s1headlines ul li span {line-height:14px}
+
+#s1photo {width:320px}
+#s1photo a {margin:0 !important}
+#s1photo h1, #s1photo h1 a {font-size:19px;font-weight:normal;margin-top:0 !important}
+.s1phtitle {font-size:11px}
+.s1phtitle div {padding:0 0 0 0;margin:5px}
+.photo_credit {font-size:11px;font-style:normal;color:#000}
+
+h3, h3 a {font-size:19px;line-height:19px;font-weight:normal !important}
+.newsstory h3,.newsstory h4,.newsstory h5 {font-size:14px;line-height:1.35em;margin-bottom:14px;font-weight:600 !important}
+.newsstory.mobiledev h3,.newsstory.mobiledev h4,.newsstory.mobiledev h5 {font-size:38px}
+.video video {max-width:640px}
+#sfad {padding-left:0 !important;padding-right:0 !important;background-color:transparent !important}
+#movies, #svault, .d300 {border-radius:7px;overflow:hidden}
+.d300100 {border-radius:7px;overflow:hidden;width:300px;height:100px}
+.d300250 {border-radius:7px;overflow:hidden;width:300px;height:250px}
+#movies img {border-radius:7px}
+#sc {border-radius:7px}
+#eventtop img, #eventbot img {border-radius:7px}
+#sc img, #vault img {border-radius:7px}
+.scolumns img {padding:0;margin-right:10px}
+#ft2 {border-top-left-radius:7px;border-top-right-radius:7px;overflow:hidden;margin-top:0}
+#ftlinks {background:#fdcf01}
+.ftcol h4, .ftcol h4 a, .ftcol li a {color:#274b98}
+#ftbot, #bftright {background-color:#3662ad}
+
+#s1photo h1 {float:none !important}
+.greyBox3, #bc-related, #tango_top {border-radius:7px}
+.stocktable {border-radius:7px;margin-bottom:40px;float:none}
+table.stocktable td.title {border-top-left-radius:7px;border-top-right-radius:7px}
+#recentop {border-top-left-radius:7px;border-top-right-radius:7px;margin-top:40px}
+.trending {border-bottom-left-radius:7px;border-bottom-right-radius:7px;margin-bottom:40px;overflow:hidden}
+.thetango_widget {border-bottom-left-radius:7px;border-bottom-right-radius:7px}
+.d300600 {border-radius:7px;overflow:hidden;width:300px;height:600px}
+.gallery img {border-radius:7px}
+#footer {border-radius:7px;margin-top:40px;background:#3662ad}
+#related {border-radius:7px}
+.greyBox3 {overflow:hidden}
+
+#newsarchive {display:block;font-size:19px;font-weight:600;text-align:center;text-decoration:underline}
+#newsarchive:hover, .ql-related-links:hover {text-decoration:underline;color:#4a597f}
+.stick_pad {position:fixed !important;top:10px !important}
+
+.cell_row {width:100%;float:left}
+.cell_row .qt {float:left;margin:10px 0 10px 5px;width:19%;text-align:center}
+.cell_row h2 {font-size:19px}
+.pic img {border-radius:5px}
+.cell_row h2 {padding:4px 0 3px 0;width:100% !important;background-image:url(/images/election_city_bg.jpg);text-indent:20px;background-color:#d8d8d8;background-repeat:repeat-y;background-position:right center;border-radius:5px}
+
+.backhome {margin-bottom:20px}
+.backhome a {font-weight:600;text-decoration:underline}
+.backhome.mobiledev {margin-bottom:32px}
+.backhome.mobiledev a {font-size:32px;line-height:1.35em}
+.sfoot1 {width:44px;height:66px;display:inline-block;background:no-repeat url(/images/story-footer.png) 0px 0px;position:relative}
+.sfoot1 span {position:absolute;bottom:0;left:3px;color:#7d7e81}
+.sfoot2 {margin-left:34px;width:44px;height:66px;display:inline-block;background:no-repeat url(/images/story-footer.png) -43px 0px;position:relative}
+.sfoot2 span {position:absolute;bottom:0;left:-9px;width:70px;color:#7d7e81}
+.sfoot3 {margin-left:34px;width:44px;height:66px;display:inline-block;background:no-repeat url(/images/story-footer.png) -87px 0px;position:relative}
+.sfoot3 span {position:absolute;bottom:0;left:-2px;color:#7d7e81}
+.scomments {margin-top:10px}
+.scomments a {font-weight:600}
+.newsletter {width:640px;height:46px;margin-top:10px}
+.sfoot4 {width:268px;height:44px;display:inline-block;background:no-repeat url(/images/story-footer.png) -130px 0px;position:relative;box-sizing:border-box;padding-left:50px}
+.sfoot4 span {clear:both;font-size:11px;line-height:11px;color:#7d7e81;display:inline-block;width:209px}
+.sfoot4 p {color:#3c6eb6;text-transform:uppercase;font-style:italic}
+.mc_embed_signup {width:370px;float:right;position:relative}
+.mc_embed_signup input {-webkit-appearance:none;-moz-appearance:none;appearance:none}
+.mc_embed_signup .email {width:235px;height:44px;box-sizing:border-box;border-radius:7px;border-color:#cedbed;padding-left:10px;font-size:14px}
+.mc_embed_signup .button {position:absolute;top:0;right:0;text-transform:uppercase;font-style:italic;background:#3c6eb6;color:#fff;border:none;border-radius:7px;height:44px;line-height:42px;font-size:21px;padding:0 10px 0 10px}
+.st-right {float:right;width:400px}
+.recent-news {border-top:1px solid #d6d6d6;border-bottom:1px solid #d6d6d6;width:300px;margin-bottom:50px}
+.recent-news span {display:block}
+.recent-title {font-size:21px;font-weight:700;font-style:italic;letter-spacing:0.5px;margin-top:40px}
+.recent-img {width:100px;height:75px;background-size:cover;display:inline-block}
+.recent-info {width:185px;margin-left:10px;display:inline-block;vertical-align:top;font-size:12px}
+.recent-headline {font-size:18px;margin-top:5px;font-weight:400}
+.recent-morelink {float:right;margin-right:5px;font-weight:600;margin-top:3px;font-size:12px;font-style:italic}
+.recent-news #body1 {padding-left:0px;margin:5px 0}
+.recent-news #body1 li {list-style-type:none;clear:both;height:79px}
+.hasfull, .hasfull a {font-size:20px;font-weight:700 !important;color:#525252;text-transform:uppercase}
+.newsheadlinefull {font-size:29px;line-height:31px;font-weight:700;padding-top:35px;margin-bottom:10px}
+.newsheadlinefull a {font-size:29px;line-height:31px;font-weight:700}
+
+.postcomment {margin-bottom:10px}
+.postcomment a {font-weight:600 !important;text-decoration:underline !important}
+.postcomment p {text-align:center}
+.commentlink {display:block;float:right;margin-bottom:10px}
+.commentlink.mobiledev {font-size:32px;line-height:1.35em}
+.postcomment .errormsg {text-align:center;background-color:#ffdcdc;border-radius:7px;padding:10px;border:solid 2px #bc0000}
+.postcomment .submit {
+color: #fff !important;
+border: solid 1px #2874d7;
+background: #5891e7 url(/images/button-shade.png) no-repeat center top;
+background-size: auto;
+background-size: 100% 95%;
+border-radius: 7px;
+width: auto !important;
+height: auto !important;
+padding: 6px 45px !important;
+line-height: 16px;
+font-weight: 400;
+margin-top:10px;
+display: block;
+font-size: 14px;
+float:right;
+}
+.scomments {clear:both;border-radius:7px;overflow:hidden}
+.scomments > a {background:#3662ad;color:#fff;padding:10px;display:block;text-align:center;font-size:1.2em}
+.scomments > a:hover {color:#fff;text-decoration:underline}
+.comments {width:100%;height:auto;max-height:500px;display:block;overflow-y:auto}
+.comments a {text-decoration:none;color:#000}
+.comments a:hover {text-decoration:underline}
+.comment {border-bottom:6px solid #3662ad;padding-bottom:20px;font-size:1em}
+.comments blockquote {background-color:#fafafa;border:1px solid #ccc;border-radius:7px;padding:5px;margin:1em 1px 1em 25px}
+.comments blockquote blockquote {background-color:#fff;margin:1em 1px 1em 15px}
+.comments blockquote cite {display:block;font-style:normal;margin-bottom:10px}
+.comments blockquote cite > span {float:right;font-size:0.9px}
+.comments blockquote cite a {color:#3d6eb7}
+.comments .smilies {vertical-align:text-bottom}
+.comments .emoji {min-height:18px;min-width:18px;height:1em;width:1em}
+.commentor {margin-top:10px}
+.commentor a {font-weight:700;font-size:1.2em;color:#3d6eb7}
+.commentor time {color:#5c656f;font-size:0.9em;display:block}
+.postlink {color:#3d6eb7}
+.commentform {margin:10px 0 20px 0}
+.commentform textarea {font-size:1em;font-family:inherit;margin-top:10px;padding:0.5em;box-sizing:border-box;border:1px solid silver;border-radius:7px;width:100%;height:100px}
+
+@media print {
+#rnews,#hdad,#hdrbuttons,#ftbot,#newsheader,#footlb,#myhomepage span,.mhsform,.megawrap,.contentfooter {display:none}
+#backtotop {display:none !important}
+#mh {position:relative !important}
+#hdedition {background:none}
+#hdedition span {color:transparent}
+#hdedition a {display:none}
+#content {margin-top:0 !important}
+#lnews {width:980px}
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+<script src="/js/tools-3news.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-802263-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-802263-1');
+</script>
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6034663" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = "https://sb.scorecardresearch.com/cs/6034663/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=642df0317e455e00129f0eb4&product=inline-share-buttons&source=platform" async="async"></script>
+</head>
+
+<body>
+<div class="mobileframe">
+<div id="frame">
+<script type="text/javascript">var sfPage="sfWorld";</script>
+<div id="mh" class="kelowna-mh">
+	<div id="hd">
+		<div id="hdl">
+			<a href="/"><img srcset="/img/mh/castanet-logo.svg" src="/img/mh/castanet-logo.png" alt="Castanet" title="Go Home" class="mhlogo" width="225" height="37"/></a>
+		</div>
+		<div id="hdr">
+<div id="hdrwx">
+<a id="header_weather" href="https://www.castanet.net/weather/Kelowna" title="Kelowna Weather" style="position:relative;margin:0;background:url('//www.castanet.net/images/weather/icon/10.png') no-repeat top;background-size:50px 40px;width:50px;height:40px"><span style="position:absolute;top:14px;left:10px">15&deg;C</span></a></div>
+
+<div style="float:right;margin-top:15px;margin-right:5px"><a href="https://www.rew.ca/okanagan" target="_blank" rel="noopener"><img alt="REW Logo" loading="lazy" width="80" height="20" src="/img/mh/logo.e0bd1e4c.svg" /><img src="/images/new-red.png" width="25" height="20" alt="new feature" style="position:absolute;top:1px;right:75px"/></a></div>
+		</div>
+
+<div style="clear:both;margin:0 0 0 5px;line-height:18px">
+<div id="hdedition" title="Choose your city">
+<span>city</span>
+<a id="cityl" href="https://www.castanet.net/salmon-arm/">&lsaquo;</a>
+<a id="cityr" href="https://www.castanet.net/vernon/">&rsaquo;</a>
+</div>
+<div id="myhomepage">
+<a href="https://www.castanet.net/vernon/" title="Choose your city">Kelowna's Homepage</a> <span><a class="hpselect" title="Kelowna" href="https://www.castanet.net/kelowna/">&#9679;</a><a title="Vernon" href="https://www.castanet.net/vernon/">&#9679;</a><a title="Penticton" href="https://www.castanet.net/penticton/">&#9679;</a><a title="Kamloops" href="https://www.castanetkamloops.net/">&#9679;</a><a title="Oliver / Osoyoos" href="https://www.castanet.net/osoyoos/">&#9679;</a><a title="Salmon Arm" href="https://www.castanet.net/salmon-arm/">&#9679;</a></span>
+</div>
+<div class="searchmh">
+<span id="mhdate">Thursday, May 23</span><form class="mhsform" name="newsearchg" action="https://www.google.com/search">
+<input type="text" name="q" title="Google" placeholder="Google" autocomplete="off"/>
+<input type="image" name="submit" src="/images/mhsearchbutton.png" style="width:15px;height:15px;position:absolute;top:0px;right:2px" alt="Submit"/>
+</form>
+</div>
+<div class="searchmh" style="margin:0">
+<form class="mhsform" name="newsearchc" action="/search-news/">
+<input type="text" name="q" title="Castanet" placeholder="Castanet" autocomplete="off"/>
+<input type="image" name="submit" src="/images/mhsearchbutton.png" style="width:15px;height:15px;position:absolute;top:0px;right:2px" alt="Submit"/>
+</form>
+</div>
+
+<div id="hdrbuttons">
+<a id="hdflyers" title="Obituaries" href="/obituaries/">Obits</a><a id="hdautomall" title="AutoMall" href="https://www.castanetautomall.com/" target="_blank" rel="noopener">AutoMall</a><a id="hdevents" title="Events" href="/events/">Events</a><a id="hdcams" title="Cams" href="/scenic-web-cams/">Cams</a><a id="hdtango" title="The Tango" href="https://thetango.net/" target="_blank" rel="noopener">Tango</a>
+</div>
+</div>
+
+	</div>
+<div class="megawrap">
+<ul class="sf-menu" id="megamenu">
+	<li id="sfNews">
+	<a href="/">Home</a>
+	<div class="sf-mega">
+<div class="sf-mega-frame">
+	<div class="sf-mega-section" style="width:280px">
+	<ul class="sf2col">
+<li><a href="/edition/news-story--1-.htm">Kelowna</a></li>
+<li><a href="/edition/news-story--101-.htm">West Kelowna</a></li>
+<li><a href="/edition/news-story--86-.htm">Peachland</a></li>
+<li><a href="/edition/news-story--21-.htm">Penticton</a></li>
+<li>&nbsp;</li>
+<li><a href="/edition/news-story--11-.htm">Poll</a></li>
+<li><a href="/edition/news-story--10-.htm">Letters</a></li>
+<li><a href="/opinion/">Opinion</a></li>
+</ul>
+<ul class="sf2col2">
+<li><a href="/edition/news-story--2-.htm">Vernon</a></li>
+<li><a href="/edition/news-story--61-.htm">Salmon Arm</a></li>
+<li><a href="/edition/news-story--48-.htm">Kamloops</a></li>
+<li><a href="/edition/news-story--87-.htm">Oliver / Osoyoos</a></li>
+<li>&nbsp;</li>
+<li><a href="https://forums.castanet.net/">Forums</a></li>
+<li><a href="/columnists/">Columnists</a></li>
+<li><a href="/mailinglist/">Newsletter Signup</a></li>
+</ul>
+<div style="clear:both"></div>
+	</div>
+</div>
+	</div>
+	</li>
+	<li id="sfBC">
+	<a href="/edition/news-story--3-.htm">BC</a>
+	<div class="sf-mega">
+<div class="sf-mega-frame">
+	<div class="sf-mega-section">
+	<ul>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:10px 0 15px 0"><a href="/edition/news-story-488928-3-.htm#488928"><img src="/content/2024/5/square/thumb/img_5595_p3542140_p3713379_p3804815.jpg" alt="Story 488928" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Severe thunderstorm watch<br/><span style="font-size:11px">Southern Interior 3:31 pm - 23,512 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488959-3-.htm#488959"><img src="/content/2024/5/thumb/488959_0.jpg" alt="Story 488959" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Snowpacks 'extremely low'<br/><span style="font-size:11px">BC 2:42 pm - 3,978 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488949-3-.htm#488949"><img src="/content/2024/5/square/thumb/glacier_99559_p.jpg" alt="Story 488949" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Jail sought for acupuncturist<br/><span style="font-size:11px">Richmond 2:07 pm - 3,089 views</span></a></li>
+</ul>
+<ul class="sf2col">
+<li><a href="/edition/news-story--1-.htm">Kelowna</a></li>
+<li><a href="/edition/news-story--101-.htm">West Kelowna</a></li>
+<li><a href="/edition/news-story--21-.htm">Penticton</a></li>
+<li><a href="/edition/news-story--2-.htm">Vernon</a></li>
+<li><a href="/edition/news-story--61-.htm">Salmon Arm</a></li>
+<li><a href="/edition/news-story--48-.htm">Kamloops</a></li>
+</ul>
+<ul class="sf2col2">
+<li><a href="/edition/news-story--86-.htm">Peachland</a></li>
+<li><a href="/edition/news-story--87-.htm">Oliver / Osoyoos</a></li>
+<li><a href="/news/Vancouver/">Vancouver</a></li>
+<li><a href="/news/Victoria/">Victoria</a></li>
+<li><a href="/news/Prince%20George/">Prince George</a></li>
+<li><a href="/news/Nelson/">Nelson</a></li>
+</ul>
+<ul style="clear:both">
+<li class="sf-menu-icon"><a href="/edition/news-story--3-.htm" class="bc-icon">All BC News</a></li>
+	</ul>
+	</div>
+</div>
+	</div>
+	</li>
+	<li id="sfCanada">
+	<a href="/edition/news-story--4-.htm">Canada</a>
+	<div class="sf-mega">
+<div class="sf-mega-frame">
+	<div class="sf-mega-section">
+	<ul>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:10px 0 15px 0"><a href="/edition/news-story-488944-4-.htm#488944"><img src="/content/2024/5/square/thumb/ea77d87a-6bab-4952-ac02-d55a35dacfd4_p3804920.jpg" alt="Story 488944" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Canada urged to meet target<br/><span style="font-size:11px">Canada 2:02 pm - 2,079 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488856-4-.htm#488856"><img src="/content/2024/5/square/thumb/872021cc-3323-427d-9009-72ceab1a2e56_p3802881.jpg" alt="Story 488856" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Extending citizenship rights<br/><span style="font-size:11px">Ottawa 11:31 am - 7,883 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488901-4-.htm#488901"><img src="/content/2024/5/square/thumb/8eef8118-7183-43b1-94b0-4116d22640af_p3803999.jpg" alt="Story 488901" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>CBC pushes into streaming<br/><span style="font-size:11px">Canada 10:31 am - 2,331 views</span></a></li>
+<li class="sf-menu-icon"><a href="/edition/news-story--4-.htm" class="canada-icon">More Canada News</a></li>
+	</ul>
+	</div>
+</div>
+	</div>
+	</li>
+	<li id="sfWorld">
+	<a href="/edition/news-story--5-.htm">World</a>
+	<div class="sf-mega">
+<div class="sf-mega-frame">
+	<div class="sf-mega-section">
+	<ul>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:10px 0 15px 0"><a href="/edition/news-story-488962-5-.htm#488962"><img src="/content/2024/5/square/thumb/eef10ce4-1de4-4e2b-8912-379e19391d82_p3804909.jpg" alt="Story 488962" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>'Ron, I love that you're back'<br/><span style="font-size:11px">United States 3:09 pm - 503 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488910-5-.htm#488910"><img src="/content/2024/5/square/thumb/e01c3c0f-e9f7-4070-ad10-f187564c243c_p3804567.jpg" alt="Story 488910" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Cop had camera turned off<br/><span style="font-size:11px">Kentucky 11:08 am - 8,448 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488877-5-.htm#488877"><img src="/content/2024/5/square/thumb/be02946b-2740-4fb4-ac52-674d4ee64417_p3804020.jpg" alt="Story 488877" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>'Heat dome' strains grids <br/><span style="font-size:11px">U.S./Mexico  8:14 am - 7,889 views</span></a></li>
+<li class="sf-menu-icon"><a href="/edition/news-story--5-.htm" class="world-icon">More World News</a></li>
+	</ul>
+	</div>
+</div>
+	</div>
+	</li>
+	<li id="sfBusiness">
+	<a href="/edition/news-story--6-.htm">Business</a>
+	<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section">
+		<ul>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:10px 0 15px 0"><a href="/edition/news-story-488965-6-.htm#488965"><img src="/content/2024/5/square/thumb/edfbcb13-85d4-4345-9070-a6462e646610_p3804955.jpg" alt="Story 488965" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Hackers release stolen data<br/><span style="font-size:11px">Business 3:11 pm - 3,426 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488946-6-.htm#488946"><img src="/content/2024/5/square/thumb/10305bb5-15bf-4a81-92d9-3e83db0bebdc_p3804504.jpg" alt="Story 488946" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Nvidia's incredible numbers<br/><span style="font-size:11px">Business 2:04 pm - 532 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 5px 0"><a href="/edition/news-story-488942-6-.htm#488942"><img src="/content/2024/5/square/thumb/glacier_99547_p.jpg" alt="Story 488942" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Buying back own restaurants<br/><span style="font-size:11px">Vancouver 1:56 pm - 5,282 views</span></a></li>
+</ul>
+<ul class="sf2col">
+			<li><a href="/edition/news-story--66-.htm">Sponsored Video</a></li>
+			<li><a href="/themarket/">The Market</a></li>
+			<li><a href="/pressroom/">Press Room</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/services/">Services</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/real_estate/business_opportunities/">Biz Opportunities</a></li>
+			<li><a href="/edition/news-story--63-.htm">Think Local</a></li>
+			<li><a href="/news/Promoted-Posts/">Promoted Posts</a></li>
+</ul>
+<ul class="sf2col2">
+			<li><a href="https://okanaganedge.net/" target="_blank" rel="noopener" style="text-decoration:underline">Okanagan Edge</a></li>
+			<li><a href="https://okanaganedge.net/category/okanagan-biz/" target="_blank" rel="noopener">Okanagan Biz</a></li>
+			<li><a href="https://okanaganedge.net/category/bc-biz/" target="_blank" rel="noopener">BC Biz</a></li>
+			<li><a href="https://okanaganedge.net/category/community/got-the-edge/" target="_blank" rel="noopener">Got the Edge</a></li>
+			<li><a href="https://okanaganedge.net/category/community/get-involved/" target="_blank" rel="noopener">Get Involved</a></li>
+			<li><a href="https://okanaganedge.net/category/business-buzz/" target="_blank" rel="noopener">Business Buzz</a></li>
+		</ul>
+<div style="clear:both"></div>
+		</div>
+</div>
+	</div>
+	</li>
+	<li id="sfSports">
+	<a href="/sports/">Sports</a>
+	<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section">
+		<ul>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:10px 0 15px 0"><a href="/edition/news-story-488896-35-.htm#488896"><img src="/content/2024/5/square/thumb/screen_shot_2024-05-23_at_10.04.44_am_p3804357.jpg" alt="Story 488896" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Vees tied in series<br/><span style="font-size:11px">Penticton 10:05 am - 786 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488691-7-.htm#488691"><img src="/content/2024/5/thumb/488691_0.jpg" alt="Story 488691" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Tour visits Summerland<br/><span style="font-size:11px">Sports  - 2,166 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 5px 0"><a href="/edition/news-story-488684-35-.htm#488684"><img src="/content/2024/5/square/thumb/screen_shot_2024-05-22_at_9.47.45_am_p3802106.jpg" alt="Story 488684" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Vees triumph over Eagles<br/><span style="font-size:11px">BCHL  - 2,914 views</span></a></li>
+</ul>
+<ul class="sf2col">
+			<li><a href="/edition/news-story--51-.htm">WHL</a></li>
+			<li><a href="/edition/news-story--35-.htm">BCHL</a></li>
+			<li><a href="/edition/news-story--44-.htm">BCFC</a></li>
+			<li><a href="/edition/news-story--62-.htm">UBCO Heat</a></li>
+			<li><a href="/golf/">Golf</a></li>
+			<li><a href="/sports/penticton-speedway/">Penticton Speedway</a></li>
+</ul>
+<ul class="sf2col2">
+			<li><a href="/sports/ski/">Ski</a></li>
+			<li><a href="/ski/big-white/">Big White</a></li>
+			<li><a href="/ski/silver-star/">Silver Star</a></li>
+			<li><a href="/ski/apex/">Apex</a></li>
+			<li><a href="/ski/baldy/">Baldy</a></li>
+			<li><a href="/ski/sun-peaks/">Sun Peaks</a></li>
+		</ul>
+<div style="clear:both"></div>
+		</div>
+</div>
+	</div>
+	</li>
+	<li id="sfShowBiz">
+		<a href="/edition/news-story--8-.htm">ShowBiz</a>
+		<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section">
+		<ul>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:10px 0 15px 0"><a href="/edition/news-story-488964-8-.htm#488964"><img src="/content/2024/5/square/thumb/7a0af4dc-ae4f-455e-b2f7-a00aa3e133fc_p3804973.jpg" alt="Story 488964" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Sean Kingston home raided<br/><span style="font-size:11px">Entertainment 3:10 pm - 2,511 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 15px 0"><a href="/edition/news-story-488918-8-.htm#488918"><img src="/content/2024/5/square/thumb/bang_96994_p.jpg" alt="Story 488918" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Ventura breaks silence<br/><span style="font-size:11px">Entertainment 11:36 am - 1,310 views</span></a></li>
+<li style="clear:both;height:50px;overflow:hidden;line-height:14px;padding:0 0 5px 0"><a href="/edition/news-story-488917-8-.htm#488917"><img src="/content/2024/5/square/thumb/bang_96990_p.jpg" alt="Story 488917" style="float:left;width:50px;height:50px;margin:0 5px 0 0;border-radius:6px"/>Seinfeld star had cancer<br/><span style="font-size:11px">Entertainment 11:35 am - 1,785 views</span></a></li>
+</ul>
+<ul class="sf2col">
+		<li><a href="https://tvlistings.zap2it.com/">TV Listings</a></li>
+		<li><a href="/books.htm">Books</a></li>
+		<li><a href="/edition/news-story--25-.htm">Offbeat</a></li>
+		<li><a href="/edition/news-story--57-.htm">Around the Web</a></li>
+		<li><a href="/edition/news-story--1160-.htm">Weekly Horoscopes</a></li>
+</ul>
+<ul class="sf2col2">
+		<li><a href="https://thetango.net/" target="_blank" rel="noopener" style="text-decoration:underline">The Tango</a></li>
+		<li><a href="https://thetango.net/category/daily-dose/" target="_blank" rel="noopener">Daily Dose</a></li>
+		<li><a href="https://thetango.net/category/must-watch/" target="_blank" rel="noopener">Must Watch</a></li>
+		<li><a href="https://thetango.net/category/galleries/" target="_blank" rel="noopener">Galleries</a></li>
+		<li><a href="https://thetango.net/category/showbiz/" target="_blank" rel="noopener">Showbiz</a></li>
+		<li><a href="https://thetango.net/category/music/" target="_blank" rel="noopener">Music</a></li>
+		</ul>
+<div style="clear:both"></div>
+		</div>
+</div>
+		</div>
+	</li>	
+	<li id="sfClassifieds">
+		<a href="https://classifieds.castanet.net/">Classifieds</a>
+		<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section">
+		<ul class="sf2col">
+<li><a href="https://classifieds.castanet.net/dashboard.php" class="sfbutton">Login</a></li>
+			<li><a href="https://classifieds.castanet.net/live/">Marketplace Live</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/jobs/">Jobs</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/real_estate/">Real Estate</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/rentals/">Rentals</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/vehicles/">Vehicles</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/auto_parts/">Auto Parts</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/rec_vehicles/">Rec Vehicles</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/house-home/">House-Home</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/furniture/">Furniture</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/electronics/">Electronics</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/fashion/">Fashion</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/kids/">Kids</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/sports-health/">Sports-Health</a></li>
+		</ul>
+<ul class="sf2col2">
+<li><a href="/help/" class="sfbutton">Help</a></li>
+<li><a href="https://www.castanetautomall.com/" target="_blank" rel="noopener">Automall</a></li>
+<li><a href="https://www.rvpowersports.com/" target="_blank" rel="noopener">RV-Boats-Powersports</a></li>
+<li><a href="https://classifieds.castanet.net/flyers/">Flyers</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/hobbies-music/">Hobbies-Music</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/library/">Library</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/vintage-antiques/">Vintage-Antiques</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/home_improvement/">Home Improvement</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/commercial-business/">Commercial-Business</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/farmers_market/">Farmer's Market</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/horse-farm-pets/">Horse-Farm-Pets</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/services/">Services</a></li>
+			<li><a href="https://classifieds.castanet.net/cat/garage-free-auctions/">Garage-Free-Auctions</a></li>
+			<li><a href="/stores/">Stores</a></li>
+			<li><a href="https://classifieds.castanet.net/Classifieds-Rate-Sheet-Apr-2022.pdf" target="_blank" rel="noopener">Classifieds Rate Sheet</a></li>
+</ul>
+<div style="clear:both"></div>
+		</div>
+</div>
+		</div>
+	</li>
+	<li id="sfRealEstate">
+		<a href="/realestate/">Real Estate <img src="/images/new-red.png" width="25" height="20" alt="new feature" style="position:absolute;top:-2px;right:-5px"/></a>
+		<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section" style="width:190px">
+		<ul>
+			<li><a href="https://classifieds.castanet.net/cat/real_estate/">Castanet Real Estate Listings</a></li>
+			<li><a href="https://www.rew.ca/okanagan" target="_blank" rel="noopener">REW Real Estate Listings <img src="/images/new-red.png" width="25" height="20" alt="new feature" style="position:absolute;top:0;right:6px"/></a></li>
+			<li><a href="https://classifieds.castanet.net/cat/rentals/">Rentals</a></li>
+			<li><a href="/showhomes/">Showhome Showcase</a></li>
+			<li><a href="/edition/news-story--31-.htm">Luxury Homes</a></li>
+			<li><a href="/edition/news-story--88-.htm">Luxury Homes South</a></li>
+			<li><a href="/edition/news-story--90-.htm">Luxury Homes North</a></li>
+			<li><a href="/edition/news-story--1044-.htm">Investment Real Estate</a></li>			
+			<li><a href="https://classifieds.castanet.net/cat/real_estate/open_houses_no_showhomes_please/">Open Houses</a></li>
+		</ul>
+		</div>
+</div>
+		</div>	
+	</li>
+
+	<li id="sfCommunity">
+		<a href="/opinion/">Opinion</a>
+		<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section">
+		<ul>
+			<li><a href="/edition/news-story--11-.htm">Poll</a></li>
+			<li><a href="/edition/news-story--10-.htm">Letters</a></li>
+			<li><a href="https://forums.castanet.net/">Forums</a></li>
+			<li><a href="/columnists/">Columnists</a></li>
+			<li><a href="/edition/news-story--56-.htm">Opinion</a></li>
+		</ul>
+		</div>
+</div>
+		</div>
+	</li>
+	<li id="sfCity">
+		<a href="/our-town/">Our Town</a>
+		<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section">
+		<ul class="sf2col">
+			<li><a href="/obituaries/">Obituaries</a></li>
+			<li><a href="/themarket/">The Market</a></li>
+			<li><a href="/adopt-a-pet/">Adopt-a-Pet</a></li>
+			<li><a href="/events/">Events</a></li>
+			<li><a href="/movies/">Movies</a></li>
+			<li><a href="/scenic-web-cams/">Cams</a></li>
+<li><a href="/gas-prices/">Gas Prices</a></li>
+			<li><a href="/gallery/">Gallery</a></li>
+<li><a href="/celebrations/">Celebrations</a></li>
+<li><a href="/contests/">Contests</a></li>
+			<li><span style="position:absolute;top:-2px;font-size:24px;text-decoration:none !important;color:#000">&lsaquo;</span> &nbsp; &nbsp;<a href="/city/" style="position:relative" id="citylink" class="taphover">Cities </a>
+<div>
+		<ul class="sf2col">
+			<li><a href="https://www.cityofarmstrong.bc.ca" target="_blank" rel="noopener">Armstrong</a></li>
+			<li><a href="https://www.cityofenderby.com" target="_blank" rel="noopener">Enderby</a></li>
+			<li><a href="https://www.kamloops.ca" target="_blank" rel="noopener">Kamloops</a></li>
+			<li><a href="https://www.kelowna.ca" target="_blank" rel="noopener">Kelowna</a></li>
+			<li>&nbsp;&nbsp;<a href="https://www.kelowna.ca/roads-transportation/parking/parking-tickets-service-requests" target="_blank" rel="noopener">Pay Parking Tickets</a></li>
+			<li><a href="https://www.keremeos.ca" target="_blank" rel="noopener">Keremeos</a></li>
+			<li><a href="https://www.lakecountry.bc.ca" target="_blank" rel="noopener">Lake Country</a></li>
+			<li><a href="https://www.merritt.ca" target="_blank" rel="noopener">Merritt</a></li>
+			<li><a href="https://www.oliver.ca" target="_blank" rel="noopener">Oliver</a></li>
+			<li><a href="https://www.osoyoos.ca" target="_blank" rel="noopener">Osoyoos</a></li>
+			<li><a href="https://www.peachland.ca" target="_blank" rel="noopener">Peachland</a></li>
+</ul>
+<ul class="sf2col2">
+			<li><a href="https://www.penticton.ca" target="_blank" rel="noopener">Penticton</a></li>
+			<li><a href="https://www.summerland.ca" target="_blank" rel="noopener">Summerland</a></li>
+			<li><a href="https://www.vernon.ca" target="_blank" rel="noopener">Vernon</a></li>
+			<li><a href="https://www.westkelownacity.ca" target="_blank" rel="noopener">West Kelowna</a></li>
+			<li><a href="https://www.wfn.ca" target="_blank" rel="noopener">Westbank First Nation</a></li>
+			<li><a href="https://www.regionaldistrict.com" target="_blank" rel="noopener">RDCO</a></li>
+			<li><a href="https://www.rdos.bc.ca" target="_blank" rel="noopener">RDOS</a></li>
+			<li><a href="https://www.tnrd.ca" target="_blank" rel="noopener">TNRD</a></li>
+			<li><a href="https://www.interiorhealth.ca" target="_blank" rel="noopener">Interior Health</a></li>
+			<li><a href="https://www.orl.bc.ca" target="_blank" rel="noopener">Library</a></li>
+			<li><a href="https://ok.ubc.ca" target="_blank" rel="noopener">UBC Okanagan</a></li>
+			<li><a href="https://www.okanagan.bc.ca" target="_blank" rel="noopener">Okanagan College</a></li>
+		</ul>
+</div>
+			<img src="/mh/flyout-fin.png" alt="city links" class="flyout-fin" /></li>
+		</ul>
+<ul class="sf2col2">
+			<li><a href="/edition/news-story--42-.htm">Get Involved</a></li>
+<li><a href="/food-and-drink/">Food &amp; Drink</a></li>
+<li><a href="/edition/news-story--14-.htm">Wine Reviews</a></li>
+			<li><a href="/wine/region/okanagan-valley/">Wine Maps</a></li>
+<li><a href="/edition/news-story--24-.htm">Campus Life Okanagan</a></li>
+			<li><a href="/edition/news-story--49-.htm">Campus Life Kamloops</a></li>
+<li><a href="https://bctransit.com/" target="_blank" rel="noopener">Bus Schedule</a></li>
+			<li><a href="https://ylw.kelowna.ca/passengers/arrivals" target="_blank" rel="noopener">YLW Arrive</a> / <a href="https://ylw.kelowna.ca/passengers/departures" target="_blank" rel="noopener">Depart</a></li>
+			<li><a href="/kelownacouncil/">Kelowna Council</a></li>
+			<li><a href="/edition/news-story--967-.htm">Crime Stoppers</a></li>
+<li><a href="https://classifieds.castanet.net/flyers/">Flyers</a></li>
+</ul>
+<div style="clear:both"></div>
+		</div>
+</div>
+		</div>
+	</li>
+	<li id="sfWeather">
+		<a href="/weather/">Weather</a>
+		<div class="sf-mega">
+<div class="sf-mega-frame">
+		<div class="sf-mega-section"> 
+		<ul>
+		<li><a href="/weather/Kelowna">Kelowna</a></li>
+		<li><a href="/weather/Penticton">Penticton</a></li>
+		<li><a href="/weather/Vernon">Vernon</a></li>
+		<li><a href="/weather/Salmon-Arm">Salmon Arm</a></li>
+		<li><a href="/weather/Kamloops">Kamloops</a></li>
+		<li><a href="/weather/Vancouver">Vancouver</a></li>
+		</ul>
+		</div>
+</div>
+		</div>
+	</li> 
+</ul>
+</div>
+<div style="clear:both"></div>
+	
+<script type="text/javascript">
+if (sfPage) { $('#'+sfPage).addClass("current"); }
+$("#hdrbuttons a").click(function(){$.get("/ybclick.php?name="+$(this).attr('id'));});
+$(".mhsform").submit(function(e){e.preventDefault();var _this=$(this);$.ajax("/ybclick.php?name="+_this.attr('name')).then(function(resp) {_this.unbind('submit').submit();})});
+</script>
+</div>
+	<div id="content">
+		<div id="hdad">
+			<div id="hdpromo">
+<div style="width:230px;height:90px;border-radius:7px;overflow:hidden"><a href="https://www.castanet.net/cgi-bin2/stats/clickcounter.cgi?id=236671&amp;cid=358520&amp;region=700" rel="nofollow" target="_blank"><img src="https://x.castanet.net/LikemindTrading/24-05/display/LikemindTrading-Contest-PR1.jpg" height="90" width="230" alt="236671"/></a></div>			</div>
+			<div id="hdright">
+<script src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'>
+googletag.pubads().definePassback('/1066367/728x90-general', [728, 90]).display();
+</script>
+			</div>
+			<div class="crow"></div>
+		</div>
+		<div class="crow"></div>
+		<div id="lnews">
+<div id="newsheader">World&nbsp;&nbsp;</div>
+<a id="488717" style="display:block;position:relative;top:-125px;visibility:hidden"></a><div class="newsstory" itemscope itemtype="https://schema.org/NewsArticle">
+<h1 class="newsheadlinefull" itemprop="headline">Mexico's drought, heatwave and water shortage are so bad even police are blocking traffic in protest</h1><h2 class="newsheadline hasfull" itemprop="alternativeHeadline">Drought strangles Mexico</h2><div class="byline">The Associated Press - <span itemprop="datePublished" datetime="2024-05-22T12:07:00">May 22, 2024 / 12:07 pm</span><span class="storyid"> | Story: 488717</span></div>
+<div itemprop="articleBody">
+<div class="gallery" id="photo3802183">
+<div class="gallery_img hdgallery"><img class="large_overlay" limg="/content/2024/5/large/download._p3802183.jpg" src="/content/2024/5/download._p3802183.jpg" style="height:426px; width:640px" />
+<div class="photo_credit">Photo: The Canadian Press</div>
+
+<div class="photo_cutline" style="width:635px">FILE - A dog stands on cracked, exposed banks of the Miguel Aleman dam in Valle de Bravo, Mexico, Thursday, March 14, 2024. Around this country of nearly 130 million, drought is draining reservoirs dry and creating severe water shortages. (AP Photo/Marco Ugarte, File)</div>
+</div>
+</div>
+
+<p>Mexico&rsquo;s drought, heatwave and water shortages have gotten so bad that even police blocked traffic in protest Wednesday.</p>
+
+<p>In recent months, residents of some <a href="https://apnews.com/article/mexico-city-water-crisis-reservoir-complaints-6f8b2189a3935468e5f61acf23f70711">Mexico City neighborhoods have regularly taken to forming human chains to block boulevards to demand water.</a> In April, complaints about contaminated water sparked a weeks-long crisis in one upscale neighborhood.</p>
+
+<p>Normally, police seek to redirect traffic, but on Wednesday some officers were themselves manning a protest blockade, near the capital&rsquo;s iconic Independence Monument.</p>
+
+<p>The officers stood blocking six lanes of traffic, saying their barracks hadn&rsquo;t had water for a week, and that the bathrooms were unusable.</p>
+
+<p>&ldquo;We don&#39;t have water in the bathrooms,&rdquo; said one female officer who would not give her name for fear of reprisals, adding that conditions in the barracks were intolerable. &ldquo;They make us sleep on the floor,&rdquo; she said.</p>
+
+<p>The lack of water has worsened longstanding tensions between police officers and their supervisors over issues like sexual harassment and unfair working conditions.</p>
+
+<p>&ldquo;The bosses have water in their offices, but we&#39;re not allowed to go in there,&rdquo; said the female officer. &ldquo;They don&#39;t give us solutions. Today they brought in a water truck, after they saw the news media show up.&rdquo;</p>
+
+<p>In the midst of record temperatures and a severe drought, many buildings in the capital have to get water brought in by tanker trucks, but they have been in short supply and are expensive.</p>
+
+<p>About 85 percent of the country was expected to see highs of at least 104 degrees (40 Celsius) Wednesday, with about a third of the country reaching 113 degrees (45 Celsius) or more.</p>
+
+<p>Almost 40% of the country&#39;s dams are below 20% of capacity, and another 40% are between 20 and 50% full. Mexico City has been forced to reduce water supplies because the reservoirs that feed the city are drying up. Some stores are running of mineral water.</p>
+
+<p>Nationwide, authorities have had to truck in water for everything from hospitals to fire-fighting teams. Low levels at hydroelectric dams have contributed to power blackouts in some parts of the country.</p>
+
+<p>Consumers are feeling the heat as well. On Monday, the nationwide chain of OXXO convenience stores &mdash; the nation&rsquo;s largest &mdash; said it was limiting purchases of ice to just two or three bags per customer in some places.</p>
+
+<p>Meanwhile, <a href="https://apnews.com/article/mexico-heat-wave-howler-monkeys-dying-b99e0570dfb53a2fb7ebe663acecde78">the heatwave has been so bad that in the Gulf coast state of Tabasco, howler monkeys are falling from the trees due to apparent heat stroke. </a></p>
+
+<p>At least 138 of the midsize primates, who are known for their roaring vocal calls, were found dead in Tabasco since May 16, according to the Biodiversity Conservation of The Usumacinta group.</p>
+</div>
+</div>
+<div class="contentfooter">
+<p class="backhome"><a href="/">Back to Homepage</a></p>
+<a class="sfoot1" href="/contactus/report_typo.php?story=488717" target="_blank" rel="nofollow"><span>Typos</span></a><a class="sfoot2" href="/contactus/news-tips.php"><span>News Tips</span></a><a class="sfoot3" href="https://forums.castanet.net/viewtopic.php?f=134&t=97453"><span>Forums</span></a>
+<div class="sharethis-inline-share-buttons" data-url="https://www.castanet.net/news/World/488717/Mexico-s-drought-heatwave-and-water-shortage-are-so-bad-even-police-are-blocking-traffic-in-protest" data-title="Mexico's drought, heatwave and water shortage are so bad even police are blocking traffic in protest - World News"></div><div class="postcomment" id="postcomment97453"></div>
+<div style="position:relative;top:20px;left:10px;margin-top:-20px;"><span style="background:#e84d3c;color:#fff;padding:1px 5px;border-radius:7px;font-size:12px">NEW</span></div> 
+<div class="scomments">
+<a href="https://forums.castanet.net/posting.php?mode=reply&f=134&t=97453" onClick="doComment(this,97453,'https://www.castanet.net/news/World/488717/Mexico-s-drought-heatwave-and-water-shortage-are-so-bad-even-police-are-blocking-traffic-in-protest',488717);return false;">Post a Comment</a>
+<div class="comments" id="comments97453"></div>
+
+</div>
+<div class="newsletter">
+<div class="sfoot4">
+<p>Must-Read Stories</p>
+<span>Get all the day's most vital news with our newsletter, sent every weekday.</span>
+</div>
+<div class="mc_embed_signup">
+<form action="https://glaciermedia.us5.list-manage.com/subscribe/post?u=cca0520b5e122304ac86be48e&amp;id=be97587725" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<input type="email" value="" name="EMAIL" class="required email" placeholder="Enter Email Address" required />
+<div style="position:absolute;left:-5000px" aria-hidden="true"><input type="text" name="b_cca0520b5e122304ac86be48e_be97587725" tabindex="-1" value="" /></div>
+<input type="submit" value="Sign Me Up!" name="subscribe" class="button" />
+</form>
+</div>
+</div>
+</div>
+<div class="crow"></div>
+<div class="crow"></div><br/><br/>
+<a href="/news/World/" id="newsarchive">More World News</a><br/><br/>
+		</div>
+<div id="rnews">
+<div style="position:relative;width:300px;height:225px;overflow:hidden;border-radius:7px;margin-bottom:40px">
+<a href="/weather/">
+<img style="width:300px;margin-top:-12px" src="https://sirocco.accuweather.com/sat_mosaic_400x300_public/IR/isawmerc.gif" alt="World Weather" width="300" height="251"/>
+<div style="position:absolute;top:0px;left:0px;color:#fff;padding:3px 10px;overflow:hidden;border-bottom-right-radius:7px;border-top-left-radius:7px;background:url(/images/transparent_black_60.png) repeat scroll 0 0 rgba(0,0,0,0)">World</div>
+</a>
+</div>
+<div style="width:300px;height:250px;border-radius:7px;overflow:hidden"><a href="https://www.castanet.net/cgi-bin2/stats/clickcounter.cgi?id=235463&amp;cid=356683&amp;region=45" rel="nofollow" target="_blank"><img src="https://x.castanet.net/FlynnGroupofCompanies/21-03/display/castanet1.jpg" height="250" width="300" alt="235463"/></a></div><div style="position:relative;margin:40px 0px">
+<a href="https://www.windy.com/en/webcams/1490712854" target="_blank" rel="noopener"><img style="width:300px;height:169px;border-radius:7px;overflow:hidden" src="https://images-webcams.windy.com/54/1490712854/current/full/1490712854.jpg" alt="London Webcam" width="300" height="169"/>
+<div style="position:absolute;left:0;top:0;color:#fff;padding:3px 10px;overflow:hidden;border-bottom-right-radius:7px;border-top-left-radius:7px;background:url(/images/transparent_black_60.png) repeat scroll 0 0 rgba(0,0,0,0)">London Webcam</div>
+</a>
+<div style="text-align:right;font-size:11px;color:#333">Webcam provided by <a href="https://www.windy.com/" target="_blank" rel="noopener">windy.com</a></div>
+</div>
+<div class="recent-title">RECENT STORIES</div><div class="recent-news"><ul id="body1">
+<li><a href='/edition/news-story-488970-56-.htm#488970'><div class="recent-img" style="background-image:url(/content/2024/5/thumb/488970_0.jpg);"></div><div class='recent-info'><span class='recent-headline'>Mired in tie for third place</span><span class='recent-sub'>Opinion - 3:45 pm</span></div></a></li>
+<li><a href='/edition/news-story-488960-1-.htm#488960'><div class="recent-img" style="background-image:url(/content/2024/5/thumb/488960_1.jpg);"></div><div class='recent-info'><span class='recent-headline'>Strict conditions for builder</span><span class='recent-sub'>Kelowna - 3:45 pm</span></div></a></li>
+<li><a href='/edition/news-story-488954-87-.htm#488954'><div class="recent-img" style="background-image:url(/content/2024/5/thumb/488954_1.jpg);"></div><div class='recent-info'><span class='recent-headline'>'Very dry' local conditions</span><span class='recent-sub'>South Okanagan - 3:32 pm</span></div></a></li>
+<li><a href='/edition/news-story-488928-3-.htm#488928'><div class="recent-img" style="background-image:url(/content/2024/5/thumb/488928_1.jpg);"></div><div class='recent-info'><span class='recent-headline'>Severe thunderstorm watch</span><span class='recent-sub'>Southern Interior - 3:31 pm</span></div></a></li>
+<li><a href='/edition/news-story-488965-6-.htm#488965'><div class="recent-img" style="background-image:url(/content/2024/5/thumb/488965_0.jpg);"></div><div class='recent-info'><span class='recent-headline'>Hackers release stolen data</span><span class='recent-sub'>Business - 3:11 pm</span></div></a></li>
+</ul><a class='recent-morelink' href='/'>More Top Stories &gt;</a></div>
+<div style="clear:both;width:300px;height:300px;overflow:hidden;margin-bottom:40px">
+<script src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'>
+googletag.pubads().definePassback('/4326737/atex_GNG-BC_site_section_subsection_bigbox_S1_Castanet', [[300, 250], [300, 300]]).display();
+</script>
+</div>
+<div class="crow"></div>
+<div style="width:300px;height:250px;border-radius:7px;overflow:hidden"><a href="https://www.castanet.net/cgi-bin2/stats/clickcounter.cgi?id=236852&amp;cid=358740&amp;region=212" rel="nofollow" target="_blank"><img src="https://x.castanet.net/FairfieldAnimalHospital/24-05/display/FairfieldAnimalHospital-MR1b.gif" height="250" width="300" alt="236852"/></a></div><div class="quicklinks">
+<span class="qlheader">World Quick Links</span>
+<a class="ql-related-links" href="https://forums.castanet.net/viewforum.php?f=28">World Discussion Forum</a><br />
+<a class="ql-related-links" href="http://www.un.org/english/" target="_blank">United Nations</a><br />
+<a class="ql-related-links" href="http://www.who.int/en/" target="_blank">World Health Organization</a><br />
+<a class="ql-related-links" href="http://portal.unesco.org/en" target="_blank">UNESCO</a><br />
+<a class="ql-related-links" href="http://www.wto.org/" target="_blank">World Trade Organization</a><br />
+<a class="ql-related-links" href="http://www.nato.int/" target="_blank">NATO</a><br />
+<a class="ql-related-links" href="http://europa.eu/index_en.htm" target="_blank">European Union</a><br />
+<a class="ql-related-links" href="http://www.thecommonwealth.org/" target="_blank">The Commonwealth</a><br />
+<a class="ql-related-links" href="http://www.francophonie.org/" target="_blank">Francophonie</a><br />
+<a class="ql-related-links" href="http://www.olympic.org" target="_blank">Olympics</a><br />
+<a class="ql-related-links" href="https://earth.google.com/" target="_blank">Google Earth</a><br />
+</div>
+<div style="width:300px;height:600px;border-radius:7px;overflow:hidden"><a href="https://www.castanet.net/cgi-bin2/stats/clickcounter.cgi?id=234809&amp;cid=347569&amp;region=669" rel="nofollow" target="_blank"><img src="https://x.castanet.net/SleepysBedroomFurnitureSleepShop/23-08/display/Sleepys-BedGear-HP1.jpg" height="600" width="300" alt="234809" loading="lazy"/></a></div><div style="margin:40px 0 40px 0;text-align:center;color:#000"><a href="https://rtdnacanada.com/"><img src="/img/RTNDA.jpg" alt="Castanet Proud Member of RTNDA Canada" width="300" height="115" loading="lazy"/></a></div>
+<div style="width:300px;height:600px;border-radius:7px;overflow:hidden"><a href="https://www.castanet.net/cgi-bin2/stats/clickcounter.cgi?id=234031&amp;cid=354074&amp;region=841" rel="nofollow" target="_blank"><img src="https://x.castanet.net/BighornMovingBekinsMovingStorage/24-04/display/Bighorn-Castanet-Apr2024-300x600-v1.gif" height="600" width="300" alt="234031" loading="lazy"/></a></div><br/><br/>
+
+	<div class="ttlatest-container"><div class="ttlatest_head"><a href="https://thetango.net/"><img src="/images/logo_white.png" alt="TheTango.net" width="170" height="90"/></a></div><div class="thetango_latest" style="border-top:0px none"><div class="tango_first"><div class="tango_view">
+    <a href="https://thetango.net/2024/05/23/strange-soda-flavours/"><img src="https://thetango.net/wp-content/uploads/2024/05/1715965147_kpz573t662-400x260.jpg" alt="Strange soda flavours" width="400" height="260" style="height:auto" loading="lazy"></a>
+    </div>
+        <a class="tango-item" style="min-height:60px" href="https://thetango.net/2024/05/23/strange-soda-flavours/"><h2>Strange soda flavours</h2><div class="cat-links">Galleries | May 23, 2024</div></a></div><a class="tango-item ti-lower" href="https://thetango.net/2024/05/23/glen-powell-leaving-hollywood/"><div style="background:url(https://thetango.net/wp-content/uploads/2024/05/glen_powell_leaving_hollywood_to_return_to_texas-400x260.jpg);width:75px;height:75px;float:right;background-size:cover;background-position:center" alt="" loading="lazy"></div><h2>Glen Powell leaving Hollywood</h2><div class="cat-links">Showbiz | May 23, 2024</div></a><a class="tango-item ti-lower" href="https://thetango.net/2024/05/23/vacation-prep/"><div style="background:url(https://thetango.net/wp-content/uploads/2024/05/glen_powell_leaving_hollywood_to_return_to_texas-400x260.jpg);width:75px;height:75px;float:right;background-size:cover;background-position:center" alt="" loading="lazy"></div><h2>Vacation prep</h2><div class="cat-links">Must Watch | May 23, 2024</div></a><a class="tango-item ti-lower" href="https://thetango.net/2024/05/23/out-for-a-stroll/"><div style="background:url(https://thetango.net/wp-content/uploads/2024/05/out-for-a-stroll-400x260.jpg);width:75px;height:75px;float:right;background-size:cover;background-position:center" alt="" loading="lazy"></div><h2>Out for a stroll</h2><div class="cat-links">Must Watch | May 23, 2024</div></a><a class="tango-item ti-lower" href="https://thetango.net/2024/05/23/unfortunate-neon-signs/"><div style="background:url(https://thetango.net/wp-content/uploads/2024/05/burntout_signs_that_created_laughoutloud_moments_640_18-400x260.jpg);width:75px;height:75px;float:right;background-size:cover;background-position:center" alt="" loading="lazy"></div><h2>Unfortunate neon signs</h2><div class="cat-links">Galleries | May 23, 2024</div></a>
+        </div>
+    </div>
+	<br/>
+<div id="sticky"><div style="width:300px;height:600px;border-radius:7px;overflow:hidden"><a href="https://www.castanet.net/cgi-bin2/stats/clickcounter.cgi?id=234393&amp;cid=354832&amp;region=939" rel="nofollow" target="_blank"><img src="https://x.castanet.net/SolarTechFilmsVPSKelowna/22-12/display/VPSKelowna-Protect-HP1a.gif" height="600" width="300" alt="234393" loading="lazy"/></a></div></div>
+</div>
+		<div class="crow"></div>
+<div id="footlb" style="width:728px;height:90px"><div style="width:728px;height:90px;border-radius:7px;overflow:hidden"><a href="https://www.castanet.net/cgi-bin2/stats/clickcounter.cgi?id=237742&amp;cid=360092&amp;region=788" rel="nofollow" target="_blank"><img src="https://x.castanet.net/KelownaFalconsBaseball/24-05/display/KelownaFalcons-HomeOpener-LB1.gif" height="90" width="728" alt="237742"/></a></div></div>
+<div id="ftbot">
+<div id="bftleft">
+&copy; 2024 Castanet.net
+<ul>
+<li><a href="/homepage/" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.castanet.net/');">Make Castanet Your Homepage</a></li>
+<li><a href="/contactus/news-tips.php">News Tips</a></li>
+<li><a href="/advertise/">Advertising</a></li>
+<li><a href="/contactus/">Contact Us</a></li>
+</ul>
+</div>
+<div id="bftright">
+</div>
+<div class="crow"></div>
+</div>
+	</div>
+</div>
+</div>
+
+<div id="backtotop"><a href="#" class="totop" title="Top of Page"></a><a href="#" class="homebtn" title="Home Page"></a></div>
+<noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6034663&amp;cv=3.6.0&amp;cj=1" alt="" /></noscript>
+<script>function getCookie(name) {
+	var re = new RegExp(name + "=([^;]+)");
+	var value = re.exec(document.cookie);
+	return (value != null) ? unescape(value[1]) : '0';
+}
+
+var winheight=0;
+function flyout(el){
+	fo_menu=$(el).parent().children('ul');
+	if(winheight==0 ||winheight!=$(window).height()){
+		$(fo_menu).css('top', '-100px');
+		winheight=$(window).height();
+	}
+	fo_height=$(fo_menu).outerHeight();
+	fo_bottom=($(fo_menu).offset().top + fo_height-$(window).scrollTop());
+	if($(window).height()<fo_bottom){
+		newtop=(fo_bottom-$(window).height()+105)*-1;
+		$(fo_menu).css('top', newtop + 'px');
+	}
+}
+
+$('a.taphover').on("touchstart", function (e) {
+    "use strict"; //satisfy the code inspectors
+	var link = $(this); //preselect the link
+
+    if (link.hasClass('hover')) {
+	return true;
+    } else {
+	 link.addClass("hover");
+	flyout(link);
+	$('a.taphover').not(this).removeClass("hover");
+	e.preventDefault();
+	return false;
+    }
+});
+</script>
+<script type="text/javascript" src="/js/main1o.js"></script>
+<script>
+function doComment(el,topic,newsurl,newsid) {
+	$.post("/postcomment.php",{t:topic,storyurl:newsurl,storyid:newsid}, function( data ) {
+		if (data) {
+			$("#postcomment"+topic).html(data);
+		}
+	});
+}
+function postComment(el,topic) {
+	var mycomment = $(el).find('textarea').val().trim();
+	if (mycomment === '' || mycomment == null) {
+		alert("You didn't enter a comment");
+	}
+	else {
+		$.post("/postcomment.php",{t:topic,message:mycomment}, function( data ) {
+			if (data) {
+				$('#postcomment'+topic).html('<p>Thank you for your comment</p>');
+				if ($('#comments'+topic).prev().text() === 'No Comments Yet') $('#comments'+topic).prev().text('Latest Comment');
+				$('#comments'+topic).prepend(data);
+			}
+		});
+	}
+}
+</script>
+<script type="text/javascript">if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/BlackBerry/i)) {
+var isPad=true;
+var sticky_class="stick_pad";
+var sticky_offset=15;
+}else{ 
+var isPad=false;
+var sticky_class="stick";
+var sticky_offset=90;
+}
+$(window).bind("load", function() {
+	if($("#lnews").height()<=$("#rnews").height()) return;
+	var s = $("#sticky");
+	var pos = s.position();
+	var p_height=$(document).height();
+	var ad_height=s.height();
+	$(window).scroll(function() {
+		p_height=$(document).height();
+		var windowpos = $(window).scrollTop();
+		if(windowpos+ad_height+200>p_height-100){
+			max_top=p_height-200-ad_height-10;
+			s.css({"position":"absolute", "top":max_top+"px"})
+			s.removeClass(sticky_class);
+		}else{
+			if ((windowpos+sticky_offset)>=pos.top) {
+				s.css({"position":"", "top":""})
+				s.addClass(sticky_class);
+			} else {
+				s.removeClass(sticky_class);
+			}
+		}
+	});
+});
+$.fn.isOnScreen = function(){
+var win = $(window);
+var viewport = {
+top : win.scrollTop(),
+left : win.scrollLeft()
+};
+viewport.right = viewport.left + win.width();
+viewport.bottom = viewport.top + win.height();
+
+var bounds = this.offset();
+bounds.right = bounds.left + this.outerWidth();
+bounds.bottom = bounds.top + this.outerHeight();
+
+return (!(viewport.right < bounds.left || viewport.left > bounds.right || viewport.bottom < bounds.top || viewport.top > bounds.bottom));
+};
+</script>
+<script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'88889e74cdc12ab5',t:'MTcxNjUwNDc3NC4wNzkwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

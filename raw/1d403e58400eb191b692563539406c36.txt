@@ -1,0 +1,2049 @@
+<!doctype html>
+<html lang="en-US" itemscope itemtype="https://schema.org/BlogPosting">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<link rel="alternate" hreflang="en" href="https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" />
+<link rel="alternate" hreflang="x-default" href="https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" />
+
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+	const gtm4wp_scrollerscript_debugmode         = true;
+	const gtm4wp_scrollerscript_callbacktime      = 100;
+	const gtm4wp_scrollerscript_readerlocation    = 150;
+	const gtm4wp_scrollerscript_contentelementid  = "content";
+	const gtm4wp_scrollerscript_scannertime       = 60;
+</script>
+
+
+<title>The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea - Euromaidan Press</title>
+<link rel="canonical" href="https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea - Euromaidan Press" />
+<meta property="og:description" content="Russian authorities have decided unilaterally to change the country&#039;s maritime borders with Lithuania and Finland in the Baltic Sea, declaring new internal waters and adjusting geographical coordinates, according to a draft government decree published on the legal acts portal." />
+<meta property="og:url" content="https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" />
+<meta property="og:site_name" content="Euromaidan Press" />
+<meta property="article:published_time" content="2024-05-21T17:50:31+00:00" />
+<meta property="article:modified_time" content="2024-05-22T17:11:49+00:00" />
+<meta property="og:image" content="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg" />
+<meta property="og:image:width" content="648" />
+<meta property="og:image:height" content="411" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="Olena Mukhina" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Olena Mukhina" />
+<meta name="twitter:label2" content="Est. reading time" />
+<meta name="twitter:data2" content="2 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/","url":"https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/","name":"The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea - Euromaidan Press","isPartOf":{"@id":"https://euromaidanpress.com/#website"},"primaryImageOfPage":{"@id":"https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/#primaryimage"},"image":{"@id":"https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/#primaryimage"},"thumbnailUrl":"https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg","datePublished":"2024-05-21T17:50:31+00:00","dateModified":"2024-05-22T17:11:49+00:00","author":{"@id":"https://euromaidanpress.com/#/schema/person/e5e4ee45d8d1ef1d63795c50d0e10cc6"},"breadcrumb":{"@id":"https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/#primaryimage","url":"https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg","contentUrl":"https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg","width":648,"height":411,"caption":"A SU-24 barrel-rolled above the US Warship Donald Cook in the neutral waters of the Baltic Sea on 13 April 2016. Photo: snapshot from video"},{"@type":"BreadcrumbList","@id":"https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"All articles","item":"https://euromaidanpress.com/all-articles/"},{"@type":"ListItem","position":2,"name":"The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea"}]},{"@type":"WebSite","@id":"https://euromaidanpress.com/#website","url":"https://euromaidanpress.com/","name":"Euromaidan Press","description":"Ukraine news and views","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://euromaidanpress.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://euromaidanpress.com/#/schema/person/e5e4ee45d8d1ef1d63795c50d0e10cc6","name":"Olena Mukhina","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://euromaidanpress.com/#/schema/person/image/244e101a265d13086a5174c0b19569d2","url":"https://euromaidanpress.com/wp-content/uploads/2022/06/olenam.jpg","contentUrl":"https://euromaidanpress.com/wp-content/uploads/2022/06/olenam.jpg","caption":"Olena Mukhina"},"description":"Olena Mukhina is a journalist from Kyiv. Before joining Euromaidan Press, she worked as a website editor for Kyiv Post.","url":"https://euromaidanpress.com/author/olenamukhina/"}]}</script>
+
+<link rel="dns-prefetch" href="//static2.euromaidanpress.com" />
+<link rel="alternate" type="application/rss+xml" title="Euromaidan Press &raquo; Feed" href="https://euromaidanpress.com/feed/" />
+<link rel="preload" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/assets/fonts/canvas-icons.woff" as="font" type="font/woff" crossorigin>
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/euromaidanpress.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=159a88eb496b17600a898156ab0e6917"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel="stylesheet" id="simple_tooltips_style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/simple-tooltips/zebra_tooltips.css?ver=159a88eb496b17600a898156ab0e6917" media="all" />
+<link rel="stylesheet" id="canvas-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/assets/css/canvas.css?ver=2.4.3" media="all" />
+<link rel="alternate stylesheet" id="powerkit-icons-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.woff?ver=2.9.1" as="font" type="font/wof" crossorigin />
+<link rel="stylesheet" id="powerkit-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/assets/css/powerkit.css?ver=2.9.1" media="all" />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://euromaidanpress.com/wp-includes/css/dist/block-library/style.min.css?ver=159a88eb496b17600a898156ab0e6917" media="all" />
+<link rel="stylesheet" id="canvas-block-alert-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-alert/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-progress-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-progress/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-collapsibles-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-collapsibles/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-tabs-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-tabs/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-section-heading-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-section-heading/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-row-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/layout-blocks/block-row/block-row.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-justified-gallery-block-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/justified-gallery/block/block-justified-gallery.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-slider-gallery-block-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/slider-gallery/block/block-slider-gallery.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-posts-sidebar-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/posts/block-posts-sidebar/block-posts-sidebar.css?ver=1706120548" media="all" />
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #59BACC;--wp--preset--color--green: #58AD69;--wp--preset--color--orange: #FFBC49;--wp--preset--color--red: #e32c26;--wp--preset--color--gray-50: #f8f9fa;--wp--preset--color--gray-100: #f8f9fb;--wp--preset--color--gray-200: #e9ecef;--wp--preset--color--secondary: #818181;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="absolute-reviews-css" href="https://static2.euromaidanpress.com/wp-content/plugins/absolute-reviews/public/css/absolute-reviews-public.css?ver=1.1.2" media="all" />
+<link rel="stylesheet" id="advanced-popups-css" href="https://static2.euromaidanpress.com/wp-content/plugins/advanced-popups/public/css/advanced-popups-public.css?ver=1.1.9" media="all" />
+<link rel="stylesheet" id="canvas-block-heading-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/content-formatting/block-heading/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-list-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/content-formatting/block-list/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-paragraph-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/content-formatting/block-paragraph/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-separator-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/content-formatting/block-separator/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-group-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-group/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="canvas-block-cover-style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-cover/block.css?ver=1706120548" media="all" />
+<link rel="stylesheet" id="fontawesome-css" href="https://static2.euromaidanpress.com/wp-content/plugins/olevmedia-shortcodes/assets/css/font-awesome.min.css?ver=159a88eb496b17600a898156ab0e6917" media="all" />
+<link rel="stylesheet" id="omsc-shortcodes-css" href="https://static2.euromaidanpress.com/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes.css?ver=159a88eb496b17600a898156ab0e6917" media="all" />
+<link rel="stylesheet" id="omsc-shortcodes-tablet-css" href="https://static2.euromaidanpress.com/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes-tablet.css?ver=159a88eb496b17600a898156ab0e6917" media="screen and (min-width: 768px) and (max-width: 959px)" />
+<link rel="stylesheet" id="omsc-shortcodes-mobile-css" href="https://static2.euromaidanpress.com/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes-mobile.css?ver=159a88eb496b17600a898156ab0e6917" media="screen and (max-width: 767px)" />
+<link rel="stylesheet" id="powerkit-author-box-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/author-box/public/css/public-powerkit-author-box.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-basic-elements-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/basic-elements/public/css/public-powerkit-basic-elements.css?ver=2.9.1" media="screen" />
+<link rel="stylesheet" id="powerkit-coming-soon-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/coming-soon/public/css/public-powerkit-coming-soon.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-content-formatting-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/content-formatting/public/css/public-powerkit-content-formatting.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-сontributors-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/contributors/public/css/public-powerkit-contributors.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-facebook-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/facebook/public/css/public-powerkit-facebook.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-featured-categories-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/featured-categories/public/css/public-powerkit-featured-categories.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-inline-posts-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/inline-posts/public/css/public-powerkit-inline-posts.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-instagram-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/instagram/public/css/public-powerkit-instagram.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-justified-gallery-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/justified-gallery/public/css/public-powerkit-justified-gallery.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-pinterest-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/pinterest/public/css/public-powerkit-pinterest.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-scroll-to-top-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/scroll-to-top/public/css/public-powerkit-scroll-to-top.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-slider-gallery-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/slider-gallery/public/css/public-powerkit-slider-gallery.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-table-of-contents-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/table-of-contents/public/css/public-powerkit-table-of-contents.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-twitter-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/twitter/public/css/public-powerkit-twitter.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="powerkit-widget-about-css" href="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/widget-about/public/css/public-powerkit-widget-about.css?ver=2.9.1" media="all" />
+<link rel="stylesheet" id="qc-choice-css" href="https://static2.euromaidanpress.com/wp-content/plugins/quantcast-choice/public/css/style.min.css?ver=2.0.8" media="all" />
+<link rel="stylesheet" id="wpml-blocks-css" href="https://static2.euromaidanpress.com/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.9" media="all" />
+<link rel="stylesheet" id="ppress-frontend-css" href="https://static2.euromaidanpress.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.15.8" media="all" />
+<link rel="stylesheet" id="ppress-flatpickr-css" href="https://static2.euromaidanpress.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.15.8" media="all" />
+<link rel="stylesheet" id="ppress-select2-css" href="https://static2.euromaidanpress.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=159a88eb496b17600a898156ab0e6917" media="all" />
+<link rel="stylesheet" id="csco-styles-css" href="https://euromaidanpress.com/wp-content/themes/newsblock/style.css?ver=1.2.2" media="all" />
+<style id="csco-styles-inline-css">
+.searchwp-live-search-no-min-chars:after { content: "Continue typing" }
+</style>
+<link rel="stylesheet" id="csco-helper-css" href="https://euromaidanpress.com/wp-content/themes/newsblock/assets/css/helper.css?ver=1.2.2" media="all" />
+<link rel="stylesheet" id="slb_core-css" href="https://static2.euromaidanpress.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.3" media="all" />
+<link rel="stylesheet" id="searchwp-live-search-css" href="https://static2.euromaidanpress.com/wp-content/plugins/searchwp-live-ajax-search/assets/styles/style.css?ver=1.7.6" media="all" />
+<link rel="stylesheet" id="tablepress-default-css" href="https://euromaidanpress.com/wp-content/uploads/tablepress-combined.min.css?ver=53" media="all" />
+<link rel="stylesheet" id="msl-main-css" href="https://static2.euromaidanpress.com/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.9.10" media="all" />
+<link rel="stylesheet" id="msl-custom-css" href="https://euromaidanpress.com/wp-content/uploads/master-slider/custom.css?ver=36.5" media="all" />
+<link rel="stylesheet" id="csco_child_css-css" href="https://euromaidanpress.com/wp-content/themes/newsblock-child/style.css?ver=1.0.0" media="all" />
+<script src="https://euromaidanpress.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://euromaidanpress.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="wpml-cookie-js-extra">
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.9" id="wpml-cookie-js" defer data-wp-strategy="defer"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/advanced-popups/public/js/advanced-popups-public.js?ver=1.1.9" id="advanced-popups-js"></script>
+<script id="qc-choice-js-extra">
+var choice_cmp_config = {"utid":"SnzMe1JTJ68bF","ccpa":"","datalayer":""};
+</script>
+<script async="async" src="https://static2.euromaidanpress.com/wp-content/plugins/quantcast-choice/public/js/script.min.js?ver=2.0.8" id="qc-choice-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.15.8" id="ppress-flatpickr-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.15.8" id="ppress-select2-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/analytics-talk-content-tracking.js?ver=1.20" id="gtm4wp-scroll-tracking-js"></script>
+
+<link rel="image_src" href="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg">
+<meta name="msapplication-TileImage" content="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg">
+
+<meta property="og:image" content="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg">
+<meta property="og:image:secure_url" content="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg">
+<meta property="og:image:width" content="648">
+<meta property="og:image:height" content="411">
+<meta property="og:image:alt" content="A SU-24 barrel-rolled above the US Warship Donald Cook in the neutral waters of the Baltic Sea on 13 April 2016. Photo: snapshot from video">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:description" content="Russian authorities have decided unilaterally to change the country&#039;s maritime borders with Lithuania and Finland in the Baltic Sea, declaring new internal waters and adjusting geographical coordinates, according to a draft government decree published on the legal acts portal.">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Euromaidan Press">
+<meta property="og:title" content="The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea">
+<meta property="og:url" content="https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/">
+<meta property="og:updated_time" content="2024-05-22T20:11:49+03:00">
+
+<meta property="article:tag" content="Baltic Sea">
+<meta property="article:tag" content="EU">
+<meta property="article:tag" content="Finland">
+<meta property="article:tag" content="Kaliningrad">
+<meta property="article:tag" content="Lithuania">
+<meta property="article:tag" content="NATO">
+<meta property="article:tag" content="Poland">
+<meta property="article:published_time" content="2024-05-21T17:50:31+00:00">
+<meta property="article:modified_time" content="2024-05-22T17:11:49+00:00">
+<meta property="article:section" content="Latest news Ukraine">
+<meta property="article:author:username" content="Olena Mukhina">
+
+<meta property="twitter:partner" content="ogwp">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg">
+<meta property="twitter:image:alt" content="A SU-24 barrel-rolled above the US Warship Donald Cook in the neutral waters of the Baltic Sea on 13 April 2016. Photo: snapshot from video">
+<meta property="twitter:title" content="The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea">
+<meta property="twitter:description" content="Russian authorities have decided unilaterally to change the country&#039;s maritime borders with Lithuania and Finland in the Baltic Sea, declaring new internal waters and adjusting geographical...">
+<meta property="twitter:url" content="https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/">
+
+<meta itemprop="image" content="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg">
+<meta itemprop="name" content="The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea">
+<meta itemprop="description" content="Russian authorities have decided unilaterally to change the country&#039;s maritime borders with Lithuania and Finland in the Baltic Sea, declaring new internal waters and adjusting geographical coordinates, according to a draft government decree published on the legal acts portal.">
+<meta itemprop="datePublished" content="2024-05-21">
+<meta itemprop="dateModified" content="2024-05-22T17:11:49+00:00">
+<meta itemprop="author" content="Olena Mukhina">
+<meta itemprop="tagline" content="Ukraine news and views">
+
+<meta property="profile:username" content="Olena Mukhina">
+
+<link rel="https://api.w.org/" href="https://euromaidanpress.com/wp-json/" /><link rel="alternate" type="application/json" href="https://euromaidanpress.com/wp-json/wp/v2/posts/273076" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://euromaidanpress.com/xmlrpc.php?rsd" />
+<link rel="shortlink" href="https://euromaidanpress.com/?p=273076" />
+<link rel="alternate" type="application/json+oembed" href="https://euromaidanpress.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feuromaidanpress.com%2F2024%2F05%2F21%2Fthe-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://euromaidanpress.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feuromaidanpress.com%2F2024%2F05%2F21%2Fthe-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea%2F&#038;format=xml" />
+<link rel="preload" href="https://static2.euromaidanpress.com/wp-content/plugins/absolute-reviews/fonts/absolute-reviews-icons.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="https://static2.euromaidanpress.com/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.woff" as="font" type="font/woff" crossorigin>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L5QGBZYF9X" type="text/javascript"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-L5QGBZYF9X');</script><meta name="generator" content="WPML ver:4.6.9 stt:1,2;" />
+<style>
+#donations_progress_bar{ width:60%; background:white; margin:auto; position: relative; height: 24px; }
+#donate_top_panel .button{
+        display: block; float: right; background: yellow; color: #c40123; padding: 10px; vertical-align: middle; font-weight: bold; margin-right:10px;
+	}
+
+#pledged{border:2px solid #05acfa; width: 100%; margin:auto;height:5px; overflow:hidden; height: 24px}
+#have{background: #05acfa !important;float:left;}
+
+#text_pledged{color:#000 !important; font-size: 22px; float:left; display:block}
+#text_out_of{color:#303030 !important; float:right; display:block}
+
+#donations_progress_bar p{position:absolute; top: 2px; left:2px; width:99%}
+
+/*tmp*/
+#text_out_of{display:none}
+#text_pledged{width:100%;text-align:center;float:none;color:white !important;padding:10px}
+#donations_progress_bar{height:auto; vertical-align:middle;width:80%;
+overflow:hidden;
+-webkit-border-top-left-radius: 1em;
+-webkit-border-bottom-left-radius: 1em;
+-moz-border-radius-topleft: 1em;
+-moz-border-radius-bottomleft: 1em;
+border-top-left-radius: 1em;
+border-bottom-left-radius: 1em;
+}
+#donations_progress_bar{background:#511721;height:48px;width:420px}
+#pledged{background:#511721;height:48px;border:0}
+#have{height:48px; background: #00a3df url(/wp-content/pledge-bg.png) !important;float:left}
+/*fixes*/
+#navigation_wrap{margin-bottom:15px !important}
+#core{margin-top:15px !important}
+
+@media (max-width:1024px){
+	#donations_progress_bar{width:300px}
+}
+@media (max-width:749px){
+	#donate_top_panel table, #donate_top_panel, #donate_top_panel tr, #donate_top_panel td{
+		
+		display:block!important;
+		width:100%!important;
+		max-width:100%!important;
+		margin:0!important;
+		text-align:center;
+		padding-left:0!important;
+		padding-right:0!important;
+		}
+	#donate_top_panel .button{display:block;margin:0 auto 10px auto !important;float:none!important;width:50%}
+	#donate_top_panel td b a{width:100%!important}
+	#donations_progress_bar{width:90%;margin:auto}
+	#donate_top_panel *{max-width:100%}
+	tbody, tr{display:inline-block}
+}
+
+</style>
+<script>var ms_grabbing_curosr = 'https://static2.euromaidanpress.com/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://static2.euromaidanpress.com/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.9.10 - Responsive Touch Image Slider | avt.li/msf" />
+
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["news-ukraine"],"pageAttributes":["baltic-sea","eu","finland","kaliningrad","lithuania","nato","poland"],"pagePostAuthor":"Olena Mukhina"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N95BHB7');
+</script>
+
+
+<meta property="og:image" content="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg" />
+
+
+
+<style id="csco-theme-typography">
+	:root {
+		/* Base Font */
+		--cs-font-base-family: Inter;
+		--cs-font-base-size: 1rem;
+		--cs-font-base-weight: 400;
+		--cs-font-base-style: normal;
+		--cs-font-base-letter-spacing: normal;
+		--cs-font-base-line-height: 1.5;
+
+		/* Primary Font */
+		--cs-font-primary-family: Inter;
+		--cs-font-primary-size: 0.875rem;
+		--cs-font-primary-weight: 600;
+		--cs-font-primary-style: normal;
+		--cs-font-primary-letter-spacing: -0.025em;
+		--cs-font-primary-text-transform: none;
+
+		/* Secondary Font */
+		--cs-font-secondary-family: Inter;
+		--cs-font-secondary-size: 0.75rem;
+		--cs-font-secondary-weight: 400;
+		--cs-font-secondary-style: normal;
+		--cs-font-secondary-letter-spacing: normal;
+		--cs-font-secondary-text-transform: none;
+
+		/* Category Font */
+		--cs-font-category-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue";
+		--cs-font-category-size: 0.625rem;
+		--cs-font-category-weight: 700;
+		--cs-font-category-style: normal;
+		--cs-font-category-letter-spacing: -0.025em;
+		--cs-font-category-text-transform: uppercase;
+
+		/* Post Meta Font */
+		--cs-font-post-meta-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue";
+		--cs-font-post-meta-size: 0.6255rem;
+		--cs-font-post-meta-weight: 400;
+		--cs-font-post-meta-style: normal;
+		--cs-font-post-meta-letter-spacing: normal;
+		--cs-font-post-meta-text-transform: uppercase;
+
+		/* Input Font */
+		--cs-font-input-family: Inter;
+		--cs-font-input-size: 0.75rem;
+		--cs-font-input-line-height: 1.625rem;
+		--cs-font-input-weight: 400;
+		--cs-font-input-style: normal;
+		--cs-font-input-letter-spacing: normal;
+		--cs-font-input-text-transform: none;
+
+		/* Post Subbtitle */
+		--cs-font-post-subtitle-family: inherit;
+		--cs-font-post-subtitle-size: 1.25rem;
+		--cs-font-post-subtitle-letter-spacing: normal;
+
+		/* Post Content */
+		--cs-font-post-content-family: Inter;
+		--cs-font-post-content-size: 1rem;
+		--cs-font-post-content-letter-spacing: normal;
+
+		/* Summary */
+		--cs-font-entry-summary-family: Inter;
+		--cs-font-entry-summary-size: 1rem;
+		--cs-font-entry-summary-letter-spacing: normal;
+
+		/* Entry Excerpt */
+		--cs-font-entry-excerpt-family: Inter;
+		--cs-font-entry-excerpt-size: 0.875rem;
+		--cs-font-entry-excerpt-letter-spacing: normal;
+
+		/* Logos --------------- */
+
+		/* Main Logo */
+		--cs-font-main-logo-family: Inter;
+		--cs-font-main-logo-size: 1.5rem;
+		--cs-font-main-logo-weight: 700;
+		--cs-font-main-logo-style: normal;
+		--cs-font-main-logo-letter-spacing: -0.075em;
+		--cs-font-main-logo-text-transform: none;
+
+		/* Large Logo */
+		--cs-font-large-logo-family: Inter;
+		--cs-font-large-logo-size: 1.75rem;
+		--cs-font-large-logo-weight: 700;
+		--cs-font-large-logo-style: normal;
+		--cs-font-large-logo-letter-spacing: -0.075em;
+		--cs-font-large-logo-text-transform: none;
+
+		/* Footer Logo */
+		--cs-font-footer-logo-family: Inter;
+		--cs-font-footer-logo-size: 1.5rem;
+		--cs-font-footer-logo-weight: 700;
+		--cs-font-footer-logo-style: normal;
+		--cs-font-footer-logo-letter-spacing: -0.075em;
+		--cs-font-footer-logo-text-transform: none;
+
+		/* Headings --------------- */
+
+		/* Headings */
+		--cs-font-headings-family: Inter;
+		--cs-font-headings-weight: 700;
+		--cs-font-headings-style: normal;
+		--cs-font-headings-line-height: 1.25;
+		--cs-font-headings-letter-spacing: -0.0125em;
+		--cs-font-headings-text-transform: none;
+
+		/* Styled Heading */
+		--cs-font-styled-heading-line-height: 1.3em;
+
+		/* Decorated Heading */
+		--cs-font-decorated-heading-family: Inter;
+		--cs-font-decorated-heading-font-size: 1.25rem;
+		--cs-font-decorated-heading-weight: 700;
+		--cs-font-decorated-heading-style: normal;
+		--cs-font-decorated-heading-line-height: -0.025em;
+		--cs-font-decorated-heading-letter-spacing: normal;
+		--cs-font-decorated-heading-text-transform: none;
+
+		/* Menu Font --------------- */
+
+		/* Menu */
+		/* Used for main top level menu elements. */
+		--cs-font-menu-family: Inter;
+		--cs-font-menu-size: 0.875rem;
+		--cs-font-menu-weight: 700;
+		--cs-font-menu-style: normal;
+		--cs-font-menu-letter-spacing: -0.025em;
+		--cs-font-menu-text-transform: none;
+
+		/* Submenu Font */
+		/* Used for submenu elements. */
+		--cs-font-submenu-family: Inter;
+		--cs-font-submenu-size: 0.875rem;
+		--cs-font-submenu-weight: 400;
+		--cs-font-submenu-style: normal;
+		--cs-font-submenu-letter-spacing: normal;
+		--cs-font-submenu-text-transform: none;
+
+		/* Section Headings --------------- */
+		--cs-font-section-headings-family: Inter;
+		--cs-font-section-headings-size: 1rem;
+		--cs-font-section-headings-weight: 800;
+		--cs-font-section-headings-style: normal;
+		--cs-font-section-headings-letter-spacing: -0.025em;
+		--cs-font-section-headings-text-transform: none;
+	}
+
+			.cs-header__widgets-column {
+			--cs-font-section-headings-family: Inter;
+			--cs-font-section-headings-size: 1.125rem;
+			--cs-font-section-headings-weight: 800;
+			--cs-font-section-headings-style: normal;
+			--cs-font-section-headings-letter-spacing: -0.025em;
+			--cs-font-section-headings-text-transform: none;
+		}
+	</style>
+<style>.mc4wp-checkbox-wp-registration-form{clear:both;width:auto;display:block;position:static}.mc4wp-checkbox-wp-registration-form input{float:none;vertical-align:middle;-webkit-appearance:checkbox;width:auto;max-width:21px;margin:0 6px 0 0;padding:0;position:static;display:inline-block!important}.mc4wp-checkbox-wp-registration-form label{float:none;cursor:pointer;width:auto;margin:0 0 16px;display:block;position:static}</style> <style type="text/css">
+		/*<!-- rtoc -->*/
+		.rtoc-mokuji-content {
+			background-color: #ffffff;
+		}
+
+		.rtoc-mokuji-content.frame1 {
+			border: 1px solid #555555;
+		}
+
+		.rtoc-mokuji-content #rtoc-mokuji-title {
+			color: #333333;
+		}
+
+		.rtoc-mokuji-content .rtoc-mokuji li>a {
+			color: #333333;
+		}
+
+		.rtoc-mokuji-content .mokuji_ul.level-1>.rtoc-item::before {
+			background-color: #333333 !important;
+		}
+
+		.rtoc-mokuji-content .mokuji_ul.level-2>.rtoc-item::before {
+			background-color: #bfbfbf !important;
+		}
+
+		.rtoc-mokuji-content.frame2::before,
+		.rtoc-mokuji-content.frame3,
+		.rtoc-mokuji-content.frame4,
+		.rtoc-mokuji-content.frame5 {
+			border-color: #555555 !important;
+		}
+
+		.rtoc-mokuji-content.frame5::before,
+		.rtoc-mokuji-content.frame5::after {
+			background-color: #555555;
+		}
+
+		.widget_block #rtoc-mokuji-widget-wrapper .rtoc-mokuji.level-1 .rtoc-item.rtoc-current:after,
+		.widget #rtoc-mokuji-widget-wrapper .rtoc-mokuji.level-1 .rtoc-item.rtoc-current:after,
+		#scrollad #rtoc-mokuji-widget-wrapper .rtoc-mokuji.level-1 .rtoc-item.rtoc-current:after,
+		#sideBarTracking #rtoc-mokuji-widget-wrapper .rtoc-mokuji.level-1 .rtoc-item.rtoc-current:after {
+			background-color: #333333 !important;
+		}
+
+		.cls-1,
+		.cls-2 {
+			stroke: #555555;
+		}
+
+		.rtoc-mokuji-content .decimal_ol.level-2>.rtoc-item::before,
+		.rtoc-mokuji-content .mokuji_ol.level-2>.rtoc-item::before,
+		.rtoc-mokuji-content .decimal_ol.level-2>.rtoc-item::after,
+		.rtoc-mokuji-content .decimal_ol.level-2>.rtoc-item::after {
+			color: #bfbfbf;
+			background-color: #bfbfbf;
+		}
+
+		.rtoc-mokuji-content .rtoc-mokuji.level-1>.rtoc-item::before {
+			color: #333333;
+		}
+
+		.rtoc-mokuji-content .decimal_ol>.rtoc-item::after {
+			background-color: #333333;
+		}
+
+		.rtoc-mokuji-content .decimal_ol>.rtoc-item::before {
+			color: #333333;
+		}
+
+		/*rtoc_return*/
+		#rtoc_return a::before {
+			background-image: url(https://static2.euromaidanpress.com/wp-content/plugins/rich-table-of-content/include/../img/rtoc_return.png);
+		}
+
+		#rtoc_return a {
+			background-color: #333333 !important;
+		}
+
+		/* アクセントポイント */
+		.rtoc-mokuji-content .level-1>.rtoc-item #rtocAC.accent-point::after {
+			background-color: #333333;
+		}
+
+		.rtoc-mokuji-content .level-2>.rtoc-item #rtocAC.accent-point::after {
+			background-color: #bfbfbf;
+		}
+
+		/* rtoc_addon */
+			</style>
+<link rel="icon" href="https://euromaidanpress.com/wp-content/uploads/2023/05/cropped-logo_broadcast3-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://euromaidanpress.com/wp-content/uploads/2023/05/cropped-logo_broadcast3-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://euromaidanpress.com/wp-content/uploads/2023/05/cropped-logo_broadcast3-180x180.png" />
+<meta name="msapplication-TileImage" content="https://euromaidanpress.com/wp-content/uploads/2023/05/cropped-logo_broadcast3-270x270.png" />
+<style id="kirki-inline-styles">:root, [site-data-scheme="default"]{--cs-color-site-background:#FFFFFF;--cs-color-search-background:#000000;--cs-color-header-background:#0a0a0a;--cs-color-submenu-background:#FFFFFF;--cs-color-footer-background:#111111;}:root, [data-scheme="default"]{--cs-color-accent:#00b1ec;--cs-color-accent-contrast:#FFFFFF;--cs-color-secondary:#818181;--cs-palette-color-secondary:#818181;--cs-color-secondary-contrast:#000000;--cs-color-styled-heading:#00b1ec;--cs-color-styled-heading-contrast:#000000;--cs-color-styled-heading-hover:#a8dff1;--cs-color-styled-heading-hover-contrast:#000000;--cs-color-styled-category:rgba(0,0,0,0.3);--cs-color-styled-category-contrast:#ffffff;--cs-color-styled-category-hover:#000000;--cs-color-styled-category-hover-contrast:#FFFFFF;--cs-color-category:#00b1ec;--cs-color-category-hover:#000000;--cs-color-category-underline:rgba(255,255,255,0);--cs-color-button:#000000;--cs-color-button-contrast:#FFFFFF;--cs-color-button-hover:#282828;--cs-color-button-hover-contrast:#FFFFFF;--cs-color-overlay-background:rgba(0,0,0,0.25);}[site-data-scheme="dark"]{--cs-color-site-background:#1c1c1c;--cs-color-search-background:#333335;--cs-color-header-background:#1c1c1c;--cs-color-submenu-background:#1c1c1c;--cs-color-footer-background:#1c1c1c;}[data-scheme="dark"]{--cs-color-accent:#00b1ec;--cs-color-accent-contrast:#000000;--cs-color-secondary:#858585;--cs-palette-color-secondary:#858585;--cs-color-secondary-contrast:#000000;--cs-color-styled-heading:#00b1ec;--cs-color-styled-heading-contrast:#000000;--cs-color-styled-heading-hover:#00b1ec;--cs-color-styled-heading-hover-contrast:#000000;--cs-color-styled-category:#000000;--cs-color-styled-category-contrast:#FFFFFF;--cs-color-styled-category-hover:#00b1ec;--cs-color-styled-category-hover-contrast:#000000;--cs-color-category:#00b1ec;--cs-color-category-hover:#FFFFFF;--cs-color-category-underline:rgba(255,255,255,0);--cs-color-button:#3d3d3d;--cs-color-button-contrast:#FFFFFF;--cs-color-button-hover:#242424;--cs-color-button-hover-contrast:#FFFFFF;--cs-color-overlay-background:rgba(0,0,0,0.25);}:root{--cs-common-border-radius:0;--cs-primary-border-radius:0px;--cs-secondary-border-radius:50%;--cs-styled-category-border-radius:0;--cs-image-border-radius:0px;--cs-header-initial-height:100px;--cs-header-height:60px;}:root .cnvs-block-section-heading, [data-scheme="default"] .cnvs-block-section-heading, [data-scheme="dark"] [data-scheme="default"] .cnvs-block-section-heading{--cnvs-section-heading-border-color:#e9ecef;}[data-scheme="dark"] .cnvs-block-section-heading{--cnvs-section-heading-border-color:#49494b;}:root .cs-header__widgets-column .cnvs-block-section-heading, [data-scheme="dark"] [data-scheme="default"] .cs-header__widgets-column .cnvs-block-section-heading{--cnvs-section-heading-border-color:#e9ecef;}[data-scheme="dark"] .cs-header__widgets-column .cnvs-block-section-heading{--cnvs-section-heading-border-color:#49494b;}/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZJhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZthjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZNhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZxhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZBhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZFhjp-Ek-_0ewmM.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://euromaidanpress.com/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjp-Ek-_0ew.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L5QGBZYF9X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L5QGBZYF9X');
+</script>
+<script type="text/javascript">!(function(o,_name){o[_name]=o[_name]||function $(){($.q=$.q||[]).push(arguments)},o[_name].v=o[_name].v||2;!(function(o,t,n,f,e,i){function c(f,e){(f=(function(t,n){try{if(n=(t=o.localStorage).getItem("_aQS02NjE5M0E1NzhBMjY4OEM2NUEwRDMxMDYtMQ"))return JSON.parse(n).lgk||[];if((t.getItem("v4ac1eiZr0")||"").split(",")[4]>0)return[[_name+"-engaged","true"]]}catch(f){}})())&&typeof f.forEach===n&&(e=o[t].pubads())&&f.forEach((function(o){o&&o[0]&&e.setTargeting(o[0],o[1]||"")}))}(i=o[t]=o[t]||{}).cmd=i.cmd||[],typeof i.pubads===n?c():typeof i.cmd.unshift===n?i.cmd.unshift(c):i.cmd.push(c)})(window,"googletag","function");;})(window,decodeURI('a%64%6di%72a%6c'));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://ringplant.com/chunks/413b04777610af1729faa1ec5696df62fb9c",t.parentNode.insertBefore(i,t)})(document,"script");</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30994008-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-30994008-2');
+</script>
+<script type="text/javascript"> (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i; y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, "clarity", "script", "lh0675fb1x"); </script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+  googletag.pubads().disableInitialLoad(); googletag.pubads().enableSingleRequest();
+});
+var _hbopts = { alias: '/', type: 'banner' };
+var _hbwrap = _hbwrap || [];
+(function() {
+  var hbldr = function (url, resolution, cachebuster, millis, referrer) {
+    var s = document.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = 'https://' + url + '&resolution=' + resolution +
+      '&random=' + cachebuster + '&millis=' + millis + '&referrer=' + referrer;
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  };
+  hbldr(
+    'tradecore.tradehouse.media/servlet/hbwrap?stack=50',
+    (window.innerWidth||screen.width)+'x'+(window.innerHeight||screen.height),
+    Math.floor(89999999*Math.random()+10000000), new Date().getTime(), encodeURIComponent(
+      (window!=top&&window.location.ancestorOrigins)?
+        window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location
+    )
+  );
+})();
+</script>
+</head>
+<body class="post-template-default single single-post postid-273076 single-format-standard wp-embed-responsive html5_presentation _masterslider _ms_version_3.9.10 cs-page-layout-right cs-navbar-sticky-enabled cs-sticky-sidebar-enabled cs-stick-to-top" data-scheme="default" site-data-scheme="default">
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N95BHB7" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+
+<div class="cs-site-overlay"></div>
+<div class="cs-offcanvas">
+<div class="cs-offcanvas__header" data-scheme="dark">
+<nav class="cs-offcanvas__nav">
+<div class="cs-logo ">
+<a class="cs-header__logo cs-logo-default " href="https://euromaidanpress.com/">
+<img src="https://euromaidanpress.com/wp-content/uploads/2023/07/logo_broadcast_long.png" alt="Euromaidan Press"> </a>
+<a class="cs-header__logo cs-logo-dark " href="https://euromaidanpress.com/">
+<img src="https://euromaidanpress.com/wp-content/uploads/2023/07/logo_broadcast_long.png" alt="Euromaidan Press"> </a>
+</div>
+<span class="cs-offcanvas__toggle" role="button"><i class="cs-icon cs-icon-x"></i></span>
+</nav>
+</div>
+<aside class="cs-offcanvas__sidebar">
+<div class="cs-offcanvas__inner cs-offcanvas__area cs-widget-area">
+<div class="widget widget_nav_menu cs-d-lg-none"><div class="menu-home-page-menu-container"><ul id="menu-home-page-menu" class="menu"><li id="menu-item-36809" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-36809"><a href="https://euromaidanpress.com/category/ukraine/">Ukraine</a>
+<ul class="sub-menu">
+<li id="menu-item-216761" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216761"><a href="https://euromaidanpress.com/category/ukraine/political-news/">Ukrainian politics</a></li>
+<li id="menu-item-216762" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216762"><a href="https://euromaidanpress.com/category/ukraine/reforms/">Ukrainian reforms</a></li>
+<li id="menu-item-81173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81173"><a href="https://euromaidanpress.com/category/ukraine/history/">History of Ukraine</a></li>
+<li id="menu-item-36810" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36810"><a href="https://euromaidanpress.com/category/ukraine/culture/">Culture of Ukraine</a></li>
+<li id="menu-item-216764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216764"><a href="https://euromaidanpress.com/category/russian-aggression/political-prisoners/">Political prisoners</a></li>
+<li id="menu-item-216763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216763"><a href="https://euromaidanpress.com/category/ukraine/civil-society/">Civil Society</a></li>
+<li id="menu-item-216765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216765"><a href="https://euromaidanpress.com/category/ukraine/people-of-ukraine/">People of Ukraine</a></li>
+<li id="menu-item-122595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-122595"><a href="https://euromaidanpress.com/category/russian-aggression/crimea/">Crimea</a></li>
+</ul>
+</li>
+<li id="menu-item-81172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81172"><a href="https://euromaidanpress.com/category/international/">International</a></li>
+<li id="menu-item-216767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-216767"><a href="https://euromaidanpress.com/category/russian-aggression/">Russian Aggression</a>
+<ul class="sub-menu">
+<li id="menu-item-216768" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216768"><a href="https://euromaidanpress.com/category/russian-aggression/russian-ukrainian-war-news/">Russo-Ukrainian war 2022-2024</a></li>
+<li id="menu-item-216769" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216769"><a href="https://euromaidanpress.com/category/russian-aggression/donetsk-luhansk/">Donbas</a></li>
+<li id="menu-item-216770" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216770"><a href="https://euromaidanpress.com/category/russian-aggression/crimea/">Crimea</a></li>
+<li id="menu-item-216771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216771"><a href="https://euromaidanpress.com/category/russian-aggression/hybrid-war/">Hybrid War</a></li>
+<li id="menu-item-216772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216772"><a href="https://euromaidanpress.com/category/russian-aggression/peace-to-ukraine/">Peace to Ukraine</a></li>
+</ul>
+</li>
+<li id="menu-item-35810" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-35810"><a href="https://euromaidanpress.com/category/more/">More</a>
+<ul class="sub-menu">
+<li id="menu-item-216773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216773"><a href="https://euromaidanpress.com/category/more/opinion/">Opinion</a></li>
+<li id="menu-item-216774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-216774"><a href="https://euromaidanpress.com/category/more/special-projects/">Special projects</a>
+<ul class="sub-menu">
+<li id="menu-item-216775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216775"><a href="https://euromaidanpress.com/category/more/special-projects/plus1/">Plus1</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-35335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35335"><a href="https://euromaidanpress.com/about/">About Us</a>
+<ul class="sub-menu">
+<li id="menu-item-154323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154323"><a href="https://euromaidanpress.com/about/">About Us</a></li>
+<li id="menu-item-270701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270701"><a href="https://euromaidanpress.com/submit-an-op-ed-to-euromaidan-press/">Submit an op-ed to Euromaidan Press</a></li>
+<li id="menu-item-35333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35333"><a href="https://euromaidanpress.com/contribute/">Contribute</a></li>
+<li id="menu-item-236004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236004"><a href="https://euromaidanpress.com/tags/vacancy">Job opportunities</a></li>
+</ul>
+</li>
+<li id="menu-item-264858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264858"><a href="#">Donate</a>
+<ul class="sub-menu">
+<li id="menu-item-216777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216777"><a href="https://euromaidanpress.com/donate/">Support us</a></li>
+<li id="menu-item-81102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81102"><a href="https://euromaidanpress.com/about/partners/">Patrons, donors, and partners</a></li>
+</ul>
+</li>
+</ul></div></div> <div class="social-site mobile-social">
+<a href="https://www.facebook.com/euromaidanpress.en" class="social-site_link facebook" target="_blank">
+<svg><use xlink:href="#facebook"></use></svg>
+</a>
+<a href="https://twitter.com/euromaidanpress" class="social-site_link twitter" target="_blank">
+<svg><use xlink:href="#twitter"></use></svg>
+</a>
+<a href="https://www.instagram.com/euromaidanpress" class="social-site_link instagram" target="_blank">
+<svg><use xlink:href="#instagram"></use></svg>
+</a>
+<a href="https://www.youtube.com/@euromaidanpress_official" class="social-site_link youtube" target="_blank">
+<svg><use xlink:href="#youtube"></use></svg>
+</a>
+<a href="https://www.linkedin.com/company/euromaidanpress" class="social-site_link likedin" target="_blank">
+<svg><use xlink:href="#likedin"></use></svg>
+</a>
+<a href="https://mastodon.social/@EuromaidanPress" class="social-site_link mastodon" target="_blank" rel="me">
+<svg><use xlink:href="#mastodon"></use></svg>
+</a>
+<div class="header__lang lang">Eng<svg><svg width="10" height="9" viewBox="0 0 10 9"><path d="M1 1.5L5 6.5L9 1.5" stroke-width="2" /></svg><div class="lang__list"><a href="https://euromaidanpress.com/es/">Esp</a></div></div>
+</div>
+</div>
+</aside>
+</div>
+<div id="page" class="cs-site">
+<div class="cs-site-inner">
+<header class="cs-header cs-header-stretch cs-header-four" data-scheme="dark">
+<div class="cs-container">
+<div class="cs-header__inner-wrapper cs-header__inner-desktop">
+<div class="cs-header__col cs-col-left">
+<span class="cs-header__offcanvas-toggle  cs-d-lg-none" role="button">
+<i class="cs-icon cs-icon-menu"></i>
+</span>
+<div class="cs-logo ">
+<a class="cs-header__logo cs-logo-default cs-logo-large" href="https://euromaidanpress.com/">
+<img src="https://euromaidanpress.com/wp-content/uploads/2023/07/logo_broadcast_long.png" alt="Euromaidan Press"> </a>
+<a class="cs-header__logo cs-logo-dark cs-logo-large" href="https://euromaidanpress.com/">
+<img src="https://euromaidanpress.com/wp-content/uploads/2023/07/logo_broadcast_long.png" alt="Euromaidan Press"> </a>
+</div>
+</div>
+<div class="cs-header__col cs-col-column">
+<div class="cs-header__item">
+<div class="cs-header__inner">
+<div class="cs-header__col cs-col-left ">
+</div>
+<div class="cs-header__col cs-col-right">
+<div class="social-site">
+<a href="https://www.facebook.com/euromaidanpress.en" class="social-site_link facebook" target="_blank">
+<svg><use xlink:href="#facebook"></use></svg>
+</a>
+<a href="https://twitter.com/euromaidanpress" class="social-site_link twitter" target="_blank">
+<svg><use xlink:href="#twitter"></use></svg>
+</a>
+<a href="https://www.instagram.com/euromaidanpress" class="social-site_link instagram" target="_blank">
+<svg><use xlink:href="#instagram"></use></svg>
+</a>
+<a href="https://www.youtube.com/@euromaidanpress_official" class="social-site_link youtube" target="_blank">
+<svg><use xlink:href="#youtube"></use></svg>
+</a>
+<a href="https://www.linkedin.com/company/euromaidanpress" class="social-site_link likedin" target="_blank">
+<svg><use xlink:href="#likedin"></use></svg>
+</a>
+<a href="https://mastodon.social/@EuromaidanPress" class="social-site_link mastodon" target="_blank" rel="me">
+<svg><use xlink:href="#mastodon"></use></svg>
+</a>
+</div>
+<span role="button" class="cs-header__scheme-toggle cs-site-scheme-toggle">
+<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-sun"></i>
+<span class="cs-header__scheme-toggle-element"></span>
+<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-moon"></i>
+</span>
+<span class="cs-header__search-toggle" role="button">
+<i class="cs-icon cs-icon-search"></i>
+</span>
+<div class="header__lang lang">Eng<svg><svg width="10" height="9" viewBox="0 0 10 9"><path d="M1 1.5L5 6.5L9 1.5" stroke-width="2" /></svg><div class="lang__list"><a href="https://euromaidanpress.com/es/">Esp</a></div></div> </div>
+</div>
+</div>
+<div class="cs-header__item">
+<div class="cs-header__inner">
+<div class="cs-header__col cs-col-nav">
+<nav class="cs-header__nav"><ul id="menu-home-page-menu-1" class="cs-header__nav-inner"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-36809"><a href="https://euromaidanpress.com/category/ukraine/"><span>Ukraine</span></a>
+<ul class="sub-menu" data-scheme="default">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216761"><a href="https://euromaidanpress.com/category/ukraine/political-news/">Ukrainian politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216762"><a href="https://euromaidanpress.com/category/ukraine/reforms/">Ukrainian reforms</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81173"><a href="https://euromaidanpress.com/category/ukraine/history/">History of Ukraine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36810"><a href="https://euromaidanpress.com/category/ukraine/culture/">Culture of Ukraine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216764"><a href="https://euromaidanpress.com/category/russian-aggression/political-prisoners/">Political prisoners</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216763"><a href="https://euromaidanpress.com/category/ukraine/civil-society/">Civil Society</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216765"><a href="https://euromaidanpress.com/category/ukraine/people-of-ukraine/">People of Ukraine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-122595"><a href="https://euromaidanpress.com/category/russian-aggression/crimea/">Crimea</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81172"><a href="https://euromaidanpress.com/category/international/"><span>International</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-216767"><a href="https://euromaidanpress.com/category/russian-aggression/"><span>Russian Aggression</span></a>
+<ul class="sub-menu" data-scheme="default">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216768"><a href="https://euromaidanpress.com/category/russian-aggression/russian-ukrainian-war-news/">Russo-Ukrainian war 2022-2024</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216769"><a href="https://euromaidanpress.com/category/russian-aggression/donetsk-luhansk/">Donbas</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216770"><a href="https://euromaidanpress.com/category/russian-aggression/crimea/">Crimea</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216771"><a href="https://euromaidanpress.com/category/russian-aggression/hybrid-war/">Hybrid War</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216772"><a href="https://euromaidanpress.com/category/russian-aggression/peace-to-ukraine/">Peace to Ukraine</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-35810"><a href="https://euromaidanpress.com/category/more/"><span>More</span></a>
+<ul class="sub-menu" data-scheme="default">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216773"><a href="https://euromaidanpress.com/category/more/opinion/">Opinion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-216774"><a href="https://euromaidanpress.com/category/more/special-projects/">Special projects</a>
+<ul class="sub-menu" data-scheme="default">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216775"><a href="https://euromaidanpress.com/category/more/special-projects/plus1/">Plus1</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35335"><a href="https://euromaidanpress.com/about/"><span>About Us</span></a>
+<ul class="sub-menu" data-scheme="default">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154323"><a href="https://euromaidanpress.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270701"><a href="https://euromaidanpress.com/submit-an-op-ed-to-euromaidan-press/">Submit an op-ed to Euromaidan Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35333"><a href="https://euromaidanpress.com/contribute/">Contribute</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236004"><a href="https://euromaidanpress.com/tags/vacancy">Job opportunities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264858"><a href="#"><span>Donate</span></a>
+<ul class="sub-menu" data-scheme="default">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216777"><a href="https://euromaidanpress.com/donate/">Support us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81102"><a href="https://euromaidanpress.com/about/partners/">Patrons, donors, and partners</a></li>
+</ul>
+</li>
+</ul></nav> <div class="cs-header__multi-column cs-site-submenu section-heading-default-style-3">
+<span class="cs-header__multi-column-toggle"><i class="cs-icon cs-icon-more-horizontal"></i>
+</span>
+<div class="cs-header__multi-column-container" data-scheme="default">
+<div class="cs-header__multi-column-row">
+<div class="cs-header__multi-column-col cs-header__widgets-column cs-widget-area">
+<div class="widget text-20 widget_text"> <div class="textwidget"><p>Copyright © 2024 Euromaidanpress.com</p>
+<p>The work of Euromaidan Press is supported by the International Renaissance Foundation<br/>
+<img fetchpriority="high" decoding="async" class="alignnone" src="https://euromaidanpress.com/wp-content/uploads/2016/08/renaissanceblack.png" alt width="612" height="282" /></p>
+</div>
+</div><div class="widget text-21 widget_text"> <div class="textwidget"><p>When referencing our materials, please include an active hyperlink to the Euromaidan Press material and a maximum 500-character extract of the story. To reprint anything longer, written permission must be acquired from <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="711404031e1c101815101f010314020231161c10181d5f121e1c">[email&#160;protected]</a>.</p>
+<p><a href="https://euromaidanpress.com/privacy-and-cookie-policies/">Privacy and Cookie Policies</a>.</p>
+</div>
+</div> </div>
+<div class="cs-header__multi-column-col cs-header__widgets-column cs-widget-area">
+<div class="widget block-3 widget_block"><p><a href="https://euromaidanpress.com/2022/02/27/verified-ways-to-help-the-ukrainian-army/?"><img decoding="async" src="https://static.euromaidanpress.com/wp-content/uploads/2022/02/verified_ways_FB-1024x539.jpg" alt class="wp-image-160450" width="667" height="351" /></a></p>
+</div> </div>
+<div class="cs-header__multi-column-col cs-header__widgets-column cs-widget-area">
+<div class="widget media_image-2 widget_media_image"><a href="https://euromaidanpress.com/lets-support-ukraine/"><img width="300" height="258" src="https://euromaidanpress.com/wp-content/uploads/2022/07/Can-you-buy-this-WalkieTalkie-300x258.png" class="image wp-image-170065  attachment-medium size-medium" alt style="max-width: 100%; height: auto;" decoding="async" srcset="https://euromaidanpress.com/wp-content/uploads/2022/07/Can-you-buy-this-WalkieTalkie-300x258.png 300w, https://euromaidanpress.com/wp-content/uploads/2022/07/Can-you-buy-this-WalkieTalkie.png 338w" sizes="(max-width: 300px) 100vw, 300px" /></a></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="cs-header__col cs-col-right">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cs-header__inner cs-header__inner-mobile">
+<div class="cs-header__col cs-col-left">
+<span class="cs-header__offcanvas-toggle  cs-d-lg-none" role="button">
+<i class="cs-icon cs-icon-menu"></i>
+</span>
+</div>
+<div class="cs-header__col cs-col-center">
+<div class="cs-logo ">
+<a class="cs-header__logo cs-logo-default " href="https://euromaidanpress.com/">
+<img src="https://euromaidanpress.com/wp-content/uploads/2023/07/logo_broadcast_long.png" alt="Euromaidan Press"> </a>
+<a class="cs-header__logo cs-logo-dark " href="https://euromaidanpress.com/">
+<img src="https://euromaidanpress.com/wp-content/uploads/2023/07/logo_broadcast_long.png" alt="Euromaidan Press"> </a>
+</div>
+</div>
+<div class="cs-header__col cs-col-right">
+<span role="button" class="cs-header__scheme-toggle cs-header__scheme-toggle-mobile cs-site-scheme-toggle">
+<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-sun"></i>
+<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-moon"></i>
+</span>
+<span class="cs-header__search-toggle" role="button">
+<i class="cs-icon cs-icon-search"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="cs-search" data-scheme="dark">
+<div class="cs-container">
+<form role="search" method="get" class="cs-search__nav-form" action="https://euromaidanpress.com/">
+<div class="cs-search__group">
+<button class="cs-search__submit">
+<i class="cs-icon cs-icon-search"></i>
+</button>
+<input data-swpparentel=".cs-header .cs-search-live-result" required class="cs-search__input" data-swplive="true" type="search" value name="s" placeholder="Enter your search topic">
+<button class="cs-search__close">
+<i class="cs-icon cs-icon-x"></i>
+</button>
+</div>
+</form>
+<div class="cs-search__content">
+<div class="cs-search-live-result"></div>
+</div>
+</div>
+</div>
+</header>
+<main id="main" class="cs-site-primary">
+<div class="cs-site-content cs-sidebar-enabled cs-sidebar-right cs-metabar-disabled section-heading-default-style-3">
+<div class="cs-container">
+<div id="content" class="cs-main-content">
+<div id="primary" class="cs-content-area">
+<div class="cs-entry__header cs-entry__header-simple cs-video-wrap">
+<div class="cs-entry__header-inner">
+<div class="cs-entry__header-info">
+<div class="cs-entry__category"><ul class="post-categories">
+<li><a href="https://euromaidanpress.com/category/news-ukraine/" rel="category tag">Latest news Ukraine</a></li></ul></div><h1 class="cs-entry__title"><span>The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea</span></h1> <div class="cs-entry__subtitle">
+Russian authorities have decided unilaterally to change the country&#8217;s maritime borders with Lithuania and Finland in the Baltic Sea, declaring new internal waters and adjusting geographical coordinates, according to a draft government decree published on the legal acts portal.
+</div>
+<div class="cs-entry__post-meta"><div class="cs-meta-author"><a class="cs-meta-author-inner url fn n" href="https://euromaidanpress.com/author/olenamukhina/" title="View all posts by Olena Mukhina"><span class="cs-photo"><img data-del="avatar" src="https://euromaidanpress.com/wp-content/uploads/2022/06/olenam-332x320.jpg" class="avatar pp-user-avatar avatar-26 photo " height="26" width="26" /></span><span class="cs-by">by</span><span class="cs-author">Olena Mukhina</span></a></div><div class="cs-meta-date">21/05/2024</div><div class="cs-meta-reading-time"><span class="cs-meta-icon"><i class="cs-icon cs-icon-clock"></i></span>2 minute read</div></div> </div>
+<figure class="cs-entry__post-media post-media">
+<img width="648" height="411" src="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg" class="attachment-full size-full wp-post-image" alt style="max-width: 100%" decoding="async" srcset="https://euromaidanpress.com/wp-content/uploads/2016/07/plane.jpg 648w, https://euromaidanpress.com/wp-content/uploads/2016/07/plane-300x190.jpg 300w" sizes="(max-width: 648px) 100vw, 648px" /> </figure>
+<figcaption class="cs-entry__caption-text wp-caption-text">
+A SU-24 barrel-rolled above the US Warship Donald Cook in the neutral waters of the Baltic Sea on 13 April 2016. Photo: snapshot from video </figcaption>
+</div>
+</div>
+<a id="copy_title" href="https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/">The Moscow Times: Russia unilaterally decides to redraw maritime borders with Lithuania and Finland in the Baltic Sea</a>
+<div class="cs-entry__wrap">
+<div class="cs-entry__container">
+<div class="cs-entry__content-wrap">
+<div class="entry-content">
+<p>Russian authorities have decided unilaterally to change the country&#8217;s maritime borders with Lithuania and Finland in the Baltic Sea, according to a draft government decree published on the legal acts portal, reported The Moscow Times.</p>
+<p>The document, prepared by the Russian Defense Ministry, says that Russia intends to declare part of the waters in the eastern Gulf of Finland and territory near the cities of Baltiysk and Zelenogradsk in the Kaliningrad region as its internal waters.</p>
+<p>To achieve this objective, Russia has changed the <a href="https://www.moscowtimes.ru/2024/05/21/rossiya-reshila-vodnostoronnem-poryadke-sdvinut-granitsu-slitvoi-ifinlyandiei-ibaltiiskom-more-a131403" target="_blank" rel="noopener">geographical</a> coordinates of the points that define the baselines from which the width of Russia&#8217;s territorial sea and the adjacent zone along the coast and islands are measured.</p>
+<p>According to an attachment to the government decree, the Russian government plans to adjust the coordinates in the area of the islands of Yagry, Sommers, Hogland, Rodsher, Maly Tyuters, Vigrund, and near the northern entrance cape of the Narva River at the border with Finland.</p>
+<p>At the border with Lithuania, the areas under Russian &#8220;revision&#8221; include the Curonian Spit in the Gulf of Gdańsk, the area around Cape Taran, the cape south of Cape Taran, and the Baltic Spit.</p>
+<p>The Ministry of Defense proposes to partially &#8220;invalidate&#8221; the 40-year-old Council of Ministers of the Soviet Union decree regulating the borders in the Baltic, specifically the &#8220;Baltic Sea&#8221; section.</p>
+<p>The document on the border revision, which the Finnish and Lithuanian foreign ministries have not yet officially commented on, was presented for public discussion almost simultaneously with the start of exercises on the use of tactical nuclear weapons.</p>
+<p>The Russian Defense Ministry announced that these exercises began in the Southern Military District, with the participation of &#8220;Iskander&#8221; complexes and aircraft armed with &#8220;Kinzhal&#8221; missiles. The goal of the drills is to prepare personnel for the use of non-strategic nuclear weapons and to respond <em>&#8220;to provocative statements and threats from certain Western officials.&#8221; </em></p>
+<p>Update:</p>
+<p>A Russian Defense Ministry proposal to change the Russian border in the Baltic Sea was deleted from an official document portal on 22 May.</p>
+<p><em>&#8220;The draft is deleted</em>,&#8221; the site said on the address where the document had earlier been visible, according to Reuters.</p>
+<p><strong>Read more:</strong></p>
+<ul>
+<li><a href="https://euromaidanpress.com/2024/05/19/media-german-finance-ministry-agrees-to-allocate-additional-funds-for-military-support-of-ukraine/?swcfpc=1" target="_blank" rel="noopener"><em><strong>Media: German Finance Ministry agrees to allocate additional funds for military support of Ukraine</strong></em></a></li>
+<li><em><strong><a href="https://euromaidanpress.com/2024/05/18/lithuania-to-transfer-six-amber-1800-radar-systems-to-ukraine-as-part-of-german-initiative/?swcfpc=1" target="_blank" rel="noopener">Lithuania to transfer six AMBER-1800 radar systems to Ukraine as part of German-led initiative</a></strong></em></li>
+<li><em><strong><a href="https://euromaidanpress.com/2024/05/14/germanys-scholz-joins-nordic-nations-in-calling-for-more-military-aid-to-ukraine/?swcfpc=1" target="_blank" rel="noopener">Germany’s Scholz joins Nordic nations in calling for more military aid to Ukraine</a></strong></em></li>
+<li><em><strong><a href="https://euromaidanpress.com/2024/05/19/pentagon-announces-date-of-next-ramstein-meeting/?swcfpc=1" target="_blank" rel="noopener">Pentagon announces date of next Ramstein meeting: 20 May</a></strong></em></li>
+</ul>
+<div id="pa_banner_code"><div style="color: #555555; padding: 1em; border: 1px dotted #dedede; background: #ffffce;">
+<strong>You could close this page. Or you could join our community and help us produce more materials like this. </strong>
+We keep our reporting open and accessible to everyone because we believe in the power of free information. This is why our small, cost-effective team depends on the support of readers like you to bring deliver timely news, quality analysis, and on-the-ground reports about Russia's war against Ukraine and Ukraine's struggle to build a democratic society.
+A little bit goes a long way: for as little as the cost of one cup of coffee a month, you can help build bridges between Ukraine and the rest of the world, plus become a co-creator and vote for topics we should cover next. <a href="https://www.patreon.com/euromaidanpress" target="_blank"><b>Become a patron </b></a>or see other ways to <span style="font-weight: 700 !important;"><a href="https://euromaidanpress.com/donate/" target="_blank">support</a>.</span>
+<a href="https://www.patreon.com/bePatron?u=36526209" target="_blank" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+</div></div> </div>
+<div class="correction">
+<div class="correction__row">
+<div class="correction__text">
+<p>To suggest a correction or clarification, write to us here</p>
+<p>You can also highlight the text and press <u>Ctrl + Enter</u></p>
+</div>
+<div class="correction__btn">
+<button type="button" class="popup-trigger" id="mistape-popup">Contact Us</button>
+</div>
+</div>
+</div>
+<div class="mistape-popup" id="mistape">
+<div class="mistape-popup__overlay popup-trigger"></div>
+<div class="mistape-popup__content">
+<button class="mistape-popup__close popup-trigger">X</button>
+<p>Please leave your suggestions or corrections here</p>
+<div class="wpcf7 no-js" id="wpcf7-f216744-p273076-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/#wpcf7-f216744-p273076-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="216744" />
+<input type="hidden" name="_wpcf7_version" value="5.8.7" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f216744-p273076-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="273076" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value />
+<input type="hidden" name="_wpcf7_recaptcha_response" value />
+</div>
+<p><span class="wpcf7-form-control-wrap" data-name="mistape"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="mistape"></textarea></span><br/>
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Send" />
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+</div>
+</div> <div class="social-share">
+<a href="https://www.facebook.com/sharer.php?u=https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" target="_blank" rel="nofollow noreferrer" title="Share to Facebook" style="background: #0866ff; --hover_color: #5aa7ff">
+<img src="https://euromaidanpress.com/wp-content/uploads/2024/04/facebook-logo.svg" alt="Facebook"> </a>
+<a href="https://twitter.com/share?&text=https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" target="_blank" rel="nofollow noreferrer" title="Share to Twitter" style="background: #0f1419; --hover_color: #0e353f">
+<img src="https://euromaidanpress.com/wp-content/uploads/2024/04/twitter-logo.svg" alt="Twitter"> </a>
+<a href="https://mastodon.social/share?text=https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" target="_blank" rel="nofollow noreferrer" title="Share to Mastodon" style="background: #6364ff; --hover_color: #563acc">
+<img src="https://euromaidanpress.com/wp-content/uploads/2024/04/mastodon-logo.svg" alt="Mastodon"> </a>
+<a href="https://bsky.app/intent/compose?text=https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" target="_blank" rel="nofollow noreferrer" title="Share to Bluesky" style="background: #0085ff; --hover_color: #004ff9">
+<img src="https://euromaidanpress.com/wp-content/uploads/2024/04/bluesky-logo.svg" alt="Bluesky"> </a>
+<a href="http://www.reddit.com/submit?url=https://euromaidanpress.com/2024/05/21/the-moscow-times-russia-unilaterally-decides-to-redraw-maritime-borders-with-lithuania-and-finland-in-the-baltic-sea/" target="_blank" rel="nofollow noreferrer" title="Share to Reddit" style="background: #d93a00; --hover_color: #962900">
+<img src="https://euromaidanpress.com/wp-content/uploads/2024/04/reddit-logo.svg" alt="Reddit"> </a>
+<a href="/cdn-cgi/l/email-protection#ffc09d909b86c2978b8b8f8cc5d0d09a8a8d90929e969b9e918f8d9a8c8cd19c9092d0cdcfcdcbd0cfcad0cdced08b979ad292908c9c9088d28b96929a8cd28d8a8c8c969ed28a9196939e8b9a8d9e939386d29b9a9c969b9a8cd28b90d28d9a9b8d9e88d2929e8d968b96929ad29d908d9b9a8d8cd288968b97d293968b978a9e91969ed29e919bd2999691939e919bd29691d28b979ad29d9e938b969cd28c9a9ed0" target="_blank" rel="nofollow noreferrer" title="Share to Email" style="background: #ededed; --hover_color: #f7f7f7">
+<img src="https://euromaidanpress.com/wp-content/uploads/2024/04/Vector.svg" alt="Email"> </a>
+</div>
+<div class="cs-entry__tags"><ul><li><a href="https://euromaidanpress.com/tags/baltic-sea/" rel="tag">Baltic Sea</a></li><li><a href="https://euromaidanpress.com/tags/eu/" rel="tag">EU</a></li><li><a href="https://euromaidanpress.com/tags/finland/" rel="tag">Finland</a></li><li><a href="https://euromaidanpress.com/tags/kaliningrad/" rel="tag">Kaliningrad</a></li><li><a href="https://euromaidanpress.com/tags/lithuania/" rel="tag">Lithuania</a></li><li><a href="https://euromaidanpress.com/tags/nato/" rel="tag">NATO</a></li><li><a href="https://euromaidanpress.com/tags/poland/" rel="tag">Poland</a></li></ul></div> </div>
+</div>
+</div>
+<div class="dap" id="dap">
+<div class="dap__overlay trigger-dap"></div>
+<div class="dap__iframe">
+<iframe src="https://fundingchoicesmessages.google.com/s/whitelist?hl=en-US" id="instruction" frameborder="0"></iframe>
+</div>
+<div class="dap__content">
+<button class="dap__close trigger-dap" type="button">X</button>
+<img src="https://euromaidanpress.com/wp-content/uploads/2023/07/logo_broadcast_long.png" alt="Euromaidan Press">
+<p class="title">We are an independent media outlet that relies solely on advertising revenue to sustain itself. We do not endorse or promote any products or services for financial gain. Therefore, we kindly ask for your support by disabling your ad blocker. Your assistance helps us continue providing quality content. Thank you!</p>
+<div class="dap__action">
+<button class="btn dap__instruction" type="button">Allow ads in Euromaidan Press</button>
+</div>
+</div>
+</div>
+</div>
+<aside id="secondary" class="cs-sidebar__area cs-widget-area">
+<div class="cs-sidebar__conteinter">
+<div class="ad-container">
+<div class="ad-sticky-wrap"></div>
+</div>
+<div class="cs-sidebar__inner">
+<div class="widget recent-posts-7 widget_recent_entries">
+<h5 class="cs-section-heading cnvs-block-section-heading is-style-cnvs-block-section-heading-default halignleft  "><span class="cnvs-section-title"><span>News Feed</span></span></h5>
+<ul>
+<li>
+<a href="https://euromaidanpress.com/2024/05/24/europeans-largely-support-humanitarian-and-financial-aid-to-ukraine-survey-shows/">Europeans largely support humanitarian and financial aid to Ukraine, survey shows</a>
+<span class="post-date">24/05/2024</span>
+</li>
+<li>
+<a href="https://euromaidanpress.com/2024/05/23/isw-russian-occupied-areas-in-ukraine-hold-preliminary-voting-for-united-russia-party/">ISW: Russian-occupied areas in Ukraine hold preliminary voting for United Russia party</a>
+<span class="post-date">23/05/2024</span>
+</li>
+<li>
+<a href="https://euromaidanpress.com/2024/05/23/the-nyt-us-debates-relaxing-restrictions-on-ukraines-use-of-its-weapons-to-strike-targets-inside-russia/">The NYT: US debates relaxing restrictions on Ukraine&#8217;s use of its weapons to strike targets inside Russia</a>
+<span class="post-date">23/05/2024</span>
+</li>
+<li>
+<a href="https://euromaidanpress.com/2024/05/23/ukrainian-military-band-members-held-captive-in-russia-for-two-years-says-ministry/">Ukrainian military band members held captive in Russia for two years, says ministry</a>
+<span class="post-date">23/05/2024</span>
+</li>
+<li>
+<a href="https://euromaidanpress.com/2024/05/23/ukraines-hands-tied-by-us-weapons-restrictions-to-strike-inside-russia/">Ukraine&#8217;s “hands tied” by US weapons restrictions to strike inside Russia</a>
+<span class="post-date">23/05/2024</span>
+</li>
+</ul>
+</div><div class="widget text-18 widget_text"><h5 class="cs-section-heading cnvs-block-section-heading is-style-cnvs-block-section-heading-default halignleft  "><span class="cnvs-section-title"><span>Join our fundraiser</span></span></h5> <div class="textwidget"><p><a href="https://euromaidanpress.com/lets-support-ukraine"><img loading="lazy" decoding="async" class="alignnone wp-image-170065 size-medium" src="https://static.euromaidanpress.com/wp-content/uploads/2022/07/Can-you-buy-this-WalkieTalkie-300x258.png" alt width="300" height="258" srcset="https://euromaidanpress.com/wp-content/uploads/2022/07/Can-you-buy-this-WalkieTalkie-300x258.png 300w, https://euromaidanpress.com/wp-content/uploads/2022/07/Can-you-buy-this-WalkieTalkie.png 338w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+</div>
+</div><div class="widget mc4wp_form_widget-4 widget_mc4wp_form_widget"><h5 class="cs-section-heading cnvs-block-section-heading is-style-cnvs-block-section-heading-default halignleft  "><span class="cnvs-section-title"><span>Subscribe to our daily newsletter</span></span></h5><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-113114" method="post" data-id="113114" data-name="Newsletter"><div class="mc4wp-form-fields">
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<div id="mc_embed_signup_scroll">
+<h2></h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+</label>
+<input type="email" value name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+<label for="mce-FNAME">First Name <span class="asterisk">*</span>
+</label>
+<input type="text" value name="FNAME" class="required" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+<label for="mce-LNAME">Last Name <span class="asterisk">*</span>
+</label>
+<input type="text" value name="LNAME" class="required" id="mce-LNAME">
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> 
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7bdde59c3f36a3071ebc921b3_ea25448903" tabindex="-1" value></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='MMERGE5';ftypes[5]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[7]='MMERGE7';ftypes[7]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[11]='MMERGE11';ftypes[11]='text';fnames[12]='MMERGE12';ftypes[12]='text';fnames[13]='MMERGE13';ftypes[13]='text';fnames[14]='MMERGE14';ftypes[14]='text';fnames[15]='MMERGE15';ftypes[15]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1716502098" /><input type="hidden" name="_mc4wp_form_id" value="113114" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form></div> </div>
+</div>
+</aside>
+<script>
+		jQuery(document).ready(function ($) {
+			$(window).scroll(function(){
+				var $el = $('.ad-sticky-wrap');
+				if ($el.isInViewport()) {
+					$el.addClass('fixed');	
+				} else {
+					$el.removeClass('fixed');
+				}
+			});
+
+			$.fn.isInViewport = function() {
+				var elementTop = $(this).offset().top;
+				var elementBottom = elementTop + $(this).outerHeight();
+
+				var viewportTop = $(window).scrollTop();
+				var viewportBottom = viewportTop + $(window).height();
+
+				return elementBottom > viewportTop && elementTop < viewportBottom;
+			};
+		});
+	</script>
+</div>
+</div>
+</div>
+</main>
+<footer class="cs-footer cs-footer-two" data-scheme="dark">
+<div class="cs-container">
+<div class="cs-footer__item">
+<div class="cs-footer__col cs-col-left">
+<div class="cs-footer__inner">
+<div class="cs-logo">
+<a class="cs-footer__logo cs-logo-once" href="https://euromaidanpress.com/">
+Euromaidan Press </a>
+</div>
+</div>
+</div>
+<div class="cs-footer__col cs-col-center">
+<div class="footer-nav-menu">
+<ul id="menu-footer" class="cs-footer__nav cs-nav-grid"><li id="menu-item-267938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267938"><a href="https://euromaidanpress.com/about/">About Us</a></li>
+<li id="menu-item-267941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267941"><a href="https://euromaidanpress.com/contribute/">Contribute</a></li>
+<li id="menu-item-267939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267939"><a href="https://euromaidanpress.com/about/partners/">Patrons, donors, and partners</a></li>
+<li id="menu-item-267940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267940"><a href="https://euromaidanpress.com/donate/">Support us</a></li>
+<li id="menu-item-267944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-267944"><a href="https://euromaidanpress.com/tags/vacancy">Job opportunities</a></li>
+</ul> </div>
+</div>
+<div class="cs-footer__col cs-col-right">
+<div class="cs-footer__desc">
+When referencing our materials, please include an active hyperlink to the Euromaidan Press material and a maximum 500-character extract of the story. To reprint anything longer, written permission must be acquired from <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="395c4c4b565458505d5857494b5c4a4a795e54585055175a5654">[email&#160;protected]</a>. </div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<style type="text/css" media="all" id="canvas-widget-blocks-dynamic-styles">
+
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">jQuery(function(){omShortcodes.init(["buttons","tooltips","toggle","tabs","responsivebox","counter"]);});</script> <a href="#top" class="pk-scroll-to-top">
+<i class="pk-icon pk-icon-up"></i>
+</a>
+
+<script>
+//jQuery( document ).ready(function() {
+var pledged = 1909;
+var goal    = 2000;
+function format_Ks(x){
+ return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+ }
+function update_thermometer(value){
+	if(value && /^(\d+)\|(\d+)$/.test(value)){
+	pledged = parseInt(RegExp.$1);
+	goal = parseInt(RegExp.$2);
+	}
+	if(document.getElementById('donations_progress_bar')){
+		document.getElementById('have').style.width = Math.floor(100* pledged * 100 / goal)/100 + '%';
+		var to_go = goal - pledged;
+		to_go = 0>to_go ? 0 : to_go;
+		document.getElementById('text_pledged').innerHTML = "$ " + format_Ks(to_go) + ' still to go!';
+		}
+	}
+update_thermometer();
+jQuery(document).ready(function(){
+        jQuery.ajax({
+          type:'POST',
+          data:{action:'get_donation_values'},
+          url: "https://euromaidanpress.com/wp-admin/admin-ajax.php",
+          success: function(value) {
+            update_thermometer(value);
+          }
+        });
+    });
+//});
+</script>
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script> <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0&appId=&autoLogAppEvents=1" nonce="Ci8te34e"></script>
+<script>
+            var _SEARCHWP_LIVE_AJAX_SEARCH_BLOCKS = true;
+            var _SEARCHWP_LIVE_AJAX_SEARCH_ENGINE = 'default';
+            var _SEARCHWP_LIVE_AJAX_SEARCH_CONFIG = 'default';
+        </script>
+<link rel="stylesheet" id="rtoc_style-css" href="https://static2.euromaidanpress.com/wp-content/plugins/rich-table-of-content/css/rtoc_style.css?ver=159a88eb496b17600a898156ab0e6917" media="all" />
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/simple-tooltips/zebra_tooltips.js?ver=159a88eb496b17600a898156ab0e6917" id="simple_tooltips_base-js"></script>
+<script id="rtoc_js-js-extra">
+var rtocScrollAnimation = {"rtocScrollAnimation":"off"};
+var rtocBackButton = {"rtocBackButton":"off"};
+var rtocBackDisplayPC = {"rtocBackDisplayPC":""};
+var rtocOpenText = {"rtocOpenText":"Open"};
+var rtocCloseText = {"rtocCloseText":"Close"};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/rich-table-of-content/js/rtoc_common.js?ver=159a88eb496b17600a898156ab0e6917" id="rtoc_js-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/rich-table-of-content/js/rtoc_highlight.js?ver=159a88eb496b17600a898156ab0e6917" id="rtoc_js_highlight-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-alert/public-block-alert.js?ver=2.4.3" id="canvas-block-alert-script-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-collapsibles/public-block-collapsibles.js?ver=2.4.3" id="canvas-block-collapsibles-script-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/basic-elements/block-tabs/public-block-tabs.js?ver=2.4.3" id="canvas-block-tabs-script-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/justified-gallery/block/jquery.justifiedGallery.min.js?ver=2.4.3" id="justifiedgallery-js"></script>
+<script id="canvas-justified-gallery-js-extra">
+var canvasJG = {"rtl":""};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/justified-gallery/block/public-block-justified-gallery.js?ver=2.4.3" id="canvas-justified-gallery-js"></script>
+<script src="https://euromaidanpress.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/slider-gallery/block/flickity.pkgd.min.js?ver=2.4.3" id="flickity-js"></script>
+<script id="canvas-slider-gallery-js-extra">
+var canvas_sg_flickity = {"page_info_sep":" of "};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/canvas/components/slider-gallery/block/public-block-slider-gallery.js?ver=2.4.3" id="canvas-slider-gallery-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/euromaidanpress.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7" id="contact-form-7-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/olevmedia-shortcodes/assets/js/shortcodes.js?fcolevmedia&amp;ver=1.1.9" id="omsc-shortcodes-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/basic-elements/public/js/public-powerkit-basic-elements.js?ver=4.0.0" id="powerkit-basic-elements-js"></script>
+<script id="powerkit-justified-gallery-js-extra">
+var powerkitJG = {"rtl":""};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/justified-gallery/public/js/public-powerkit-justified-gallery.js?ver=2.9.1" id="powerkit-justified-gallery-js"></script>
+<script async="async" defer="defer" src="//assets.pinterest.com/js/pinit.js?ver=159a88eb496b17600a898156ab0e6917" id="powerkit-pinterest-js"></script>
+<script id="powerkit-pin-it-js-extra">
+var powerkit_pinit_localize = {"image_selectors":".entry-content img","exclude_selectors":".cnvs-block-row,.cnvs-block-section,.cnvs-block-posts .entry-thumbnail,.cnvs-post-thumbnail,.pk-block-author,.pk-featured-categories img,.pk-inline-posts-container img,.pk-instagram-image,.wp-block-cover,.pk-block-posts,.cs-posts-area__main,.cs-entry","only_hover":"1"};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/pinterest/public/js/public-powerkit-pin-it.js?ver=2.9.1" id="powerkit-pin-it-js"></script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/scroll-to-top/public/js/public-powerkit-scroll-to-top.js?ver=2.9.1" id="powerkit-scroll-to-top-js"></script>
+<script id="powerkit-slider-gallery-js-extra">
+var powerkit_sg_flickity = {"page_info_sep":" of "};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/slider-gallery/public/js/public-powerkit-slider-gallery.js?ver=2.9.1" id="powerkit-slider-gallery-js"></script>
+<script id="powerkit-table-of-contents-js-extra">
+var powerkit_toc_config = {"label_show":"Show","label_hide":"Hide"};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/powerkit/modules/table-of-contents/public/js/public-powerkit-table-of-contents.js?ver=2.9.1" id="powerkit-table-of-contents-js"></script>
+<script id="ppress-frontend-script-js-extra">
+var pp_ajax_form = {"ajaxurl":"https:\/\/euromaidanpress.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"384de28dc6","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.15.8" id="ppress-frontend-script-js"></script>
+<script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"hitRequestUrl":"https:\/\/euromaidanpress.com\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=273076&search_query&page_uri=LzIwMjQvMDUvMjEvdGhlLW1vc2Nvdy10aW1lcy1ydXNzaWEtdW5pbGF0ZXJhbGx5LWRlY2lkZXMtdG8tcmVkcmF3LW1hcml0aW1lLWJvcmRlcnMtd2l0aC1saXRodWFuaWEtYW5kLWZpbmxhbmQtaW4tdGhlLWJhbHRpYy1zZWEv","keepOnlineRequestUrl":"https:\/\/euromaidanpress.com\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=273076&search_query&page_uri=LzIwMjQvMDUvMjEvdGhlLW1vc2Nvdy10aW1lcy1ydXNzaWEtdW5pbGF0ZXJhbGx5LWRlY2lkZXMtdG8tcmVkcmF3LW1hcml0aW1lLWJvcmRlcnMtd2l0aC1saXRodWFuaWEtYW5kLWZpbmxhbmQtaW4tdGhlLWJhbHRpYy1zZWEv","option":{"dntEnabled":"1","cacheCompatibility":"1"}};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.6.2" id="wp-statistics-tracker-js"></script>
+<script src="https://euromaidanpress.com/wp-content/themes/newsblock/assets/js/mistape.js?ver=1" id="mistape-js"></script>
+<script src="https://euromaidanpress.com/wp-content/themes/newsblock/assets/js/dap.js?ver=1" id="dap-js"></script>
+<script id="csco-scripts-js-extra">
+var csLocalize = {"darkMode":"true"};
+var csco_ajax_nextpost = {"type":"ajax_restapi","post_type":"post","not_in":[273076],"next_post":"272998","current_user":"0","nonce":"71e501245d","rest_url":"https:\/\/euromaidanpress.com\/wp-json\/csco\/v1\/more-nextpost","url":"https:\/\/euromaidanpress.com\/wp-admin\/admin-ajax.php"};
+var csco_mega_menu = {"rest_url":"https:\/\/euromaidanpress.com\/wp-json\/csco\/v1\/menu-posts"};
+</script>
+<script src="https://euromaidanpress.com/wp-content/themes/newsblock/assets/js/scripts.js?ver=1.2.2" id="csco-scripts-js"></script>
+<script src="https://euromaidanpress.com/wp-content/themes/newsblock/assets/js/social-scripts.js?ver=1.2.2" id="csco-social-js"></script>
+<script src="https://euromaidanpress.com/wp-content/themes/newsblock/assets/js/shortcode.js?ver=1.2.2" id="csco-editor-js"></script>
+<script id="swp-live-search-client-js-extra">
+var searchwp_live_search_params = [];
+searchwp_live_search_params = {"ajaxurl":"https:\/\/euromaidanpress.com\/wp-admin\/admin-ajax.php","origin_id":273076,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."};;
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/script.min.js?ver=1.7.6" id="swp-live-search-client-js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LdcWeMpAAAAAAMs8fWQ6ADmGXscVshrieQPF1st&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script src="https://euromaidanpress.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://euromaidanpress.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://euromaidanpress.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script id="wpcf7-recaptcha-js-extra">
+var wpcf7_recaptcha = {"sitekey":"6LdcWeMpAAAAAAMs8fWQ6ADmGXscVshrieQPF1st","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script src="https://static2.euromaidanpress.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.7" id="wpcf7-recaptcha-js"></script>
+<script defer src="https://static2.euromaidanpress.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.13" id="mc4wp-forms-api-js"></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+<script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#000000',
+                            'color':				'#ffffff',
+                            'max_width':  250,
+                            'opacity':    .95, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script>
+<script id="_vidverto-f34f2a459046b67bff2d08264169d7b5">!function(v,t,o){var a=t.createElement("script");a.src="https://ad.vidverto.io/vidverto/js/aries/v1/invocation.js",a.setAttribute("fetchpriority","high");var r=v.top;r.document.head.appendChild(a),v.self!==v.top&&(v.frameElement.style.cssText="width:0px!important;height:0px!important;"),r.aries=r.aries||{},r.aries.v1=r.aries.v1||{commands:[]};var c=r.aries.v1;c.commands.push((function(){var d=document.getElementById("_vidverto-f34f2a459046b67bff2d08264169d7b5");d.setAttribute("id",(d.getAttribute("id")+(new Date()).getTime()));var t=v.frameElement||d;c.mount("10428",t,{width:720,height:405})}))}(window,document);</script>
+<svg style="width: 0;height: 0; position: absolute;overflow: hidden;">
+<symbol id="twitter" width="18" height="18" viewBox="0 0 18 18">
+<path d="M10.6757 7.62177L17.2325 0H15.6788L9.98548 6.61788L5.43827 0H0.193604L7.06988 10.0074L0.193604 18H1.74745L7.7597 11.0113L12.5619 18H17.8066L10.6753 7.62177H10.6757ZM8.5475 10.0956L7.85079 9.09906L2.30732 1.16971H4.69393L9.16758 7.56895L9.86429 8.56546L15.6795 16.8835H13.2929L8.5475 10.096V10.0956Z" />
+</symbol>
+<symbol id="facebook" width="20" height="20" viewBox="0 0 20 20">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 10.053C0.5 14.7761 3.93029 18.7036 8.41667 19.5V12.6386H6.04167V10H8.41667V7.88863C8.41667 5.51363 9.94696 4.19471 12.1114 4.19471C12.797 4.19471 13.5364 4.3 14.222 4.40529V6.83333H13.0083C11.847 6.83333 11.5833 7.41363 11.5833 8.15304V10H14.1167L13.6947 12.6386H11.5833V19.5C16.0697 18.7036 19.5 14.7769 19.5 10.053C19.5 4.79875 15.225 0.5 10 0.5C4.775 0.5 0.5 4.79875 0.5 10.053Z" />
+</symbol>
+<symbol id="youtube" width="20" height="15" viewBox="0 0 20 15">
+<path d="M19.5826 2.25011C19.4687 1.8144 19.2455 1.41705 18.9353 1.09784C18.625 0.778634 18.2386 0.548755 17.8147 0.431215C16.2545 8.74975e-08 10 0 10 0C10 0 3.74554 -8.74975e-08 2.18527 0.428921C1.76121 0.54608 1.37461 0.775831 1.0643 1.0951C0.753989 1.41437 0.530891 1.81192 0.417411 2.24782C-8.51495e-08 3.85341 0 7.2022 0 7.2022C0 7.2022 -8.51495e-08 10.551 0.417411 12.1543C0.647321 13.0397 1.32589 13.7369 2.18527 13.9732C3.74554 14.4044 10 14.4044 10 14.4044C10 14.4044 16.2545 14.4044 17.8147 13.9732C18.6763 13.7369 19.3527 13.0397 19.5826 12.1543C20 10.551 20 7.2022 20 7.2022C20 7.2022 20 3.85341 19.5826 2.25011ZM8.01339 10.2757V4.12865L13.192 7.17926L8.01339 10.2757Z" />
+</symbol>
+<symbol id="instagram" width="18" height="18" viewBox="0 0 18 18">
+<path d="M5.22 0H12.78C15.66 0 18 2.34 18 5.22V12.78C18 14.1644 17.45 15.4922 16.4711 16.4711C15.4922 17.45 14.1644 18 12.78 18H5.22C2.34 18 0 15.66 0 12.78V5.22C0 3.83557 0.549963 2.50784 1.5289 1.5289C2.50784 0.549963 3.83557 0 5.22 0ZM5.04 1.8C4.1807 1.8 3.35659 2.14136 2.74897 2.74897C2.14136 3.35659 1.8 4.1807 1.8 5.04V12.96C1.8 14.751 3.249 16.2 5.04 16.2H12.96C13.8193 16.2 14.6434 15.8586 15.251 15.251C15.8586 14.6434 16.2 13.8193 16.2 12.96V5.04C16.2 3.249 14.751 1.8 12.96 1.8H5.04ZM13.725 3.15C14.0234 3.15 14.3095 3.26853 14.5205 3.4795C14.7315 3.69048 14.85 3.97663 14.85 4.275C14.85 4.57337 14.7315 4.85952 14.5205 5.0705C14.3095 5.28147 14.0234 5.4 13.725 5.4C13.4266 5.4 13.1405 5.28147 12.9295 5.0705C12.7185 4.85952 12.6 4.57337 12.6 4.275C12.6 3.97663 12.7185 3.69048 12.9295 3.4795C13.1405 3.26853 13.4266 3.15 13.725 3.15ZM9 4.5C10.1935 4.5 11.3381 4.97411 12.182 5.81802C13.0259 6.66193 13.5 7.80653 13.5 9C13.5 10.1935 13.0259 11.3381 12.182 12.182C11.3381 13.0259 10.1935 13.5 9 13.5C7.80653 13.5 6.66193 13.0259 5.81802 12.182C4.97411 11.3381 4.5 10.1935 4.5 9C4.5 7.80653 4.97411 6.66193 5.81802 5.81802C6.66193 4.97411 7.80653 4.5 9 4.5ZM9 6.3C8.28392 6.3 7.59716 6.58446 7.09081 7.09081C6.58446 7.59716 6.3 8.28392 6.3 9C6.3 9.71608 6.58446 10.4028 7.09081 10.9092C7.59716 11.4155 8.28392 11.7 9 11.7C9.71608 11.7 10.4028 11.4155 10.9092 10.9092C11.4155 10.4028 11.7 9.71608 11.7 9C11.7 8.28392 11.4155 7.59716 10.9092 7.09081C10.4028 6.58446 9.71608 6.3 9 6.3Z" />
+</symbol>
+<symbol id="likedin" width="17" height="16" viewBox="0 0 17 16">
+<path d="M3.56768 1.77857C3.56744 2.25004 3.37928 2.7021 3.04458 3.03532C2.70987 3.36853 2.25605 3.55559 1.78295 3.55536C1.30984 3.55512 0.856212 3.36761 0.521844 3.03406C0.187476 2.70051 -0.000236329 2.24826 2.23302e-07 1.77679C0.000236775 1.30532 0.188403 0.853255 0.523106 0.520042C0.857808 0.186829 1.31163 -0.000235512 1.78473 2.22531e-07C2.25784 0.000235957 2.71147 0.187753 3.04584 0.521299C3.38021 0.854845 3.56792 1.3071 3.56768 1.77857V1.77857ZM3.6212 4.87173H0.0535154V16H3.6212V4.87173ZM9.25813 4.87173H5.70829V16H9.22246V10.1603C9.22246 6.90717 13.4769 6.60497 13.4769 10.1603V16H17V8.9515C17 3.46736 10.703 3.6718 9.22246 6.36498L9.25813 4.87173V4.87173Z" />
+</symbol>
+<symbol id="mastodon" viewBox="0 0 24 24" width="20" height="20">
+<path d="M8 7V12C8 12.5523 7.55228 13 7 13C6.44772 13 6 12.5523 6 12V7C6.00458 5.12141 7.76059 4 9.5 4C10.6307 4 11.4437 4.34086 12 4.83532C12.5563 4.34086 13.3693 4 14.5 4C16.2387 4 17.9942 5.12063 18 6.99875V12C18 12.5523 17.5523 13 17 13C16.4477 13 16 12.5523 16 12V6.99875C15.9406 6.24143 15.1596 6 14.5 6C13.8515 6 13.0672 6.24659 13 6.99875V10C13 10.5523 12.5523 11 12 11C11.4477 11 11 10.5523 11 10V7C10.9403 6.23967 10.1531 6 9.5 6C8.85153 6 8.06716 6.24784 8 7Z" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 1H8C4.07296 1 1.08597 4.02365 1 7.98924V13C1 18.1146 4.55833 23 10 23H15.48C16.8717 23 18 21.8717 18 20.48C18 19.1132 16.8655 18.0336 15.5 18C15.2181 17.9931 14.8836 17.9965 14.5149 18.0004C12.4361 18.022 9.26795 18.055 8.28321 16.2962C12.8078 17.1259 23 18.5 23 11V8C22.9065 4.03533 19.9339 1 16 1ZM3 13V7.98924C3.11577 5.11381 5.1386 3 8 3H16C18.8671 3 20.8776 5.12583 21 8V11C21 17 10.344 14.8052 7.24254 14.0299C6.62138 13.8746 6 14.3597 6 15C6 16.0843 6.27531 17.0111 6.8592 17.7553C8.53489 19.8912 11.8962 19.9238 14.5184 19.9492C14.8582 19.9525 15.1857 19.9557 15.4954 19.9633C15.7768 19.9703 16 20.1994 16 20.48C16 20.7672 15.7672 21 15.48 21H10C5.65362 21 3 17.016 3 13Z" />
+</symbol>
+<symbol id="bluesky" width="28" height="28" viewBox="0 0 1024 1024">
+<path d="M351.121 315.106C416.241 363.994 486.281 463.123 512 516.315C537.719 463.123 607.759 363.994 672.879 315.106C719.866 279.83 796 252.536 796 339.388C796 356.734 786.055 485.101 780.222 505.943C759.947 578.396 686.067 596.876 620.347 585.691C735.222 605.242 764.444 670.002 701.333 734.762C581.473 857.754 529.061 703.903 515.631 664.481C513.169 657.254 512.017 653.873 512 656.748C511.983 653.873 510.831 657.254 508.369 664.481C494.939 703.903 442.527 857.754 322.667 734.762C259.556 670.002 288.778 605.242 403.653 585.691C337.933 596.876 264.053 578.396 243.778 505.943C237.945 485.101 228 356.734 228 339.388C228 252.536 304.134 279.83 351.121 315.106Z" />
+</symbol>
+</svg>
+<script>
+			async function detectAdBlock() {
+				let adBlockEnabled = false
+				const googleAdUrl = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+				try {
+					await fetch(new Request(googleAdUrl)).catch(_ => adBlockEnabled = true)
+				} catch (e) {
+					adBlockEnabled = true
+				} finally {
+					console.log(`AdBlock Enabled: ${adBlockEnabled}`)
+				}
+			}
+			detectAdBlock()
+		</script>
+</body>
+</html>

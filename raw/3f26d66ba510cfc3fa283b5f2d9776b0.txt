@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<!-- robots noindex -->
+<!-- /robots noindex -->
+<link rel="canonical" href="https://japannews.yomiuri.co.jp/society/general-news/20240523-187630/" />
+<!-- wp_head -->
+<title>Wings of 2 JAL Planes Collide at Tokyo’s Haneda Airport; No Injuries Reported But Flight from Haneda to New Chitose Cancelled &#045; The Japan News</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://japannews.yomiuri.co.jp/wp-includes/css/dist/block-library/style.min.css?ver=6.4.4' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='piano-purge-request-css' href='https://japannews.yomiuri.co.jp/wp-content/plugins/piano-purge-request/assets/css/piano-purge-request.min.css?ver=1.0.0' type='text/css' media='all' />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js?ver=6.4.4" id="jquery-js-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://japannews.yomiuri.co.jp/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://japannews.yomiuri.co.jp/?p=187630' />
+<link rel="alternate" type="application/json+oembed" href="https://japannews.yomiuri.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjapannews.yomiuri.co.jp%2Fsociety%2Fgeneral-news%2F20240523-187630%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://japannews.yomiuri.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjapannews.yomiuri.co.jp%2Fsociety%2Fgeneral-news%2F20240523-187630%2F&#038;format=xml" />
+<meta name="cXenseParse:pageclass" content="article" />
+<meta name="cXenseParse:yoj-articletype" content="free" />
+<meta property="article:published_time" content="2024-05-23T11:40:00+09:00" />
+<meta property="article:modified_time" content="2024-05-23T14:33:00+09:00" />
+<meta name="cXenseParse:yoj-category" content="general-news" />
+<script type="text/javascript">
+  var reg = new RegExp("^[/]privacypolicy[/]?$");
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+//  cX.callQueue.push(["invoke", function () {
+//    const co = document.cookie ?? "";
+//    if (reg.exec(location.pathname) === null && !cX.hasConsent("pv")) {
+//      displayConsentBox();
+//    }
+//  }]);
+  cX.callQueue.push(["requireConsent"]);
+</script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+  e.src='https://cdn.cxense.com/cx.cce.js';
+  e.onload = function() {window.__cXLoaded = true}
+  t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.6 - https://schema.press -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/japannews.yomiuri.co.jp\/society\/general-news\/20240523-187630\/"},"url":"https:\/\/japannews.yomiuri.co.jp\/society\/general-news\/20240523-187630\/","headline":" Wings of 2 JAL Planes Collide at Tokyo’s Haneda Airport; No Injuries Reported But Flight from Haneda to New...","datePublished":"2024-05-23T11:40:14+09:00","dateModified":"2024-05-23T11:40:14+09:00","publisher":{"@type":"Organization","@id":"https:\/\/japannews.yomiuri.co.jp\/#organization","name":"The Japan News","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/japannews.yomiuri.co.jp\/wp-content\/uploads\/2024\/05\/20240424G0TG0T09990013.jpg","width":1200,"height":900},"articleSection":"General News","keywords":"(1) 無料記事","description":"<p>The left wingtip of JAL Flight 503, with 328 passengers and crew on board, collided with the right wingtip of another JAL plane at Terminal 1 of Tokyo’s Haneda Airport at around 7:30 a.m. Thursday, according to the Japan Airlines Co. No injuries were reported, but Flight 503, which was departing for New Chitose Airport, was cancelled.<\/p>\r\n","author":{"@type":"Person","name":"角谷","url":"https:\/\/japannews.yomiuri.co.jp\/author\/eiji_kadoya\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/ee96c0c1fcaca2c29c3bc413a7fa326b?s=96&d=mm&r=g","height":96,"width":96}}}</script>
+
+<link rel="icon" href="https://japannews.yomiuri.co.jp/wp-content/uploads/JN_icon_mark2_w400_white-250x250.png" sizes="32x32" />
+<link rel="icon" href="https://japannews.yomiuri.co.jp/wp-content/uploads/JN_icon_mark2_w400_white-250x250.png" sizes="192x192" />
+<!-- /wp_head -->
+<!-- OGP -->
+<meta property="og:url" content="https://japannews.yomiuri.co.jp/society/general-news/20240523-187630/">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/20240424G0TG0T09990013.jpg" />
+<meta property="og:title" content="Wings of 2 JAL Planes Collide at Tokyo’s Haneda Airport; No Injuries Reported But Flight from Haneda to New Chitose Cancelled">
+<meta property="og:description" content="<p>The left wingtip of JAL Flight 503, with 328 passengers and crew on board, collided with the right wingtip of another JAL plane at Terminal 1 of Tokyo’s Haneda Airport at around 7:30 a.m. Thursday, according to the Japan Airlines Co. No injuries were reported, but Flight 503, which was departing for New Chitose Airport, was cancelled.</p>
+">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@The_Japan_News" />
+<!-- /OGP -->
+<link rel="stylesheet" id="style-css"  href="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/fontawesome/css/all.css?11-17-1" type="text/css" media="all" />
+<link rel="stylesheet" href="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/style.css?0425"/>
+<link rel="stylesheet" href="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/css/articlelist.css?0415"/>
+<link rel="stylesheet" href="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/css/page.css?1228"/>
+<link rel="stylesheet" href="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/css/swo.css?0501"/>
+<link rel="stylesheet" href="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/css/sub.css?1222-2"/>
+<script src="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/js/jscript.js?1010-1"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script src="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/js/google_ad_script.js?0314"></script>
+<script src="https://japannews.yomiuri.co.jp/wp-content/themes/thejapannews_ver1/slider/slick.min.js?0614"></script>
+<!-- Google Tag Manager・Search Console -->
+<meta name="google-site-verification" content="Sm7HMuYjPB_Lq-4PTVSix7gBeuEWVCvUYyFsW1jaD6k" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WXPLD3F');</script>
+<!-- /Google Tag Manager・Search Console -->
+</head>
+<body id="body" class="post-template-default single single-post postid-187630 single-format-standard">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXPLD3F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- /Google Tag Manager (noscript) -->
+<!-- AD BLOC message -->
+<div id="tpModal" class="modal" style="display: none;">
+<div class="modal-content">
+<p>Please disable the ad blocking feature.</p>
+<p>To use this site, please disable the ad blocking feature and reload the page.</p>
+</div>
+</div><!-- /AD BLOC message -->
+<!-- USES COOKIES message -->
+<div id="consentModal" class="modal" style="display: none;">
+<div class="modal-content">
+<div id="consentMessage">
+<p>This website uses cookies to collect information about your visit for purposes such as showing you personalized ads and content, and analyzing our website traffic. By clicking “Accept all,” you will allow the use of these cookies.</p>
+<button onClick="cX.callQueue.push(['setConsent', { pv: true, segment: true, recs: true }]);document.getElementById('consentModal').style.display='none';document.cookie='_pc_gdprchk=1;Secure;Max-Age=31536000'">Accept all</button>
+<button onClick="cX.callQueue.push(['setConsent', { pv: false, segment: false, recs: false }]);document.getElementById('consentMessage').style.display='none';document.getElementById('rejectMessage').style.display='block';document.cookie='_pc_gdprchk=0'">Reject all</button>
+</div>
+<div id="rejectMessage" style="display: none;">
+<p>Users accessing this site from EEA countries and UK are unable to view this site without your consent. We apologize for any inconvenience caused.</p>
+</div>
+</div>
+</div><!-- /USES COOKIES message -->
+<!-- AD -->
+<div class="ad_background_1" style="margin-bottom:0!important;">
+<div class="p-ads-billboard">
+<div id='ad_gam_billboard1'><script>googletag.cmd.push(function(){ googletag.display('ad_gam_billboard1'); });</script></div>
+</div>
+</div>
+<!-- /AD -->
+<header>
+<div id="global_nav" class="animate_pc">
+<div class="global_nav_in">
+<ul class="menu-search_wrap">
+<li class="menu"><a id="menu_button_L" href="#"><i class="fas fa-bars"></i></a></li>
+<li class="search_sp"><a id="sp-search-open" href="#"><i class="fas fa-search"></i></a></li>
+<li class="search_pc">
+<form class="pc_search_form" role="search" method="get" action="https://japannews.yomiuri.co.jp/">
+<input class="pc_search_box" name="s" type="text" placeholder="Search"/>
+<button class="pc_search_icon" type="submit"></button>
+</form>
+</li>
+</ul>
+<ul class="logo_header">
+<li><a href="https://japannews.yomiuri.co.jp"><figure><img src="https://japannews.yomiuri.co.jp/wp-content/uploads/logo-b01.svg" alt="The Japan News by The Yomiuri Shimbun"></figure></a></li>
+</ul>
+<ul class="login-subsc_wrap">
+<li class="yol-link login-subsc_pc"><a href="https://www.yomiuri.co.jp/" target="_blank">Japanese</a></li>
+<li class="login-subsc_sp"><a id="menu_button_R" class="login_button_sp" href="#"><i class="fas fa-user"></i></a><a id="menu_button_R_loggedin" class="login_button_sp piano-loggedin" href="https://japannews.yomiuri.co.jp/myaccount" style="display:none;"><i class="fas fa-user-check"></i></a></li>
+<li class="login-subsc_pc piano-login-register-container outside" style="display:none;"><a class="login_button" href="javascript:void(0);"><i class="fas fa-user"></i></a></li>
+<li class="login-subsc_pc piano-login-register-container outside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SUBSCRIBE<i class="fas fa-tablet-alt"></i></a></li>
+<li class="login-subsc_pc piano-login-register-container inside" style="display:none;"><a class="login_button" href="javascript:void(0);"><i class="fas fa-user"></i></a></li>
+<li class="login-subsc_pc piano-login-register-container inside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SIGN UP<i class="fas fa-tablet-alt"></i></a></li>
+<li class="login-subsc_pc piano-loggedin-container outside" style="display:none;"><a class="myaccount_button" href="https://japannews.yomiuri.co.jp/myaccount"><i class="fas fa-user-check"></i></a></li>
+<li class="login-subsc_pc piano-loggedin-container outside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SUBSCRIBE<i class="fas fa-tablet-alt"></i></a></li>
+<li class="login-subsc_pc piano-loggedin-container inside" style="display:none;"><a class="myaccount_button" href="https://japannews.yomiuri.co.jp/myaccount"><i class="fas fa-user-check"></i></a></li>
+<li class="login-subsc_pc piano-loggedin-container inside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SIGN UP<i class="fas fa-tablet-alt"></i></a></li>
+</ul>
+</div>
+</div><!-- /drawer_L -->
+<div class="drawer_L">
+<ul>
+<li><a href="https://japannews.yomiuri.co.jp"><i class="fas fa-home"></i>Home Page</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/latestnews/">Latest News</a></li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/politics/">Politics</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/politics/politics-government/">Politics &amp; Government</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/politics/defense-security/">Defense &amp; Security</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/politics/election/">Elections</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/politics/political-series/">Political Series</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/politics/g7-summit/">G7 Summit</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/society/">Society</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/society/general-news/">General News</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/society/crime-courts/">Crime &amp; Courts</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/society/imperial-family/">Imperial Family</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/society/obituaries/">Obituaries</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/society/social-series/">Social Series</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/society/coronavirus/">Coronavirus</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/society/noto-peninsula-earthquake/">Noto Peninsula Earthquake</a></li>	  
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/business/">Business</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/business/economy/">Economy</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/business/companies/">Companies</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/business/market/">Markets</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/business/business-series/">Business Series</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/business/yies/">YIES</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/world/">World</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/world/asia-pacific/">Asia - Pacific</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/world/us-canada/">US &amp; Canada</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/world/europe/">Europe</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/world/russia/">Russia</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/world/wider-world/">Wider World</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/world/global/">Global</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/news-services/">News Services</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/washingtonpost/">Washington Post</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/news-services/ap/">Associated Press</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/news-services/reuters/">Reuters</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/news-services/afp-jiji/">AFP - Jiji</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/editorial/">Editorial &amp; Columns</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/">Yomiuri Editorial</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/editorial/political-pulse/">Political Pulse</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/editorial/insights-world/">Insights into the World</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/editorial/cultural-viewpoints/">Cultural Viewpoints</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/editorial/outside-contributors/">Outside Contributors</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/sports/">Sports</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/baseball/">Baseball</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/soccer/">Soccer</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/basketball/">Basketball</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/rugby/">Rugby</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/golf/">Golf</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/tennis/">Tennis</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/sumo/">Sumo</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/figure-skating/">Figure Skating</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/other-sports/">Other Sports</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/soccer-worldcup/">Soccer World Cup</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/sports/olympics-paralympics/">Olympics &amp; Paralympics</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/science-nature/">Science &amp; Nature</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/science-nature/science/">Science</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/science-nature/technology/">Technology</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/science-nature/environment/">Environment</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/science-nature/climate-change/">Climate Change</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/culture/">Culture</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/manga-anime/">Manga &amp; Anime</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/film-tv/">Film &amp; TV</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/kabuki-noh-rakugo/">Kabuki &#047; Noh &#047; Rakugo</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/performing-arts/">Performing Arts</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/art/">Art</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/fashion/">Fashion</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/music/">Music</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/books-literature/">Books &amp; Literature</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/culture/museum/">Museums</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/original/">JN Specialties</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/original/perspectives/">Perspectives</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/original/donald-keenes-legacy/">Donald Keene’s Legacy</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/original/ramen-japan/">Ramen of Japan</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/original/delicious-japan/">Delicious Beautiful Spectacular JAPAN</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/original/decommissioning-fukushima/">Decommissioning Fukushima</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/original/weekly/">Weekly Edition</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/original/vantage-point/">Vantage Point</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/videos/">Video</a></li>
+  </ul>
+</li>
+<li id="drawer_child"><a href="https://japannews.yomiuri.co.jp/features/">Features</a><span>.</span>
+  <ul>
+  <li><a href="https://japannews.yomiuri.co.jp/features/delicious/">Delicious</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/features/japan-focus/">Japan in Focus</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/features/travel-spots/">Travel Spots</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/features/troubleshooter/">Troubleshooter</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/features/neko-pitcher/">Neko Pitcher</a></li>
+  <li><a href="https://japannews.yomiuri.co.jp/features/cartoon/">Political Cartoons</a></li>
+  </ul>
+  </li>
+  </ul>
+</div><!-- drawer_L -->
+<!-- modal Search -->	
+<div class="modal sp_search">
+<div id="sp-search-close1" class="modal_background"></div>
+<div class="sp_search_wrap">
+<i id="sp-search-close3" class="fas fa-times"></i>
+<form class="sp_search_form" role="search" method="get" action="https://japannews.yomiuri.co.jp/">
+<input class="sp_search_box" name="s" type="text" placeholder="Search"/>
+<button class="sp_search_icon" type="submit"></button>
+</form>
+</div>
+</div><!-- /modal Search -->
+<div class="drawer_R">
+<ul class="subsc_menu">
+<li class="piano-login-register-container outside" style="display:none;"><a class="login_button" href="javascript:void(0);">LOGIN<i class="fas fa-user"></i></a></li>
+<li class="piano-login-register-container outside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SUBSCRIBE<i class="fas fa-tablet-alt"></i></a></li>
+<li class="piano-login-register-container inside" style="display:none;"><a class="login_button" href="javascript:void(0);">LOGIN<i class="fas fa-user"></i></a></li>
+<li class="piano-login-register-container inside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SIGN UP<i class="fas fa-tablet-alt"></i></a></li>
+<li class="piano-loggedin-container outside" style="display:none;"><a class="myaccount_button" href="https://japannews.yomiuri.co.jp/myaccount/">MY ACCOUNT<i class="fas fa-user"></i></a></li>
+<li class="piano-loggedin-container outside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SUBSCRIBE<i class="fas fa-tablet-alt"></i></a></li>
+<li class="piano-loggedin-container inside" style="display:none;"><a class="myaccount_button" href="https://japannews.yomiuri.co.jp/myaccount/">MY ACCOUNT<i class="fas fa-user"></i></a></li>
+<li class="piano-loggedin-container inside" style="display:none;"><a class="subsc_button" href="javascript:void(0);">SIGN UP<i class="fas fa-tablet-alt"></i></a></li>
+</ul>
+</div><!-- /drawer_R -->
+<div class="header_tuning"></div>
+</header>
+<div class="global_menu">
+<ul>
+<li><a href="https://japannews.yomiuri.co.jp/latestnews/">Latest News</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/politics/">Politics</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/politics/politics-government/">Politics &amp; Government</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/politics/defense-security/">Defense &amp; Security</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/politics/election/">Elections</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/politics/political-series/">Political Series</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/politics/g7-summit/">G7 Summit</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/society/">Society</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/society/general-news/">General News</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/society/crime-courts/">Crime &amp; Courts</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/society/imperial-family/">Imperial Family</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/society/obituaries/">Obituaries</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/society/social-series/">Social Series</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/society/coronavirus/">Coronavirus</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/society/noto-peninsula-earthquake/">Noto Peninsula Earthquake</a></li>	
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/business/">Business</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/business/economy/">Economy</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/business/companies/">Companies</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/business/market/">Markets</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/business/business-series/">Business Series</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/business/yies/">YIES</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/world/">World</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/world/asia-pacific/">Asia - Pacific</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/world/us-canada/">US &amp; Canada</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/world/europe/">Europe</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/world/russia/">Russia</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/world/wider-world/">Wider World</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/world/global/">Global</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/news-services/">News Services</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/washingtonpost/">Washington Post</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/news-services/ap/">Associated Press</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/news-services/reuters/">Reuters</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/news-services/afp-jiji/">AFP - Jiji</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/editorial/">Editorial &amp; Columns</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/">Yomiuri Editorial</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/editorial/political-pulse/">Political Pulse</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/editorial/insights-world/">Insights into the World</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/editorial/cultural-viewpoints/">Cultural Viewpoints</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/editorial/outside-contributors/">Outside Contributors</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/">Sports</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/sports/baseball/">Baseball</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/soccer/">Soccer</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/basketball/">Basketball</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/rugby/">Rugby</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/golf/">Golf</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/tennis/">Tennis</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/sumo/">Sumo</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/figure-skating/">Figure Skating</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/other-sports/">Other Sports</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/soccer-worldcup/">Soccer World Cup</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/sports/olympics-paralympics/">Olympics &amp; Paralympics</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/science-nature/">Science &amp; Nature</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/science-nature/science/">Science</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/science-nature/technology/">Technology</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/science-nature/environment/">Environment</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/science-nature/climate-change/">Climate Change</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/">Culture</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/culture/manga-anime/">Manga &amp; Anime</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/film-tv/">Film &amp; TV</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/kabuki-noh-rakugo/">Kabuki &#047; Noh &#047; Rakugo</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/performing-arts/">Performing Arts</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/art/">Art</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/fashion/">Fashion</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/music/">Music</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/books-literature/">Books &amp; Literature</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/culture/museum/">Museums</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/original/">JN Specialties</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/original/perspectives/">Perspectives</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/original/donald-keenes-legacy/">Donald Keene’s Legacy</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/original/ramen-japan/">Ramen of Japan</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/original/delicious-japan/">Delicious Beautiful Spectacular JAPAN</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/original/decommissioning-fukushima/">Decommissioning Fukushima</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/original/weekly/">Weekly Edition</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/original/vantage-point/">Vantage Point</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/videos/">Video</a></li>
+</ul>
+</li>
+<li><a href="https://japannews.yomiuri.co.jp/features/">Features</a>
+<ul id="sub-menu">
+<li><a href="https://japannews.yomiuri.co.jp/features/delicious/">Delicious</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/features/japan-focus/">Japan in Focus</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/features/travel-spots/">Travel Spots</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/features/troubleshooter/">Troubleshooter</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/features/neko-pitcher/">Neko Pitcher</a></li>
+<li><a href="https://japannews.yomiuri.co.jp/features/cartoon/">Political Cartoons</a></li>
+</ul>
+</li>
+</ul>
+</div><!-- /global_menu -->
+<!-- /NewsTicker -->
+<!-- Breadcrumb -->
+    <div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+        <!-- Breadcrumb NavXT 7.3.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to The Japan News." href="https://japannews.yomiuri.co.jp" class="home" ><span property="name">Home</span></a><meta property="position" content="1"></span><span property="itemListElement" typeof="ListItem"><span class="hierarchy">&gt;</span><a property="item" typeof="WebPage" title="Go to the Society カテゴリー archives." href="https://japannews.yomiuri.co.jp/society/" class="taxonomy category" ><span property="name">Society</span></a><meta property="position" content="2"></span><span property="itemListElement" typeof="ListItem"><span class="hierarchy">&gt;</span><a property="item" typeof="WebPage" title="Go to the General News カテゴリー archives." href="https://japannews.yomiuri.co.jp/society/general-news/" class="taxonomy category" ><span property="name">General News</span></a><meta property="position" content="3"></span><span></span>    </div>
+<!-- /Breadcrumb -->
+<div id="container">
+<main class="clearfix"><!-- ranking -->
+<!-- category -->
+<!-- SingleContents -->
+<div class="single_page single_society single_general-news page_w1100 clearfix">
+<div class="bloc_1">
+<ul>
+<li><!-- ▼category -->
+<a href="https://japannews.yomiuri.co.jp/society/general-news/"><span class="design_1">
+General News<i class="fas fa-angle-double-right"></i>
+</span></a></li>
+</ul>
+<h1>Wings of 2 JAL Planes Collide at Tokyo’s Haneda Airport; No Injuries Reported But Flight from Haneda to New Chitose Cancelled</h1>
+<!-- sns_top -->
+<ul class="sns-button">
+<li class="reddit-share"><a class="btn-reddit" href="https://www.reddit.com/submit?url=https://japannews.yomiuri.co.jp/society/general-news/20240523-187630/&title=Wings of 2 JAL Planes Collide at Tokyo’s Haneda Airport; No Injuries Reported But Flight from Haneda to New Chitose Cancelled" rel="nofollow" target="_blank"  onClick="window.open(encodeURI(decodeURI(this.href)), 'sharewindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;">Post</a></li>
+<li class="fb-share"><a class="btn-facebook" href="http://www.facebook.com/share.php?u=https://japannews.yomiuri.co.jp/society/general-news/20240523-187630/" rel="nofollow" target="_blank" onClick="window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;">Share</a></li>
+<li class="twitter-share"><a class="btn-twitter" href="http://twitter.com/share?url=https://japannews.yomiuri.co.jp/society/general-news/20240523-187630/&text=Wings of 2 JAL Planes Collide at Tokyo’s Haneda Airport; No Injuries Reported But Flight from Haneda to New Chitose Cancelled" rel="nofollow" target="_blank" >Post</a></li>
+</ul><!-- /sns -->
+</div><!-- -----------------/bloc_1------------------------- -->
+<div class="bloc_2">
+<!-- cxenseparse_start -->
+<div id=p-article-block data-state="">
+<figure class="horizontal"><img decoding="async" src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/20240424G0TG0T09990013.jpg" alt="" /><figcaption><span>Yomiuri Shimbun file photo</span><br>Haneda Airport</figcaption></figure>
+<p class="byline"><i class="fas fa-pen-nib"></i>The Yomiuri Shimbun<br></p>
+<p class="postdate"><i class="far fa-clock"></i>11:40 JST,&ensp;May 23, 2024</p>
+<p>The left wingtip of JAL Flight 503, with 328 passengers and crew on board, collided with the right wingtip of another JAL plane at Terminal 1 of Tokyo’s Haneda Airport at around 7:30 a.m. Thursday, according to the Japan Airlines Co. No injuries were reported, but Flight 503, which was departing for New Chitose Airport, was cancelled.</p>
+<p>Flight 503 had begun backing out of its parking spot at Terminal 1 when its wing struck that of a plane which was moving forward into the adjacent parking spot.</p>
+<p>Both aircraft are Airbus A350-900s. The Land, Infrastructure, Transport and Tourism Ministry and Japan Airlines are investigating the details of the incident.</p>
+</div>
+<!-- cxenseparse_end -->
+<div id="article-inline-offer"></div><!-- Google Newsfeed -->
+<div class="goolenewsfeed">
+<a href="https://news.google.com/publications/CAAiEI3qOMot25YaShsYNlxLP9sqFAgKIhCN6jjKLduWGkobGDZcSz_b?hl=en-US&gl=US&ceid=US%3Aen" rel="nofollow" target="_blank"><span>Add TheJapanNews to your Google News feed.</span>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2023/09/googlenews_logo.png" alt=""></a>
+</div>
+<!-- /Google Newsfeed -->
+<!-- Child Latest -->
+<div class="latestlist related">
+<a href="https://japannews.yomiuri.co.jp/society/general-news/"><h2><i class="fas fa-list-alt"></i>General News Latest Articles<i class="fas fa-angle-double-right"></i></h2></a>
+<div>
+<ul>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240523-187723/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/20240523-OYT1I50115-1-250x190.jpg" alt="">
+</figure>
+<h3>Bodies of Woman and 3 Children Found After House Fire in Tokyo; 1...</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240522-187571/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/fukuoka-photo-250x131.jpg" alt="">
+</figure>
+<h3>Fukuoka Air Traffic Controller Fails to Ask JAL Pilots to Repeat ...</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240522-187576/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/20240522-OYT1I50082-1-250x166.jpg" alt="">
+</figure>
+<h3>Colorful Yukata Fabrics Flutter in Tokyo’s Edogawa Ward</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240522-187534/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/dog-teritamas-250x167.jpg" alt="">
+</figure>
+<h3>Shiba Inu in Western Japan Helps Save Man from Gutter; Hyogo Pref...</h3></a></li>
+</ul>
+</div>
+</div>
+<!-- /Child Latest -->
+<!-- Latest Articles -->
+<div class="latestlist related">
+<a href="https://japannews.yomiuri.co.jp/latestnews/"><h2><i class="fas fa-list-alt"></i>Latest Articles<i class="fas fa-angle-double-right"></i></h2></a>
+<div>
+<ul>
+<li>
+<a href="https://japannews.yomiuri.co.jp/business/economy/20240523-187754/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2023/03/kousei-250x167.jpg" alt="">
+</figure>
+<h3>Japan Real Wages Drop at Fastest Pace in 9 Years in FY 2023</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/original/weekly/20240523-187752/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/weekly_2024_0523-e1716450570846-250x147.jpg" alt="">
+</figure>
+<h3>The Japan News / Weekly Edition (5/24-5/30)</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/crime-courts/20240523-187731/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/Hakamata-250x175.jpg" alt="">
+</figure>
+<h3>Death Penalty Sought Again for Hakamata over 1966 Murder Case</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/science-nature/science/20240523-187698/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/Orangutan-250x177.jpg" alt="">
+</figure>
+<h3>Orangutan Found Administering Medicinal Plant to Treat Wounds</h3></a></li>
+</ul>
+</div>
+</div><!-- /Latest Articles -->
+<!-- Popular Articles -->
+<div class="popularlist related">
+<h2><i class="fas fa-list-alt"></i>Popular Articles</h2>
+<div>
+<ul>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240523-187630/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/20240424G0TG0T09990013-250x188.jpg" alt="">
+</figure>
+<h3>Wings of 2 JAL Planes Collide at Tokyo’s Haneda Airport; No Injur...</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/03/Kyoto-DC-250x167.jpg" alt="">
+</figure>
+<h3>Tokyo District Court Rules AI Cannot Be Issued Patents; Law Recog...</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/world/global/20240519-186901/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/biden-250x155.jpg" alt="">
+</figure>
+<h3>G7 Goal of Nuclear-Free World Increasingly Challenged</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240521-187331/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/fuji-0521-250x167.jpg" alt="">
+</figure>
+<h3>Curtain Closes on Viral Mt. Fuji View; Displeased Locals, Safety ...</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/news-services/reuters/20240520-187030/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/2023-09-09T133826Z_1246448614_RC2053ABU9N9_RTRMADP_3_G20-SUMMIT-250x157.jpg" alt="">
+</figure>
+<h3>Saudi Crown Prince Postpones Japan Trip Citing King's Health, Tok...</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240522-187571/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/fukuoka-photo-250x131.jpg" alt="">
+</figure>
+<h3>Fukuoka Air Traffic Controller Fails to Ask JAL Pilots to Repeat ...</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/business/economy/20240520-187197/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2023/04/20230412-OYT1I50121-1-250x161.jpg" alt="">
+</figure>
+<h3>Major Japanese Firms Agree to Raise Pay by 5.58%</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240520-187185/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/scanner-fuji-250x167.jpg" alt="">
+</figure>
+<h3>Mount Fuji Prefectures Differ in Approach to Overtourism; Attenti...</h3></a></li>
+</ul>
+</div>
+</div><!-- /Popular Articles -->
+</div><!-- ----------------/bloc_2------------------ -->
+<div class="bloc_3">
+<!-- ■AD■ -->
+<div class="ad_background_2 clearfix">
+<div class="p-ads-rec">
+<div id='ad_gam_rec1'><script>googletag.cmd.push(function() { googletag.display('ad_gam_rec1'); });</script></div>
+</div>
+</div><!-- /AD -->
+<div class="ranking_1 ranking">
+<h2>"Society" POPULAR ARTICLE</h2>
+<ul>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/03/Kyoto-DC-250x167.jpg" alt="">
+</figure><h3>Tokyo District Court Rules AI Cannot Be Issued Patents; Law Recognizes Only ‘Natural Persons’ as Inventors</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240508-184786/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/tyoujyuku-2-250x167.jpg" alt="">
+</figure><h3>Small Animal That Appears to be Mouse Found in Chojuku Bread Products; Some Brands on Same Production Line to be Recalled Voluntarily</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240514-186028/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/Fukunaga1s.jpg-250x167.jpg" alt="">
+</figure><h3>Japanese Entrepreneur in U.S. Stresses Need to Study Abroad; Govt Working to Expand Scholarships to Support Students</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240521-187331/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/fuji-0521-250x167.jpg" alt="">
+</figure><h3>Curtain Closes on Viral Mt. Fuji View; Displeased Locals, Safety Concerns Cited as Reasons to Take Action</h3></a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/society/general-news/20240522-187571/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/fukuoka-photo-250x131.jpg" alt="">
+</figure><h3>Fukuoka Air Traffic Controller Fails to Ask JAL Pilots to Repeat Instructions; Miscommunication Leads to Dangerous Situation at Airport</h3></a></li>
+</ul>
+</div><!-- /ranking_1 -->
+<div class="ranking_2 ranking">
+<p>JN ACCESS RANKING</p>
+<ul>
+<li>
+<a href="https://japannews.yomiuri.co.jp/business/economy/20240427-182769/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/04/BOJ-250x168.jpg" alt="">
+</figure>Weakening Yen Adds Complexity to BOJ’s Rate Hike Decisions; Rising Commodity Prices may Impact ‘Virtuous Cycle’ Efforts</a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/business/economy/20240429-183082/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/04/exports-250x188.jpg" alt="">
+</figure>Japanese Seafood Exports to China Sink 57％ in FY23; U.S. Becomes Largest Seafood Export Destination</a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/business/economy/20240506-184315/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/2024-02-22T050858Z_2046865661_RC2F76AED5ZF_RTRMADP_3_JAPAN-STOCKS-250x170.jpg" alt="">
+</figure>Half of New NISA Investments Went to Japanese Stocks</a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/business/economy/20240506-184451/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/GDP-1-250x175.jpg" alt="">
+</figure>IMF Projects Japan&#8217;s GDP to Fall to World&#8217;s 5th After India in 2025; Japan’s Economy Continues Decline</a></li>
+<li>
+<a href="https://japannews.yomiuri.co.jp/business/economy/20240505-184220/"><figure>
+<img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2024/05/ASEAN-250x167.jpg" alt="">
+</figure>ASEAN Plus 3 Share Concerns About Excessive Exchange Rate Fluctuation; Seeking Stability in Exchange Rate</a></li>
+</ul>
+</div><!-- /ranking_2 -->
+<!-- ■AD■ -->
+<div class="ad_background_2 clear">
+<div class="p-ads-tile">
+<div id='ad_gam_tile1'><script>googletag.cmd.push(function() { googletag.display('ad_gam_tile1'); });</script></div>
+</div>
+<div class="p-ads-tile">
+<div id='ad_gam_tile2'><script>googletag.cmd.push(function() { googletag.display('ad_gam_tile2'); });</script></div>
+</div>
+<div class="p-ads-tile">
+<div id='ad_gam_tile3'><script>googletag.cmd.push(function() { googletag.display('ad_gam_tile3'); });</script></div>
+</div>
+<div class="p-ads-tile">
+<div id='ad_gam_tile4'><script>googletag.cmd.push(function() { googletag.display('ad_gam_tile4'); });</script></div>
+</div>
+</div>
+<div class="ad_background_2 ad_custom_1 clear">
+<div class="p-ads-rec">
+<div id='ad_gam_rec4'><script>googletag.cmd.push(function() { googletag.display('ad_gam_rec4'); });</script></div>
+</div>
+</div><!-- /AD -->
+</div><!-- ------------------/bloc_3------------------- -->
+</div><!-- /single_page -->
+</main>
+<footer>
+<div class="footer_top">
+<div class="footer_weekly"><a href="https://japannews.yomiuri.co.jp/original/weekly/">
+<ul>
+<li><img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2022/07/weekly_2022_0707-250x386.jpg" alt=""></li>
+<li><img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2022/05/weekly_2022_0526-250x387.jpg" alt=""></li>
+<li><img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2022/05/weekly_2022_0512-250x378.jpg" alt=""></li>
+<li><img src="https://japannews.yomiuri.co.jp/wp-content/uploads/2022/06/weekly_2022_0610-250x386.jpg" alt=""></li>
+</ul>
+<div>
+<p>The Japan News / Weekly Edition</p>
+<p>Our weekly ePaper presents the most noteworthy recent topics in an exciting, readable fomat.</p>
+<p class="more_4">Read more</p>
+</div></a>
+</div>
+</div><!-- /footer_top -->
+<div class="footer_bottom">
+<ul>
+<li>
+<ol><li class="logo"><a href="https://japannews.yomiuri.co.jp"><img src="https://japannews.yomiuri.co.jp/wp-content/uploads/logo-w01.svg" alt="The Japan News by The Yomiuri Shimbun" ></a></li>
+<li class="facebook"><a href="https://www.facebook.com/TheJapanNews" rel="nofollow" target="_blank"><i class="fab fa-facebook"></i></a></li>
+<li class="twitter"><a href="https://twitter.com/The_Japan_News" rel="nofollow" target="_blank"><img class="twitter-eng" src="https://japannews.yomiuri.co.jp/wp-content/uploads/logo-white.png" alt="X_en"><p>eng</p></a></li>
+<li class="twitter"><a href="https://twitter.com/JN_Japanese" rel="nofollow" target="_blank"><img class="twitter-jp" src="https://japannews.yomiuri.co.jp/wp-content/uploads/logo-white.png" alt="X_jp"><p>jp</p></a></li>
+<li class="insta"><a href="https://www.instagram.com/thejapannews_official" rel="nofollow" target="_blank"><i class="fab fa-instagram"></i></a></li>
+	
+<li class="gnews"><a href="https://news.google.com/publications/CAAiEI3qOMot25YaShsYNlxLP9sqFAgKIhCN6jjKLduWGkobGDZcSz_b?hl=en-US&gl=US&ceid=US%3Aen" rel="nofollow" target="_blank"><span><i class="fab fa-google"></i><i class="fas fa-stream"></i></span></a></li>
+	
+<li class="adv"><a href="https://japannews.yomiuri.co.jp/subscription-Newspaper/"><i class="far fa-file-alt ts_100"></i> Subscription of Newspaper</a></li></ol>
+</li>
+<li>
+<dl>
+<dt></dt>
+<dd><a href="https://japannews.yomiuri.co.jp/politics/">Politics</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/society/">Society</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/business/">Business</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/world/">World</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/news-services/">News Services</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/editorial/">Editorial &amp; Columns</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/sports/">Sports</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/science-nature/">Science &amp; Nature</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/culture/">Culture</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/original/">JN Specialties</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/features/">Features</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/videos/">Video</a></dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt></dt>
+<dd><a href="https://japannews.yomiuri.co.jp/aboutus/">About us</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/membership/">Membership Terms &amp; Conditions</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/website-policies/">Website Policies</a></dd>
+<dd><a href="https://japannews.yomiuri.co.jp/faq/">FAQ</a></dd>
+<dd><a href="https://adv.yomiuri.co.jp/digital/files/the-japan-news.pdf"rel="nofollow noopener noreferrer" target="_blank">Advertise<i class="fas fa-external-link-alt"></i></a></dd>
+</dl>
+</li>
+</ul>
+</div><!-- /footer_bottom -->
+<p class="copyright">&#169; 2024 The Japan News - by The Yomiuri Shimbun</p>
+
+</footer>
+</div><!-- /container -->
+<div class="page_top"><a href="#"><i class="fa fa-angle-up" aria-hidden="true"></i></a></div>
+<!-- SP search Modal -->
+<script type="text/javascript">
+jQuery(function($){
+    $('#sp-search-open,#sp-search-open2').on('click',function(){
+        $('.sp_search').fadeIn();
+        return false;
+    });
+    $('#sp-search-close1,#sp-search-close2,#sp-search-close3').on('click',function(){
+        $('.sp_search').fadeOut();
+        return false;
+    });
+});
+</script>
+<!-- PAGE_TOP -->
+<script type="text/javascript">
+jQuery(function($) {
+  var appear = false;
+  var pagetop = $('.page_top');
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 150) {
+      if (appear == false) {
+        appear = true;
+        pagetop.stop().animate({
+          'bottom': '0px'
+        }, 400);
+      }
+    } else {
+      if (appear) {
+        appear = false;
+        pagetop.stop().animate({
+          'bottom': '-60px'
+        }, 400);
+      }
+    }
+  });
+  pagetop.click(function () {
+    $('body, html').animate({ scrollTop: 0 }, 500);
+    return false;
+  });
+});
+</script>
+<!-- wp_footer -->
+
+<script>
+function displayModal() { var modal=document.getElementById("tpModal");
+modal.style.display="block";
+}
+function displayConsentBox() { var modal=document.getElementById("consentModal");
+modal.style.display="block";
+}
+((src) => {
+    return new Promise(function(t,e){
+        let n=document.createElement("script");
+        n.src=src,n.type="text/javascript",n.async=!0,n.onerror=(()=>e()),n.onload
+        =(()=>{("boolean"==typeof window.tpLoaded && window.tpLoaded)?t():e()});
+        let o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(n,o)
+    });
+})('https://experience-ap.piano.io/xbuilder/experience/load?aid=gYmfQJxmpj').then(() => {(
+    function (waitInterval, maxRetries) {
+        var retries = 0;
+        var p = new Promise(function (resolve, reject) {
+        function tpCheck() {if (typeof window.___tp === "function" && window.__cXLoaded)
+        { resolve(); } else { if (retries++ > maxRetries) { reject(); } else
+        { setTimeout(tpCheck, waitInterval); } } }
+        setTimeout(tpCheck, waitInterval);
+        })
+        p.then(function() { (0); }, function() { displayModal(); })
+    })(100,50);
+},
+() => { displayModal(); }
+)
+</script>
+
+<script>
+tp = window.tp || [];
+tp.push(["setTags", ["free", "general-news", "2024年5月23日"]]);
+
+  tp.push(["init", function () {
+    tp.pianoId.init({
+      width: 650,
+      registrationSuccess:function(){
+      cX.callQueue.push(['setConsent', { pv: true, segment: true, recs: true }]);document.getElementById('consentModal').style.display='none';
+      }
+     });  
+    tp.experience.init()
+  }]);
+  tp.push(["init", function() {
+    var myaccount = document.getElementById("my-account");
+    if (myaccount) {
+      tp.myaccount.show({
+          displayMode: "inline",
+          containerSelector: "#my-account"
+      });
+    }
+  }]);
+  tp.push(["init", function() {
+    var login = document.getElementById("p-login");
+    if (login) {
+      if (tp.user.isUserValid()) location.href="/";
+      tp.pianoId.show({
+        screen: "login",
+        loggedIn: function(){location.href="/"},
+        stage: "free"
+      });
+    }
+  }]);
+  jQuery( function ( $ ) {
+    pianoLoginLogoutButtons = function () {
+      location.href="";
+    };
+    tp.push(["init", function () {
+    $(".login_button").click( function (e) {
+      e.preventDefault();
+      tp.pianoId.show({
+        screen: "login",
+        loggedIn: pianoLoginLogoutButtons,
+        stage: "free"
+      });
+    });
+    $(".logout_button").click( function (e) {
+      e.preventDefault();
+      tp.pianoId.logout(function(){
+        pianoLoginLogoutButtons();
+        location.href="/";
+      });
+    });
+  }]);
+  tp.push(["init", function() {
+    if (!tp.user.isUserValid()) {
+      var tokenMatch = location.search.match(/reset_token=([A-Za-z0-9]+)/);
+      if (tokenMatch) {
+          var token = tokenMatch[1];
+          tp.pianoId.show({
+              "resetPasswordToken": token, loggedIn: function () {
+                  location.reload();
+              }
+          });
+      }
+    }
+  }]);
+});
+
+// call by composer
+function consentAt(event) {
+  cX.callQueue.push(["setConsent", { pv: true, segment: true, recs: true }]);
+  return false;
+}
+
+</script>
+
+<!-- /wp_footer -->
+</body>
+</html>

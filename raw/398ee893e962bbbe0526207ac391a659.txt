@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="googlebot" content="noarchive">
+
+  <base href="https://www.themoscowtimes.com/" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#5882b5">
+  <link rel="shortcut icon" href="https://static.themoscowtimes.com/img/icons/favicon.ico">
+
+  <link rel="publisher" href="https://plus.google.com/114467228383524488842" />
+
+  <link rel="apple-touch-icon-precomposed" sizes="152x152"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon-precomposed" sizes="120x120"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon-precomposed" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-57x57.png">
+
+  <meta property="og:site_name" content="The Moscow Times" />
+
+  <meta property="fb:admins" content="1190953093,691361317" />
+  <meta property="fb:app_id" content="1446863628952411" />
+
+  <meta name="twitter:site" content="@MoscowTimes">
+  <meta name="twitter:creator" content="@MoscowTimes">
+  <meta property="twitter:account_id" content="19527964">
+  <meta name="twitter:card" content="summary_large_image"> <!-- or summary -->
+
+  
+<title>YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo - The Moscow Times</title>
+
+	<link rel="canonical" href="https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175">
+
+	<meta name="keywords" content="Roscomnadzor,Censorship,YouTube,Google">
+	<meta name="news_keywords" content="Roscomnadzor,Censorship,YouTube,Google">
+	<meta name="description" content="YouTube has blocked at least three videos that show viewers how to evade military service after it received a request from the Russian authorities, the investigative news outlet Agentstvo reported Monday.">
+	<meta name="thumbnail" content="https://static.themoscowtimes.com/image/320/56/4481461680_845dd529ca_o-2.jpg">
+	<meta name="author" content="The Moscow Times">
+
+	<meta property="og:url" content="https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175">
+	<meta property="og:title" content="YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo - The Moscow Times">
+	<meta property="og:description" content="YouTube has blocked at least three videos that show viewers how to evade military service after it received a request from the Russian authorities, the investigative news outlet Agentstvo reported Monday.">
+	<meta property="og:image" content="https://static.themoscowtimes.com/image/og/dc/85175__dcf68860b1f92158157705fa48c56819.jpg">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="article:author" content="The Moscow Times">
+	<meta property="article:content_tier" content="free">
+	<meta property="article:modified_time" content="2024-05-24T00:55:43+03:00">
+	<meta property="article:published_time" content="2024-05-20T18:03:18+03:00">
+	<meta property="article:publisher" content="https://www.facebook.com/MoscowTimes">
+	<meta property="article:section" content="news">
+	<meta property="article:tag" content="Roscomnadzor,Censorship,YouTube,Google">
+	<meta property="twitter:title" content="YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo">
+	<meta property="twitter:description" content="YouTube has blocked at least three videos that show viewers how to evade military service after it received a request from the Russian authorities, the investigative news outlet Agentstvo reported Monday.">
+	<meta property="twitter:image:src" content="https://static.themoscowtimes.com/image/og/dc/85175__dcf68860b1f92158157705fa48c56819.jpg">
+
+
+
+<script type="application/ld+json" data-json-ld-for-pagemetadata>
+	{"@context":"http:\/\/schema.org\/","@type":"NewsArticle","dateCreated":"2024-05-20T15:40:42+03:00","datePublished":"2024-05-20T18:03:18+03:00","dateModified":"2024-05-24T00:55:43+03:00","name":"YouTube Blocks Anti-War Videos at Russia\u2019s Request \u2013 Agentstvo","headline":"YouTube Blocks Anti-War Videos at Russia\u2019s Request \u2013 Agentstvo","description":"YouTube has blocked at least three videos that show viewers how to evade military service after it received a request from the Russian authorities, the investigative news outlet Agentstvo reported Monday.","keywords":"Roscomnadzor,Censorship,YouTube,Google","articleSection":"news","isAccessibleForFree":true,"mainEntityOfPage":"https:\/\/www.themoscowtimes.com\/2024\/05\/20\/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175","url":"https:\/\/www.themoscowtimes.com\/2024\/05\/20\/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175","thumbnailUrl":"https:\/\/static.themoscowtimes.com\/image\/320\/56\/4481461680_845dd529ca_o-2.jpg","image":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/image\/og\/dc\/85175__dcf68860b1f92158157705fa48c56819.jpg","width":1200,"height":630},"publisher":{"@type":"Organization","name":"The Moscow Times","logo":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/img\/logo.png","width":50,"height":50}},"inLanguage":{"@type":"Language","name":"English","alternateName":"English"},"author":{"@type":"Organization","name":"The Moscow Times"}}</script> <script type="application/ld+json" data-json-ld-for-pagemetadata>
+	{"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"The Moscow Times","item":"https:\/\/www.themoscowtimes.com\/"},{"@type":"ListItem","position":2,"name":"News","item":"https:\/\/www.themoscowtimes.com\/news"},{"@type":"ListItem","position":3,"name":"YouTube Blocks Anti-War Videos at Russia\u2019s Request \u2013 Agentstvo","item":"https:\/\/www.themoscowtimes.com\/2024\/05\/20\/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175"}]}</script> 
+  <!-- load stylesheets -->
+  <link type="text/css" href="https://static.themoscowtimes.com/css/main.css?v=80" rel="stylesheet" media="screen" />
+  <!-- Other CSS assets -->
+  
+  <link rel="dns-prefetch" href="//www.google-analytics.com" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsMediaOrganization",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "RU",
+      "addressLocality": "Moscow",
+      "postalCode": "",
+      "streetAddress": ""
+    },
+    "name": "The Moscow Times",
+    "email": "general@themoscowtimes.com",
+    "telephone": "",
+    "url": "https://themoscowtimes.com",
+    "logo": "https://static.themoscowtimes.com/img/logo_1280.png"
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.themoscowtimes.com/",
+    }
+  </script>
+  <!-- Google Tag Manager -->
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+			"gtm.start": new Date().getTime(),
+			event: "gtm.js",
+		});
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != "dataLayer" ? "&l=" + l : "";
+		j.async = true;
+		j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, "script", "dataLayer", "GTM-TR8JKK");
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - GA4 -->
+<script
+	async
+	src="https://www.googletagmanager.com/gtag/js?id=G-7PDWRZPVQJ"
+></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag("js", new Date());
+	gtag("config", "G-7PDWRZPVQJ", {
+		send_page_view: false,
+	});
+</script>
+
+<!-- Yandex Zen -->
+<meta name="yandex-verification" content="45c6975db53b11d6" />
+
+<!-- <link rel="stylesheet" href="https://a.pub.network/core/pubfig/cls.css"> -->
+
+<script data-cfasync="false" type="text/javascript">
+	var freestar = freestar || {};
+	freestar.queue = freestar.queue || [];
+	freestar.config = freestar.config || {};
+	freestar.config.enabled_slots = [];
+	freestar.initCallback = function () {
+		freestar.config.enabled_slots.length === 0
+			? (freestar.initCallbackCalled = false)
+			: freestar.newAdSlots(freestar.config.enabled_slots);
+	};
+</script>
+
+<script
+	src="https://a.pub.network/themoscowtimes-com/pubfig.min.js"
+	data-cfasync="false"
+	async
+></script>
+
+<!-- Freestar units -->
+<script>
+	freestar.queue.push(function () {
+		freestar.newAdSlots([
+			{
+				placementName: "themoscowtimes.com_header",
+				slotId: "themoscowtimes.com_header",
+				targeting: {},
+			},
+			{
+				placementName: "themoscowtimes.com_sidebar_1",
+				slotId: "themoscowtimes.com_sidebar_1",
+				targeting: {},
+			},
+			{
+				placementName: "themoscowtimes.com_billboard_bott",
+				slotId: "themoscowtimes.com_billboard_bott",
+				targeting: {},
+			},
+			{
+				placementName: "themoscowtimes.com_incontent_3",
+				slotId: "themoscowtimes.com_incontent_3",
+				targeting: {},
+			},
+			{
+				placementName: "themoscowtimes.com_incontent_2",
+				slotId: "themoscowtimes.com_incontent_2",
+				targeting: {},
+			},
+			{
+				placementName: "themoscowtimes.com_incontent_1",
+				slotId: "themoscowtimes.com_incontent_1",
+				targeting: {},
+			},
+		]);
+	});
+</script></head>
+
+
+<body class="article-item" y-use="Main">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe
+		src="https://www.googletagmanager.com/ns.html?id=GTM-TR8JKK"
+		height="0"
+		width="0"
+		style="display: none; visibility: hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+  
+<div y-use="ProgressBar" class="progress-bar"></div>
+<div class="container--full" y-name="banner">
+	<div class="preheader_advert py-2">
+						<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_header --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __970x250\&quot; id=\&quot;themoscowtimes.com_header\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+		</div>
+</div>
+<div class="container">
+  <div class="site-header py-3 hidden-xs">
+	<a href="https://www.themoscowtimes.com/" class="site-header__logo" title="The Moscow Times - Independent News from Russia" >
+		<img src="https://static.themoscowtimes.com/img/logo_tmt_30_yo.svg" alt="The Moscow Times"  />
+	</a>
+
+		<div class="site-header__contribute contribute-teaser hidden-xs">
+		<div class="contribute-teaser__cta mb-1">Support The Moscow Times!</div>
+		<a class="contribute-teaser__button"
+		   href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header"
+		   class="contribute-teaser__cta">Contribute today</a>
+	</div>
+
+
+	<div class="site-header__account">
+		<div class="identity" aria-label="[[account]]">
+	<a y-name="signin" href="https://www.themoscowtimes.com/account" class="identity__signin">
+		<i class="fa fa-user-circle-o"></i>
+	</a>
+
+
+	<div y-name="account" class="identity__account" style="display:none">
+		<div class="identity__letter" href="https://www.themoscowtimes.com/account" y-name="letter"></div>
+		<div y-name="menu" class="identity__menu" style="display:none">
+			<a class="identity__menu__item identity__dashboard" href="https://www.themoscowtimes.com/account">My account</a>
+			<a class="identity__menu__item identity__signout" href="https://www.themoscowtimes.com/account/signout">Signout</a>
+		</div>
+	</div>
+</div>	</div>
+
+
+</div></div>
+
+<div class="container">
+	<div class="navigation" y-use="Navigation">
+
+	
+<div class="nav-expanded" style="display: none;" y-name="expanded">
+	<div class="nav-overlay"></div>
+	<div class="nav-container" y-name="container">
+		<div class="container">
+			<div class="nav-container__inner">
+				<div class="nav-expanded__header">
+					<div class="nav-expanded__close" y-name="close">&times;</div>
+				</div>
+				<nav class="">
+					<ul class="depth-0" >
+
+<li class="has-child" >
+<a href="#" >Sections</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/" >Home</a>
+</li>
+
+<li class="" >
+<a href="https://www.themoscowtimes.com/ukraine-war" >Ukraine War</a>
+</li>
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+
+</li>
+
+<li class="" >
+<a href="#" >Climate</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="/arts-and-life" >Arts and Life</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" ></a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/tag/Regions" >Regions</a>
+</li>
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="" >
+<a href="/newsletters" >Newsletters</a>
+</li>
+
+<li class="" >
+<a href="/lectures" >TMT Lecture Series</a>
+</li>
+
+<li class="" >
+<a href="/search" >Archive</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" >Multimedia projects</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="https://mothersanddaughters.themoscowtimes.com/" >Mothers &amp; Daughters</a>
+</li>
+
+<li class="" >
+<a href="https://generationp.themoscowtimes.com/" >Generation P</a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	<nav class="nav-top">
+		<div class="menu-trigger" y-name="open"><i class="fa fa-reorder"></i></div>
+		<div class="nav-top__logo--xs hidden-sm-up">
+			<a href="https://www.themoscowtimes.com/" class="site-header__logo " title="The Moscow Times - Independent News from Russia">
+				<img src="https://static.themoscowtimes.com/img/logo_tmt_30_yo.svg" alt="The Moscow Times" />
+			</a>
+		</div>
+		<ul class="nav-top__list" >
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+<a href="https://www.themoscowtimes.com/ukraine-war" >Ukraine War</a>
+</li>
+
+<li class="" >
+<a href="/climate" >Climate</a>
+</li>
+
+<li class="" >
+<a href="/tag/Regions" >Regions</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="https://www.themoscowtimes.com/meanwhile" >Meanwhile</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/search" >Archive</a>
+</li>
+
+</ul>
+
+		<div class="nav-top__wrapper">
+			<div class="nav-top__extra">
+				<a href="https://moscowtimes.ru" class="nav-top__lang-toggle">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 6" width="26" height="18">
+						<rect fill="#fff" width="9" height="3" />
+						<rect fill="#d52b1e" y="3" width="9" height="3" />
+						<rect fill="#0039a6" y="2" width="9" height="2" />
+					</svg>
+					<span>RU</span>
+				</a>
+			</div>
+			<a href="https://www.themoscowtimes.com/search" title="Search" class="nav-top__search">
+				<i class="fa fa-search"></i>
+			</a>
+			<div class="nav-top__account hidden-sm-up">
+				 <div class="identity" aria-label="[[account]]">
+	<a y-name="signin" href="https://www.themoscowtimes.com/account" class="identity__signin">
+		<i class="fa fa-user-circle-o"></i>
+	</a>
+
+
+	<div y-name="account" class="identity__account" style="display:none">
+		<div class="identity__letter" href="https://www.themoscowtimes.com/account" y-name="letter"></div>
+		<div y-name="menu" class="identity__menu" style="display:none">
+			<a class="identity__menu__item identity__dashboard" href="https://www.themoscowtimes.com/account">My account</a>
+			<a class="identity__menu__item identity__signout" href="https://www.themoscowtimes.com/account/signout">Signout</a>
+		</div>
+	</div>
+</div> 			</div>
+		</div>
+	</nav>
+</div></div>
+
+<div class="container">
+	 	<div class="contribute-teaser-mobile hidden-sm-up">
+		<div class="contribute-teaser-mobile__cta">
+			<span>Support The Moscow Times!</span>
+		</div>
+		<div class="contribute-teaser-mobile__container">
+			<a class="contribute-teaser-mobile__container__button"
+			   href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header-mobile"
+			   class="contribute-teaser__cta">Contribute today</a>
+		</div>
+
+	</div>
+ </div>
+
+
+
+<article y-use="article.IsIntersecting">
+
+	<!--[[[article:85175]]]-->
+	<div class="gtm-section gtm-type" data-section="news"
+		data-type="default">
+		<!-- Google Tag Manager places Streamads based on these classes -->
+	</div>
+
+		<div class="container article-container" id="article-id-85175"
+		data-page-id="85175" data-next-id="85149"
+		data-article-url="https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175"
+		data-article-title="YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo">
+		
+
+		<div class="row-flex gutter-2">
+			<div class="col">
+								<article class="article article--news">
+					<header class="article__header ">
+																		<h1><a href="https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175">YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo</a>
+						</h1>
+						<h2></h2>
+					</header>
+
+					<div class="article__byline byline  ">
+						<div class="row-flex">
+							<div class="col">
+								<div class="byline__details">
+
+																											
+									<div class="byline__details__column">
+										<div class="byline__author">
+																					</div>
+
+
+																				<time class="byline__datetime timeago"
+											datetime="2024-05-20T18:03:18+03:00" y-use="Timeago">
+											May 20, 2024										</time>
+																			</div>
+								</div>
+							</div>
+
+							<div class="col-auto">
+								<div class="byline__social">
+									<div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-brands fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175&text=YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo" class="social__icon social__icon--x-twitter" target="_blank" title="Share on Twitter"><i class="fa fa-brands fa-x-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+	<a href="mailto:?subject=Shared: YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo&body=An article from The Moscow Times: https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--email"><i class="fa fa-envelope" target="_blank" title="Share with email"></i></a>
+	<a href="https://flipboard.com" data-flip-widget="shareflip" class="social__icon social__icon--flipboard" title="Share on Flipboard"><img src="https://static.themoscowtimes.com/img/flipboard_mrrw.png" /></a>
+	<a href="https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175/pdf" class="social__icon social__icon--pdf"><i class="fa fa-file-pdf-o" target="_blank" title="Download as PDF"></i></a>
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					
+										<figure class="article__featured-image featured-image">
+						<img src="https://static.themoscowtimes.com/image/article_1360/56/4481461680_845dd529ca_o-2.jpg" />
+												<figcaption class="">
+							<span class="article__featured-image__caption featured-image__caption">
+															</span>
+							<span class="article__featured-image__credits featured-image__credits">
+								Rego Korosi / flickr							</span>
+						</figcaption>
+											</figure>
+					
+
+					<div class="article__content-container">
+						<div class="article__content" y-name="article-content">
+																					<div data-id="article-block-type"
+								class="article__block article__block--html article__block--column ">
+								<p><span>YouTube has blocked at least three videos that show viewers how to evade military service after it received a request from the Russian authorities, the investigative news outlet Agentstvo</span><a href="https://www.agents.media/youtube-nachal-blokirovat-oppozitsionnyj-kontent-po-trebovaniyu-rossijskih-vlastej/"><span> </span><span>reported</span></a><span> Monday.</span></p>
+<p><span>Russia&rsquo;s state media watchdog Roskomnadzor notified YouTube between December and February that the three videos violated Russia&rsquo;s law on information technology and information protection, according to screenshots of the YouTube legal support team&rsquo;s blocking notices.</span></p>
+<p><span>The website also notified the human rights watchdog OVD-Info that one of its YouTube channels may be blocked after it recently received a complaint from Roskomnadzor. According to an email YouTube forwarded to OVD-Info on May 6, Roskomnadzor restricted access to its channel &ldquo;Kak Teper?&rdquo; (&ldquo;What Now?&rdquo;), which it said could be restored if the channel &ldquo;eliminated&rdquo; unspecified violations.</span></p>
+<p><span>&ldquo;As far as we know, this is the first case in Russia when Roskomnadzor is demanding to block the channel in its entirety rather than a specific video,&rdquo; OVD-Info spokesman Dmitry Anisimov told Agentstvo.</span></p>															</div>
+														<div data-id="article-block-type"
+								class="article__block article__block--article article__block--column ">
+										<aside class="article__related-article">
+		<span class="label related-article__label label--default">news</span>
+		<a data-id="in-article-block" class="related-article__inner" href="https://www.themoscowtimes.com/2024/05/24/microsoft-blocks-russian-corporate-clients-from-cloud-services-vendor-says" title="Microsoft Blocks Russian Corporate Clients From Cloud Services, Vendor Says">
+			<h3 class="related-article__title">
+				Microsoft Blocks Russian Corporate Clients From Cloud Services, Vendor Says			</h3>
+			<span class="related-article__cta">Read more</span>
+		</a>
+	</aside>
+
+
+
+																   								<section y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_incontent_1 --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __728x90\&quot; id=\&quot;themoscowtimes.com_incontent_1\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_incontent_2 --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __728x90\&quot; id=\&quot;themoscowtimes.com_incontent_2\&quot;&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_incontent_3 --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __728x90\&quot; id=\&quot;themoscowtimes.com_incontent_3\&quot;&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;xs&quot;]"></div>
+			</div>
+	</div>
+</section>															</div>
+														<div data-id="article-block-type"
+								class="article__block article__block--html article__block--column ">
+								 <p><span>&ldquo;We&rsquo;re now in contact with Google and trying to explain that this demand to block our channel is illegal and represents politically motivated censorship,&rdquo; he added.</span></p>
+<p><span>Removing content related to human rights at the request of the Russian government and not because it violates Google&rsquo;s content policies marks a &ldquo;new trend,&rdquo; Agentstvo said, citing an unnamed cybersecurity expert.</span></p>
+<p><span>YouTube has deleted the channels of many pro-Kremlin media organizations since Russia invaded Ukraine in early 2022, sparking accusations of censorship from the Kremlin.&nbsp;</span></p>
+<p><span>Russia has so far stopped short of banning YouTube like it has banned Facebook, X (formerly Twitter), and Instagram, along with many independent media outlets.</span></p>
+<p><span>Before invading Ukraine, Russia</span><a href="https://www.themoscowtimes.com/2021/05/24/russia-gives-google-24-hour-ultimatum-to-remove-banned-content-a73990"><span>&nbsp;</span><span>threatened</span></a><span> to</span><span> </span><span>punish</span><span> Google and other Western tech companies if they failed to delete banned content, including posts supporting the late opposition figure Alexei Navalny.</span></p> 															</div>
+																				</div>
+
+						
+						
+						<div class="article__bottom">
+
+						</div>
+
+						
+												<div class="article__tags">
+							Read more about:
+																					<a
+	href="https://www.themoscowtimes.com/tag/roscomnadzor"
+	class="tag article__tags__tag"
+	title="Roscomnadzor"
+>
+	Roscomnadzor</a>
+														,  <a
+	href="https://www.themoscowtimes.com/tag/censorship"
+	class="tag article__tags__tag"
+	title="Censorship"
+>
+	Censorship</a>
+ 														,  <a
+	href="https://www.themoscowtimes.com/tag/youtube"
+	class="tag article__tags__tag"
+	title="YouTube"
+>
+	YouTube</a>
+ 														,  <a
+	href="https://www.themoscowtimes.com/tag/google"
+	class="tag article__tags__tag"
+	title="Google"
+>
+	Google</a>
+ 													</div>
+						
+						<div class="hidden-md-up">
+													</div>
+						
+												<div 
+	class="contribute-article p-3 mb-3" 
+	y-use="contribute2.Article" 
+	data-contribute="https://www.themoscowtimes.com/contribute"
+	data-remind="https://www.themoscowtimes.com/contribute2/remind"
+>
+	<p><strong>… we have a small favor to ask.</strong> As you may have heard, The Moscow Times, an independent news source for over 30 years, has been unjustly branded as a "foreign agent" by the Russian government. This blatant attempt to silence our voice is a direct assault on the integrity of journalism and the values we hold dear.</p>
+	<p>We, the journalists of The Moscow Times, refuse to be silenced. Our commitment to providing accurate and unbiased reporting on Russia remains unshaken. But <a href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=article" title="we need your help">we need your help</a> to continue our critical mission.</p>
+	<p><span class="contribute-article__strike">Your support, no matter how small, makes a world of difference. If you can, please support us monthly starting from just <span y-name="sign">$</span>2.</span> It's quick to set up, and you can be confident that you're making a significant impact every month by supporting open, independent journalism. Thank you.</p>
+
+	
+	<div class="contribute-selection">
+		<div class="contribute-selection__period">
+			<div class="contribute-button" y-name="period period-once" data-period="once">
+				Once
+			</div>
+			<div class="contribute-button"  y-name="period period-monthly" data-period="monthly">
+				Monthly
+			</div>
+			<div class="contribute-button"  y-name="period period-annual" data-period="annual">
+				Annual
+			</div>
+		</div>
+		<div class="contribute-selection__amount" >
+			<div class="contribute-button" y-name="amount amount-0"></div>
+			<div class="contribute-button" y-name="amount amount-1"></div>
+			<div class="contribute-button contribute-selection__amount__other" y-name="amount amount-2"></div>
+		</div>
+		<div class="contribute-selection__submit mb-3">
+			<div class="contribute-button contribute-button--fit contribute-button--secondary" y-name="continue">
+				Continue <i class="fa fa-arrow-right"></i>
+			</div>
+			<div class="contribute-selection__submit__methods">
+				<img src="https://static.themoscowtimes.com/img/contribute/payment_icons.png" alt="paiment methods" width="160" />
+			</div>
+		</div>
+		<div class="contribute-article__payoff">Not ready to support today? <br class="hidden-sm-up" /><span class="contribute-article__payoff__link clickable" y-name="later">Remind me later</span>.</div>
+	</div>
+	
+	<div class="contribute-article__reminder" y-name="reminder" hidden>
+		<div class="contribute-article__reminder__close clickable" y-name="close">&times;</div>
+		<h4 class="mb-1"><strong>Remind me next month</strong></h4>
+		<div class="contribute-article__reminder__grid mb-2" y-name="form">
+			<div> 
+				<div  class="contribute-article__reminder__error y-name="error" hidden></div>
+				<input type="email" class="contribute-article__reminder__input" y-name="email" placeholder="Email">
+			</div>
+			<div class="contribute-button contribute-button--secondary" y-name="submit">
+				Remind me <i class="fa fa-arrow-right"></i>
+			</div>
+		</div>
+		<div y-name="done" hidden>
+			<span class="contribute-article__strike mb-2">Thank you! Your reminder is set.</span>
+		</div>
+		<div class="contribute-article__reminder__info">
+			We will send you one reminder email a month from now. For details on the personal data we collect and how it is used, please see our <a href="https://www.themoscowtimes.com/page/privacy-policy" target="_blank" title="privacy policy">Privacy Policy</a>.
+		</div>
+	</div>
+	
+</div>
+						 <div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-brands fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175&text=YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo" class="social__icon social__icon--x-twitter" target="_blank" title="Share on Twitter"><i class="fa fa-brands fa-x-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+	<a href="mailto:?subject=Shared: YouTube Blocks Anti-War Videos at Russia’s Request – Agentstvo&body=An article from The Moscow Times: https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175" class="social__icon social__icon--email"><i class="fa fa-envelope" target="_blank" title="Share with email"></i></a>
+	<a href="https://flipboard.com" data-flip-widget="shareflip" class="social__icon social__icon--flipboard" title="Share on Flipboard"><img src="https://static.themoscowtimes.com/img/flipboard_mrrw.png" /></a>
+	<a href="https://www.themoscowtimes.com/2024/05/20/youtube-blocks-anti-war-videos-at-russias-request-agentstvo-a85175/pdf" class="social__icon social__icon--pdf"><i class="fa fa-file-pdf-o" target="_blank" title="Download as PDF"></i></a>
+</div>
+ 					</div>
+
+				</article>
+			</div>
+
+
+			<div class="col-auto hidden-sm-down">
+				<aside class="sidebar">
+
+					
+					<!-- Article sidebar -->
+					<section class="sidebar__section" y-name="banner">
+	<div class="banner" style="">
+		<div class="banner-inner">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_sidebar_1 --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__300x600\&quot; id=\&quot;themoscowtimes.com_sidebar_1\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;image&quot;,&quot;html&quot;:&quot;&quot;,&quot;href&quot;:&quot;https:\/\/www.themoscowtimes.com\/search?utm_source=internal&amp;utm_medium=rectangle&quot;,&quot;src&quot;:&quot;https:\/\/static.themoscowtimes.com\/image\/original\/ea\/tmt_rectangle_archive_336.jpg&quot;}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</section>
+					<div class="sidebar__sticky">
+						<div class="tabs" y-use="Tabs" data-active="tabs__tab--active">
+							<section class="sidebar__section">
+								<div class="sidebar__section__header">
+									<div class="tabs__tab" y-name="tab" data-content="mostread">
+										<h3 class="tab__header header--style-3">Most read</h3>
+									</div>
+
+									<div class="tabs__tab" y-name="tab" data-content="justin">
+										<h3 class="tab__header header--style-3">Just in</h3>
+									</div>
+								</div>
+
+								<div class="tabs__content" y-name="content justin">
+									<ul class="listed-articles">
+			<li class="listed-articles__item">
+			
+<div class="article-excerpt-tiny">
+	<a 
+		href="https://www.themoscowtimes.com/2024/05/23/kremlin-condemns-calls-for-kyiv-to-use-us-arms-in-russia-a85208"
+		title="Kremlin Condemns Calls for Kyiv To Use U.S. Arms in Russia"
+		data-track="just-in-link Kremlin Condemns Calls for Kyiv To Use U.S. Arms in Russia"
+	>
+				<time class="article-excerpt-tiny__time  "
+			datetime="2024-05-23T22:18:37+03:00" y-use="Timeago">
+			May 23, 2024		</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Kremlin Condemns Calls for Kyiv To Use U.S. Arms in Russia		</h5>
+	</a>
+</div>		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a 
+		href="https://www.themoscowtimes.com/2024/05/23/putin-signs-decree-allowing-for-seizure-of-us-property-in-russia-a85206"
+		title="Putin Signs Decree Allowing for Seizure of U.S. Property in Russia "
+		data-track="just-in-link Putin Signs Decree Allowing for Seizure of U.S. Property in Russia "
+	>
+				<time class="article-excerpt-tiny__time  "
+			datetime="2024-05-23T17:46:00+03:00" y-use="Timeago">
+			May 23, 2024		</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Putin Signs Decree Allowing for Seizure of U.S. Property in Russia 		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a 
+		href="https://www.themoscowtimes.com/2024/05/23/ukraine-war-disrupts-eagle-migration-patterns-study-a85203"
+		title="Ukraine War Disrupts Eagle Migration Patterns – Study"
+		data-track="just-in-link Ukraine War Disrupts Eagle Migration Patterns – Study"
+	>
+				<time class="article-excerpt-tiny__time  "
+			datetime="2024-05-23T17:03:00+03:00" y-use="Timeago">
+			May 23, 2024		</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Ukraine War Disrupts Eagle Migration Patterns – Study		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a 
+		href="https://www.themoscowtimes.com/2024/05/23/estonia-says-russia-removed-buoys-from-narva-river-amid-border-dispute-a85205"
+		title="Estonia Says Russia Removed Buoys From Narva River Amid Border Dispute"
+		data-track="just-in-link Estonia Says Russia Removed Buoys From Narva River Amid Border Dispute"
+	>
+				<time class="article-excerpt-tiny__time  "
+			datetime="2024-05-23T16:15:00+03:00" y-use="Timeago">
+			May 23, 2024		</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Estonia Says Russia Removed Buoys From Narva River Amid Border Dispute		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a 
+		href="https://www.themoscowtimes.com/2024/05/23/russia-downs-ukrainian-drone-in-republic-of-tatarstan-a85204"
+		title="Russia Downs Ukrainian Drone in Republic of Tatarstan"
+		data-track="just-in-link Russia Downs Ukrainian Drone in Republic of Tatarstan"
+	>
+				<time class="article-excerpt-tiny__time  "
+			datetime="2024-05-23T15:56:25+03:00" y-use="Timeago">
+			May 23, 2024		</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Russia Downs Ukrainian Drone in Republic of Tatarstan		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a 
+		href="https://www.themoscowtimes.com/2024/05/23/at-least-8-killed-in-moscow-region-hostel-fire-a85202"
+		title="At Least 8 Killed in Moscow Region Hostel Fire"
+		data-track="just-in-link At Least 8 Killed in Moscow Region Hostel Fire"
+	>
+				<time class="article-excerpt-tiny__time  "
+			datetime="2024-05-23T14:05:53+03:00" y-use="Timeago">
+			May 23, 2024		</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			At Least 8 Killed in Moscow Region Hostel Fire		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a 
+		href="https://www.themoscowtimes.com/2024/05/23/woman-killed-in-drone-strike-on-russias-belgorod-region-a85201"
+		title="Woman Killed in Drone Strike on Russia’s Belgorod Region"
+		data-track="just-in-link Woman Killed in Drone Strike on Russia’s Belgorod Region"
+	>
+				<time class="article-excerpt-tiny__time  "
+			datetime="2024-05-23T12:46:23+03:00" y-use="Timeago">
+			May 23, 2024		</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Woman Killed in Drone Strike on Russia’s Belgorod Region		</h5>
+	</a>
+</div> 		</li>
+	</ul>								</div>
+
+								<div class="tabs__content" y-name="content mostread" style="display: none">
+									<ul class="ranked-articles">
+						<li class="ranked-articles__item">
+			
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2024/05/23/deputy-chief-of-russias-general-staff-arrested-for-bribery-a85199" title="Deputy Chief of Russia’s General Staff Arrested for Bribery">
+		<div class="article-excerpt-ranked__rank">
+			1		</div>
+		<div class="article-excerpt-ranked__item">
+							
+
+	<span class="label article-excerpt-ranked__label">
+		military crackdown	</span>
+									<h5 class="article-excerpt-ranked__headline">
+				Deputy Chief of Russia’s General Staff Arrested for Bribery			</h5>
+		</div>
+	</a>
+</div>		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2024/05/23/norway-bans-entry-to-russian-tourists-a85200" title="Norway Bans Entry to Russian Tourists">
+		<div class="article-excerpt-ranked__rank">
+			2		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		access denied	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				Norway Bans Entry to Russian Tourists			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2024/05/23/at-least-8-killed-in-moscow-region-hostel-fire-a85202" title="At Least 8 Killed in Moscow Region Hostel Fire">
+		<div class="article-excerpt-ranked__rank">
+			3		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		criminal probe	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				At Least 8 Killed in Moscow Region Hostel Fire			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2024/05/23/woman-killed-in-drone-strike-on-russias-belgorod-region-a85201" title="Woman Killed in Drone Strike on Russia’s Belgorod Region">
+		<div class="article-excerpt-ranked__rank">
+			4		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		Krasnyi Vostok	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				Woman Killed in Drone Strike on Russia’s Belgorod Region			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2024/05/23/estonia-says-russia-removed-buoys-from-narva-river-amid-border-dispute-a85205" title="Estonia Says Russia Removed Buoys From Narva River Amid Border Dispute">
+		<div class="article-excerpt-ranked__rank">
+			5		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		soggy relations	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				Estonia Says Russia Removed Buoys From Narva River Amid Border Dispute			</h5>
+		</div>
+	</a>
+</div> 		</li>
+	</ul>								</div>
+							</section>
+						</div>
+					</div>
+					<!-- Article sidebar bottom -->
+					   
+				</aside>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Article billboard bottom -->
+	<div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=\&quot;FreeStarVideoAdContainer\&quot; style=\&quot;max-width: 640px; margin: 0 auto;\&quot;&gt;\n &lt;div id=\&quot;freestar-video-parent\&quot;&gt;\n  &lt;div id=\&quot;freestar-video-child\&quot;&gt;&lt;\/div&gt;\n &lt;\/div&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;image&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_billboard_bott --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __970x250\&quot; id=\&quot;themoscowtimes.com_billboard_bott\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;sm&quot;,&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</div>	<!-- Article billboard bottom -->
+	 <div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=\&quot;FreeStarVideoAdContainer\&quot; style=\&quot;max-width: 640px; margin: 0 auto;\&quot;&gt;\n &lt;div id=\&quot;freestar-video-parent\&quot;&gt;\n  &lt;div id=\&quot;freestar-video-child\&quot;&gt;&lt;\/div&gt;\n &lt;\/div&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;image&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_billboard_bott --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __970x250\&quot; id=\&quot;themoscowtimes.com_billboard_bott\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;xs&quot;]"></div>
+			</div>
+	</div>
+</div> 
+
+	<div class="container">
+		<section class="cluster">
+
+			<div class="cluster__header">
+				<h2 class="cluster__label header--style-3">
+										Read more									</h2>
+			</div>
+
+			<div class="row-flex">
+								<div class="col-3 col-6-sm">
+					
+
+<div
+	class="article-excerpt-default article-excerpt-default--news"
+	data-url="https://www.themoscowtimes.com/2022/03/24/youtube-accused-of-censorship-in-russia-a77067"
+	data-title="YouTube Accused of 'Censorship' in Russia"
+>
+
+	<a href="https://www.themoscowtimes.com/2022/03/24/youtube-accused-of-censorship-in-russia-a77067" class="article-excerpt-default__link" title="YouTube Accused of &#039;Censorship&#039; in Russia">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					
+
+	<img src="https://static.themoscowtimes.com/image/article_640/56/4481461680_845dd529ca_o.jpg" />
+
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							
+
+	<span class="label article-excerpt-default__label">
+		moderation spat	</span>
+						
+			<h3 class="article-excerpt-default__headline">
+								YouTube Accused of 'Censorship' in Russia			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Fears mount that the U.S. company maybe next in line for a ban in Russia.</div>
+								</div>
+	</a>
+</div>				</div>
+								<div class="col-3 col-6-sm">
+					 
+
+<div
+	class="article-excerpt-default article-excerpt-default--news"
+	data-url="https://www.themoscowtimes.com/2022/03/18/russia-accuses-google-youtube-of-terrorist-activities-a76994"
+	data-title="Russia Accuses Google, YouTube of 'Terrorist' Activities"
+>
+
+	<a href="https://www.themoscowtimes.com/2022/03/18/russia-accuses-google-youtube-of-terrorist-activities-a76994" class="article-excerpt-default__link" title="Russia Accuses Google, YouTube of &#039;Terrorist&#039; Activities">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/10/pexels-szab-viktor-3227986.jpg" />
+ 
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							 
+
+	<span class="label article-excerpt-default__label">
+		online enmity	</span>
+ 						
+			<h3 class="article-excerpt-default__headline">
+								Russia Accuses Google, YouTube of 'Terrorist' Activities			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">The comments mark the first step towards a possible access ban.</div>
+								</div>
+	</a>
+</div> 				</div>
+								<div class="col-3 col-6-sm">
+					 
+
+<div
+	class="article-excerpt-default article-excerpt-default--news"
+	data-url="https://www.themoscowtimes.com/2021/09/27/free-speech-a-core-value-youtube-ceo-says-after-blocking-russian-opposition-videos-a75153"
+	data-title="Free Speech a ‘Core Value,’ YouTube CEO Says After Blocking Russian Opposition Videos"
+>
+
+	<a href="https://www.themoscowtimes.com/2021/09/27/free-speech-a-core-value-youtube-ceo-says-after-blocking-russian-opposition-videos-a75153" class="article-excerpt-default__link" title="Free Speech a ‘Core Value,’ YouTube CEO Says After Blocking Russian Opposition Videos">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/5b/15286354890_b7fcbe7137_k.jpg" />
+ 
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							 
+
+	<span class="label article-excerpt-default__label">
+		first comments	</span>
+ 						
+			<h3 class="article-excerpt-default__headline">
+								Free Speech a ‘Core Value,’ YouTube CEO Says After Blocking Russian Opposition Videos			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">YouTube had taken down jailed Kremlin critic Alexei Navalny’s voting strategy videos ahead of Russia's parliamentary elections.</div>
+								</div>
+	</a>
+</div> 				</div>
+								<div class="col-3 col-6-sm">
+					 
+
+<div
+	class="article-excerpt-default article-excerpt-default--news"
+	data-url="https://www.themoscowtimes.com/2019/09/06/russia-says-facebook-google-must-ban-political-ads-during-moscow-election-a67189"
+	data-title="Russia Says Facebook, Google Must Ban Political Ads During Moscow Election"
+>
+
+	<a href="https://www.themoscowtimes.com/2019/09/06/russia-says-facebook-google-must-ban-political-ads-during-moscow-election-a67189" class="article-excerpt-default__link" title="Russia Says Facebook, Google Must Ban Political Ads During Moscow Election">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/da/349572_1000x666_1024_212194b7b43210c7bd10e3f71b1f963b1.jpg" />
+ 
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							 
+
+	<span class="label article-excerpt-default__label">
+		no interference 	</span>
+ 						
+			<h3 class="article-excerpt-default__headline">
+								Russia Says Facebook, Google Must Ban Political Ads During Moscow Election			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Non-compliance would be viewed as meddling in Russia's sovereign affairs.</div>
+								</div>
+	</a>
+</div> 				</div>
+							</div>
+		</section>
+	</div>
+
+		<!-- sticky_article_billboard_bottom -->
+	   
+</article>
+
+<div class="container next-article-loader" id="load-next-article" y-use="article.InfiniteScroll"
+	data-id="85149" data-url="https://www.themoscowtimes.com/all/{{id}}">
+	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+		width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+		<path opacity="0.2" fill="#000"
+			d="M20.201,5.169c-8.254,0-14.946,6.692-14.946,14.946c0,8.255,6.692,14.946,14.946,14.946
+			  s14.946-6.691,14.946-14.946C35.146,11.861,28.455,5.169,20.201,5.169z M20.201,31.749c-6.425,0-11.634-5.208-11.634-11.634
+			  c0-6.425,5.209-11.634,11.634-11.634c6.425,0,11.633,5.209,11.633,11.634C31.834,26.541,26.626,31.749,20.201,31.749z" />
+		<path fill="#000" d="M26.013,10.047l1.654-2.866c-2.198-1.272-4.743-2.012-7.466-2.012h0v3.312h0
+			  C22.32,8.481,24.301,9.057,26.013,10.047z">
+			<animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 20 20" to="360 20 20"
+				dur="0.5s" repeatCount="indefinite" />
+		</path>
+	</svg>
+</div>
+
+<script>
+if (typeof window.freestar === 'object') {
+	freestar.config.disabledProducts = {
+		sideWall: true,
+	};
+}
+</script>
+
+
+<footer class="footer fancyfooter">
+
+	<div class="container">
+		<div class="footer__inner">
+			<div class="footer__logo mb-3">
+				<a href="https://www.themoscowtimes.com/" class="footer__logo__wrapper"
+					title="The Moscow Times - Independent News from Russia">
+											<img src="https://static.themoscowtimes.com/img/logo_tmt_30_yo.svg" alt="The Moscow Times">
+									</a>
+			</div>
+			<div class="footer__main">
+								<div class="footer__menu">
+					<ul class="row-flex depth-0" >
+
+<li class="col has-child" >
+<a href="#" >The Moscow Times</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/page/moscow-times" >About us</a>
+</li>
+
+<li class="col" >
+<a href="/page/privacy-policy" >Privacy Policy</a>
+</li>
+
+<li class="col" >
+<style>
+    #pmLink {
+        visibility: hidden;
+        text-decoration: none;
+        cursor: pointer;
+        background: transparent;
+        border: none;
+    }
+
+    #pmLink:hover {
+        visibility: visible;
+        color: grey;
+    }
+</style>
+<li class="col">
+<a id="pmLink">Privacy Manager</a>
+</li>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >  </a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="col" >
+<a href="/videos" >Videos</a>
+</li>
+
+<li class="col" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="col" >
+<a href="/newsletters" >Newsletters</a>
+</li>
+
+<li class="col" >
+<a href="/search" >Archive</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >Follow us</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="https://www.facebook.com/MoscowTimes/" target="_blank"><i class="fa fa-lg fa-facebook"></i></a>&nbsp;
+<a href="https://twitter.com/moscowtimes" target="_blank"><i class="fa fa-lg fa-twitter"></i></a>&nbsp;
+<a href="https://www.instagram.com/themoscowtimes/" target="_blank"><i class="fa fa-lg fa-instagram"></i></a>&nbsp;
+<a href="https://t.me/+fmbCxJOTTPMyZjQy" target="_blank"><i class="fa fa-lg fa-telegram"></i></a>&nbsp;
+<a href="https://vk.com/themoscowtimes" target="_blank"><i class="fa fa-lg fa-vk"></i></a>&nbsp;
+<a href="/page/rss"><i class="fa fa-lg fa-rss"></i></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCRNPdAfK5Mp8ORtjUt3Q8UA" target="_blank"><i class="fa fa-lg fa-youtube"></i></a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >Media Partners</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<style>
+.media-partners a {
+	display: block;
+	position: relative;
+	padding-left: 42px;	
+	padding-top: 7px;
+	clear: both;
+	line-height: 1em;
+}
+.media-partners img {
+	margin-left: -42px;
+	margin-top: -7px;
+	max-width: 30px;
+	max-height: 30px;
+	float: left;
+	clear: both;
+	margin-bottom: 8px;
+}
+</style>
+
+<ul class="depth-1">
+
+<li class="media-partners">
+	<a href="https://faridaily.substack.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://www.themoscowtimes.com/image/320/3c/faridaily.jpg" alt="Vpost" loading="lazy" />
+		Faridaily
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://thebell.io/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.themoscowtimes.com/image/320/97/thebell.png" alt="The Bell " loading="lazy">
+		The Bell
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://www.themoscowtimes.com/author/eurasian-climate-brief" target="_blank" rel="noopener noreferrer">
+<img src="https://static.themoscowtimes.com/image/320/6c/626x0w.jpg" alt="The Eurasian Climate Brief " loading="lazy">
+		The Eurasian Climate Brief
+	</a>
+</li>
+</ul>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" ></a>
+<ul class="depth-1" >
+
+<li class="col" >
+<style>
+.media-partners a {
+	display: block;
+	position: relative;
+	padding-left: 42px;	
+	padding-top: 7px;
+	clear: both;
+	line-height: 1em;
+}
+.media-partners img {
+	margin-left: -42px;
+	margin-top: -7px;
+	max-width: 30px;
+	max-height: 30px;
+	float: left;
+	clear: both;
+	margin-bottom: 8px;
+}
+.margin-top {
+margin-top: 25px;
+}
+@media (max-width: 767px) {
+.margin-top {
+margin-top: 0;
+}
+}
+</style>
+
+<ul class="depth-1 margin-top">
+<li class="media-partners">
+	<a href="https://carnegieendowment.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://static.themoscowtimes.com/image/320/76/carnegie.jpg" alt="Carnegie Endowment for International Peace" loading="lazy" />
+		Carnegie Endowment
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://www.euractiv.com" target="_blank" rel="noopener noreferrer">
+<img src="https://www.themoscowtimes.com/image/320/ed/euractiv.jpg" alt="Euractiv " loading="lazy"/>
+		Euractiv 
+	</a>
+
+</li>
+</ul>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+								</div>
+			</div>
+			<div class="footer__bottom">
+				&copy; The Moscow Times, all rights reserved.
+			</div>
+
+		</div>
+
+	</div>
+</footer>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+  <script src="https://static.themoscowtimes.com/vendor/jquery/Timeago.js"></script>
+  <script src="https://static.themoscowtimes.com/vendor/jquery/Lightbox.js"></script>
+  <script src="https://static.themoscowtimes.com/vendor/jquery/fitvids.js"></script>
+
+  <!-- Other JS assets -->
+    <script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js"></script>
+  
+  <div y-name="viewport" class="hidden-lg-down" data-viewport="xl"></div>
+  <div y-name="viewport" class="hidden-md-down hidden-xl" data-viewport="lg"></div>
+  <div y-name="viewport" class="hidden-lg-up hidden-sm-down" data-viewport="md"></div>
+  <div y-name="viewport" class="hidden-md-up hidden-xs" data-viewport="sm"></div>
+  <div y-name="viewport" class="hidden-sm-up" data-viewport="xs"></div>
+
+  <script type="text/javascript" src="https://static.themoscowtimes.com/vendor/yellow/Yellow.js"
+        data-main="https://static.themoscowtimes.com/js/main.js?v=80"
+    data-src="https://static.themoscowtimes.com/js/"     data-console="0"></script>
+
+  </body>
+
+</html>

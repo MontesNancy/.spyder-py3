@@ -1,0 +1,1580 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<!-- Created by Artisteer v4.3.0.60745 -->
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width" />
+<!--[if lt IE 9]><script src="/html5.js"></script><![endif]-->
+
+<link rel="stylesheet" href="https://idrw.org/wp-content/themes/2022A/style.css" media="screen" />
+<link rel="pingback" href="https://idrw.org/xmlrpc.php" />
+<title>India and Russia Expand Nuclear Cooperation with New Reactor Sites &#8211; Indian Defence Research Wing</title>
+    <style>
+        .pro-wccp:before {
+            content: "\f160";
+            top: 3px;
+        }
+        .pro-wccp:before{
+            color:#02CA03 !important
+        }
+        .pro-wccp {
+            transform: rotate(45deg);
+        }
+    </style>
+    <script id="wccp_pro_disable_selection">
+
+var image_save_msg = 'You are not allowed to save images!';
+
+var no_menu_msg = 'Context menu disabled!';
+
+var smessage = "<b>Alert: </b>Content selection is disabled!!";
+
+
+"use strict";
+/* This because search property "includes" does not supported by IE*/
+if (!String.prototype.includes) {
+String.prototype.includes = function(search, start) {
+  if (typeof start !== 'number') {
+	start = 0;
+  }
+
+  if (start + search.length > this.length) {
+	return false;
+  } else {
+	return this.indexOf(search, start) !== -1;
+  }
+};
+}
+/*////////////////////////////////////*/
+let canCall = true;
+
+function call_disable_copy_WithDelay(e) {
+  if (canCall) {
+    canCall = false;
+    disable_copy(e);
+    setTimeout(() => {
+      canCall = true;
+    }, 1000);
+  }
+}
+
+function disable_copy(e)
+{
+	window.wccp_pro_iscontenteditable_flag = false;
+	
+	wccp_pro_log_to_console_if_allowed("function", "disable_copy");
+	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (apply_class_exclusion(e) == "Yes") return true;
+
+	if(wccp_pro_iscontenteditable(e) == true) {return true;}
+	
+	if(is_content_editable_element(current_clicked_element) == true)
+	{
+		return true;
+	}
+	else
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wccp_pro_message(smessage);
+		
+		if (isSafari)
+		{
+			return true;
+		}
+		else
+		{
+			//wccp_pro_clear_any_selection();
+			
+			return false;
+		}
+	}
+	
+	/*disable context menu when shift + right click is pressed*/
+	var shiftPressed = 0;
+	
+	var evt = e?e:window.event;
+	
+	if (parseInt(navigator.appVersion)>3) {
+		
+		if (document.layers && navigator.appName=="Netscape")
+			
+			shiftPressed = (e.modifiers-0>3);
+			
+		else
+			
+			shiftPressed = e.shiftKey;
+			
+		if (shiftPressed) {
+			
+			if (smessage !== "") show_wccp_pro_message(smessage);
+			
+			var isFirefox = typeof InstallTrigger !== 'undefined';   /* Firefox 1.0+ */
+			
+			if (isFirefox) {
+			evt.cancelBubble = true;
+			if (evt.stopPropagation) evt.stopPropagation();
+			if (evt.preventDefault()) evt.preventDefault();
+			show_wccp_pro_message (smessage);
+			wccp_pro_clear_any_selection();
+			return false;
+			}
+			
+			wccp_pro_clear_any_selection();
+			return false;
+		}
+	}
+	
+	if(e.which === 2 ){
+	var clickedTag_a = (e==null) ? event.srcElement.tagName : e.target.tagName;
+	   show_wccp_pro_message(smessage);
+       wccp_pro_clear_any_selection(); return false;
+    }
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	var checker_IMG = 'checked';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail == 2) {show_wccp_pro_message(alertMsg_IMG);wccp_pro_clear_any_selection();return false;}
+
+    //elemtype must be merged by elemtype checker on function disable_copy & disable_hot_keys
+	if (is_content_editable_element(elemtype) == false)
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wccp_pro_message(smessage);
+		
+		if (isSafari)
+		{
+			return true;
+		}
+		else
+		{
+			wccp_pro_clear_any_selection(); return false;
+		}
+	}
+	else
+	{
+		return true;
+	}
+}
+////////////////////////////
+function disable_copy_ie()
+{
+	wccp_pro_log_to_console_if_allowed("function", "disable_copy_ie_function_started");
+	
+	var e = e || window.event;
+	/*also there is no e.target property in IE.*/
+	/*instead IE uses window.event.srcElement*/
+  	var target = e.target || e.srcElement;
+	
+	var elemtype = window.event.srcElement.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+
+	if(wccp_pro_iscontenteditable(e) == true) return true;
+	
+	if (apply_class_exclusion(e) == "Yes") return true;
+	
+	if (elemtype == "IMG") {show_wccp_pro_message(alertMsg_IMG);return false;}
+	
+	//elemtype must be merged by elemtype checker on function disable_copy & disable_hot_keys
+	if (is_content_editable_element(elemtype) == false)
+	{
+		return false;
+	}
+}
+function disable_drag_text(e)
+{
+	wccp_pro_log_to_console_if_allowed("function", "disable_drag_text");
+	
+	/*var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);*/
+	/*if (isSafari) {show_wccp_pro_message(alertMsg_IMG);return false;}*/
+	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement*/
+  	
+	var target = e.target || e.srcElement;
+	
+	/*For contenteditable tags*/
+	
+	if (apply_class_exclusion(e) == "Yes") return true;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	var disable_drag_text_drop = 'checked';
+	
+	if (disable_drag_text_drop != "checked")  return true;
+	
+	if (window.location.href.indexOf("/user/") > -1) {
+      return true; /*To allow users to drag & drop images when editing thier profiles*/
+    }
+	
+	return false;
+}
+
+/*/////////////////special for safari Start////////////////*/
+var onlongtouch;
+
+var timer;
+
+var touchduration = 1000; /*length of time we want the user to touch before we do something*/
+
+var elemtype = "";
+
+function touchstart(e)
+{
+	wccp_pro_log_to_console_if_allowed("function", "touchstart");
+	
+	var e = e || window.event;
+	/*also there is no e.target property in IE.*/
+	/*instead IE uses window.event.srcElement*/
+  	var target = e.target || e.srcElement;
+	
+	elemtype = window.event.srcElement.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if(!wccp_pro_is_passive()) e.preventDefault();
+	if (!timer) {
+		timer = setTimeout(onlongtouch, touchduration);
+	}
+}
+
+function touchend()
+{
+	wccp_pro_log_to_console_if_allowed("function", "touchend");
+	
+    /*stops short touches from firing the event*/
+    if (timer) {
+        clearTimeout(timer);
+        timer = null;
+    }
+	onlongtouch();
+}
+
+onlongtouch = function(e)/*this will clear the current selection if any_not_editable_thing selected*/
+{
+	wccp_pro_log_to_console_if_allowed("function", "onlongtouch");
+	
+	if (is_content_editable_element(elemtype) == false)
+	{
+		if (window.getSelection) {
+			if (window.getSelection().empty) { /*Chrome*/
+			window.getSelection().empty();
+			} else if (window.getSelection().removeAllRanges) {  /*Firefox*/
+			window.getSelection().removeAllRanges();
+			}
+		} else if (document.selection) {  /*IE?*/
+			var textRange = document.body.createTextRange();
+			textRange.moveToElementText(element);
+			textRange.select();
+
+			document.selection.empty();
+		}
+		return false;
+	}
+};
+
+document.addEventListener("DOMContentLoaded", function(event)
+	{ 
+		window.addEventListener("touchstart", touchstart, false);
+		window.addEventListener("touchend", touchend, false);
+	});
+
+
+function wccp_pro_is_passive()
+{
+	wccp_pro_log_to_console_if_allowed("function", "wccp_pro_is_passive");
+	
+	var cold = false,
+	hike = function() {};
+
+	try {
+	var aid = Object.defineProperty({}, 'passive', {
+	get() {cold = true}
+	});
+	window.addEventListener('test', hike, aid);
+	window.removeEventListener('test', hike, aid);
+	} catch (e) {}
+
+	return cold;
+}
+/*/////////////////////////////////////////////////////////////////*/
+function reEnable()
+{
+	return true;
+}
+
+if(navigator.userAgent.indexOf('MSIE')==-1) //If not IE
+{
+	document.ondragstart = disable_drag_text;
+	document.onselectstart = call_disable_copy_WithDelay;
+	document.onselectionchange = call_disable_copy_WithDelay;
+	//document.onmousedown = disable_copy;
+	//document.addEventListener('click', disable_copy, false);
+	//document.addEventListener('click', set_current_clicked_element, false);
+	document.addEventListener('mousedown', set_current_clicked_element, false);
+	//document.onclick = reEnable;
+}else
+{
+	document.onselectstart = disable_copy_ie;
+}
+
+var current_clicked_element = "";
+
+var current_clicked_object = null;
+
+function set_current_clicked_element(e)
+{
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	current_clicked_element = elemtype;
+	
+	console.log("current_clicked_element = " + current_clicked_element);
+}
+</script>
+<script id="wccp_pro_disable_hot_keys">
+/*****************For contenteditable tags***************/
+var wccp_pro_iscontenteditable_flag = false;
+
+function wccp_pro_iscontenteditable(e)
+{
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+	
+	var iscontenteditable = "false";
+		
+	if(typeof target.getAttribute!="undefined" )
+	{
+		iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string
+		
+		if(typeof target.hasAttribute!="undefined")
+		{
+			if(target.hasAttribute("contenteditable"))
+				iscontenteditable = true;
+		}
+	}
+	
+	console.log("iscontenteditable:" + iscontenteditable);
+	
+	var iscontenteditable2 = false;
+	
+	if(typeof target.isContentEditable!="undefined" ) iscontenteditable2 = target.isContentEditable; // Return true or false as boolean
+
+	if(target.parentElement !=null) iscontenteditable2 = target.parentElement.isContentEditable;
+	
+	if (iscontenteditable == "true" || iscontenteditable == true || iscontenteditable2 == true)
+	{
+		if(typeof target.style!="undefined" ) target.style.cursor = "text";
+		
+		//wccp_pro_log_to_console_if_allowed("", iscontenteditable + " " + iscontenteditable2);
+		
+		wccp_pro_iscontenteditable_flag = true;
+		
+		wccp_pro_log_to_console_if_allowed("function", "wccp_pro_iscontenteditable: true");
+		
+		return true;
+	}
+	wccp_pro_log_to_console_if_allowed("function", "wccp_pro_iscontenteditable: false");
+	
+	//wccp_pro_iscontenteditable_flag = false;
+}
+/******************************************************/
+function wccp_pro_clear_any_selection()
+{
+	if(window.wccp_pro_iscontenteditable_flag == true) return;
+	
+	wccp_pro_log_to_console_if_allowed("function", "wccp_pro_clear_any_selection");
+	
+	var myName = wccp_pro_clear_any_selection.caller.toString();
+	
+	myName = myName.substr('function '.length);
+	
+	myName = myName.substr(0, myName.indexOf('('));
+
+	console.log("called_by: " + myName);
+	
+	if (window.getSelection)
+	{
+		if (window.getSelection().empty)
+		{  // Chrome
+			window.getSelection().empty();
+		} else if (window.getSelection().removeAllRanges) 
+		{  // Firefox
+			window.getSelection().removeAllRanges();
+		}
+	} else if (document.selection)
+	{  // IE?
+		document.selection.empty();
+	}
+	
+	//show_wccp_pro_message("You are not allowed to make this operation");
+}
+
+
+/*Is content_editable element*/
+function is_content_editable_element(element_name = "")
+{
+	if (element_name == "TEXT" || element_name == "#TEXT" || element_name == "TEXTAREA" || element_name == "INPUT" || element_name == "PASSWORD" || element_name == "SELECT" || element_name == "OPTION" || element_name == "EMBED" || element_name == "CODE" || element_name == "CODEBLOCK")
+	{
+		wccp_pro_log_to_console_if_allowed("function", "is_content_editable_element: true >>" + element_name);
+		
+		return true;
+	}
+	wccp_pro_log_to_console_if_allowed("function", "is_content_editable_element: false >>" + element_name);
+	
+	return false;
+}
+/*Is selection enabled element*/
+/*
+function is_selection_enabled_element(element_name = "")
+{
+	if (is_content_editable_element == true)
+	{
+		wccp_pro_log_to_console_if_allowed("function", "is_selection_enabled_element: true >>" + element_name);
+		
+		return true;
+	}
+	wccp_pro_log_to_console_if_allowed("function", "is_selection_enabled_element: false >>" + element_name);
+	
+	return false;
+}
+*/
+/*Hot keys function  */
+function disable_hot_keys(e)
+{
+	wccp_pro_log_to_console_if_allowed("function", "disable_hot_keys");
+	
+	e = e || window.event;
+	
+	//console.log(e);
+	
+	if (!e) return;
+	
+	var key;
+
+		if(window.event)
+			  key = window.event.keyCode;     /*IE*/
+		else if (e.hasOwnProperty("which")) key = e.which;     /*firefox (97)*/
+
+	wccp_pro_log_to_console_if_allowed("Data:", key);
+	
+			
+		if (key == 123 || (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) )//F12 chrome developer key disable
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			
+			return false;
+		}
+		
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	var sel = getSelectionTextAndContainerElement();
+	
+	if(elemtype == "BODY" && sel.text != "") elemtype = sel.containerElement.tagName; /* no need for it when tag name is BODY, so we get the selected text tag name */
+
+	/*elemtype must be merged by elemtype checker on function disable_copy & disable_copy_ie*/
+	if (is_content_editable_element(elemtype) == true)
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if(wccp_pro_iscontenteditable(e) == true) elemtype = 'TEXT';
+	
+		if (key == 44)/*For any emement type, text elemtype is not excluded here, (prntscr (44)*/
+		{
+			copyTextToClipboard("");
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}	
+	if (e.ctrlKey || e.metaKey)
+	{
+		if (elemtype!= 'TEXT' && (key == 97 || key == 99 || key == 120 || key == 26 || key == 43))
+		{
+			 show_wccp_pro_message('<b>Alert:</b> You are not allowed to copy content or view source');
+			 return false;
+		}
+		if (elemtype!= 'TEXT')
+		{
+						
+			if (key == 65)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}			
+						
+			if (key == 67)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}			
+						
+			if (key == 88)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}			
+						
+			if (key == 86)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}		}
+				
+		if (key == 85)
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}		
+				if (key == 80)
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}		
+				if (key == 44)
+		{
+			copyTextToClipboard("no");
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}		
+		
+					if (key == 73)//F12 chrome developer key disable
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}
+				
+				
+		if (key == 83)
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}    }
+return true;
+}
+
+
+window.addEventListener('load', function (){
+	if(window.Zepto || !window.jQuery) jQuery =  $;
+	jQuery(document).ready(function() {
+	  jQuery(document).bind("keyup keydown", disable_hot_keys);
+	});
+});
+
+</script>
+<style>
+.wccp_pro_copy_code_button
+{
+	line-height: 6px;
+	width: auto;
+	font-size: 8pt;
+	font-family: tahoma;
+	margin-top: 1px;
+	margin-right: 2px;
+	position:absolute;
+	top:0;
+	right:0;
+	border-radius: 4px;
+	opacity: 100%;
+	margin-top: -30px;
+}
+.wccp_pro_copy_code_button:hover
+{
+	opacity: 100%;
+}
+
+.wccp_pro_copy_code_button[disabled]
+{
+	opacity: 40%;
+	border-color: red;
+}
+code,pre
+{
+	overflow: visible;
+	white-space: pre-line;
+}
+</style>
+<script id="wccp_pro_disable_Right_Click">
+		function nocontext(e) {
+
+			wccp_pro_log_to_console_if_allowed("function", "nocontext");
+			
+			e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+			
+			if (apply_class_exclusion(e) == 'Yes') return true;
+			
+	    	var exception_tags = 'NOTAG,';
+			
+	        var clickedTag = (e==null) ? event.srcElement.tagName : e.target.tagName;
+			
+			console.log("clickedTag: " + clickedTag);
+			
+			var target = e.target || e.srcElement;
+			
+			var parent_tag = ""; var parent_of_parent_tag = "";
+			
+			if(target.parentElement != null)
+			{
+				parent_tag = target.parentElement.tagName;
+				
+				if(target.parentElement.parentElement != null) parent_of_parent_tag = target.parentElement.parentElement.tagName;
+			}
+			
+	        var checker = 'checked';
+	        if ((clickedTag == "IMG" || clickedTag == "FIGURE" || clickedTag == "SVG" || clickedTag == "PROTECTEDIMGDIV") && checker == 'checked') {
+	            if (alertMsg_IMG != "")show_wccp_pro_message(alertMsg_IMG);
+	            return false;
+	        }else {exception_tags = exception_tags + 'IMG,';}
+			
+			checker = '';
+			if ((clickedTag == "VIDEO" || clickedTag == "PROTECTEDWCCPVIDEO" || clickedTag == "EMBED") && checker == 'checked') {
+	            if (alertMsg_VIDEO != "")show_wccp_pro_message(alertMsg_VIDEO);
+	            return false;
+	        }else {exception_tags = exception_tags + 'VIDEO,PROTECTEDWCCPVIDEO,EMBED,';}
+	        
+	        checker = 'checked';
+	        if ((clickedTag == "A" || clickedTag == "TIME" || parent_tag == "A" || parent_of_parent_tag == "A") && checker == 'checked') {
+	            if (alertMsg_A != "")show_wccp_pro_message(alertMsg_A);
+	            return false;
+	        }else {exception_tags = exception_tags + 'A,';if(parent_tag == "A" || parent_of_parent_tag == "A") clickedTag = "A";}
+
+	        checker = 'checked';
+	        if ((clickedTag == "P" || clickedTag == "B" || clickedTag == "FONT" ||  clickedTag == "LI" || clickedTag == "UL" || clickedTag == "STRONG" || clickedTag == "OL" || clickedTag == "BLOCKQUOTE" || clickedTag == "TH" || clickedTag == "TR" || clickedTag == "TD" || clickedTag == "SPAN" || clickedTag == "EM" || clickedTag == "SMALL" || clickedTag == "I" || clickedTag == "BUTTON") && checker == 'checked') {
+	            if (alertMsg_PB != "")show_wccp_pro_message(alertMsg_PB);
+	            return false;
+	        }else {exception_tags = exception_tags + 'P,B,FONT,LI,UL,STRONG,OL,BLOCKQUOTE,TD,SPAN,EM,SMALL,I,BUTTON,';}
+	        
+	        checker = 'checked';
+	        if ((clickedTag == "INPUT" || clickedTag == "PASSWORD") && checker == 'checked') {
+	            if (alertMsg_INPUT != "")show_wccp_pro_message(alertMsg_INPUT);
+	            return false;
+	        }else {exception_tags = exception_tags + 'INPUT,PASSWORD,';}
+	        
+	        checker = 'checked';
+	        if ((clickedTag == "H1" || clickedTag == "H2" || clickedTag == "H3" || clickedTag == "H4" || clickedTag == "H5" || clickedTag == "H6" || clickedTag == "ASIDE" || clickedTag == "NAV") && checker == 'checked') {
+	            if (alertMsg_H != "")show_wccp_pro_message(alertMsg_H);
+	            return false;
+	        }else {exception_tags = exception_tags + 'H1,H2,H3,H4,H5,H6,';}
+	        
+	        checker = 'checked';
+	        if (clickedTag == "TEXTAREA" && checker == 'checked') {
+	            if (alertMsg_TEXTAREA != "")show_wccp_pro_message(alertMsg_TEXTAREA);
+	            return false;
+	        }else {exception_tags = exception_tags + 'TEXTAREA,';}
+	        
+	        checker = 'checked';
+	        if ((clickedTag == "DIV" || clickedTag == "BODY" || clickedTag == "HTML" || clickedTag == "ARTICLE" || clickedTag == "SECTION" || clickedTag == "NAV" || clickedTag == "HEADER" || clickedTag == "FOOTER") && checker == 'checked') {
+	            if (alertMsg_EmptySpaces != "")show_wccp_pro_message(alertMsg_EmptySpaces);
+	            return false;
+	        }
+	        else
+	        {
+	        	if (exception_tags.indexOf(clickedTag)!=-1)
+	        	{
+		        	return true;
+		        }
+	        	else
+	        	return false;
+	        }
+	    }
+		
+		function disable_drag_images(e)
+		{
+			wccp_pro_log_to_console_if_allowed("function", "disable_drag_images");
+			
+			var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+			
+			var target = e.target || e.srcElement;
+			
+			//For contenteditable tags
+			if (apply_class_exclusion(e) == "Yes") return true;
+
+			var elemtype = e.target.nodeName;
+			
+			if (elemtype != "IMG") {return;}
+			
+			elemtype = elemtype.toUpperCase();
+			
+			var disable_drag_drop_images = 'checked';
+			
+			if (disable_drag_drop_images != "checked")  return true;
+			
+			if (window.location.href.indexOf("/user/") > -1) {
+			  return true; //To allow users to drag & drop images when editing thier profiles
+			}
+			
+			show_wccp_pro_message(alertMsg_IMG);
+			
+			return false;
+		}
+		
+	    var alertMsg_IMG = "Alert: Protected image";
+	    var alertMsg_A = "Alert: This link is protected";
+	    var alertMsg_PB = "Alert: Right click on text is disabled";
+	    var alertMsg_INPUT = "Alert: Right click is disabled";
+	    var alertMsg_H = "Alert: Right click on headlines is disabled";
+	    var alertMsg_TEXTAREA = "Alert: Right click is disabled";
+	    var alertMsg_EmptySpaces = "Alert: Right click on empty spaces is disabled";
+		var alertMsg_VIDEO = "Alert: Right click on videos is disabled";
+	    document.oncontextmenu=null;
+		document.oncontextmenu = nocontext;
+		document.addEventListener("contextmenu",nocontext);
+		window.addEventListener("contextmenu",nocontext);
+</script>
+	
+	<script id="wccp_pro_disable_drag_images">
+	document.ondragstart = disable_drag_images;
+		window.addEventListener('load', function (){
+			if(window.Zepto || !window.jQuery) jQuery =  $;
+			jQuery(document).ready(function(){
+				jQuery('img').each(function() {
+					jQuery(this).attr('draggable', false);
+				});
+			});
+		});
+	</script>
+	<style id="wccp_pro_style1">
+		img{
+			-moz-user-select: none;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			-khtml-user-select: none;
+			user-select: none;
+			-webkit-user-drag: none;
+		}
+	</style>
+<style>/* Start your code after this line */
+ 
+/* End your code before this line */</style>	<script id="wccp_pro_css_disable_selection">
+	function wccp_pro_msieversion() 
+		{
+			var ua = window.navigator.userAgent;
+			var msie = ua.indexOf("MSIE");
+			var msie2 = ua.indexOf("Edge");
+			var msie3 = ua.indexOf("Trident");
+
+		if (msie > -1 || msie2 > -1 || msie3 > -1) // If Internet Explorer, return version number
+		{
+			return "IE";
+		}
+		else  // If another browser, return 0
+		{
+			return "otherbrowser";
+		}
+	}
+    
+	var e = document.getElementsByTagName('H1')[0];
+	if(e && wccp_pro_msieversion() == "IE")
+	{
+		e.setAttribute('unselectable',"on");
+	}
+	</script>
+	<!--Smart protection techniques -->
+	<script id="wccp_pro_images_overlay">
+	window.addEventListener('load', function (){
+		if(window.Zepto || !window.jQuery) jQuery =  $;
+		jQuery(document).ready(function() {
+			jQuery('img[class*=wp-image-], img[class*=wp-post-image], .post-thumbnail img, .attachment-large, figure img')
+			.not('.wccp_pro_overlay_protected_img')
+			.wrap('<div style="position: relative;height: 100%;width: 100%;"></div>')
+			.after('<ProtectedImgDiv class="protectionOverlaytext"><img class="wccp_pro_overlay_protected_img" src= "https://idrw.org/wp-content/plugins/wccp-pro/images/transparent.gif" style="width:100%; height:100%" /></ProtectedImgDiv>')
+			.addClass('wccp_pro_overlay_protected_img');
+		});
+	});
+	</script>
+	<style id="wccp_pro_style3">
+	.protectionOverlaytext{
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		display: block;
+		z-index: auto;
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+
+		font-weight: bold;
+		opacity: 0.0065;
+		text-align: center;
+		transform: rotate(0deg);
+	}
+	.protectionOverlaytext img{
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		pointer-events: none;
+	}
+	</style>
+	<!--Smart protection techniques -->
+	
+				<!-- Redirect to another page (for no-js support) -->
+				<noscript><meta http-equiv="refresh" content="0;url=https://idrw.org/wp-content/plugins/wccp-pro/no-js.php?referrer=https://idrw.org/india-and-russia-expand-nuclear-cooperation-with-new-reactor-sites/?cook=wccp_h_s"></noscript><noscript><style>
+						body { display:none; }
+					</style>
+				</noscript>
+				<!-- Show a message -->
+				<noscript>You dont have javascript enabled! Please enable it!</noscript>
+			<script id="wccp_pro_class_exclusion">
+function copyToClipboard(elem) {
+	  // create hidden text element, if it doesn't already exist
+    var targetId = "_wccp_pro_hiddenCopyText_";
+    {
+        // must use a temporary form element for the selection and copy
+        target = document.getElementById(targetId);
+        if (!target) {
+            var target = document.createElement("textarea");
+            target.style.position = "absolute";
+            target.style.left = "-9999px";
+            target.style.top = "0";
+            target.id = targetId;
+            document.body.appendChild(target);
+        }
+        target.textContent = elem.textContent;
+    }
+    // select the content
+    var currentFocus = document.activeElement;
+    target.focus();
+    target.setSelectionRange(0, target.value.length);
+    
+    // copy the selection
+    var succeed;
+    try {
+    	  succeed = document.execCommand("copy");
+    } catch(e) {
+        succeed = false;
+    }
+
+    // restore original focus
+    if (currentFocus && typeof currentFocus.focus === "function") {
+        currentFocus.focus();
+    }
+    
+    
+	// clear temporary content
+	target.textContent = "";
+	document.getElementsByTagName('span')[0].innerHTML = " ";
+    return succeed;
+}
+/**************************************************/
+function wccp_pro_log_to_console_if_allowed(title = "title", data = "")
+{
+	var myName = "";
+	
+	if(wccp_pro_log_to_console_if_allowed.caller != null) myName = wccp_pro_log_to_console_if_allowed.caller.toString();
+	
+	myName = myName.substr('function '.length);
+	
+	myName = myName.substr(0, myName.indexOf('('));
+
+	//console.log("function_name: " + myName);
+	
+	}
+/**************************************************/
+function fallbackCopyTextToClipboard(text) {
+  var textArea = document.createElement("textarea");
+  textArea.value = text;
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+
+  try {
+    var successful = document.execCommand("copy");
+    var msg = successful ? "successful" : "unsuccessful";
+    console.log("Fallback: Copying text command was " + msg);
+  } catch (err) {
+    console.error("Fallback: Oops, unable to copy", err);
+  }
+
+  document.body.removeChild(textArea);
+}
+/*****************************************/
+function copyTextToClipboard(text) {
+  if (!navigator.clipboard) {
+    fallbackCopyTextToClipboard(text);
+    return;
+  }
+  navigator.clipboard.writeText(text).then(
+    function() {
+      console.log("Async: Copying to clipboard was successful!");
+    },
+    function(err) {
+      console.error("Async: Could not copy text: ", err);
+    }
+  );
+}
+/*****************************************/
+/*getSelectionTextAndContainerElement*/
+function getSelectionTextAndContainerElement()
+{
+    var text = "", containerElement = null;
+    if (typeof window.getSelection != "undefined") {
+        var sel = window.getSelection();
+        if (sel.rangeCount) {
+            var node = sel.getRangeAt(0).commonAncestorContainer;
+            containerElement = node.nodeType == 1 ? node : node.parentNode;
+			if (typeof(containerElement.parentElement) != 'undefined') current_clicked_object = containerElement.parentElement;
+            text = sel.toString();
+        }
+    } else if (typeof document.selection != "undefined" && document.selection.type != "Control")
+	{
+        var textRange = document.selection.createRange();
+        containerElement = textRange.parentElement();
+        text = textRange.text;
+    }
+    
+	return {
+        text: text,
+        containerElement: containerElement
+    };
+}
+
+function getSelectionParentElement() {
+    var parentEl = null, sel;
+	
+    if (window.getSelection) {
+        sel = window.getSelection();
+        if (sel.rangeCount) {
+            parentEl = sel.getRangeAt(0).commonAncestorContainer;
+			//sel.getRangeAt(0).startContainer.parentNode;
+            if (parentEl.nodeType != 1) {
+                parentEl = parentEl.parentNode;
+            }
+        }
+    } else if ( (sel = document.selection) && sel.type != "Control") {
+        parentEl = sel.createRange().parentElement();
+    }
+	
+	let arr = new Array();
+	
+	arr["nodeName"] = "cant_find_parent_element";
+	
+	if(parentEl != null)
+		return parentEl;
+	else
+		return arr;
+}
+/*****************************************/
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+/*****************************************/
+</script>
+
+<script id="apply_class_exclusion">
+function apply_class_exclusion(e)
+{
+	wccp_pro_log_to_console_if_allowed("function", "apply_class_exclusion" + e);
+	
+	var my_return = 'No';
+	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement || 'nothing';
+	
+	//if(target.parentElement != null) console.log (target.parentElement.className);
+	
+	var excluded_classes = '' + '';
+	
+	var class_to_exclude = "";
+	
+	if(target.parentElement != null)
+	{
+		class_to_exclude = target.className + ' ' + target.parentElement.className || '';
+	}else{
+		class_to_exclude = target.className;
+	}
+	
+	var class_to_exclude_array = Array();
+	
+	//console.log(class_to_exclude);
+	
+	if (typeof(class_to_exclude) != 'undefined') class_to_exclude_array = class_to_exclude.split(" ");
+	
+	//console.log (class_to_exclude_array);
+	
+	class_to_exclude_array.forEach(function(item)
+	{
+		if(item != '' && excluded_classes.indexOf(item)>=0)
+		{
+			//target.style.cursor = "text";
+			
+			//console.log ('Yes');
+			
+			my_return = 'Yes';
+		}
+	});
+
+	try {
+		class_to_exclude = target.parentElement.getAttribute('class') || target.parentElement.className || '';
+		}
+	catch(err) 
+		{
+		class_to_exclude = '';
+		}
+	
+	if(class_to_exclude != '' && excluded_classes.indexOf(class_to_exclude)>=0)
+	{
+		//target.style.cursor = "text";
+		my_return = 'Yes';
+	}
+
+	return my_return;
+}
+</script>
+<style id="wccp_pro_style2" data-asas-style="">
+
+	
+	*[contenteditable] , [contenteditable] *,*[contenteditable="true"] , [contenteditable="true"] * { /* for contenteditable tags*/ , /* for tags inside contenteditable tags*/
+	  -webkit-user-select: auto !important;
+	  cursor: text !important;
+	  user-select: text !important;
+	  pointer-events: auto !important;
+	}
+	
+	/*
+	*[contenteditable]::selection, [contenteditable] *::selection, [contenteditable="true"]::selection, [contenteditable="true"] *::selection { background: Highlight !important; color: HighlightText !important;}
+	*[contenteditable]::-moz-selection, [contenteditable="true"] *::-moz-selection { background: Highlight !important; color: HighlightText !important;}
+	input::selection,textarea::selection, code::selection, code > *::selection { background: Highlight !important; color: HighlightText !important;}
+	input::-moz-selection,textarea::-moz-selection, code::-moz-selection, code > *::-moz-selection { background: Highlight !important; color: HighlightText !important;}
+	*/
+	a{ cursor: pointer ; pointer-events: auto !important;}
+
+	</style><style>TEXT,TEXTAREA,input[type="text"] {cursor: text !important; user-select: text !important;}</style>	<script id="wccp_pro_alert_message">
+	window.addEventListener('DOMContentLoaded', function() {}); //This line to stop JS deffer function in wp-rockt pluign
+	
+	window.addEventListener('load', function (){
+		// Create the first div element with the "oncontextmenu" attribute
+		const wccp_pro_mask = document.createElement('div');
+		wccp_pro_mask.setAttribute('oncontextmenu', 'return false;');
+		wccp_pro_mask.setAttribute('id', 'wccp_pro_mask');
+
+		// Create the second div element with the "msgmsg-box-wpcp hideme" classes
+		const wpcp_error_message = document.createElement('div');
+		wpcp_error_message.setAttribute('id', 'wpcp-error-message');
+		wpcp_error_message.setAttribute('class', 'msgmsg-box-wpcp hideme');
+
+		// Add a span element with the "error: " text inside the second div
+		const error_span = document.createElement('span');
+		error_span.innerText = 'error: ';
+		wpcp_error_message.appendChild(error_span);
+
+		// Add the error message text inside the second div
+		const error_text = document.createTextNode('<b>Alert: </b>Content selection is disabled!!');
+		wpcp_error_message.appendChild(error_text);
+
+		// Add the div elements to the document body
+		document.body.appendChild(wccp_pro_mask);
+		document.body.appendChild(wpcp_error_message);
+	});
+
+	var timeout_result;
+	function show_wccp_pro_message(smessage="", style="")
+	{
+		wccp_pro_log_to_console_if_allowed("function", "show_wccp_pro_message" + smessage);
+				
+		timeout = 3000;
+		
+		if(style == "") style = "warning-wpcp";
+		
+		if (smessage !== "" && timeout!=0)
+		{
+			var smessage_text = smessage;
+			jquery_fadeTo();
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp showme " + style;
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, timeout);
+		}
+		else
+		{
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, timeout);
+		}
+	}
+	function hide_message()
+	{
+		jquery_fadeOut();
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	function jquery_fadeTo()
+	{
+		try {
+			jQuery("#wccp_pro_mask").fadeTo("slow", 0.3);
+		}
+		catch(err) {
+			//alert(err.message);
+			}
+	}
+	function jquery_fadeOut()
+	{
+		try {
+			jQuery("#wccp_pro_mask").fadeOut( "slow" );
+		}
+		catch(err) {}
+	}
+	</script>
+	<style>
+	#wccp_pro_mask
+	{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		position: fixed;
+		right: 0;
+		top: 0;
+		background-color: #000;
+		pointer-events: none;
+		display: none;
+		z-index: 10000;
+		animation: 0.5s ease 0s normal none 1 running ngdialog-fadein;
+		background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+	}
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+		pointer-events: none;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border-radius: 10px;
+		color: #555555;
+		font-family: Tahoma;
+		font-size: 12px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+	}
+	.msgmsg-box-wpcp b {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+		.warning-wpcp {
+		background:#ffecec url('https://idrw.org/wp-content/plugins/wccp-pro/images/warning.png') no-repeat 10px 50%;
+		border:1px solid #f2bfbf;
+		-webkit-box-shadow: 0px 0px 34px 2px #f2bfbf;
+		-moz-box-shadow: 0px 0px 34px 2px #f2bfbf;
+		box-shadow: 0px 0px 34px 2px #f2bfbf;
+	}
+	.success-wpcp {
+		background: #fafafa url('https://idrw.org/wp-content/plugins/wccp-pro/images/success.png') no-repeat 10px 50%;
+		border: 1px solid #00b38f;
+		box-shadow: 0px 0px 34px 2px #adc;
+	}
+    </style>
+<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/idrw.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://idrw.org/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='widgetopts-styles-css' href='https://idrw.org/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='css-protect.css-css' href='https://idrw.org/wp-content/plugins/wccp-pro/css-protect.css?wccp_ver_num=16&#038;ver=10.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='print-protection.css-css' href='https://idrw.org/wp-content/plugins/wccp-pro/css/print-protection.css?wccp_ver_num=16&#038;ver=6.5.3' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='style.ie7.css-css' href='https://idrw.org/wp-content/themes/2022A/style.ie7.css?ver=6.5.3' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='style.responsive.css-css' href='https://idrw.org/wp-content/themes/2022A/style.responsive.css?ver=6.5.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://idrw.org/wp-content/themes/2022A/jquery.js?ver=6.5.3" id="jquery-js"></script>
+<script type="text/javascript" src="https://idrw.org/wp-content/themes/2022A/jquery-migrate-1.1.1.js?ver=6.5.3" id="jquery_migrate-js"></script>
+<script type="text/javascript" src="https://idrw.org/wp-content/themes/2022A/script.js?ver=6.5.3" id="script.js-js"></script>
+<script type="text/javascript" src="https://idrw.org/wp-content/themes/2022A/script.responsive.js?ver=6.5.3" id="script.responsive.js-js"></script>
+<link rel="https://api.w.org/" href="https://idrw.org/wp-json/" /><link rel="alternate" type="application/json" href="https://idrw.org/wp-json/wp/v2/posts/341965" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://idrw.org/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://idrw.org/india-and-russia-expand-nuclear-cooperation-with-new-reactor-sites/" />
+<link rel='shortlink' href='https://idrw.org/?p=341965' />
+<link rel="alternate" type="application/json+oembed" href="https://idrw.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fidrw.org%2Findia-and-russia-expand-nuclear-cooperation-with-new-reactor-sites%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://idrw.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fidrw.org%2Findia-and-russia-expand-nuclear-cooperation-with-new-reactor-sites%2F&#038;format=xml" />
+
+
+
+<link rel="icon" href="https://idrw.org/wp-content/uploads/2015/01/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://idrw.org/wp-content/uploads/2015/01/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://idrw.org/wp-content/uploads/2015/01/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://idrw.org/wp-content/uploads/2015/01/cropped-logo-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*css to disable text highlight will not be able to use ctrl + C  */
+
+body {
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	user-select: none; 
+}
+/*CSS ends */
+
+
+
+/*css to remove image load option in mobile */
+
+img {
+	pointer-events: none;
+}
+
+/*CSS ends */		</style>
+			<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TSNDLH1LT2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TSNDLH1LT2');
+</script>
+</head>
+<body class="post-template-default single single-post postid-341965 single-format-standard unselectable">
+
+<div id="art-main">
+
+<header class="art-header">
+
+    <div class="art-shapes">
+        <div class="art-object1208640248"></div>
+
+            </div>
+
+
+
+
+
+
+                        
+                    
+</header>
+
+<nav class="art-nav">
+    <div class="art-nav-inner">
+    
+<ul class="art-hmenu menu-10">
+	<li class="menu-item-8407"><a title="Home" href="http://idrw.org">Home</a>
+	</li>
+	<li class="menu-item-8399"><a title="India" href="https://idrw.org/category/india/">India</a>
+	</li>
+	<li class="menu-item-8400"><a title="Asia" href="https://idrw.org/category/asia/">Asia</a>
+	</li>
+	<li class="menu-item-141627"><a title="News Beat" href="https://idrw.org/category/news-beat/">News Beat</a>
+	</li>
+	<li class="menu-item-8403"><a title="Exclusive" href="https://idrw.org/category/exclusive/">Exclusive</a>
+	</li>
+	<li class="menu-item-8404"><a title="My Take" href="https://idrw.org/category/my-take/">My Take</a>
+	</li>
+	<li class="menu-item-59534"><a title="ABOUT US" href="https://idrw.org/about-us/">ABOUT US</a>
+	</li>
+	<li class="menu-item-318089"><a title="Privacy Policy" href="https://idrw.org/privacy-policy/">Privacy Policy</a>
+	</li>
+</ul>
+ 
+        </div>
+    </nav><div class="art-sheet clearfix">
+            <div class="art-layout-wrapper">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        
+
+<div class="art-layout-cell art-sidebar1"><div  id="archives-4" class="art-block widget widget_archive  clearfix">
+        <div class="art-blockheader">
+            <div class="t">Archives</div>
+        </div><div class="art-blockcontent">		<label class="screen-reader-text" for="archives-dropdown-4">Archives</label>
+		<select id="archives-dropdown-4" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://idrw.org/2024/05/'> May 2024 &nbsp;(691)</option>
+	<option value='https://idrw.org/2024/04/'> April 2024 &nbsp;(601)</option>
+	<option value='https://idrw.org/2024/03/'> March 2024 &nbsp;(330)</option>
+	<option value='https://idrw.org/2024/02/'> February 2024 &nbsp;(236)</option>
+	<option value='https://idrw.org/2024/01/'> January 2024 &nbsp;(156)</option>
+	<option value='https://idrw.org/2023/12/'> December 2023 &nbsp;(151)</option>
+	<option value='https://idrw.org/2023/11/'> November 2023 &nbsp;(152)</option>
+	<option value='https://idrw.org/2023/10/'> October 2023 &nbsp;(155)</option>
+	<option value='https://idrw.org/2023/09/'> September 2023 &nbsp;(148)</option>
+	<option value='https://idrw.org/2023/08/'> August 2023 &nbsp;(153)</option>
+	<option value='https://idrw.org/2023/07/'> July 2023 &nbsp;(115)</option>
+	<option value='https://idrw.org/2023/06/'> June 2023 &nbsp;(89)</option>
+	<option value='https://idrw.org/2023/05/'> May 2023 &nbsp;(93)</option>
+	<option value='https://idrw.org/2023/04/'> April 2023 &nbsp;(90)</option>
+	<option value='https://idrw.org/2023/03/'> March 2023 &nbsp;(107)</option>
+	<option value='https://idrw.org/2023/02/'> February 2023 &nbsp;(98)</option>
+	<option value='https://idrw.org/2023/01/'> January 2023 &nbsp;(98)</option>
+	<option value='https://idrw.org/2022/12/'> December 2022 &nbsp;(87)</option>
+	<option value='https://idrw.org/2022/11/'> November 2022 &nbsp;(75)</option>
+	<option value='https://idrw.org/2022/10/'> October 2022 &nbsp;(56)</option>
+
+		</select>
+
+			<script type="text/javascript">
+/* <![CDATA[ */
+
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-4" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+
+/* ]]> */
+</script>
+</div>
+</div><div  id="text-6" class="art-block widget widget_text  clearfix">
+        <div class="art-blockcontent">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-5860922178882456"
+     data-ad-slot="1422768745"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>
+</div><div  id="text-50" class="art-block widget widget_text  clearfix">
+        <div class="art-blockcontent">			<div class="textwidget"></div>
+		</div>
+</div></div>
+                        <div class="art-layout-cell art-content">
+				<article id="text-37"  class="art-post art-article  widget widget_text" style="">
+                                                                                                <div class="art-postcontent clearfix">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-5860922178882456"
+     data-ad-slot="7669854341"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>
+                                                
+
+</article>
+					<article class="art-post art-article " style="">
+                                                                                                <div class="art-postcontent clearfix"><div class="navigation">
+    <div class="alignleft">&laquo; <a href="https://idrw.org/india-sends-warships-to-south-china-sea-in-show-of-force/" title="India Sends Warships to South China Sea in Show of Force" rel="prev">India Sends Warships to South China Sea in Show of Force</a></div>
+    <div class="alignright"><a href="https://idrw.org/why-iaf-wanted-this-engine-for-tejas-mkii-program-and-not-f414/" title="Why IAF wanted this engine for Tejas MkII Program and not F414" rel="next">Why IAF wanted this engine for Tejas MkII Program and not F414</a> &raquo;</div>
+ </div></div>
+                                                
+
+</article>
+		<article id="post-341965"  class="art-post art-article  post-341965 post type-post status-publish format-standard hentry category-afi" style="">
+                                <div class="art-postmetadataheader"><h1 class="art-postheader entry-title">India and Russia Expand Nuclear Cooperation with New Reactor Sites</h1></div>                                                <div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><span class="date">Published</span> <span class="entry-date updated" title="8:10 am">May 21, 2024</span></span> | <span class="art-postauthoricon"><span class="author">By</span> <span class="author vcard"><a class="url fn n" href="https://idrw.org/author/ajay/" title="View all posts by admin">admin</a></span></span></div>                <div class="art-postcontent clearfix">
+<p>SOURCE: AFI</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7MRAeWVernRPvHvezYYJF3bURs_h0E_pEOsDfVVFwA&amp;s" alt="" style="width:446px;height:auto"/></figure></div>
+
+
+<p>Indian External Affairs Minister S. Jaishankar has announced that New Delhi and Moscow are in the process of identifying additional sites for the construction of Russian-built nuclear reactors in India. Speaking at an event in Mumbai, Jaishankar highlighted the ongoing collaboration between the two nations, particularly emphasizing the significant progress made at the Kudankulam Nuclear Power Plant (KKNPP) in Tamil Nadu.</p>
+
+
+
+<p>Kudankulam, India&#8217;s largest nuclear power plant, has seen substantial development with the help of Russia&#8217;s state-owned nuclear energy corporation, Rosatom. Four reactors, each with a capacity of 1,000 Megawatts (MW), are already operational at the site. In December, India and Russia reached an agreement to construct two additional reactors, further enhancing the plant&#8217;s capacity and reinforcing the strategic partnership between the two countries in the energy sector.</p>
+
+
+
+<span id="more-341965"></span>
+
+
+
+<p>&#8220;We are currently in discussions regarding the progress at Kudankulam. In fact, we are exploring additional sites for Russian reactors,&#8221; Jaishankar stated, underscoring the commitment to expand India&#8217;s nuclear energy infrastructure.</p>
+
+
+
+<p>While the collaboration with Russia advances, India faces hurdles in its civil nuclear agreements with other countries due to liability issues stemming from the Civil Liability for Nuclear Damage Act of 2010. This legislation, which holds suppliers accountable for any nuclear incidents, has complicated negotiations and delayed projects with other international partners.</p>
+
+
+
+<p>As India continues to navigate the complexities of international nuclear agreements and domestic legislation, the expansion of nuclear infrastructure through reliable partnerships remains a top priority. The successful development of additional reactors will not only bolster India&#8217;s energy capacity but also reinforce its position as a key player in the global nuclear energy landscape.</p>
+</div>
+                                <div class="art-postmetadatafooter"><div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><span class="categories">Posted in</span> <a href="https://idrw.org/category/afi/" rel="category tag">AFI</a></span></div></div>                
+
+</article>
+					<article id="text-22"  class="art-post art-article  widget widget_text" style="">
+                                                                                                <div class="art-postcontent clearfix">			<div class="textwidget"><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-402688-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+		</div>
+                                                
+
+</article>
+		<article id="text-53"  class="art-post art-article  widget widget_text" style="">
+                                                                                                <div class="art-postcontent clearfix">			<div class="textwidget"><p><!-- Google tag (gtag.js) --><br />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TSNDLH1LT2"></script><br />
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());</p>
+<p>  gtag('config', 'G-TSNDLH1LT2');
+</script></p>
+</div>
+		</div>
+                                                
+
+</article>
+		<article id="text-43"  class="art-post art-article  widget widget_text" style="">
+                                                                                                <div class="art-postcontent clearfix">			<div class="textwidget"></div>
+		</div>
+                                                
+
+</article>
+		<article id="text-52"  class="art-post art-article  widget widget_text" style="">
+                                                                                                <div class="art-postcontent clearfix">			<div class="textwidget"><p><script async src="https://fundingchoicesmessages.google.com/i/pub-5860922178882456?ers=1" nonce="N5gOg_sOy5E5h3xTbV1x7Q"></script><script nonce="N5gOg_sOy5E5h3xTbV1x7Q">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script></p>
+</div>
+		</div>
+                                                
+
+</article>
+	
+
+                        </div>
+                        
+
+<div class="art-layout-cell art-sidebar2"><div  id="categories-5" class="art-block widget widget_categories  clearfix">
+        <div class="art-blockheader">
+            <div class="t">Categories</div>
+        </div><div class="art-blockcontent">
+			<ul>
+					<li class="cat-item cat-item-156"><a href="https://idrw.org/category/afi/">AFI</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://idrw.org/category/asia/">Asia</a>
+</li>
+	<li class="cat-item cat-item-155"><a href="https://idrw.org/category/europe/">Europe</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://idrw.org/category/exclusive/">Exclusive</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="https://idrw.org/category/idrw-team/">Idrw Team</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://idrw.org/category/india/">India</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://idrw.org/category/my-take/">My Take</a>
+</li>
+	<li class="cat-item cat-item-154"><a href="https://idrw.org/category/n-s-america/">N &amp; S America</a>
+</li>
+	<li class="cat-item cat-item-148"><a href="https://idrw.org/category/news-beat/">News Beat</a>
+</li>
+			</ul>
+
+			</div>
+</div><div  id="text-42" class="art-block widget widget_text  clearfix">
+        <div class="art-blockcontent">			<div class="textwidget"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- SkyScraper2 --><br />
+<ins class="adsbygoogle" style="display: inline-block; width: 160px; height: 600px;" data-ad-client="ca-pub-5860922178882456" data-ad-slot="8052448674"></ins><br />
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</div>
+</div><div  id="text-34" class="art-block widget widget_text  clearfix">
+        <div class="art-blockcontent">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- SkyScraper2 -->
+<ins class="adsbygoogle" style="display: inline-block; width: 160px; height: 600px;" data-ad-client="ca-pub-5860922178882456" data-ad-slot="8052448674"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>
+</div></div>
+                    </div>
+                </div>
+            </div>
+    </div>
+<footer class="art-footer">
+  <div class="art-footer-inner"><div class="art-footer-text">
+  
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/idrw.org"><img width="32" height="32" alt="" src="https://idrw.org/wp-content/themes/2022A/images/facebook-06.png" /></a>&nbsp;<a href="https://www.youtube.com/channel/UChCONU0XnVC2671b7Jf7lcQ"><img width="32" height="32" alt="" src="https://idrw.org/wp-content/themes/2022A/images/youtube-09.png" class="" /></a><br /></p><p><span style="color: #FCFCFC;">Copyright © idrw.org 2006-2022. All Rights Reserved.Fair Use&nbsp;</span><br /></p><p>idrw.org</p><p><br /></p>
+  
+
+</div>
+</div>
+</footer>
+
+</div>
+
+
+<div id="wp-footer">
+	<script type="text/javascript" id="wccp_pro_admin_bar_ajax-js-extra">
+/* <![CDATA[ */
+var ajax_object = {"ajaxurl":"https:\/\/idrw.org\/wp-admin\/admin-ajax.php","link":"https:\/\/idrw.org\/india-and-russia-expand-nuclear-cooperation-with-new-reactor-sites\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://idrw.org/wp-content/plugins/wccp-pro/js/admin_bar_ajax.js?ver=6.5.3" id="wccp_pro_admin_bar_ajax-js"></script>
+	<!-- 34 queries. 0.405 seconds. -->
+</div>
+</body>
+</html>
+
+
+<!-- Dynamic page generated in 0.396 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2024-05-24 03:54:49 -->
+
+<!-- super cache -->

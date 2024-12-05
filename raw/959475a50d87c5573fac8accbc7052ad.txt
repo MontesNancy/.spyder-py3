@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cloudflare error page</title>
+<style>body{align-items:center;background-color:#f8f8f8;display:flex;height:100vh;justify-content:center;margin:0}.error-message-main{background-color:#fff;height:563px;position:relative;width:600px}.error-message-main:before{background-color:#a5181b;content:"";display:block;height:10px;left:0;position:absolute;top:0;width:100%;z-index:1}.error-message-main>svg{left:30.08px;position:absolute;top:1px;z-index:1}.error-message-main-content{background-color:#fff;height:342px;margin:126px auto auto;position:relative;text-align:center;width:489px}.error-message-main-content svg{margin:auto auto 25px}.error-message-main-content h1,.error-message-main-content h3,.error-message-main-content p{margin-top:0}.error-message-main-content h1{color:#252525;font-family:Helvetica Neue;font-size:40px;font-weight:700;letter-spacing:0;line-height:49px;text-align:center}.error-message-main-content h3{color:#000;font-weight:700}.error-message-main-content h3,.error-message-main-content p{font-family:Helvetica Neue;font-size:16px;letter-spacing:0;line-height:24px;text-align:center}@media screen and (max-width:600px){body{height:unset}.error-message-main{margin:20px 20px 80px;padding:0 15px 15px}.error-message-main,.error-message-main-content{height:unset;width:100%}}</style>
+
+</head>
+<body>
+<div class="error-message-main">
+<svg width="105px" height="87px" viewBox="0 0 105 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>8C243147-B587-411B-BB60-20286DFFD418</title>
+<g id="Static-pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="JNS-VPN-blocking-page" transform="translate(-451, -257)">
+<g id="JNS-logo" transform="translate(451.0757, 257)">
+<rect id="Rectangle" stroke="#A5181B" fill="#FFFFFF" x="0.5" y="0.5" width="103.302981" height="85.746988"></rect>
+<g id="Group-26" transform="translate(9.8813, 10.8434)" fill="#A5181B" fill-rule="nonzero">
+<path d="M0,65.060241 L0,57.4482649 C4.62231604,57.4482649 7.7484792,56.9077695 9.37848948,55.8267788 C11.0084998,54.7457882 11.8235049,52.8056768 11.8235049,50.0064447 L11.8235049,21.2000447 L5.12894086,21.2000447 L5.12894086,14.1686007 L20.4903475,14.1686007 L20.4903475,49.8713209 C20.4903475,55.1061184 18.8196717,58.942968 15.47832,61.3818699 C12.1369684,63.8207717 6.97752839,65.0468954 0,65.060241 Z M15.8798922,0.000616270683 C17.2187286,-0.0205596887 18.5067537,0.504799042 19.4381267,1.45194636 C20.4001506,2.36891675 20.933761,3.63702403 20.9122524,4.95515692 C20.933761,6.27328981 20.4001506,7.54139709 19.4381267,8.45836748 C18.4957188,9.38987461 17.2152985,9.91349968 15.8798922,9.91349968 C14.5444859,9.91349968 13.2640656,9.38987461 12.3216577,8.45836748 C11.3591192,7.54174172 10.825412,6.27340448 10.847532,4.95515692 C10.8260234,3.63702403 11.3596338,2.36891675 12.3216577,1.45194636 C13.2530307,0.504799042 14.5410558,-0.0205596887 15.8798922,0.000616270683 Z" id="Shape"></path>
+<path d="M48.2030171,50.2581756 L48.2030171,29.1802305 C48.2030171,26.0708882 47.5986151,23.8004691 46.3898112,22.3689732 C45.1810072,20.9374772 43.205727,20.2217293 40.4639705,20.2217293 C39.0490101,20.2601681 37.6622452,20.6207834 36.4121137,21.2753769 C35.0857107,21.875534 33.9201268,22.7733398 33.0085539,23.8970118 L33.0085539,50.2581756 L24.3983581,50.2581756 L24.3983581,13.7600233 L30.6027639,13.7600233 L32.1931177,17.165652 C34.5567009,14.4424807 38.0227268,13.080895 42.5911954,13.080895 C46.980707,13.080895 50.4517977,14.380893 53.0044675,16.9808891 C55.5571373,19.580895 56.8267191,23.2145545 56.8133196,27.881897 L56.8133196,50.2581756 L48.2030171,50.2581756 Z" id="Path"></path>
+<path d="M60.0609988,47.9075293 L63.1166213,41.1310155 C65.5689524,43.1137419 68.6416931,44.1857284 71.8052612,44.1622195 C75.1612442,44.1622195 76.8392357,42.9820308 76.8392357,40.6216533 C76.8761267,39.3191948 76.3217911,38.0690759 75.3290433,37.2159183 C74.3222484,36.3303606 72.3657103,35.2866676 69.4594291,34.0848393 C63.1199772,31.4747745 59.9502513,27.8126938 59.9502513,23.0985972 C59.9502513,19.9425495 61.1634392,17.4839617 63.5898149,15.7228338 C66.0161905,13.9617059 69.1171188,13.080895 72.8925997,13.080895 C76.6414572,13.0639872 80.3395638,13.9408777 83.675373,15.6379401 L81.1684537,22.2446666 C79.2924592,20.6566552 76.6831824,19.8626496 73.3406234,19.8626496 C70.3403746,19.8626496 68.8419282,21.0428383 68.8452842,23.4032157 C68.8452842,24.3353817 69.3369357,25.1676728 70.3202387,25.9000889 C71.3035417,26.6325051 73.409421,27.6312544 76.6378767,28.8963368 C79.8663323,30.15809 82.1903505,31.6845119 83.6099313,33.4756022 C85.049059,35.3333563 85.8008389,37.6253276 85.7393025,39.9674725 C85.7393025,43.3499034 84.4740969,46.0132349 81.9436858,47.9574668 C79.4132746,49.9016987 75.978426,50.8954542 71.63914,50.9387334 C69.6583936,50.9901841 67.6791327,50.7904834 65.7493899,50.3444776 C63.7705949,49.7370228 61.8634757,48.919999 60.0609988,47.9075293 L60.0609988,47.9075293 Z" id="Path"></path>
+</g>
+</g>
+</g>
+</g>
+</svg>
+<div class="error-message-main-content">
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>DB801F57-8229-47BD-A2AA-4F121067695C</title>
+<g id="Static-pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="JNS-VPN-blocking-page" transform="translate(-690, -383)" stroke="#252525">
+<g id="Block-icon" transform="translate(691, 384)">
+<circle id="Oval" cx="30" cy="30" r="30"></circle>
+<line x1="30" y1="-7.33279365e-12" x2="30" y2="60" id="Path-3" transform="translate(30, 30) rotate(-45) translate(-30, -30)"></line>
+</g>
+</g>
+</g>
+</svg>
+<h1>Sorry, you have been blocked</h1>
+<h3>Like many other Israel-focused websites, JNS.org has been under intensified cyber-attack since the beginning of the war. </h3>
+<p> As a cyber-security measure, JNS.org is no longer accessible via VPN. Please turn off your VPN before accessing the website.</p>
+<p>If this problem persists, please email us at community AT JNS.org. Be sure to include in the message the following Ray ID 8888a15a0841225c and IP 201.138.177.16.</p>
+</div>
+</div>
+</body>
+</html>

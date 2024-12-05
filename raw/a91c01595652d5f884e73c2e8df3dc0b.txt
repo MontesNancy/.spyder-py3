@@ -1,0 +1,494 @@
+<!doctype html>
+<html  lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" itemscope itemtype="http://schema.org/WebPage">
+<head>
+<meta charset="utf-8">
+<title>Azerbaijan, which destroys monuments, urges UNESCO to "save" Kond – “Geghard” SAF | ARMENPRESS Armenian News Agency </title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" itemprop="description" content="YEREVAN, MAY 23, ARMENPRESS. In line with its aggressive and expansionist anti-Armenian agenda, Azerbaijan continues to spread false information and propaganda, &amp;ldquo;Geghard&amp;rdquo; Scientific and Analytical Foundation said in a statement. The Foundation adds that for years, dedicating considerable effort and resources, Baku has sought to portray the over 2800-year-old city of Yerevan as &quot;Azerbaijani.&quot;" />
+<meta name='yandex-verification' content='72771f398cd42e1b' />
+<meta name="keywords" content="" />
+<meta name="generator" content="armenpress.am v1.0" />
+<meta name="robots" content="all" />
+<meta name="zen-verification" content="uUoeIyrfNzSNpA2zL6C0XpZvz8bg78bgGn5gD9VinEwjueISRDwNv0jZXnYzmf6S" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="/assets/favicon/site.webmanifest">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#222161">
+<link rel="shortcut icon" href="/assets/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#222161">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+<meta name="theme-color" content="#222161">
+
+<meta itemprop="url" content="https://armenpress.am/"/>
+<meta itemprop="about" content="https://armenpress.am/eng/about/"/>
+
+<meta property="fb:pages" content="154089991350597" />
+<meta property="og:site_name" content="armenpress.am">
+<meta property="og:title" content="Azerbaijan, which destroys monuments, urges UNESCO to "save" Kond – “Geghard” SAF">
+<meta property="og:description" content="YEREVAN, MAY 23, ARMENPRESS. In line with its aggressive and expansionist anti-Armenian agenda, Azerbaijan continues to spread false information and propaganda, &amp;ldquo;Geghard&amp;rdquo; Scientific and Analytical Foundation said in a statement. The Foundation adds that for years, dedicating considerable effort and resources, Baku has sought to portray the over 2800-year-old city of Yerevan as &quot;Azerbaijani.&quot;">
+<meta property="og:type" content="article">
+<meta property="og:image" content="//armenpress.am/static/news/b/2024/05/1137774.jpg" />
+<meta property="fb:app_id" content="788294517951552" /><link rel="amphtml" href="https://armenpress.am/eng/amp/1137774" /><link rel="alternate" type="application/rss+xml" title="RSS" href="/eng/rss/news/" />
+<link href="/assets/css/app.css" rel="stylesheet" type="text/css"  media="screen" />
+<link href="/assets/css/resp.css?1" rel="stylesheet" type="text/css"  media="screen" />
+<script type="text/javascript">
+	var rootPath='';
+	var curLang='eng';
+	var curModul='news';
+	var noMoreNews='no more news';
+
+</script>
+<script src="/assets/js/app.js" type="text/javascript"></script><style type="text/css">
+
+body {
+	font-family: Lora, Tahoma, Verdana,  Arial, Tahoma;
+	font-size:14px;
+	
+}
+
+</style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1F4J87EYB0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1F4J87EYB0');
+</script>
+
+<!-- Hotjar Tracking Code for armenpress.am -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3655944,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"> </script>
+<script>
+        var OneSignal = OneSignal || [];
+        OneSignal.push(["init", {
+        appId: "02a3b45f-6b8f-4fc9-ad63-91c0e1c3941e",
+        autoRegister: true,
+        safari_web_id: 'web.onesignal.auto.129ff751-f997-4966-a642-dcf62166c788',
+        notifyButton: {
+
+                enable: true,
+                showCredit: true,
+                prenotify: true,
+
+                text: {
+                'tip.state.unsubscribed': "Ծանուցումներ ստանալու համար սեղմեք կոճակը",
+                'tip.state.subscribed': "Դուք գրանցված եք ծանուցումների համակարգում",
+                'tip.state.blocked': "Ծանուցումներն արգելափակված են",
+                'message.prenotify': "Գանցվելու համար սեղմեք կոճակը",
+                'message.action.subscribed': "Շնորհակալություն!",
+                'message.action.resubscribed': "Այսուհետ ծանուցումներ կստանաք «Արմենպրես»-ից",
+                'message.action.unsubscribed': "Այլևս գրանցված չեք ծանուցումների համակարգում",
+                'dialog.main.title': "Ծանուցումների համակարգ",
+                'dialog.main.button.subscribe': "ԳՐԱՆՑՎԵԼ",
+                'dialog.main.button.unsubscribe': "ՉԵՂԱՐԿԵԼ ԳՐԱՆՑՈՒՄԸ",
+                'dialog.blocked.title': "Հանել արգելափակումը",
+                'dialog.blocked.message': "Ծանուցումների արգելափակումը հանելու համար հետևեք հրահանգներին:"
+                }
+        }
+        }]);
+
+	</script>
+	<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script></head>
+	<body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=788294517951552";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	</script><div id="sitecontainer">
+		   
+<div id="topbnnr" style="width:1000px; padding-top: 4px;"></div><!-- start top bar-->
+	<div id="topbarcontainer" >
+	  <div id="topbar">
+<div id="langcontainer">
+<a href="/chi/news/1137774.html"><p title="中文" class="lngs" >中文</p></a>
+<a href="/geo/news/1137774.html"><p title="ქარ" class="lngs" >ქარ</p></a>
+<a href="/per/news/1137774.html"><p title="فارسی" class="lngs" >فارسی</p></a>
+<a href="/spa/news/1137774.html"><p title="Esp" class="lngs" >Esp</p></a>
+<a href="/ara/news/1137774.html"><p title="عربي" class="lngs" >عربي</p></a>
+<a href="/tur/news/1137774.html"><p title="Tur" class="lngs" style="font-family:Verdana">Tur</p></a>
+<a href="/fre/news/1137774.html"><p title="Fra" class="lngs" >Fre</p></a>
+<a href="/rus/news/1137774.html"><p title="Рус" class="lngs" >Рус</p></a>
+<a href="/eng/news/1137774.html"><p title="Eng" class="langselected" >Eng</p></a>
+<a href="/arm/news/1137774.html"><p title="Հայ" class="lngs" style="font-family:Tahoma">Հայ</p></a>
+</div>
+<div id="loginsubscribe"><a href="/eng/login/" rel="facebox">Sign in</a> </div><div id="topdatetime">Time in Yerevan: <span id="clock">11:07</span>, &nbsp;  24 May 2024</div>
+	  </div>
+	</div>
+	<!-- end top bar-->
+<!-- START site body-->
+				  <div id="sitebody">
+<!-- start site header-->
+<div id="siteheader">
+  <div id="logo">
+  	<a href="/eng/"></a>
+  	<h1 style='display:none'>Azerbaijan, which destroys monuments, urges UNESCO to "save" Kond – “Geghard” SAF | ARMENPRESS Armenian News Agency </h1>
+  </div>
+  <div style="" >
+    <div id="rsscurcontainer">
+      <div id="currencycontainer" style="display:none">
+      </div>
+	  
+	  <form id="sform" name="sform" action="/eng/search/" method="get" itemscope itemtype="https://schema.org/SearchAction">
+	  <div id="searchcontainer">
+		<div id="calendarcontainer" style="position: unset;">
+			<input id="calendar" type="hidden" style="margin-left:0px; width:25px; height:25px;"/>
+			<script>
+			$(function() {
+				$( "#calendar" ).datepicker({
+					showAnim: "fadeIn",
+					showOn: "button",
+					changeMonth: true,
+				    changeYear: true,
+					buttonImage: "/assets/css/images/calendar_ico.png",
+					buttonImageOnly: true,
+					defaultDate: "2024/05/24",
+					dateFormat: "yy/mm/dd",
+					minDate: "2001/08/10",
+					maxDate: new Date(),
+					onSelect:  function(dateText, inst) {
+						window.location.href='/eng/news/allthemes/'+dateText+'/';
+					}
+				});
+				$("#calendar").datepicker("setDate" , '2024/05/24' );
+			});
+			</script>
+			<style> .ui-widget { font-family: Lora, Tahoma, Verdana,  Arial, Tahoma } </style>
+		</div>
+		<div id="searchfield">
+		  <div style="float:right"><img id="searchbtn" src="/assets/css/images/search_btn.png" style="border:0" align="absmiddle" alt='search' onclick="if(sform.q.value!='' && sform.q.value!='search news' &&  sform.q.value.length>2) sform.submit()"></div>
+		  <div style="float:right">
+			<input type="text" id="q" name="q" value="search news" onclick="if(this.value=='search news') this.value=''" onblur="if(this.value=='') this.value='search news'" >
+		  </div>
+		</div>
+	  </div>
+	  </form>
+
+    </div>
+	<!--
+    <div id="weathercontainer"></div>
+    -->
+  </div>
+</div>
+<!-- end site header-->
+<div class="clear"></div>
+<!-- START top menu-->
+			<div id="menucontainer" class="default">
+			  <div class="menucontainer-inner">
+
+	<div id="menuzord" class="menuzord blue">
+	  <a href="/eng/" class="menuzord-brand ">Home</a>
+	  <ul class="menuzord-menu "><li class="" ><a href="/eng/news/" >All news</a><div class="megamenu grey megamenu-half-width">
+			<div class="megamenu-row">
+				<div class="col6"><a href="/eng/news/opinions/">Opinions<br>
+     		 <span>Event, opinion, comment</span></a><a href="/eng/news/projects/">Exclusive Projects<br>
+     		 <span>insights, Features, Exclusives</span></a><a href="/eng/news/comment/">Comment<br>
+     		 <span></span></a><a href="/eng/news/official/">Official<br>
+     		 <span>Prime Minister, President, Government, National Assembly</span></a><a href="/eng/news/politics/">Politics<br>
+     		 <span>Karabakh, MFA, elections, Armenia</span></a><a href="/eng/news/economy/">Economy<br>
+     		 <span>Economy, budget, investments, construction</span></a><a href="/eng/news/society/">Society<br>
+     		 <span>Parties, NGOs, social issues, Accidents</span></a><a href="/eng/news/regional/">Regional<br>
+     		 <span>Azerbaijan, Georgia, Turkey, Iran</span></a><a href="/eng/news/international/">International<br>
+     		 <span>The USA, the European Union, Russia, terrorism</span></a><a href="/eng/news/diaspora/">Diaspora<br>
+     		 <span>Diaspora, communities, Armenians</span></a></div><div class="col6"><a href="/eng/news/artshakh/">Artsakh<br>
+     		 <span>Artsakh Karabakh news</span></a><a href="/eng/news/culture/">Culture<br>
+     		 <span>Ministry of Culture, exhibition, concert</span></a><a href="/eng/news/sport/">Sport<br>
+     		 <span>Football, tournament, championship, team</span></a><a href="/eng/news/analytical/">Analytical<br>
+     		 <span>Region, conflict, comment, assessment</span></a><a href="/eng/news/life/">Life<br>
+     		 <span>Kaleidoscope, Showbiz</span></a><a href="/eng/news/inovation/">Innovation<br>
+     		 <span>IT, Science</span></a><a href="/eng/news/beijing/">China<br>
+     		 <span> China, Beijing</span></a><a href="/eng/news/starmus/">STARMUS<br>
+     		 <span>STARMUS</span></a><a href="/eng/news/announcements/">Announcements<br>
+     		 <span>announcements, auction, property, sales</span></a> </div></div></div>
+</li>
+<li class="" ><a href="/eng/multimedia/slideshows/" >Photos</a></li>
+<li class="" ><a href="/eng/multimedia/videos/" >Videos</a></li>
+<li class="" style="background-color:#e6232e"><a href="/eng/news/life/" >Life</a></li>
+<li class="" style="background-color:#2a9a2a"><a href="/eng/news/sport/" >Sports</a></li>
+
+    </ul>
+  </div>
+  </div>
+</div>
+<!-- END top menu--> 
+<!-- START main-->
+   			 <div id="maincontainer">
+<div id="newscontainer" class="grid"><!-- START open news -->
+        <div id="opennewscontainer" itemscope itemtype="https://schema.org/Article">
+<h1 class="opennewstitle" itemprop="name">Azerbaijan, which destroys monuments, urges UNESCO to "save" Kond – “Geghard” SAF</h1>
+<span class="opennewstext">
+<div style="height:40px"><div class="addthis_native_toolbox"></div></div><img src="//armenpress.am/static/news/b/2024/05/1137774.jpg"  style="max-width:670px;" align="" border="0" alt="Azerbaijan, which destroys monuments, urges UNESCO to &quot;save&quot; Kond – “Geghard” SAF" title="Azerbaijan, which destroys monuments, urges UNESCO to &quot;save&quot; Kond – “Geghard” SAF" itemprop="image">
+<span class="datetime" itemprop="datePublished"  content="2024-05-23T14:00:54+04:00">14:00, 23 May 2024</span><br>
+<span  itemprop="articleBody"><p>YEREVAN, MAY 23, ARMENPRESS. In line with its aggressive and expansionist anti-Armenian agenda, Azerbaijan continues to spread false information and propaganda, &ldquo;Geghard&rdquo; Scientific and Analytical Foundation said in a statement. The Foundation adds that for years, dedicating considerable effort and resources, Baku has sought to portray the over 2800-year-old city of Yerevan as "Azerbaijani."</p>
+<p>"Another target of Azerbaijan is one of the oldest districts of Yerevan - Kond. Azerbaijanis refer to the Kond district by the modified name "Tapabashi." Such propaganda efforts in Azerbaijan are not unprecedented.</p>
+<p>"On July 7, 2022, Azerbaijani "cultural and public figures" appealed to Audrey Azoulay, the Director-General of the United Nations Educational, Scientific and Cultural Organization (UNESCO), urging her to prevent the "destruction of Azerbaijani historical and cultural heritage" in Yerevan.</p>
+<p>"On May 7, 2024, Azerbaijan, this time on behalf of non-governmental organizations, appealed to the Director-General of UNESCO, Audrey Azoulay, calling for the preservation of Kond. Among the signatories were organizations such as the so-called "Community of Western Azerbaijan," "Cultural Heritage Propaganda of Yerevan," "Zangezur Union," and other NGOs, whose names clearly reflect their agenda and objectives.</p>
+<p>"Apart from the fact that Kond is not Azerbaijani, this statement is ironic given Azerbaijan's ongoing policy of deliberately targeting and destroying Armenian historical and cultural heritage in Nakhijevan, Artsakh, and other areas which is documented. &nbsp;</p>
+<p>"Moreover, in the statement, Azerbaijan also "declares readiness for dialogue and interaction with UNESCO in order to prevent the destruction of Azerbaijani cultural heritage" in Armenia, and calls for "sending a fact-finding mission to Yerevan." Such a call is ironic, given UNESCO's readiness to create an independent technical mission in 2020 to assess the status of cultural values in Artsakh. However, Azerbaijan has blocked the mission's entry into Artsakh, challenging international structures and their activities, and highlighting its attempts to cover up the facts confirming the destruction of Armenian heritage in Artsakh.</p>
+<p>"Thus, the "Azerbaijanization" campaign of Yerevan's Kond district is a clear manifestation of Azerbaijan's broader political agenda, aimed at distorting history and asserting its territorial ambitions over Armenia. With the international community failing to take appropriate steps, the destruction of Armenian historical and cultural values has reached alarming proportions. Currently, at least 1456 Armenian historical and cultural monuments are under Azerbaijan's control in occupied Artsakh, " the statement reads.</p></span></span><br><div style="clear:left"></div><div style="height:30px; float:right"><div class="addthis_native_toolbox"></div></div><br><br><div class="opennewstools"><div ><img src="/assets/other/print.png" align="absmiddle" style="margin:0px;" alt='Print'>
+			<a href="/eng/print/1137774/" target="_blank" rel="nofollow">Print</a>&nbsp;&nbsp; &nbsp;|&nbsp; <a href="/arm/news/1137774/" style="font-family:Arian AMU, Arial AMU">Հայերեն</a> &nbsp;|&nbsp; <a href="/rus/news/1137774/">На русском</a> &nbsp;|&nbsp; <a href="/fre/news/1137774/">En Français</a> &nbsp;|&nbsp; <a href="/tur/news/1137774/">Türkçe</a>&nbsp;|&nbsp; <a href="/eng/amp/1137774" target="_blank" rel="nofollow">AMP Version</a></div></div>
+</div>
+
+		<!-- END open news --><div class="bnrcontainer"><!--AdFox START-->
+<!--yandex_adfox@mediastream.am-->
+<!--Площадка: Armenpress.am / Internal Pages / Banner E-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Banner HTML5-->
+<div id="adfox_162039061833371371"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 375792,
+        containerId: 'adfox_162039061833371371',
+        params: {
+            p1: 'codvb',
+            p2: 'hciu'
+        }
+    });
+</script>
+        
+        </div>
+<div id="opinionscontainer">
+<div id="bh_opinions" class="blockheader"><div class="blockheadercontrols">
+<a href="/eng/rss/news/opinions/"><img src="/assets/css/images/rss_small_b.png" align="absmiddle" alt='RSS'/></a>
+</div>Opinions</div><div class="sidebarblockbody" ><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2024/01/1129074_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Turkey&#039;s ambitions exceed its actual capabilities: Turkologist comments on Ankara&#039;s 
+foreign policy" title="Turkey&#039;s ambitions exceed its actual capabilities: Turkologist comments on Ankara&#039;s 
+foreign policy">
+<span>08:55, 01.30.2024</span><br>
+					<a href="/eng/news/1129074.html" >Turkey's ambitions exceed its actual capabilities: Turkologist comments on Ankara's 
+foreign policy</a></p><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2023/07/1114792_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Armenia ought to intensify cooperation with SCO and BRICS with intent to become full 
+member, says expert " title="Armenia ought to intensify cooperation with SCO and BRICS with intent to become full 
+member, says expert ">
+<span>09:59, 07.06.2023</span><br>
+					<a href="/eng/news/1114792.html" >Armenia ought to intensify cooperation with SCO and BRICS with intent to become full 
+member, says expert </a></p> <p class="allnews"><a href="/eng/news/opinions/">All news from the section</a></p><br></div></div>
+<div id="interviewscontainer">
+<div id="bh_interviews" class="blockheader"><div class="blockheadercontrols">
+<a href="/eng/rss/news/interviews/"><img src="/assets/css/images/rss_small_b.png" align="absmiddle" alt='RSS'/></a>
+</div>Interviews</div><div class="sidebarblockbody" ><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2024/05/1136274_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="We see Armenia&#039;s sincere commitment to achieving peace - Lithuanian Ambassador&#039;s 
+interview" title="We see Armenia&#039;s sincere commitment to achieving peace - Lithuanian Ambassador&#039;s 
+interview">
+<span>09:00, 05.06.2024</span><br>
+					<a href="/eng/news/1136274.html" >We see Armenia's sincere commitment to achieving peace - Lithuanian Ambassador's 
+interview</a></p><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2024/04/1134238_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Lemkin Institute Director urges to call Azerbaijan&#039;s actions in Karabakh as genocide and 
+apply relevant convention" title="Lemkin Institute Director urges to call Azerbaijan&#039;s actions in Karabakh as genocide and 
+apply relevant convention">
+<span>15:28, 04.08.2024</span><br>
+					<a href="/eng/news/1134238.html" >Lemkin Institute Director urges to call Azerbaijan's actions in Karabakh as genocide and 
+apply relevant convention</a></p> <p class="allnews"><a href="/eng/news/interviews/">All news from the section</a></p><br></div></div>
+<div id="factwithcommentcontainer">
+<div id="bh_factwithcomment" class="blockheader"><div class="blockheadercontrols">
+<a href="/eng/rss/news/factwithcomment/"><img src="/assets/css/images/rss_small_b.png" align="absmiddle" alt='RSS'/></a>
+</div>Fact with comment</div><div class="sidebarblockbody" ><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2023/02/1103277_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Azerbaijani blockade of Lachin corridor is attempt to solve military objective, warns expert " title="Azerbaijani blockade of Lachin corridor is attempt to solve military objective, warns expert ">
+<span>16:21, 02.03.2023</span><br>
+					<a href="/eng/news/1103277.html" >Azerbaijani blockade of Lachin corridor is attempt to solve military objective, warns expert </a></p><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2022/01/1072539_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="&#039;Pashinyan acted very wisely&#039; - military expert on decision to send CSTO peacekeeping forces to 
+Kazakhstan" title="&#039;Pashinyan acted very wisely&#039; - military expert on decision to send CSTO peacekeeping forces to 
+Kazakhstan">
+<span>09:49, 01.10.2022</span><br>
+					<a href="/eng/news/1072539.html" >'Pashinyan acted very wisely' - military expert on decision to send CSTO peacekeeping forces to 
+Kazakhstan</a></p> <p class="allnews"><a href="/eng/news/factwithcomment/">All news from the section</a></p><br></div></div>
+</div>
+<div id="sidebarcontainer" class="grid"><div id="projectscontainer">
+<div id="bh_projects" class="blockheader"><div class="blockheadercontrols">
+<a href="/eng/rss/news/projects/"><img src="/assets/css/images/rss_small_b.png" align="absmiddle" alt='RSS'/></a>
+</div>Exclusive Projects</div><div class="sidebarblockbody" ><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2023/01/1101150_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Turkish-Armenian singer Sibil gears up for major Istanbul concert, announces upcoming 
+rock-genre single " title="Turkish-Armenian singer Sibil gears up for major Istanbul concert, announces upcoming 
+rock-genre single ">
+<span>12:09, 01.06.2023</span><br>
+					<a href="/eng/news/1101150.html" >Turkish-Armenian singer Sibil gears up for major Istanbul concert, announces upcoming 
+rock-genre single </a></p><p class="sidebarnews">
+					<img src="//armenpress.am/static/news/s/2022/08/1090779_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Regular screening the best fight against development of breast cancer" title="Regular screening the best fight against development of breast cancer">
+<span>11:54, 08.22.2022</span><br>
+					<a href="/eng/news/1090779.html" >Regular screening the best fight against development of breast cancer</a></p> <p class="allnews"><a href="/eng/news/projects/">All news from the section</a></p><br></div></div>
+<div>
+		<br><a href="eng/" target='blank'><img src="" width="100%" alt=''/></a><br>
+		<br><a href="eng/" target='blank'><img src="" width="100%" alt=''/></a><br>
+		</div><div style="padding:0 12px 18px">
+				<a href="https://www.youtube.com/channel/UCf2FTVdftbWx9SwxhBclVDA/featured" target="_blank">
+					<img src="/assets/other/youtube.png" width="100%" alt='youtube' />
+				</a>
+			</div><p><a href=" https://anchor.fm/armenpress-news-agency?fbclid=IwAR1hWG1CrWU6Lr6gx4cKuvu0hEGuLLm35q4u9gVfD5LdbUYjIPhkTXXBfro " target="blank"><img src="https://armenpress.am/static/add/Podkast/30.11.2021.jpg" alt="" width="264" height="125" /></a></p>
+<p></p><!-- latest news -->
+			<div id="latestnewscontainer">
+
+				<div id="bh_latestnews" class="blockheader"><div class="blockheadercontrols">
+<a href="/eng/rss/news/"><img src="/assets/css/images/rss_small_b.png" align="absmiddle" alt='RSS'/></a>
+</div><a href='/eng/news/'>Latest News</a></div>
+			<div >
+            <ul><li><span>05.23-20:22 </span><a href="/eng/news/1137817.html">Armenia’s Foreign Minister, U.S. Co-Chair of the OSCE Minsk Group discuss regional 
+security issues</a></li>
+<li><span>05.23-19:11 </span><a href="/eng/news/1137812.html"><strong>Armenian Defense Minister receives Ambassador of the Kingdom of Belgium</strong></a></li>
+<li><span>05.23-18:59 </span><img src="/assets/other/photo.png" style="margin-right:4px;" align="absmiddle" alt='Photo' /><a href="/eng/news/1137811.html"><strong>Luxembourg delegation together with the EU observation mission in Armenia visit Yeraskh</strong></a></li>
+<li><span>05.23-18:40 </span><a href="/eng/news/1137810.html">PM Pashinyan receives President of Chamber of Deputies of Grand Duchy of Luxembourg 
+Claude Wiseler
+</a></li>
+<li><span>05.23-18:02 </span><a href="/eng/news/1137808.html"><strong>Armenian top security official, U.S. Co-Chair of OSCE Minsk Group discuss normalization of 
+Armenia-Azerbaijan relations</strong></a></li>
+<li><span>05.23-17:10 </span><a href="/eng/news/1137797.html"><strong>Mher Grigoryan, Louis Bono discuss regional developments</strong></a></li>
+<li><span>05.23-17:06 </span><a href="/eng/news/1137796.html">Central Bank of Armenia: exchange rates and prices of precious metals - 23-05-24
+</a></li>
+<li><span>05.23-17:05 </span><a href="/eng/news/1137795.html">Asian Stocks - 23-05-24
+</a></li>
+<li><span>05.23-16:36 </span><img src="/assets/other/video.png" style="margin-right:4px;" align="absmiddle" alt='Video' /><img src="/assets/other/photo.png" style="margin-right:4px;" align="absmiddle" alt='Photo' /><a href="/eng/news/1137794.html">The “4090” fund is the beneficiary of the power of one dram. IDBank and Idram sum up 
+the program</a></li>
+<li><span>05.23-16:31 </span><a href="/eng/news/1137793.html">Spanish police recover stolen Francis Bacon painting worth €5 million</a></li>
+<li><span>05.23-15:57 </span><a href="/eng/news/1137791.html">Putin and King of Bahrain hold narrow-format talks at Kremlin</a></li>
+<li><span>05.23-15:01 </span><img src="/assets/other/video.png" style="margin-right:4px;" align="absmiddle" alt='Video' /><a href="/eng/news/1137786.html"><strong>Rustam Badasyan and Vassilis Maragos toured the Margara checkpoint</strong></a></li>
+<li><span>05.23-14:00 </span><a href="/eng/news/1137774.html"><strong>Azerbaijan, which destroys monuments, urges UNESCO to "save" Kond – “Geghard” SAF</strong></a></li>
+<li><span>05.23-13:13 </span><img src="/assets/other/video.png" style="margin-right:4px;" align="absmiddle" alt='Video' /><a href="/eng/news/1137767.html"><strong>Kindergarten will be available for children up to 2years old</strong></a></li>
+<li><span>05.23-13:07 </span><img src="/assets/other/photo.png" style="margin-right:4px;" align="absmiddle" alt='Photo' /><a href="/eng/news/1137770.html"><strong>Centuries-old Armenian-Georgian friendship finds expression in cultural sphere as well - 
+Eliso Bolkvadze</strong></a></li>
+<li><span>05.23-12:32 </span><img src="/assets/other/video.png" style="margin-right:4px;" align="absmiddle" alt='Video' /><a href="/eng/news/1137763.html">Argentina's Milei puts on a show at the presentation of his book</a></li>
+<li><span>05.23-11:14 </span><a href="/eng/news/1137751.html">Blinken warns of US action over Georgia ‘foreign influence’ law</a></li>
+<li><span>05.23-11:05 </span><img src="/assets/other/video.png" style="margin-right:4px;" align="absmiddle" alt='Video' /><a href="/eng/news/1137748.html">Nine killed in Mexico stage collapse at campaign event</a></li>
+<li><span>05.23-10:55 </span><img src="/assets/other/photo.png" style="margin-right:4px;" align="absmiddle" alt='Photo' /><a href="/eng/news/1137750.html"><strong>Paris names a square after Charles Aznavour</strong></a></li>
+<li><span>05.23-10:00 </span><a href="/eng/news/1137738.html"><strong>Emmanuel Macron made a note in Armenian about Charles Aznavour</strong></a></li>
+<li><span>05.23-09:47 </span><a href="/eng/news/1137737.html">European Stocks - 22-05-24
+</a></li>
+<li><span>05.23-09:45 </span><a href="/eng/news/1137736.html">US stocks down - 22-05-24
+</a></li>
+<li><span>05.23-09:44 </span><a href="/eng/news/1137735.html">NYMEX: Precious Metals Prices Down - 22-05-24
+</a></li>
+<li><span>05.23-09:32 </span><a href="/eng/news/1137734.html">Oil Prices Down - 22-05-24
+</a></li>
+<li><span>05.23-06:22 </span><a href="/eng/news/1137733.html">Atalanta wins Europa League</a></li>
+ </ul><p style="margin:15px 0" class="allnews" ><a href="/eng/news/allthemes/">All news</a> &nbsp; &nbsp;</p>
+		</div></div><div class="sidebarmenu">
+	<img src="/assets/css/images/li.png" width="13" height="13" alt='Tomorrow'>&nbsp;&nbsp;<a href="/eng/tomorrow/" >Tomorrow</a></div>
+<!--	<div class="sidebarmenu">
+	<img src="/assets/css/images/li.png" width="13" height="13">&nbsp;&nbsp;<a href="/eng/tvprograms/">TV Programs</a></div>
+	<div class="sidebarmenu">
+	<img src="/assets/css/images/li.png" width="13" height="13">&nbsp;&nbsp;<a href="/eng/armenpresstv/">Armenpress TV</a></div>
+	<div class="sidebarmenu">
+	<img src="/assets/css/images/li.png" width="13" height="13">&nbsp;&nbsp;<a href="/eng/prnews/">PR News</a></div>-->
+<!--	<div class="sidebarmenu">
+	<img src="/assets/css/images/li.png" width="13" height="13">&nbsp;&nbsp;<a href="/eng/bannerinfo/">Banner Info</a></div>--><br>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Farmenpress&tabs&width=264&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=788294517951552" width="264" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" title="Facebook"></iframe><div class="bnrcontainer"><p><a href="https://www.araratbank.am/hy/visa-carder/27/" target="_blank" rel="noopener"><img src="https://armenpress.am/static/add/Ararat%20bank%2027.01.2023/Digital-Card---250x295.jpg" width="250" height="295" alt="Digital-Card---250x295.jpg (26 KB)" /></a></p>
+<p><a href="https://dzen.ru/armenpress" target="_blank" rel="noopener"><img src="https://armenpress.am/static/add/17.02.2023-yandex/12.png" width="250" height="295" alt="12.png (9 KB)" /></a></p>
+        
+        </div>
+<iframe src="//app.b24.am/chrome-eng.html" height="300" width="100%" frameborder="0" title='Chrome'></iframe><!-- START most read news -->
+			<div id="mostreadnewscontainer">
+
+				<div id="bh_mostreadnews" class="blockheader"><div class="blockheadercontrols">
+</div>Most read of the week</div>
+			<div class="sidebarblockbody" ><p class="sidebarnews">
+					<a href="/eng/news/1137294.html" ><img src="//armenpress.am/static/news/s/2024/05/1137294_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Ucom celebrates Telecommunication Day" title="Ucom celebrates Telecommunication Day">
+</a>
+					<span>13:39, 05.17.2024</span><br>
+					<small>2269 views</small></br>
+					<a href="/eng/news/1137294.html" >Ucom celebrates Telecommunication Day</a></p><p class="sidebarnews">
+					<a href="/eng/news/1137310.html" ><img src="//armenpress.am/static/news/s/2024/05/1137310_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Armenia-India defense cooperation is going very well, we are working to expand it further. 
+Indian Ambassador&#039;s interview" title="Armenia-India defense cooperation is going very well, we are working to expand it further. 
+Indian Ambassador&#039;s interview">
+</a>
+					<span>09:20, 05.20.2024</span><br>
+					<small>2250 views</small></br>
+					<a href="/eng/news/1137310.html" >Armenia-India defense cooperation is going very well, we are working to expand it further. 
+Indian Ambassador's interview</a></p><p class="sidebarnews">
+					<a href="/eng/news/1137456.html" ><img src="//armenpress.am/static/news/s/2024/05/1137456_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="Foreign ministry responds to news of planned visit by Raisi to Armenia on May 19" title="Foreign ministry responds to news of planned visit by Raisi to Armenia on May 19">
+</a>
+					<span>12:11, 05.20.2024</span><br>
+					<small>2148 views</small></br>
+					<a href="/eng/news/1137456.html" >Foreign ministry responds to news of planned visit by Raisi to Armenia on May 19</a></p><p class="sidebarnews">
+					<a href="/eng/news/1137326.html" ><img src="//armenpress.am/static/news/s/2024/05/1137326_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="India awaits clear proposals from Armenia on Chabahar Port use - Ambassador" title="India awaits clear proposals from Armenia on Chabahar Port use - Ambassador">
+</a>
+					<span>17:40, 05.17.2024</span><br>
+					<small>2103 views</small></br>
+					<a href="/eng/news/1137326.html" >India awaits clear proposals from Armenia on Chabahar Port use - Ambassador</a></p><p class="sidebarnews">
+					<a href="/eng/news/1137722.html" ><img src="//armenpress.am/static/news/s/2024/05/1137722_s.jpg" width="75" height="55" style="margin-right:7px;" align="left" border="0" alt="At least two CSTO member countries participated in preparing for 44-day war against us – 
+Armenian Premier" title="At least two CSTO member countries participated in preparing for 44-day war against us – 
+Armenian Premier">
+</a>
+					<span>19:21, 05.22.2024</span><br>
+					<small>1823 views</small></br>
+					<a href="/eng/news/1137722.html" >At least two CSTO member countries participated in preparing for 44-day war against us – 
+Armenian Premier</a></p></div></div>
+		<!-- END most read news --></div>
+<div style="clear:both"></div>
+</div>
+			<!-- END main-->
+</div>
+		<!-- END site body-->
+  
+	  <!-- start footer-->
+	<div id="footercontainer" >
+	  <div id="footermenucontainer"><a href="/eng/about/" >About us</a> | <a href="/eng/services/" >Services</a> | <a href="/eng/partners/" >Partners</a> | <a href="/eng/links/" >Links</a> | <a href="/eng/advertisement/" >Advertise with us </a> | <a href="/eng/careers/" >Careers</a></div>
+	  <div id="footermain">
+		
+		<div id="copyright" class="grid">
+		   <h3 style="font-weight:bold; margin-bottom:3px">Copyright © <span itemprop="copyrightYear">2024</span> 
+		  			<span itemscope itemprop="provider copyrightHolder sourceOrganization" itemtype="https://schema.org/Organization" itemid="https://armenpress.am"><span itemprop="name"> ARMENPRESS </span></span></p>
+		   </h3>The copyright for information published on this web site is owned exclusively by Armenpress news agency. 
+				All information materials published on this website are intended solely for personal use. <br />
+				For full or partial reproduction of any material in other media it is required to acquire written permission from Armenpress news agency.
+				Those, who have committed copyright violations, will be prosecuted accordingly.<br>Website administration is not responsible neither for opinions expressed on the website, nor for the content of the advertisements and of the external links.</p>
+		</div>
+		
+				
+		<div id="aboutagency" class="grid">
+		  <h3><a href="/eng/about/"><span style="">About agency</span></a></h3>Address: Armenia, 22 Saryan Street, Yerevan, 0002, Armenpress <br>
+Tel.: <span dir="ltr">+374 11 539818</span><br>
+E-mail: <a href="mailto:contact@armenpress.am">contact@armenpress.am</a>
+		</div>
+		<div id="ratandsiteby" class="grid">
+		  <div id="rating"></div>
+<!--		  <div id="siteby"> &nbsp; &nbsp;  Made in <br><a href="https://disozavr.com" target="_blank">
+		  					<img src="/css/images/disozavr.png" border="0"></a>
+		  </div>-->
+		</div>
+		
+
+		
+		
+	  </div>
+	</div>
+	<!-- end footer--> 
+</div>
+<!-- Start Caramel Native Ads caramel.am/network -->
+                <script>window.yaContextCb = window.yaContextCb || []</script>
+                <script src="https://yandex.ru/ads/system/context.js" async></script>
+                <script> var cscr = document.createElement("script");
+                cscr.src = "https://ads.caramel.am/ads.min.js" + "?ts=" + new Date().getTime();
+                document.getElementsByTagName("body")[0].appendChild(cscr);
+                </script>
+                <!-- End Caramel Native Ads --><!-- Yandex.Metrika counter -->
+                <script type="text/javascript" >
+                   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+                   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+                
+                   ym(25282937, "init", {
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true
+                   });
+                </script>
+                <noscript><div><img src="https://mc.yandex.ru/watch/25282937" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+                <!-- /Yandex.Metrika counter --><script>"use strict";var getDomain=function(){var t=location.hostname.split(".");return t.slice(t.length-2,t.length).join(".")},script=document.createElement("script");script.src="https://mediasystems.am/banners/sites/"+getDomain()+"-settings.js?v="+Math.round(1e9*Math.random()),document.body.appendChild(script);</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5726dd80203228ca"></script>
+		</body>
+</html>

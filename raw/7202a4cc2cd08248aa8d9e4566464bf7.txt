@@ -1,0 +1,387 @@
+<!doctype html><html lang="es"><head><meta charset="UTF-8"><meta http-equiv="x-dns-prefetch-control" content="on"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="profile" href="https://gmpg.org/xfn/11"><title>The world&#039;s top chipmakers can flip a &#039;kill switch&#039; should China invade Taiwan, Bloomberg reports | Business Insider México | Noticias pensadas para ti</title><meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link rel="canonical" href="https://www.businessinsider.com/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5" /><meta property="og:locale" content="es_ES" /><meta property="og:type" content="article" /><meta property="og:title" content="The world&#039;s top chipmakers can flip a &#039;kill switch&#039; should China invade Taiwan, Bloomberg reports | Business Insider México | Noticias pensadas para ti" /><meta property="og:description" content="Chip giants ASML and TSMC have a remote shutdown option for their advanced EUV chipmaking machines, Bloomberg reported." /><meta property="og:url" content="https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/" /><meta property="og:site_name" content="Business Insider México | Noticias pensadas para ti" /><meta property="article:publisher" content="https://www.facebook.com/Business-Insider-Mexico-102929094419998/" /><meta property="og:image" content="https://i.insider.com/5caecf2a2730ca036d6c1bbc?format=jpeg" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@businsidermx" /><meta name="twitter:label1" content="Est. reading time"><meta name="twitter:data1" content="3 minutos"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://businessinsider.mx/#website","url":"https://businessinsider.mx/","name":"Business Insider M\u00e9xico | Noticias pensadas para ti","description":"Business Insider M\u00e9xico es el sitio de noticias de negocios para la generaci\u00f3n digital, con informaci\u00f3n de tecnolog\u00eda, econom\u00eda, finanzas, emprendimiento, estrategia y estilo de vida enfocado en las necesidades de informaci\u00f3n de j\u00f3venes, emprendedores y empresarios.","potentialAction":[{"@type":"SearchAction","target":"https://businessinsider.mx/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"ImageObject","@id":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/#primaryimage","inLanguage":"es","url":"https://i.insider.com/5caecf2a2730ca036d6c1bbc?format=jpeg","contentUrl":"https://i.insider.com/5caecf2a2730ca036d6c1bbc?format=jpeg"},{"@type":"WebPage","@id":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/#webpage","url":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/","name":"The world's top chipmakers can flip a 'kill switch' should China invade Taiwan, Bloomberg reports | Business Insider M\u00e9xico | Noticias pensadas para ti","isPartOf":{"@id":"https://businessinsider.mx/#website"},"primaryImageOfPage":{"@id":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/#primaryimage"},"datePublished":"2024-05-23T07:22:41+00:00","dateModified":"2024-05-23T07:22:41+00:00","breadcrumb":{"@id":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/"]}]},{"@type":"BreadcrumbList","@id":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://businessinsider.mx/","url":"https://businessinsider.mx/","name":"Inicio"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://businessinsider.mx/rss-international/","url":"https://businessinsider.mx/rss-international/","name":"RSS International"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/","url":"https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/","name":"The world&#8217;s top chipmakers can flip a &#8216;kill switch&#8217; should China invade Taiwan, Bloomberg reports"}}]}]}</script> <link rel='dns-prefetch' href='//businessinsider.mx' /><link rel='dns-prefetch' href='//fonts.googleapis.com' /><link rel='dns-prefetch' href='//s.w.org' /><link rel="alternate" type="application/rss+xml" title="Business Insider México | Noticias pensadas para ti &raquo; Feed" href="https://businessinsider.mx/feed/" /><link rel="alternate" type="application/rss+xml" title="Business Insider México | Noticias pensadas para ti &raquo; Feed de los comentarios" href="https://businessinsider.mx/comments/feed/" /><link data-optimized="1" rel='stylesheet' id='wp-block-library-css'  href='https://businessinsider.mx/wp-content/litespeed/cssjs/2517f.css?4724e' type='text/css' media='all' /><link data-optimized="1" rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://businessinsider.mx/wp-content/litespeed/cssjs/fa63f.css?cff88' type='text/css' media='all' /><link data-optimized="1" rel='stylesheet' id='material-icons-css'  href='https://businessinsider.mx/wp-content/litespeed/cssjs/bbcdd.css?e2ce1' type='text/css' media='all' /><link data-optimized="1" rel='stylesheet' id='business-insider-mx-style-css'  href='https://businessinsider.mx/wp-content/litespeed/cssjs/57ed6.css?6d5d5' type='text/css' media='all' /> <script type='application/json' id='wpp-json'>{"sampling_active":1,"sampling_rate":100,"ajax_url":"https:\/\/businessinsider.mx\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":370943,"token":"cc3ba632a7","lang":0,"debug":0}</script> <script data-optimized="1" type='text/javascript' src='https://businessinsider.mx/wp-content/litespeed/cssjs/12ddc.js?18518' id='wpp-js-js' defer data-deferred="1"></script> <link rel="https://api.w.org/" href="https://businessinsider.mx/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://businessinsider.mx/xmlrpc.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://businessinsider.mx/wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordPress 5.5.3" /><link rel='shortlink' href='https://businessinsider.mx/?p=370943' /><link rel="alternate" type="application/json+oembed" href="https://businessinsider.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbusinessinsider.mx%2Fasml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5%2F" /><link rel="alternate" type="text/xml+oembed" href="https://businessinsider.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbusinessinsider.mx%2Fasml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5%2F&#038;format=xml" /><style>@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:-webkit-gradient(linear,left top,right top,from(#dd3737),color-stop(10%,#571313),to(#dd3737));background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style><link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-57x57.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-114x114.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-144x144.png" /><link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-60x60.png" /><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-120x120.png" /><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-76x76.png" /><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/apple-touch-icon-152x152.png" /><link rel="icon" type="image/png" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/favicon-196x196.png" sizes="196x196" /><link rel="icon" type="image/png" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/favicon-96x96.png" sizes="96x96" /><link rel="icon" type="image/png" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/favicon-16x16.png" sizes="16x16" /><link rel="icon" type="image/png" href="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/favicon-128.png" sizes="128x128" /><meta name="application-name" content="&nbsp;"/><meta name="msapplication-TileColor" content="#FFFFFF" /><meta name="msapplication-TileImage" content="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/mstile-144x144.png" /><meta name="msapplication-square70x70logo" content="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/mstile-70x70.png" /><meta name="msapplication-square150x150logo" content="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/mstile-150x150.png" /><meta name="msapplication-wide310x150logo" content="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/mstile-310x150.png" /><meta name="msapplication-square310x310logo" content="https://businessinsider.mx/wp-content/themes/business-insider-mx/favicon/mstile-310x310.png" /> <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> <script>window.googletag = window.googletag || {cmd: []};</script> <script>googletag.cmd.push(function() {
+
+			var mappingtop = googletag.sizeMapping().
+				addSize([900, 0], [ [980, 120], [980, 90], [970, 90], [970, 66], [960, 90], [950, 90], [930, 180], [728, 90], [1, 1] ]). //desktop
+				addSize([768, 0], [ [728, 90], [320, 100], [320, 50], [300, 100], [300, 75], [300, 50], [300, 31], [1, 1] ]). //tablet
+				addSize([320, 0], [ [320, 100], [320, 50], [300, 100], [300, 75], [300, 50], [300, 31], [1, 1] ]). //mobile
+				addSize([0, 0], [ [1, 1] ]). //other
+				build();
+
+			var mappingmiddle = googletag.sizeMapping().
+				addSize([900, 0], [ [768, 120], [750, 300], [750, 200], [750, 100], [728, 90], [1, 1] ]). //desktop
+				addSize([768, 0], [ [336, 280], [320, 100], [320, 50], [300, 300], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [300, 31] ]). //tablet
+				addSize([320, 0], [ [336, 280], [320, 100], [320, 50], [300, 300], [300, 250], [300, 200], [300, 100], [300, 75], [300, 50], [300, 31] ]). //mobile
+				addSize([0, 0], [ [1, 1] ]). //other
+				build();
+
+			var mappingsidebar = googletag.sizeMapping().
+				addSize([992, 0], [ [336, 280], [320, 480], [300, 1050], [300, 600], [300, 400], [300, 250], [1, 1] ]). //desktop
+				addSize([768, 0], [ [0, 0] ]). //tablet
+				addSize([320, 0], [ [0, 0] ]). //mobile
+				addSize([0, 0], [ [0, 0] ]). //other
+				build();
+
+			var mapping1x1 = googletag.sizeMapping().
+				addSize([0, 0], [ [1, 1] ]). //other
+				build();
+
+							googletag.defineSlot('/21924127960/bi_in-articule_1', [1, 1], 'div-gpt-ad-1646947304020-0').defineSizeMapping(mapping1x1).addService(googletag.pubads());
+				googletag.defineSlot('/21924127960/bi_in-articule_2', [1, 1], 'div-gpt-ad-1646948759468-0').defineSizeMapping(mapping1x1).addService(googletag.pubads());
+				googletag.defineSlot('/21924127960/bi_in-articule_3', [1, 1], 'div-gpt-ad-1646948804420-0').defineSizeMapping(mapping1x1).addService(googletag.pubads());
+			
+			///////////////
+			// #NEGOCIOS //
+			///////////////
+							//Top
+				googletag.defineSlot('/21924127960/bi_home_1', [[980, 90], [728, 90], [320, 50], [970, 90], [300, 31], [930, 180], [960, 90], [970, 66], [320, 100], [950, 90], [300, 50], [1, 1], [980, 120], [300, 75], [300, 100]], 'div-gpt-ad-1646230999046-0').defineSizeMapping(mappingtop).addService(googletag.pubads());
+				//Middle 1
+				googletag.defineSlot('/21924127960/bi_home_2', [[768, 120], [320, 100], [300, 31], [300, 75], [300, 300], [300, 50], [300, 250], [320, 50], [750, 200], [336, 280], [728, 90], [750, 300], [1, 1], [300, 200], [300, 100], [750, 100]], 'div-gpt-ad-1646232110022-0').defineSizeMapping(mappingmiddle).addService(googletag.pubads());
+				//Middle 2
+				googletag.defineSlot('/21924127960/bi_home_3', [[768, 120], [320, 100], [300, 31], [300, 75], [300, 300], [300, 50], [300, 250], [320, 50], [750, 200], [336, 280], [728, 90], [750, 300], [1, 1], [300, 200], [300, 100], [750, 100]], 'div-gpt-ad-1646232155133-0').defineSizeMapping(mappingmiddle).addService(googletag.pubads());
+				//Middle 3
+				googletag.defineSlot('/21924127960/bi_home_4', [[768, 120], [320, 100], [300, 31], [300, 75], [300, 300], [300, 50], [300, 250], [320, 50], [750, 200], [336, 280], [728, 90], [750, 300], [1, 1], [300, 200], [300, 100], [750, 100]], 'div-gpt-ad-1649107823125-0').defineSizeMapping(mappingmiddle).addService(googletag.pubads());
+				//Below 1
+				googletag.defineSlot('/21924127960/bi_home_5', [[300, 200], [750, 300], [300, 31], [300, 100], [768, 120], [320, 50], [300, 250], [728, 90], [1, 1], [300, 50], [336, 280], [750, 100], [320, 100], [300, 75], [300, 300], [750, 200]], 'div-gpt-ad-1646231578939-0').defineSizeMapping(mappingmiddle).addService(googletag.pubads());
+				//Below 2
+				googletag.defineSlot('/21924127960/bi_home_6', [[728, 90], [750, 200], [336, 280], [750, 300], [300, 100], [750, 100], [1, 1], [300, 250], [320, 50], [320, 100], [300, 50], [768, 120], [300, 31], [300, 200], [300, 75], [300, 300]], 'div-gpt-ad-1646232353262-0').defineSizeMapping(mappingmiddle).addService(googletag.pubads());
+				//Below 3
+				googletag.defineSlot('/21924127960/bi_home_7', [[728, 90], [750, 200], [336, 280], [750, 300], [300, 100], [750, 100], [1, 1], [300, 250], [320, 50], [320, 100], [300, 50], [768, 120], [300, 31], [300, 200], [300, 75], [300, 300]], 'div-gpt-ad-1646234701481-0').defineSizeMapping(mappingmiddle).addService(googletag.pubads());
+				//Below 4
+				googletag.defineSlot('/21924127960/bi_home_8', [[728, 90], [750, 200], [336, 280], [750, 300], [300, 100], [750, 100], [1, 1], [300, 250], [320, 50], [320, 100], [300, 50], [768, 120], [300, 31], [300, 200], [300, 75], [300, 300]], 'div-gpt-ad-1646234769043-0').defineSizeMapping(mappingmiddle).addService(googletag.pubads());
+
+
+									//Sidebar 1
+					googletag.defineSlot('/21924127960/bi_home_9', [[1, 1], [300, 250], [300, 400], [320, 480], [300, 1050], [336, 280], [300, 600]], 'div-gpt-ad-1646234879178-0').defineSizeMapping(mappingsidebar).addService(googletag.companionAds()).addService(googletag.pubads());
+					//Sidebar 2
+					googletag.defineSlot('/21924127960/bi_home_10', [[1, 1], [300, 250], [300, 400], [320, 480], [300, 1050], [336, 280], [300, 600]], 'div-gpt-ad-1646234919703-0').defineSizeMapping(mappingsidebar).addService(googletag.companionAds()).addService(googletag.pubads());
+					//Sidebar 3
+					googletag.defineSlot('/21924127960/bi_home_11', [[1, 1], [300, 250], [300, 400], [320, 480], [300, 1050], [336, 280], [300, 600]], 'div-gpt-ad-1649109146053-0').defineSizeMapping(mappingsidebar).addService(googletag.companionAds()).addService(googletag.pubads());
+				
+			
+
+			googletag.pubads().setCentering(true);
+			googletag.pubads().enableLazyLoad();
+			googletag.pubads().collapseEmptyDivs();
+			googletag.enableServices();
+		});</script>  <script type="text/javascript">(function() {
+		/** CONFIGURATION START **/
+		var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+		_sf_async_config.uid = 66046;
+		_sf_async_config.domain = 'businessinsider.mx'; //CHANGE THIS TO THE ROOT DOMAIN
+		_sf_async_config.flickerControl = false;
+		_sf_async_config.useCanonical = true;
+		_sf_async_config.useCanonicalDomain = true;
+					_sf_async_config.sections = '';
+					_sf_async_config.authors = '';
+				/** CONFIGURATION END **/
+
+		function loadChartbeat() {
+			var e = document.createElement('script');
+			var n = document.getElementsByTagName('script')[0];
+			e.type = 'text/javascript';
+			e.async = true;
+			e.src = '//static.chartbeat.com/js/chartbeat.js';;
+			n.parentNode.insertBefore(e, n);
+		}
+		loadChartbeat();
+		})();</script> <script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NRV295V');</script>  <script>var _comscore = _comscore || [];
+	 _comscore.push({ c1: "2", c2: "13194393" });
+	 (function() {
+	   var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	   el.parentNode.insertBefore(s, el);
+	 })();</script> <meta name="facebook-domain-verification" content="0ihwnevd4p2sxkhm04r7d4iali3guj" />
+ <script>!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '168401191263038');
+	fbq('track', 'PageView');</script> <noscript><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=168401191263038&ev=PageView&noscript=1"
+/><noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=168401191263038&ev=PageView&noscript=1"
+/></noscript></noscript><meta name="p:domain_verify" content="43a534377db9675b3b5336002b8eb257"/> <script>(function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:2181379,hjsv:6};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script> <meta name='Petal-Search-site-verification' content='de54165097'/>
+ <script>window.googletag = window.googletag || {cmd: []};
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/21924127960/Out-of-page', [MISSING_WIDTH, MISSING_HEIGHT], 'div-gpt-ad-1687806823701-0').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});</script>  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MSSMGBG');</script>  <script>!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1411367069458670'); 
+	fbq('track', 'PageView');</script> <noscript>
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" height="1" width="1"
+src="https://www.facebook.com/tr?id=1411367069458670&ev=PageView
+&noscript=1"/><noscript><img height="1" width="1"
+src="https://www.facebook.com/tr?id=1411367069458670&ev=PageView
+&noscript=1"/></noscript>
+</noscript>
+ <script>window.googletag = window.googletag || {cmd: []};
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/21924127960/1x1', [1, 1], 'div-gpt-ad-1697485579408-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});</script> </head><body class="rss-international-template-default single single-rss-international postid-370943 wp-embed-responsive index-page sidebar-collapse" >
+<noscript><iframe data-lazyloaded="1" src="about:blank" data-src="https://www.googletagmanager.com/ns.html?id=GTM-MSSMGBG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSSMGBG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></noscript><div id='div-gpt-ad-1697485579408-0'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1697485579408-0'); });</script> </div><div class="modal fade" id="newsletterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><div class="modal-dialog"><div class="modal-content newsletter"><div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+<i class="material-icons">clear</i>
+</button><div id="mc_embed_signup"><form action="https://businessinsider.us4.list-manage.com/subscribe/post?u=ae3e7fa25510c168d88327407&amp;id=3857f2cdc1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate newsletter" target="_blank" novalidate><h3 class="title">Suscríbete a nuestro Newsletter</h3>
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Tu correo"><div class="d-flex justify-content-center"><div id="mce-responses" class="clear"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ae3e7fa25510c168d88327407_97bcd2b766" tabindex="-1" value=""></div><div class="clear"><input type="submit" value="Regístrate" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary btn-round m-auto"></div></div></form></div></div></div></div></div>
+<noscript><iframe data-lazyloaded="1" src="about:blank" data-src="https://www.googletagmanager.com/ns.html?id=GTM-NRV295V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRV295V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></noscript><nav class="navbar navbar-default fixed-top navbar-expand-lg" id="sectionsNav"><div class="container container-menu">
+<a class="navbar-brand" href="https://businessinsider.mx">
+<img class="[ brand-logo ][ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/logo.png" class="img-fluid">
+</a><div class="menu" id="menu"><div class="container"><div class="d-flex justify-content-between mb-3 mb-md-0"><div class="mobile-close" id="menu-bar-button-close">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="menu-bar" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/menu-close.svg" /><noscript><img class="menu-bar" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/menu-close.svg" /></noscript></div></div><div class="d-flex align-items-lg-center flex-column flex-lg-row"><div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="navbar-nav m-auto"><li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="https://businessinsider.mx/category/negocios/"><span class="nav-item nav-link">Negocios</span></a></li><li id="menu-item-179751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179751"><a href="https://businessinsider.mx/category/startups/"><span class="nav-item nav-link">Startups</span></a></li><li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="https://businessinsider.mx/category/estrategia/"><span class="nav-item nav-link">Estrategia</span></a></li><li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="https://businessinsider.mx/category/tecnologia/"><span class="nav-item nav-link">Tecnología</span></a></li><li id="menu-item-23253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23253"><a href="https://businessinsider.mx/category/opinion/"><span class="nav-item nav-link">Opinión</span></a></li></ul></div><style>.container--mas{justify-content:center}.box--mas{margin-right:10px;margin-left:5px}</style><div class="collapse navbar-collapse menu-more"><ul class="navbar-nav ml-auto"><li class="dropdown nav-item submenu">
+<a class="nav-link" href="#" data-toggle="dropdown">
+MÁS
+</a><div class="dropdown-menu dropdown-menu-center"><div class="container"><div class="row">
+<a href="https://businessinsider.mx/category/estrategia/finanzas-personales/" class="[ container--mas ] [ box--mas ] [ dropdown-item submenu-item ][ col ][ py-2 ][ text-uppercase ]">Finanzas Personales</a>
+<a href="https://businessinsider.mx/category/estrategia/vida-profesional/" class="[ container--mas ] [ box--mas ] [ dropdown-item submenu-item ][ col ][ py-2 ][ text-uppercase ]">Vida Profesional</a>
+<a href="https://businessinsider.mx/category/deportes/" class="[ container--mas ] [ box--mas ] [ dropdown-item submenu-item ][ col ][ py-2 ][ text-uppercase ]">Deportes</a>
+<a href="https://businessinsider.mx/category/economia-y-politica/" class="[ container--mas ] [ box--mas ] [ dropdown-item submenu-item ][ col ][ py-2 ][ text-uppercase ]">Economía y Política</a>
+<a href="https://businessinsider.mx/category/lifestyle/" class="[ container--mas ] [ box--mas ] [ dropdown-item submenu-item ][ col ][ py-2 ][ text-uppercase ]">Lifestyle</a>
+<a href="https://businessinsider.mx/category/especiales/" class="[ container--mas ] [ box--mas ] [ dropdown-item submenu-item ][ col ][ py-2 ][ text-uppercase ]">Especiales</a>
+<a href="https://businessinsider.mx/category/cripto/" class="[ container--mas ] [ box--mas ] [ dropdown-item submenu-item ][ col ][ py-2 ][ text-uppercase ]">Cripto</a></div></div></div></li></ul></div><div class="collapse navbar-collapse [ menu-more menu-ediciones ]"><ul class="navbar-nav ml-auto"><li class="dropdown nav-item submenu">
+<a class="nav-link" href="#" data-toggle="dropdown">
+Ediciones Internaciones
+</a><div class="dropdown-menu dropdown-menu-center"><div class="container"><div class="row">
+<a href="https://www.businessinsider.de" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Alemania y Austria</a>
+<a href="https://www.businessinsider.com.au" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Australia</a>
+<a href="https://www.businessinsider.es/" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">España</a>
+<a href="https://www.businessinsider.com/?IR=C" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Estados Unidos</a>
+<a href="https://www.businessinsider.in" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">India</a>
+<a href="https://www.businessinsider.com/international?IR=C" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Internacional</a>
+<a href="https://www.businessinsider.jp" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Japón</a>
+<a href="https://www.businessinsider.my" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Malasia</a>
+<a href="https://www.businessinsider.nl" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Países Bajos</a>
+<a href="https://businessinsider.com.pl" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Polonia</a>
+<a href="https://www.businessinsider.sg" target="_blank" class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]">Singapur</a></div></div></div></li></ul></div><div class="collapse navbar-collapse [ menu-more menu-contacto-comercial ]"><ul class="navbar-nav ml-auto"><li class="dropdown nav-item submenu">
+<a class="nav-link" href="#" data-toggle="dropdown">
+Contacto comercial
+</a><div class="dropdown-menu dropdown-menu-center"><div class="container"><div class="row">
+<a class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]" href="mailto:jnavarijo@businessinsider@@mx" onclick="this.href=this.href.replace('@@','.')">Enviar correo</a>
+<a class="[ dropdown-item submenu-item ][ col-12 col-lg-2 ]" href="https://businessinsider.mx/ad-catalog">Ad Catalog</a></div></div></div></li></ul></div></div></div></div><div class="d-flex align-items-center">
+<button class="btn btn-primary btn-round btn-mobile" data-toggle="modal" data-target="#newsletterModal">Regístrate</button><div class="collapse navbar-collapse"><ul class="navbar-nav ml-auto"><li class="nav-item item-icon">
+<button class="btn btn-primary btn-round" data-toggle="modal" data-target="#newsletterModal">Regístrate</button></li><li class="dropdown nav-item item-icon">
+<a href="#" class="nav-link" data-toggle="dropdown">
+<i class="material-icons">work</i>
+</a><div class="dropdown-menu dropdown-menu-right">
+<a class="[ dropdown-item ]" href="mailto:jnavarijo@businessinsider@@mx" onclick="this.href=this.href.replace('@@','.')">Enviar correo</a>
+<a class="[ dropdown-item ]" href="https://businessinsider.mx/ad-catalog">Ad Catalog</a></div></li><li class="dropdown nav-item item-icon">
+<a href="#" class="nav-link" data-toggle="dropdown">
+<i class="material-icons">public</i>
+</a><div class="dropdown-menu dropdown-menu-right">
+<a href="https://www.businessinsider.de" target="_blank" class="dropdown-item">Alemania y Austria</a>
+<a href="https://www.businessinsider.com.au" target="_blank" class="dropdown-item">Australia</a>
+<a href="https://www.businessinsider.es/" target="_blank" class="dropdown-item">España</a>
+<a href="https://www.businessinsider.com/?IR=C" target="_blank" class="dropdown-item">Estados Unidos</a>
+<a href="https://www.businessinsider.in" target="_blank" class="dropdown-item">India</a>
+<a href="https://www.businessinsider.com/international/?IR=C" target="_blank" class="dropdown-item">Internacional</a>
+<a href="https://www.businessinsider.jp" target="_blank" class="dropdown-item">Japón</a>
+<a href="https://www.businessinsider.nl" target="_blank" class="dropdown-item">Países Bajos</a>
+<a href="https://businessinsider.com.pl" target="_blank" class="dropdown-item">Polonia</a></div></li><li class="nav-item item-icon"></li></ul></div>
+<img class="menu-bar no-lazyload" id="menu-bar-button" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/menu-bar.svg" /></div></div></nav><div id="page" class="site"><div id="content" class="[ container ]"><div class="[ banner-holder banner-holder__ad-top ]"><div id='div-gpt-ad-1646230999046-0' style='min-width: 300px; min-height: 31px;'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646230999046-0'); });</script> </div></div>
+ <script>window.googletag = window.googletag || {cmd: []};
+
+			googletag.cmd.push(function() {
+
+				googletag.defineSlot('/21924127960/UnidadTest_Video', [1, 1], 'div-gpt-ad-1678899039864-0').addService(googletag.pubads());
+
+				googletag.pubads().enableSingleRequest();
+
+				googletag.enableServices();
+
+			});</script>  <script>window.googletag = window.googletag || {cmd: []};
+				googletag.cmd.push(function() {
+					googletag.defineSlot('/21924127960/Demo_Integration', [1, 1], 'div-gpt-ad-1680278580902-0').addService(googletag.pubads());
+					googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+				});</script>  <script>window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineOutOfPageSlot('/21924127960/Out-of-page', 'div-gpt-ad-1688148608482-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });</script> <div class="row"><div class="col-12"><section class="river-item"><div class="tout-tag">
+<a class="post-featured-tag" href="" aria-hidden="true" tabindex="-1">
+International
+</a>
+<span class="tout-timestamp"><span class="[ posted-on ]"><time class="[ entry-date published ]">23/05/2024 a la  01:22am</time></span></span></div><h1 class="tout-title">The world&#8217;s top chipmakers can flip a &#8216;kill switch&#8217; should China invade Taiwan, Bloomberg reports</h1><hr><div class="row justify-content-start justify-content-md-between"><div class="col-12 col-md-8"><div class="title-author">
+<span class="byline"><a href="https://www.businessinsider.com/international/?IR=C" target="_blank">Business Insider International</a></span></div></div><div class="col-12 col-md-4 mt-3 mt-md-0"><ul class="net-socials-container"><li>
+<a class="net-social twitter" href="https://twitter.com/intent/tweet?original_referer=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/&#038;text=The%20world&#8217;s%20top%20chipmakers%20can%20flip%20a%20&#8216;kill%20switch&#8217;%20should%20China%20invade%20Taiwan,%20Bloomberg%20reports&#038;url=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/&#038;via=BusInsiderMX" target="_blank">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/twitter-white.svg">
+</a></li><li>
+<a class="net-social whatsapp" target="_blank" href="https://web.whatsapp.com/send?text=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/" data-original-title="whatsapp" data-action="share/whatsapp/share">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/whatsapp.svg">
+</a></li><li>
+<a target="_blank" class="net-social facebook" href="http://www.facebook.com/sharer.php?u=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/" >
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/facebook-white.svg">
+</a></li><li>
+<a class="net-social linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/"
+target="_blank">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/linkedin-white.svg">
+</a></li><li>
+<input type="text" value="https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/" id="currentPage" style="display: none;"> <script>function copyLink() {
+						var copyText = document.getElementById("currentPage")
+
+						copyText.style.display = 'block';
+						copyText.select();
+						copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+						document.execCommand("copy");
+						copyText.style.display = 'none';
+					}</script> <a class="net-social link" href="javascript:void(0)" onclick="copyLink()">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/link.svg">
+</a></li></ul></div></div><div class="[ img-fluid ][ no-lazyload ]"></div></section><div class="[ banner-holder banner-holder__middle1 ]"><div id='div-gpt-ad-1646232110022-0' style='min-width: 300px; min-height: 31px;'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646232110022-0'); });</script> </div></div><div id='div-gpt-ad-1678899039864-0'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1678899039864-0'); });</script> </div><div id='div-gpt-ad-1680278580902-0'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1680278580902-0'); });</script> </div></div><div class="col-12 col-lg-9"><div class="[ sticky-top ]"><article class="single-post" id="post-370943" class="post-370943 rss-international type-rss-international status-publish hentry"><div class="content-single"><div class="row justify-content-center"><div class="col-12 col-md-9 "><div class="[ highlights ]"></div><figure><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" loading="lazy" data-src="https://i.insider.com/5caecf2a2730ca036d6c1bbc?format=jpeg" height="4300" width="6511" alt="ASML Holding logo is seen at company&#039;s headquarters in Eindhoven, Netherlands, Januari 23, 2019. REUTERS/Eva Plevier" /><noscript><img loading="lazy" src="https://i.insider.com/5caecf2a2730ca036d6c1bbc?format=jpeg" height="4300" width="6511" alt="ASML Holding logo is seen at company&#039;s headquarters in Eindhoven, Netherlands, Januari 23, 2019. REUTERS/Eva Plevier" /></noscript><figcaption>ASML Holding logo is seen at company&#039;s headquarters in Eindhoven<span class="copyright">Reuters</span></figcaption></figure><ul class="summary-list"><li>Chip makers ASML and TSMC can disable advanced chipmaking machines remotely, Bloomberg reports.</li><li>The move addresses growing fears of a Chinese invasion of Taiwan, a key semiconductor producer.</li><li>A China-Taiwan conflict could severely impact the global economy.</li></ul><p>Two of the world&#039;s most important chip companies can flip a &#034;kill switch&#034; remotely on their most advanced chipmaking machines should China invade Taiwan, <a target="_blank" href="https://www.bloomberg.com/news/articles/2024-05-21/asml-tsmc-can-disable-chip-machines-if-china-invades-taiwan" rel="noopener noreferrer">Bloomberg</a> reported on Tuesday, citing people familiar with the matter.</p><p>The Netherlands&#039;s ASML &mdash; Europe&#039;s top tech company by market value &mdash; supplies advanced machines to chip-making companies. They include <a target="_blank" href="https://www.businessinsider.com/tsmc-us-china-tensions-may-dictate-fate-of-global-economy-2022-10" rel="noopener noreferrer">Taiwan&#039;s TSMC,</a> which produces, by some estimates, <a target="_blank" rel="nofollow noopener noreferrer" href="https://www.citigroup.com/global/insights/global-insights/the-u-s-china-chip-war-who-dares-to-win"><u>90% of the world&#039;s most advanced</u></a> processor chips.</p><div class="[ banner-holder banner-holder__middle2 ]"><div id='div-gpt-ad-1646947304020-0'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646947304020-0'); });</script></div></div><p>The news of a forced shutdown, or a &#034;kill switch,&#034; on ASML&#039;s chip-making gear comes amid intensifying rivalry between Washington and Beijing and mounting concerns over a potential Chinese invasion of Taiwan, which Beijing claims as its own territory.</p><p>Taiwan is the world&#039;s epicenter for semiconductor chips, the ubiquitous parts that are used in products from data centers to smartphones. A war in the region would have <a target="_blank" href="https://www.businessinsider.com/taiwan-war-impact-us-economic-growth-first-year-china-chips-2024-1" rel="noopener noreferrer">major consequences for the global economy.</a></p><div id="M771193ScriptRootC1316035"></div> <script src="https://jsc.mgid.com/b/u/businessinsider.mx.1316035.js" async></script> <p>The US, citing national security concerns, imposed restrictions on China under the Advanced Computing Chips Rule in November 2023. The restrictions make it harder for the East Asian giant to import advanced AI chips from American manufacturers.</p><p>The US has also <a target="_blank" href="https://www.bloomberg.com/news/articles/2024-01-01/us-pushed-asml-to-block-chinese-sales-before-january-deadline" rel="noopener noreferrer">pressured the Netherlands</a> to block some ASML exports to China to limit the country&#039;s ability to manufacture advanced chips. The Dutch company has also said it will <a target="_blank" href="https://www.reuters.com/technology/asml-ceo-says-us-restricts-servicing-some-china-equipment-wont-hurt-earnings-2024-04-24/" rel="noopener noreferrer">stop servicing some equipment</a> previously exported to China.</p><div class="[ banner-holder banner-holder__middle5 ]"><div id='div-gpt-ad-1646948759468-0'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646948759468-0'); });</script></div></div><p>But US concerns over a Chinese invasion of Taiwan remain, and Washington has expressed them to Dutch and Taiwanese officials, Bloomberg reported. ASML assured Dutch officials about the option to push the &#034;kill switch&#034; when they met with the company, per the media outlet.</p><p>The option applies to ASML&#039;s line of advanced <a target="_blank" href="https://markets.businessinsider.com/news/stocks/chatgpt-ai-artificial-intelligence-next-wave-euv-semiconductors-goldman-sachs-2023-7" rel="noopener noreferrer">extreme ultraviolet machines,</a> according to Bloomberg.</p><p>Taiwan&#039;s TSMC is the largest buyer of these 200 million euro, or $217 million, machines. They print the tiny microchip transistors used to make chips for artificial intelligence and military applications.</p><h2 id="6aa1005f-93c9-492d-acad-078bf7898371" data-toc-id="6aa1005f-93c9-492d-acad-078bf7898371">Rising concerns over Taiwan Strait developments</h2><p>There are concerns about China&#039;s intensifying drills around Taiwan after Taiwan inaugurated its new President, <a target="_blank" href="https://www.businessinsider.com/taiwan-election-president-william-lai-ching-te-xi-china-hates-2024-1" rel="noopener noreferrer">William Lai</a> &mdash; whom Beijing has branded as a separatist &mdash; on Monday.</p><div class="[ banner-holder banner-holder__middle10 ]"><div id='div-gpt-ad-1646948804420-0'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646948804420-0'); });</script></div></div><p>Beijing stepped up military activity around Taiwan ahead of Lai&#039;s inauguration and on Thursday announced drills as a &#034;strong punishment for the separatist acts of &#039;Taiwan independence&#039; forces,&#034; said Li Xi, a spokesperson for <a target="_blank" href="http://eng.mod.gov.cn/xb/News_213114/TopStories/16310652.html" rel="noopener noreferrer">China&#039;s People&#039;s Liberation Army.</a></p><p>Chipmaking supply chains are changing amid heightened geopolitical tensions.</p><div class="[ banner-holder banner-holder__mgid12 ]"> <br /><div id='M771193ScriptRootC1316264'></div> <br /><script src='https://jsc.mgid.com/b/u/businessinsider.mx.1316264.js' async></script></div><p class="premium"><a target="_blank" rel="nofollow noopener noreferrer" href="https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-opens-first-chip-plant-in-Japan-for-Sony-and-Renesas"><u>TSMC is diversifying production</u></a> with a second facility in Arizona and upcoming new plants in <a target="_blank" rel="nofollow noopener noreferrer" href="https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-opens-first-chip-plant-in-Japan-for-Sony-and-Renesas"><u>Japan</u></a> and <a target="_blank" rel="nofollow noopener noreferrer" href="https://www.dw.com/en/taiwans-tsmc-to-build-semiconductor-factory-in-germany/a-66469463"><u>Germany.</u></a> But new facilities will take time to come online.</p><p class="premium">The US is also taking steps to boost chip manufacturing through the <a target="_blank" rel="noopener noreferrer" href="https://www.businessinsider.com/chips-act-bill-to-boost-us-chipmaking-competition-with-china-2022-7"><u>CHIPS Act,</u></a> which provides billions of dollars in subsidies for domestic production, research, and workforce development.</p><p class="premium">But Nvidia CEO Jensen Huang told <a target="_blank" href="https://www.bloomberg.com/news/videos/2024-05-20/nvidia-ceo-says-we-need-taiwan-to-do-our-job-video" rel="noopener noreferrer">Bloomberg TV</a> on Tuesday that that the world&#039;s tech sector is likely to continue depending on Taiwanese manufacturing for &#034;some time.&#034; He said it would be &#034;very difficult&#034; for Nvidia to serve its customers without the island.</p><p>ASML and the Dutch government declined to comment to Business Insider.</p><p>TSMC did not immediately respond to Business Insider&#039;s requests for comment. The company declined to comment to Bloomberg.</p><div class="read-original">Read the original article on <a href="https://www.businessinsider.com/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5">Business Insider</a></div></p></div></div></div></article><div class="[ net-socials-container__footer ]"><ul class="net-socials-container"><li>
+<a class="net-social twitter" href="https://twitter.com/intent/tweet?original_referer=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/&#038;text=The%20world&#8217;s%20top%20chipmakers%20can%20flip%20a%20&#8216;kill%20switch&#8217;%20should%20China%20invade%20Taiwan,%20Bloomberg%20reports&#038;url=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/&#038;via=BusInsiderMX" target="_blank">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/twitter-white.svg">
+</a></li><li>
+<a class="net-social whatsapp" target="_blank" href="https://web.whatsapp.com/send?text=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/" data-original-title="whatsapp" data-action="share/whatsapp/share">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/whatsapp.svg">
+</a></li><li>
+<a target="_blank" class="net-social facebook" href="http://www.facebook.com/sharer.php?u=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/" >
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/facebook-white.svg">
+</a></li><li>
+<a class="net-social linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/"
+target="_blank">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/linkedin-white.svg">
+</a></li><li>
+<input type="text" value="https://businessinsider.mx/asml-tsmc-semiconductor-chip-equipment-kill-switch-china-invade-taiwan-2024-5/" id="currentPage" style="display: none;"> <script>function copyLink() {
+						var copyText = document.getElementById("currentPage")
+
+						copyText.style.display = 'block';
+						copyText.select();
+						copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+						document.execCommand("copy");
+						copyText.style.display = 'none';
+					}</script> <a class="net-social link" href="javascript:void(0)" onclick="copyLink()">
+<img class="[ no-lazyload ]" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/link.svg">
+</a></li></ul></div><div class="[ banner-holder ][ ad ad__2 ]"><div id='div-gpt-ad-1646232155133-0' style='min-width: 300px; min-height: 31px;'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646232155133-0'); });</script> </div></div><div id='div-gpt-ad-1678899039864-0'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1678899039864-0'); });</script> </div><div id='div-gpt-ad-1680278580902-0'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1680278580902-0'); });</script> </div><div class="[ row ][ my-4 ][ taboola-widget-single ]"><div id="taboola-below-article-organic-thumbnails"></div> <script type="text/javascript">window._taboola = window._taboola || [];
+						_taboola.push({
+						mode: 'organic-thumbnails-a',
+						container: 'taboola-below-article-organic-thumbnails',
+						placement: 'Below Article Organic Thumbnails',
+						target_type: 'mix'
+						});</script> </div></div></div><div class="col-12 col-lg-3 sidebar-hide-mobile"><aside class="row [ sticky-top ]"><div class="[ col-12 ]"><div class="title-section">AHORA ESCUCHA:</div>
+<br /><style>.image--podcast{margin-bottom:20px}</style><iframe
+class="[ image--podcast ]
+"allow="autoplay"
+width="100%"
+height="152"
+src="https://www.iheart.com/podcast/269-insider-bits-133527486/?embed=true"
+frameborder="0">
+</iframe><h2 class="[ title-section ]">Últimos videos</h2><div class="row"><div class="[ col-12 ][ sidebar__video ]"><article id="post-168448" class="post-168448 post type-post status-publish format-standard has-post-thumbnail hentry category-finanzas-personales tag-administradoras-de-fondos-para-el-retiro tag-afores tag-consar tag-jubilacion tag-retiro"><div class="[ img-fluid ]">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" width="300" height="150" data-src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-300x150.png" class="attachment-medium size-medium wp-post-image" alt="Administradoras de Fondos para el Retiro | Business Insider México" loading="lazy" data-srcset="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-300x150.png 300w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-1024x512.png 1024w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-768x384.png 768w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-800x400.png 800w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro.png 1280w" data-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img width="300" height="150" src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-300x150.png" class="attachment-medium size-medium wp-post-image" alt="Administradoras de Fondos para el Retiro | Business Insider México" loading="lazy" srcset="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-300x150.png 300w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-1024x512.png 1024w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-768x384.png 768w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro-800x400.png 800w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/09/08193557/Administradoras-de-Fondos-para-el-Retiro.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div><a href="https://businessinsider.mx/las-administradoras-de-fondos-para-el-retiro-afores/">
+<button class="[ video__play ]">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/play.svg"><noscript><img src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/play.svg"></noscript>
+</button>
+</a><h5 class="[ tout-title small ]">
+<a href="https://businessinsider.mx/las-administradoras-de-fondos-para-el-retiro-afores/">Esto es lo que debes saber sobre las Administradoras de Fondos para el Retiro (Afores)</a></h5></article></div><div class="[ col-12 ][ sidebar__video ]"><article id="post-115962" class="post-115962 post type-post status-publish format-standard has-post-thumbnail hentry category-deportes category-formula-1-2021 tag-automovilismo tag-deportes-para-principiantes tag-formula-1 tag-lewis-hamilton tag-pilotos tag-sergio-checo-perez"><div class="[ img-fluid ]">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" width="300" height="150" data-src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-300x150.jpg" class="attachment-medium size-medium wp-post-image" alt="F1 | Business Insider Mexico" loading="lazy" data-srcset="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-300x150.jpg 300w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-1024x512.jpg 1024w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-768x384.jpg 768w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-1536x768.jpg 1536w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-800x400.jpg 800w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo.jpg 2000w" data-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img width="300" height="150" src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-300x150.jpg" class="attachment-medium size-medium wp-post-image" alt="F1 | Business Insider Mexico" loading="lazy" srcset="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-300x150.jpg 300w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-1024x512.jpg 1024w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-768x384.jpg 768w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-1536x768.jpg 1536w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo-800x400.jpg 800w, https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2021/03/23170315/Business_Insider_Mexico_F1Checo.jpg 2000w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div><a href="https://businessinsider.mx/f1-para-principiantes-lo-que-debes-saber-para-entenderla-guia-basica/">
+<button class="[ video__play ]">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/play.svg"><noscript><img src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/play.svg"></noscript>
+</button>
+</a><h5 class="[ tout-title small ]">
+<a href="https://businessinsider.mx/f1-para-principiantes-lo-que-debes-saber-para-entenderla-guia-basica/">Fórmula 1 para principiantes: lo que debes saber sobre la máxima categoría del automovilismo</a></h5></article></div></div><hr><div class="[ banner-holder ][ ad sidebar__1 ]"><div id='div-gpt-ad-1646234769043-0' style='min-width: 300px; min-height: 250px;'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646234769043-0'); });</script> </div></div>
+<br /><div class="[ banner-holder ]"><div id='div-gpt-ad-1646234919703-0' style='min-width: 300px; min-height: 250px;'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646234919703-0'); });</script> </div><br /><div id='div-gpt-ad-1649109146053-0' style='min-width: 300px; min-height: 250px;'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1649109146053-0'); });</script> </div></div>
+<br /><div id="mc_embed_signup"><form action="https://businessinsider.us4.list-manage.com/subscribe/post?u=ae3e7fa25510c168d88327407&amp;id=3857f2cdc1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate newsletter" target="_blank" novalidate><h3 class="title">Suscríbete a nuestro Newsletter</h3>
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Tu correo"><div class="d-flex justify-content-center"><div id="mce-responses" class="clear"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ae3e7fa25510c168d88327407_97bcd2b766" tabindex="-1" value=""></div><div class="clear"><input type="submit" value="Regístrate" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary btn-round m-auto"></div></div></form></div><div class="[ top ]"><h2 class="[ title-section ]">Las más leídas</h2><div class="row"><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/victorinox-cautivo-a-mexico-con-navajas-suizas-hoy-apuesta-por-confiabilidad/">
+Victorinox: la marca suiza que cautivó a los mexicanos con las navajas y que hoy apuesta por la confiabilidad
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/que-es-fobaproa-historia-mexicanos-pagan-deuda-bancaria/">
+Conoce el Fobaproa, la deuda bancaria que los mexicanos seguirán pagando por medio siglo
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/cuales-son-los-mejores-cortes-para-carnita-asada-tips-asar-carne/">
+Los 12 mejores cortes para hacer una carnita asada 🥩
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/valor-dinero-tiempo_estrategia/">
+Valor del dinero en el tiempo: el principio rector de prácticamente todas las decisiones financieras y de inversión
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/formularios-google-anonimos-aqui-ensenamos-generarlos/">
+TUTORIAL: Cómo crear formularios de Google que tus empleados puedan responder de manera anónima
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/china-intensifica-esfuerzos-desdolarizacion-deshacerse-cantidad-record-bonos-estadounidenses/">
+China intensifica sus esfuerzos de desdolarización al deshacerse de una cantidad récord de bonos estadounidenses
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/amlo-retrasa-operaciones-de-mineras-con-escrutinio-ambiental-mas-estricto/">
+AMLO retrasa operaciones de mineras con escrutinio ambiental más estricto —y eso impacta las operaciones de Grupo México
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/13-peliculas-adolescentes-principios-2000_lifestyle/">
+13 películas para adolescentes de principios de la década de 2000 que quizás olvidaste que existe
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/diferencias-entre-caldo-sopa-consome-segun-una-chef-experta/">
+Estas son las diferencias entre el caldo, la sopa y el consomé, según una chef experta
+</a></h2></div><hr></article><article class="col-12"><div class="top__item"><h2 class="tout-title three-column m-0 top__item-title">
+<a class="tout-title-link" href="https://businessinsider.mx/frutas-que-contienen-menos-azucar-dieta/">
+Estas son 8 frutas que contienen menos azúcar para que las disfrutes como parte de tu dieta
+</a></h2></div><hr></article></div></div></div></aside></div></div><div class="[ container ]"><div class="[ row ]"><div class="[ col-12 ]"><div class="[ banner-holder ][ ad ad__3 ]"><div id='div-gpt-ad-1649107823125-0' style='min-width: 300px; min-height: 31px;'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1649107823125-0'); });</script> </div></div><div id='div-gpt-ad-1678899039864-0'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1678899039864-0'); });</script> </div><div id='div-gpt-ad-1680278580902-0'> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1680278580902-0'); });</script> </div></div></div></div><footer id="footer" class="[ footer ]"><div class="container"><div class="row justify-content-between"><div class="col-12"><div class="float-right">
+<span class="tout-timestamp display-block">PARTNER</span>
+<a href="https://depositphotos.com/es/" target="_blank">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+style=""
+class="height-2vh float-right"
+data-src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2023/11/17122317/Depositphotos-Logo-Dark.png" /><noscript><img
+style=""
+class="height-2vh float-right"
+src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2023/11/17122317/Depositphotos-Logo-Dark.png" /></noscript>
+</a></div></div><div class="col-12"><hr><div class="row justify-content-between align-items-center pt-1 pb-1 footer"><div class="col-12 col-md-2 mb-3 mb-m-0">
+<a class="navbar-brand" href="https://businessinsider.mx">
+<img style="width: 132px;" src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/logo.png" class="img-fluid">							</a></div><div class="col-lg-4 col-md-6 col-12"><div class="d-flex justify-content-around align-items-center">
+<a class="net-social" target="_blank" href="https://www.facebook.com/Business-Insider-Mexico-102929094419998/">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/facebook.svg"><noscript><img src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/facebook.svg"></noscript>
+</a>
+<a class="net-social" target="_blank" href="https://twitter.com/businsidermx">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/twitter.svg"><noscript><img src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/twitter.svg"></noscript>
+</a>
+<a class="net-social" target="_blank" href="https://www.linkedin.com/company/businessinsidermexico">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/linkedin.svg"><noscript><img src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/linkedin.svg"></noscript>
+</a>
+<a class="net-social" target="_blank" href="https://www.youtube.com/c/BusinessInsiderMexico">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/youtube.svg"><noscript><img src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/youtube.svg"></noscript>
+</a>
+<a class="net-social" target="_blank" href="https://www.instagram.com/businessinsidermexico/">
+<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/instagram.svg"><noscript><img src="https://businessinsider.mx/wp-content/themes/business-insider-mx/images/instagram.svg"></noscript>
+</a></div></div></div><hr></div><div class="col-12"><p>Copyright © 2021 Insider Inc. Todos los derechos reservados. <a href="https://businessinsider.mx/aviso-de-privacidad">Aviso de privacidad</a> y <a href="https://businessinsider.mx/politica-de-cookies">Politica de cookies</a></p><p class="m-auto">Ediciones Internacionales:</p><p><a target="_blank" href="https://www.businessinsider.de">Alemania y Austria</a>, <a target="_blank" href="https://www.businessinsider.com.au">Australia</a>, <a target="_blank" href="https://www.businessinsider.es/">España</a>, <a target="_blank" href="https://www.businessinsider.com/?IR=C">Estados Unidos</a>,  <a target="_blank" href="https://www.businessinsider.in">India</a>, <a target="_blank" href="https://www.businessinsider.com/international?IR=C">Internacional</a>, <a target="_blank" href="https://www.businessinsider.jp">Japón</a>, <a target="_blank" href="https://www.businessinsider.nl">Países Bajos</a>, <a target="_blank" href="https://businessinsider.com.pl">Polonia</a></p></div></div></div></footer></div> <script data-optimized="1" type='text/javascript' src='https://businessinsider.mx/wp-content/litespeed/cssjs/54d0c.js?c5d75' id='business-insider-mx-navigation-js' defer data-deferred="1"></script> <script data-optimized="1" type='text/javascript' src='https://businessinsider.mx/wp-content/litespeed/cssjs/0c437.js?2981e' id='business-insider-mx-skip-link-focus-fix-js' defer data-deferred="1"></script> <script data-optimized="1" type='text/javascript' src='https://businessinsider.mx/wp-content/litespeed/cssjs/1680f.js?97d38' id='wp-embed-js' defer data-deferred="1"></script> <script type='text/javascript' src='https://businessinsider.mx/wp-content/themes/business-insider-mx/js/core/jquery.min.js' id='jquery-bi-js-js'></script> <script data-optimized="1" type='text/javascript' src='https://businessinsider.mx/wp-content/litespeed/cssjs/12f23.js?d209b' id='popper-bi-js-js' defer data-deferred="1"></script> <script data-optimized="1" type='text/javascript' src='https://businessinsider.mx/wp-content/litespeed/cssjs/6db4f.js?fee21' id='material-bi-js-js' defer data-deferred="1"></script> <script data-optimized="1" type='text/javascript' src='https://businessinsider.mx/wp-content/litespeed/cssjs/a6012.js?2b689' id='kit-bi-js-js' defer data-deferred="1"></script> <script>$(document).ready(function() {
+		var $videoSrc = null;
+		$(".videoModal").on('show.bs.modal', function() {
+			$videoSrc = $(this).find(".modal-body iframe").attr('src');
+			var url = $(this).find(".modal-body iframe").attr('src');
+			var url = url+'?autoplay=1';
+			$(this).find(".modal-body iframe").attr('src', url);
+		});
+		$(".videoModal").on('hide.bs.modal', function() {
+			$(this).find(".modal-body iframe").attr('src', '');
+			$(this).find(".modal-body iframe").attr('src', $videoSrc);
+			$videoSrc = null;
+		});
+	});</script> <script data-no-optimize="1">var _extends=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var n=arguments[e];for(var o in n)Object.prototype.hasOwnProperty.call(n,o)&&(t[o]=n[o])}return t},_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t};!function(t,e){"object"===("undefined"==typeof exports?"undefined":_typeof(exports))&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.LazyLoad=e()}(this,function(){"use strict";var n={elements_selector:"img",container:document,threshold:300,thresholds:null,data_src:"src",data_srcset:"srcset",data_sizes:"sizes",data_bg:"bg",class_loading:"litespeed-loading",class_loaded:"litespeed-loaded",class_error:"error",load_delay:0,callback_load:null,callback_error:null,callback_set:null,callback_enter:null,callback_finish:null,to_webp:!1},s="data-",r="was-processed",o="ll-timeout",a="true",c=function(t,e){return t.getAttribute(s+e)},i=function(t,e,n){var o=s+e;null!==n?t.setAttribute(o,n):t.removeAttribute(o)},l=function(t){return c(t,r)===a},u=function(t,e){return i(t,o,e)},d=function(t){return c(t,o)},f=function(t,e){var n,o="LazyLoad::Initialized",s=new t(e);try{n=new CustomEvent(o,{detail:{instance:s}})}catch(t){(n=document.createEvent("CustomEvent")).initCustomEvent(o,!1,!1,{instance:s})}window.dispatchEvent(n)};var _=function(t,e){return e?t.replace(/\.(jpe?g|png)/gi,".webp"):t},t="undefined"!=typeof window,v=t&&!("onscroll"in window)||/(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),e=t&&"IntersectionObserver"in window,h=t&&"classList"in document.createElement("p"),b=t&&!1,g=function(t,e,n,o){for(var s,r=0;s=t.children[r];r+=1)if("SOURCE"===s.tagName){var a=c(s,n);m(s,e,a,o)}},m=function(t,e,n,o){n&&t.setAttribute(e,_(n,o))},p={IMG:function(t,e){var n=b&&e.to_webp,o=e.data_srcset,s=t.parentNode;s&&"PICTURE"===s.tagName&&g(s,"srcset",o,n);var r=c(t,e.data_sizes);m(t,"sizes",r);var a=c(t,o);m(t,"srcset",a,n);var i=c(t,e.data_src);m(t,"src",i,n)},IFRAME:function(t,e){var n=c(t,e.data_src);m(t,"src",n)},VIDEO:function(t,e){var n=e.data_src,o=c(t,n);g(t,"src",n),m(t,"src",o),t.load()}},y=function(t,e){var n,o,s=e._settings,r=t.tagName,a=p[r];if(a)return a(t,s),e._updateLoadingCount(1),void(e._elements=(n=e._elements,o=t,n.filter(function(t){return t!==o})));!function(t,e){var n=b&&e.to_webp,o=c(t,e.data_src),s=c(t,e.data_bg);if(o){var r=_(o,n);t.style.backgroundImage='url("'+r+'")'}if(s){var a=_(s,n);t.style.backgroundImage=a}}(t,s)},w=function(t,e){h?t.classList.add(e):t.className+=(t.className?" ":"")+e},E=function(t,e){t&&t(e)},L="load",I="loadeddata",O="error",k=function(t,e,n){t.addEventListener(e,n)},A=function(t,e,n){t.removeEventListener(e,n)},C=function(t,e,n){A(t,L,e),A(t,I,e),A(t,O,n)},z=function(t,e,n){var o,s,r=n._settings,a=e?r.class_loaded:r.class_error,i=e?r.callback_load:r.callback_error,c=t.target;o=c,s=r.class_loading,h?o.classList.remove(s):o.className=o.className.replace(new RegExp("(^|\\s+)"+s+"(\\s+|$)")," ").replace(/^\s+/,"").replace(/\s+$/,""),w(c,a),E(i,c),n._updateLoadingCount(-1)},N=function(n,o){var t,e,s,r=function t(e){z(e,!0,o),C(n,t,a)},a=function t(e){z(e,!1,o),C(n,r,t)};s=a,k(t=n,L,e=r),k(t,I,e),k(t,O,s)},x=["IMG","IFRAME","VIDEO"],M=function(t,e,n){R(t,n),e.unobserve(t)},S=function(t){var e=d(t);e&&(clearTimeout(e),u(t,null))};function R(t,e,n){var o=e._settings;!n&&l(t)||(E(o.callback_enter,t),-1<x.indexOf(t.tagName)&&(N(t,e),w(t,o.class_loading)),y(t,e),i(t,r,a),E(o.callback_set,t))}var j=function(t){return t.isIntersecting||0<t.intersectionRatio},T=function(t,e){this._settings=_extends({},n,t),this._setObserver(),this._loadingCount=0,this.update(e)};return T.prototype={_manageIntersection:function(t){var e,n,o,s,r,a=this._observer,i=this._settings.load_delay,c=t.target;i?j(t)?(e=c,n=a,s=(o=this)._settings.load_delay,(r=d(e))||(r=setTimeout(function(){M(e,n,o),S(e)},s),u(e,r))):S(c):j(t)&&M(c,a,this)},_onIntersection:function(t){t.forEach(this._manageIntersection.bind(this))},_setObserver:function(){var t;e&&(this._observer=new IntersectionObserver(this._onIntersection.bind(this),{root:(t=this._settings).container===document?null:t.container,rootMargin:t.thresholds||t.threshold+"px"}))},_updateLoadingCount:function(t){this._loadingCount+=t,0===this._elements.length&&0===this._loadingCount&&E(this._settings.callback_finish)},update:function(t){var e=this,n=this._settings,o=t||n.container.querySelectorAll(n.elements_selector);this._elements=Array.prototype.slice.call(o).filter(function(t){return!l(t)}),!v&&this._observer?this._elements.forEach(function(t){e._observer.observe(t)}):this.loadAll()},destroy:function(){var e=this;this._observer&&(this._elements.forEach(function(t){e._observer.unobserve(t)}),this._observer=null),this._elements=null,this._settings=null},load:function(t,e){R(t,this,e)},loadAll:function(){var e=this;this._elements.forEach(function(t){e.load(t)})}},t&&function(t,e){if(e)if(e.length)for(var n,o=0;n=e[o];o+=1)f(t,n);else f(t,e)}(T,window.lazyLoadOptions),T}),function(e,t){"use strict";function n(){t.body.classList.add("litespeed_lazyloaded")}function a(){d=new LazyLoad({elements_selector:"[data-lazyloaded]",callback_finish:n}),o=function(){d.update()},e.MutationObserver&&new MutationObserver(o).observe(t.documentElement,{childList:!0,subtree:!0,attributes:!0})}var d,o;e.addEventListener?e.addEventListener("load",a,!1):e.attachEvent("onload",a)}(window,document);</script></body></html>
+<!-- Page optimized by LiteSpeed Cache @2024-05-23 22:51:15 -->
+<!-- Page supported by LiteSpeed Cache 3.6.4 on 2024-05-23 16:51:15 -->

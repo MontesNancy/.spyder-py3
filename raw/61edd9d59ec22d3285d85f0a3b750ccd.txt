@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html lang="en-US" class="" data-skin="light" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<!--||  JM Twitter Cards by jmau111 v12  ||-->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@armradio">
+<meta name="twitter:site" content="@armradio">
+<meta property="og:title" content="NATO and Armenia strengthen cooperation in defense education">
+<meta property="og:description" content="Representatives from the Armenian Ministry of Defense met with their counterparts at NATO Headquarters at the end of April to review activities conducted within the framework of NATO’s Defence Educ">
+<meta property="og:image" content="https://en.armradio.am/wp-content/uploads/2024/05/240521-deep_rdax_775x440s.jpg">
+<!--||  /JM Twitter Cards by jmau111 v12  ||-->
+<title>NATO and Armenia strengthen cooperation in defense education &#8211; Public Radio of Armenia</title>
+<meta http-equiv='x-dns-prefetch-control' content='on'>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Public Radio of Armenia &raquo; Feed" href="https://en.armradio.am/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Public Radio of Armenia &raquo; Comments Feed" href="https://en.armradio.am/comments/feed/" />
+<script type="text/javascript">
+try {
+if( 'undefined' != typeof localStorage ){
+var tieSkin = localStorage.getItem('tie-skin');
+}
+var html = document.getElementsByTagName('html')[0].classList,
+htmlSkin = 'light';
+if( html.contains('dark-skin') ){
+htmlSkin = 'dark';
+}
+if( tieSkin != null && tieSkin != htmlSkin ){
+html.add('tie-skin-inverted');
+var tieSkinInverted = true;
+}
+if( tieSkin == 'dark' ){
+html.add('dark-skin');
+}
+else if( tieSkin == 'light' ){
+html.remove( 'dark-skin' );
+}
+} catch(e) { console.log( e ) }
+</script>
+<style type="text/css">
+:root{				
+--tie-preset-gradient-1: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+--tie-preset-gradient-2: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+--tie-preset-gradient-3: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+--tie-preset-gradient-4: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+--tie-preset-gradient-5: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+--tie-preset-gradient-6: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+--tie-preset-gradient-7: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+--tie-preset-gradient-8: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+--tie-preset-gradient-9: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+--tie-preset-gradient-10: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+--tie-preset-gradient-11: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+--tie-preset-gradient-12: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+--tie-preset-gradient-13: linear-gradient(135deg, #4D34FA, #ad34fa);
+--tie-preset-gradient-14: linear-gradient(135deg, #0057FF, #31B5FF);
+--tie-preset-gradient-15: linear-gradient(135deg, #FF007A, #FF81BD);
+--tie-preset-gradient-16: linear-gradient(135deg, #14111E, #4B4462);
+--tie-preset-gradient-17: linear-gradient(135deg, #F32758, #FFC581);
+--main-nav-background: #FFFFFF;
+--main-nav-secondry-background: rgba(0,0,0,0.03);
+--main-nav-primary-color: #0088ff;
+--main-nav-contrast-primary-color: #FFFFFF;
+--main-nav-text-color: #2c2f34;
+--main-nav-secondry-text-color: rgba(0,0,0,0.5);
+--main-nav-main-border-color: rgba(0,0,0,0.1);
+--main-nav-secondry-border-color: rgba(0,0,0,0.08);
+}
+</style>
+<meta property="og:title" content="NATO and Armenia strengthen cooperation in defense education - Public Radio of Armenia" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Representatives from the Armenian Ministry of Defense met with their counterparts at NATO Headquarte" />
+<meta property="og:url" content="https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/" />
+<meta property="og:site_name" content="Public Radio of Armenia" />
+<meta property="og:image" content="https://en.armradio.am/wp-content/uploads/2024/05/240521-deep_rdax_775x440s.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/en.armradio.am\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+img.wp-smiley, img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 0.07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://en.armradio.am/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//en.armradio.am/wp-content/cache/wpfc-minified/m9hfmh0v/bh4d1.css" media="all"/>
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<!-- <link rel='stylesheet' id='mediaelement-css' href='https://en.armradio.am/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-mediaelement-css' href='https://en.armradio.am/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.4.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//en.armradio.am/wp-content/cache/wpfc-minified/1pb0rejh/bh4co.css" media="all"/>
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<!-- <link rel='stylesheet' id='taqyeem-buttons-style-css' href='https://en.armradio.am/wp-content/plugins/taqyeem-buttons/assets/style.css?ver=6.4.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-base-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/base.min.css?ver=7.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-styles-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/style.min.css?ver=7.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-widgets-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/widgets.min.css?ver=7.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-helpers-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/helpers.min.css?ver=7.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-fontawesome5-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/fontawesome.css?ver=7.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-ilightbox-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/ilightbox/dark-skin/skin.css?ver=7.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-shortcodes-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/plugins/shortcodes.min.css?ver=7.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-single-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/single.min.css?ver=7.1.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//en.armradio.am/wp-content/cache/wpfc-minified/dflr7f2q/bh4d1.css" media="all"/>
+<!-- <link rel='stylesheet' id='tie-css-print-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/print.css?ver=7.1.2' type='text/css' media='print' /> -->
+<link rel="stylesheet" type="text/css" href="//en.armradio.am/wp-content/cache/wpfc-minified/k0y7hthh/bh4d1.css" media="print"/>
+<!-- <link rel='stylesheet' id='taqyeem-styles-css' href='https://en.armradio.am/wp-content/themes/armradiov5/assets/css/plugins/taqyeem.min.css?ver=7.1.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//en.armradio.am/wp-content/cache/wpfc-minified/8i0lmqw9/bh4co.css" media="all"/>
+<style id='taqyeem-styles-inline-css' type='text/css'>
+@font-face {font-family: 'Montserrat';font-display: swap;src: url('https://en.armradio.am/wp-content/uploads/2019/06/Montserrat-SemiBold.woff2') format('woff2'),url('https://en.armradio.am/wp-content/uploads/2019/06/Montserrat-SemiBold.woff') format('woff');}@font-face {font-family: 'Montserrat';font-display: swap;src: url('https://en.armradio.am/wp-content/uploads/2019/06/Montserrat-Regular.woff2') format('woff2'),url('https://en.armradio.am/wp-content/uploads/2019/06/Montserrat-Regular.woff') format('woff');}@font-face {font-family: 'Montserrat';font-display: swap;src: url('https://en.armradio.am/wp-content/uploads/2019/06/Montserrat-Regular.woff2') format('woff2'),url('https://en.armradio.am/wp-content/uploads/2019/06/Montserrat-Regular.woff') format('woff');}body{font-family: 'Montserrat';}.logo-text,h1,h2,h3,h4,h5,h6,.the-subtitle{font-family: 'Montserrat';}#main-nav .main-menu > ul > li > a{font-family: 'Montserrat';}body{font-size: 13px;}#main-nav .main-menu > ul > li > a{font-size: 15px;text-transform: uppercase;}#main-nav .main-menu > ul ul li a{font-size: 13px;}#breadcrumb{font-size: 12px;}.entry-header h1.entry-title{font-size: 25px;}.entry h1{font-size: 38px;}.entry h2{font-size: 14px;}.post-widget-body .post-title,.timeline-widget ul li h3,.posts-list-half-posts li .post-title{font-size: 13px;}#tie-wrapper .mag-box.wide-post-box .posts-items>li:nth-child(n) .post-title,#tie-wrapper .mag-box.big-post-left-box li:first-child .post-title,#tie-wrapper .mag-box.big-post-top-box li:first-child .post-title,#tie-wrapper .mag-box.half-box li:first-child .post-title,#tie-wrapper .mag-box.big-posts-box .posts-items>li:nth-child(n) .post-title,#tie-wrapper .mag-box.mini-posts-box .posts-items>li:nth-child(n) .post-title,#tie-wrapper .mag-box.latest-poroducts-box .products .product h2{font-size: 20px;}#tie-wrapper .mag-box.big-post-left-box li:not(:first-child) .post-title,#tie-wrapper .mag-box.big-post-top-box li:not(:first-child) .post-title,#tie-wrapper .mag-box.half-box li:not(:first-child) .post-title,#tie-wrapper .mag-box.big-thumb-left-box li:not(:first-child) .post-title,#tie-wrapper .mag-box.scrolling-box .slide .post-title,#tie-wrapper .mag-box.miscellaneous-box li:not(:first-child) .post-title{font-size: 13px;}@media (min-width: 992px){.has-sidebar .fullwidth-slider-wrapper .thumb-overlay .thumb-content .thumb-title,.has-sidebar .wide-next-prev-slider-wrapper .thumb-overlay .thumb-content .thumb-title,.has-sidebar .wide-slider-with-navfor-wrapper .thumb-overlay .thumb-content .thumb-title,.has-sidebar .boxed-slider-wrapper .thumb-overlay .thumb-title{font-size: 25px;}}@media (min-width: 768px){#tie-wrapper .main-slider.grid-3-slides .slide .grid-item:nth-child(1) .thumb-title,#tie-wrapper .main-slider.grid-5-first-big .slide .grid-item:nth-child(1) .thumb-title,#tie-wrapper .main-slider.grid-5-big-centerd .slide .grid-item:nth-child(1) .thumb-title,#tie-wrapper .main-slider.grid-4-big-first-half-second .slide .grid-item:nth-child(1) .thumb-title,#tie-wrapper .main-slider.grid-2-big .thumb-overlay .thumb-title,#tie-wrapper .wide-slider-three-slids-wrapper .thumb-title{font-size: 25px;}}@media (min-width: 768px){#tie-wrapper .boxed-slider-three-slides-wrapper .slide .thumb-title,#tie-wrapper .grid-3-slides .slide .grid-item:nth-child(n+2) .thumb-title,#tie-wrapper .grid-5-first-big .slide .grid-item:nth-child(n+2) .thumb-title,#tie-wrapper .grid-5-big-centerd .slide .grid-item:nth-child(n+2) .thumb-title,#tie-wrapper .grid-4-big-first-half-second .slide .grid-item:nth-child(n+2) .thumb-title,#tie-wrapper .grid-5-in-rows .grid-item:nth-child(n) .thumb-overlay .thumb-title,#tie-wrapper .main-slider.grid-4-slides .thumb-overlay .thumb-title,#tie-wrapper .grid-6-slides .thumb-overlay .thumb-title,#tie-wrapper .boxed-four-taller-slider .slide .thumb-title{font-size: 16px;}}:root:root{--brand-color: #0d5694;--dark-brand-color: #002462;--bright-color: #FFFFFF;--base-color: #2c2f34;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 13,86,148,0.7);}:root:root{--brand-color: #0d5694;--dark-brand-color: #002462;--bright-color: #FFFFFF;--base-color: #2c2f34;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 13,86,148,0.7);}#top-nav a:not(:hover),#top-nav input,#top-nav #search-submit,#top-nav .fa-spinner,#top-nav .dropdown-social-icons li a span,#top-nav .components > li .social-link:not(:hover) span,#autocomplete-suggestions.search-in-top-nav a{color: #ffffff;}#top-nav input::-moz-placeholder{color: #ffffff;}#top-nav input:-moz-placeholder{color: #ffffff;}#top-nav input:-ms-input-placeholder{color: #ffffff;}#top-nav input::-webkit-input-placeholder{color: #ffffff;}#top-nav,.search-in-top-nav{--tie-buttons-color: #898989;--tie-buttons-border-color: #898989;--tie-buttons-text: #FFFFFF;--tie-buttons-hover-color: #6b6b6b;}#top-nav a:hover,#top-nav .menu li:hover > a,#top-nav .menu > .tie-current-menu > a,#top-nav .components > li:hover > a,#top-nav .components #search-submit:hover,#autocomplete-suggestions.search-in-top-nav .post-title a:hover{color: #898989;}#top-nav .breaking-title{color: #FFFFFF;}#top-nav .breaking-title:before{background-color: #e81700;}#top-nav .breaking-news-nav li:hover{background-color: #e81700;border-color: #e81700;}.main-nav,.search-in-main-nav{--main-nav-primary-color: #0d5694;--tie-buttons-color: #0d5694;--tie-buttons-border-color: #0d5694;--tie-buttons-text: #FFFFFF;--tie-buttons-hover-color: #003876;}#main-nav .mega-links-head:after,#main-nav .cats-horizontal a.is-active,#main-nav .cats-horizontal a:hover,#main-nav .spinner > div{background-color: #0d5694;}#main-nav .menu ul li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,#main-nav .components a:hover,#main-nav .components > li:hover > a,#main-nav #search-submit:hover,#main-nav .cats-vertical a.is-active,#main-nav .cats-vertical a:hover,#main-nav .mega-menu .post-meta a:hover,#main-nav .mega-menu .post-box-title a:hover,#autocomplete-suggestions.search-in-main-nav a:hover,#main-nav .spinner-circle:after{color: #0d5694;}#main-nav .menu > li.tie-current-menu > a,#main-nav .menu > li:hover > a,.theme-header #main-nav .mega-menu .cats-horizontal a.is-active,.theme-header #main-nav .mega-menu .cats-horizontal a:hover{color: #FFFFFF;}#main-nav .menu > li.tie-current-menu > a:before,#main-nav .menu > li:hover > a:before{border-top-color: #FFFFFF;}#footer{background-color: #1d262d;}#site-info{background-color: #ffffff;}#footer .posts-list-counter .posts-list-items li.widget-post-list:before{border-color: #1d262d;}#footer .timeline-widget a .date:before{border-color: rgba(29,38,45,0.8);}#footer .footer-boxed-widget-area,#footer textarea,#footer input:not([type=submit]),#footer select,#footer code,#footer kbd,#footer pre,#footer samp,#footer .show-more-button,#footer .slider-links .tie-slider-nav span,#footer #wp-calendar,#footer #wp-calendar tbody td,#footer #wp-calendar thead th,#footer .widget.buddypress .item-options a{border-color: rgba(255,255,255,0.1);}#footer .social-statistics-widget .white-bg li.social-icons-item a,#footer .widget_tag_cloud .tagcloud a,#footer .latest-tweets-widget .slider-links .tie-slider-nav span,#footer .widget_layered_nav_filters a{border-color: rgba(255,255,255,0.1);}#footer .social-statistics-widget .white-bg li:before{background: rgba(255,255,255,0.1);}.site-footer #wp-calendar tbody td{background: rgba(255,255,255,0.02);}#footer .white-bg .social-icons-item a span.followers span,#footer .circle-three-cols .social-icons-item a .followers-num,#footer .circle-three-cols .social-icons-item a .followers-name{color: rgba(255,255,255,0.8);}#footer .timeline-widget ul:before,#footer .timeline-widget a:not(:hover) .date:before{background-color: #00080f;}#footer .widget-title,#footer .widget-title a:not(:hover){color: #dddddd;}#footer,#footer textarea,#footer input:not([type='submit']),#footer select,#footer #wp-calendar tbody,#footer .tie-slider-nav li span:not(:hover),#footer .widget_categories li a:before,#footer .widget_product_categories li a:before,#footer .widget_layered_nav li a:before,#footer .widget_archive li a:before,#footer .widget_nav_menu li a:before,#footer .widget_meta li a:before,#footer .widget_pages li a:before,#footer .widget_recent_entries li a:before,#footer .widget_display_forums li a:before,#footer .widget_display_views li a:before,#footer .widget_rss li a:before,#footer .widget_display_stats dt:before,#footer .subscribe-widget-content h3,#footer .about-author .social-icons a:not(:hover) span{color: #dddddd;}#footer post-widget-body .meta-item,#footer .post-meta,#footer .stream-title,#footer.dark-skin .timeline-widget .date,#footer .wp-caption .wp-caption-text,#footer .rss-date{color: rgba(221,221,221,0.7);}#footer input::-moz-placeholder{color: #dddddd;}#footer input:-moz-placeholder{color: #dddddd;}#footer input:-ms-input-placeholder{color: #dddddd;}#footer input::-webkit-input-placeholder{color: #dddddd;}#site-info,#site-info ul.social-icons li a:not(:hover) span{color: #666666;}#footer .site-info a:not(:hover){color: #666666;}.tie-cat-56,.tie-cat-item-56 > span{background-color:#e74c3c !important;color:#FFFFFF !important;}.tie-cat-56:after{border-top-color:#e74c3c !important;}.tie-cat-56:hover{background-color:#c92e1e !important;}.tie-cat-56:hover:after{border-top-color:#c92e1e !important;}.tie-cat-987,.tie-cat-item-987 > span{background-color:#2ecc71 !important;color:#FFFFFF !important;}.tie-cat-987:after{border-top-color:#2ecc71 !important;}.tie-cat-987:hover{background-color:#10ae53 !important;}.tie-cat-987:hover:after{border-top-color:#10ae53 !important;}.tie-cat-990,.tie-cat-item-990 > span{background-color:#9b59b6 !important;color:#FFFFFF !important;}.tie-cat-990:after{border-top-color:#9b59b6 !important;}.tie-cat-990:hover{background-color:#7d3b98 !important;}.tie-cat-990:hover:after{border-top-color:#7d3b98 !important;}.tie-cat-992,.tie-cat-item-992 > span{background-color:#34495e !important;color:#FFFFFF !important;}.tie-cat-992:after{border-top-color:#34495e !important;}.tie-cat-992:hover{background-color:#162b40 !important;}.tie-cat-992:hover:after{border-top-color:#162b40 !important;}.tie-cat-993,.tie-cat-item-993 > span{background-color:#795548 !important;color:#FFFFFF !important;}.tie-cat-993:after{border-top-color:#795548 !important;}.tie-cat-993:hover{background-color:#5b372a !important;}.tie-cat-993:hover:after{border-top-color:#5b372a !important;}.tie-cat-994,.tie-cat-item-994 > span{background-color:#4CAF50 !important;color:#FFFFFF !important;}.tie-cat-994:after{border-top-color:#4CAF50 !important;}.tie-cat-994:hover{background-color:#2e9132 !important;}.tie-cat-994:hover:after{border-top-color:#2e9132 !important;}.tie-insta-header {margin-bottom: 15px;}.tie-insta-avatar a {width: 70px;height: 70px;display: block;position: relative;float: left;margin-right: 15px;margin-bottom: 15px;}.tie-insta-avatar a:before {content: "";position: absolute;width: calc(100% + 6px);height: calc(100% + 6px);left: -3px;top: -3px;border-radius: 50%;background: #d6249f;background: radial-gradient(circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285AEB 90%);}.tie-insta-avatar a:after {position: absolute;content: "";width: calc(100% + 3px);height: calc(100% + 3px);left: -2px;top: -2px;border-radius: 50%;background: #fff;}.dark-skin .tie-insta-avatar a:after {background: #27292d;}.tie-insta-avatar img {border-radius: 50%;position: relative;z-index: 2;transition: all 0.25s;}.tie-insta-avatar img:hover {box-shadow: 0px 0px 15px 0 #6b54c6;}.tie-insta-info {font-size: 1.3em;font-weight: bold;margin-bottom: 5px;}.dark-skin .container-wrapper { background-color: #1d262d; border-color: rgba(255,255,255,0.1);}.section-title.section-title-default { font-size: 23px; margin-top: -40px; margin-bottom: 15px;}.stream-item { text-align: right; }@media only screen and (max-width: 1024px) and (min-width: 768px){.section-title.section-title-default { font-size: 23px; margin-top: -10px; margin-bottom: 15px;}.stream-item { text-align: center; }}@media only screen and (max-width: 768px) and (min-width: 0px){.section-title.section-title-default { font-size: 23px; margin-top: -10px; margin-bottom: 15px;}.stream-item { text-align: center; }}
+</style>
+<script type="text/javascript" src="https://en.armradio.am/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://en.armradio.am/wp-json/" /><link rel="alternate" type="application/json" href="https://en.armradio.am/wp-json/wp/v2/posts/184703" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://en.armradio.am/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+<link rel="canonical" href="https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/" />
+<link rel='shortlink' href='https://en.armradio.am/?p=184703' />
+<link rel="alternate" type="application/json+oembed" href="https://en.armradio.am/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fen.armradio.am%2F2024%2F05%2F21%2Fnato-and-armenia-strengthen-cooperation-in-defense-education%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://en.armradio.am/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fen.armradio.am%2F2024%2F05%2F21%2Fnato-and-armenia-strengthen-cooperation-in-defense-education%2F&#038;format=xml" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var taqyeem = {"ajaxurl":"https://en.armradio.am/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+/* ]]> */
+</script>
+<style>img#wpstats{display:none}</style>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XYFHPRCD30"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-XYFHPRCD30');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33Z4H9CE58"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-33Z4H9CE58');
+</script>
+<link rel="icon" href="https://en.armradio.am/wp-content/uploads/2019/06/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://en.armradio.am/wp-content/uploads/2019/06/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://en.armradio.am/wp-content/uploads/2019/06/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://en.armradio.am/wp-content/uploads/2019/06/cropped-favicon-270x270.png" />
+</head>
+<body id="tie-body" class="post-template-default single single-post postid-184703 single-format-standard tie-no-js wrapper-has-shadow block-head-3 magazine2 is-thumb-overlay-disabled is-desktop is-header-layout-3 has-header-ad sidebar-right has-sidebar post-layout-1 narrow-title-narrow-media is-standard-format has-mobile-share post-has-toggle hide_share_post_top hide_share_post_bottom">
+<div class="background-overlay">
+<div id="tie-container" class="site tie-container">
+<div id="tie-wrapper">
+<header id="theme-header" class="theme-header header-layout-3 main-nav-light main-nav-default-light main-nav-below has-stream-item top-nav-active top-nav-dark top-nav-default-dark top-nav-above has-normal-width-logo mobile-header-default">
+<nav id="top-nav"  class="has-breaking-menu top-nav header-nav has-breaking-news" aria-label="Secondary Navigation">
+<div class="container">
+<div class="topbar-wrapper">
+<div class="tie-alignleft">
+<div class="breaking up-down-controls controls-is-active">
+<span class="breaking-title">
+<span class="tie-icon-bolt breaking-icon" aria-hidden="true"></span>
+<span class="breaking-title-text">Breaking</span>
+</span>
+<ul id="breaking-news-in-header" class="breaking-news" data-type="slideUp" data-arrows="true">
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/armenian-fm-discusses-regional-security-issues-with-us-senior-adviser-on-caucasus-negotiations/">Armenian FM discusses regional security issues with US Senior Adviser on Caucasus Negotiations</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/irans-president-buried-at-shrine-in-home-city-of-mashhad/">Iran&#8217;s President buried at shrine in home city of Mashhad</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/luxembourg-delegation-joins-eu-mission-in-armenia-for-patrol-in-yeraskh/">Luxembourg delegation joins EU Mission in Armenia for patrol in Yeraskh</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/special-film-event-in-london-honors-charles-aznavour/">Special film event in London honors Charles Aznavour</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/french-arrest-over-suspected-olympic-torch-relay-plot/">French arrest over suspected Olympic torch relay plot</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/park-in-the-heart-of-paris-named-after-charles-aznavour/">Park in the heart of Paris named after Charles Aznavour</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/at-least-nine-dead-as-stage-collapses-at-mexico-rally/">At least nine dead as stage collapses at Mexico rally</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/23/rep-jim-costa-presses-secretary-blinken-to-hold-azerbaijan-accountable-for-crimes-against-armenians/">Rep. Jim Costa presses Secretary Blinken to hold Azerbaijan accountable for crimes against Armenians</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/22/legend-of-a-century-between-france-and-armenia-macron-pays-tribute-to-charles-aznavour-on-100th-anniversary/">Legend of a century, between France and Armenia: Macron pays tribute to Charles Aznavour on 100th anniversary</a>
+</li>
+<li class="news-item">
+<a href="https://en.armradio.am/2024/05/22/charles-aznavour-a-universal-hero-who-united-humanity-around-his-art-pm-pashinyan/">Charles Aznavour a universal hero who united humanity around his art &#8211; PM Pashinyan</a>
+</li>
+</ul>
+</div><!-- #breaking /-->
+</div><!-- .tie-alignleft /-->
+<div class="tie-alignright">
+<div class="top-menu header-menu"><ul id="menu-top" class="menu"><li id="menu-item-3067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3067"><a href="https://en.armradio.am/how-to-listen/">How to Listen</a></li>
+<li id="menu-item-3031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031"><a href="https://en.armradio.am/contact/">Contact</a></li>
+<li id="menu-item-99642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99642"><a href="#">All Languages</a>
+<ul class="sub-menu">
+<li id="menu-item-3601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3601"><a href="https://hy.armradio.am/">Հայերեն</a></li>
+<li id="menu-item-3600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3600"><a href="https://ru.armradio.am/">Русский</a></li>
+<li id="menu-item-62832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62832"><a href="https://az.armradio.am/">Azərbaycanca</a></li>
+<li id="menu-item-100021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100021"><a href="https://tr.armradio.am">Türkçe</a></li>
+<li id="menu-item-100022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100022"><a href="https://ge.armradio.am">ქართული</a></li>
+<li id="menu-item-100023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100023"><a href="https://as.armradio.am">Atouraye</a></li>
+<li id="menu-item-100449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100449"><a href="https://el.armradio.am/">Ελληνικά</a></li>
+<li id="menu-item-100496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100496"><a href="https://ku.armradio.am">Kurdî</a></li>
+<li id="menu-item-100497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100497"><a href="https://ez.armradio.am">Êzdîkî</a></li>
+<li id="menu-item-100024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100024"><a href="https://ar.armradio.am">العربية</a></li>
+<li id="menu-item-100025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100025"><a href="https://fa.armradio.am">فارسی</a></li>
+</ul>
+</li>
+</ul></div>			</div><!-- .tie-alignright /-->
+</div><!-- .topbar-wrapper /-->
+</div><!-- .container /-->
+</nav><!-- #top-nav /-->
+<div class="container header-container">
+<div class="tie-row logo-row">
+<div class="logo-wrapper">
+<div class="tie-col-md-4 logo-container clearfix">
+<div id="mobile-header-components-area_1" class="mobile-header-components"><ul class="components"><li class="mobile-component_menu custom-menu-link"><a href="#" id="mobile-menu-icon" class=""><span class="tie-mobile-menu-icon nav-icon is-layout-1"></span><span class="screen-reader-text">Menu</span></a></li></ul></div>
+<div id="logo" class="image-logo" style="margin-top: 15px; margin-bottom: 15px;">
+<a title="Public Radio of Armenia" href="https://en.armradio.am/">
+<picture class="tie-logo-default tie-logo-picture">
+<source class="tie-logo-source-default tie-logo-source" srcset="https://en.armradio.am/wp-content/uploads/2019/06/logo_retina.png 2x, https://en.armradio.am/wp-content/uploads/2019/06/logo-1.png 1x">
+<img class="tie-logo-img-default tie-logo-img" src="https://en.armradio.am/wp-content/uploads/2019/06/logo-1.png" alt="Public Radio of Armenia" width="370" height="78" style="max-height:78px; width: auto;" />
+</picture>
+</a>
+</div><!-- #logo /-->
+</div><!-- .tie-col /-->
+</div><!-- .logo-wrapper /-->
+<div class="tie-col-md-8 stream-item stream-item-top-wrapper"><div class="stream-item-top"><div class="stream-item-size" style=""><a href="#" onclick="window.open('http://armradioplayer.online/', 'aio_radio_player', 'width=720, height=355'); return false;"><img class="alignnone size-full wp-image-213576" src="https://en.armradio.am/wp-content/uploads/2019/07/liveen.png" alt=""  /></a></div></div></div><!-- .tie-col /-->
+</div><!-- .tie-row /-->
+</div><!-- .container /-->
+<div class="main-nav-wrapper">
+<nav id="main-nav" data-skin="search-in-main-nav" class="main-nav header-nav live-search-parent menu-style-default menu-style-solid-bg"  aria-label="Primary Navigation">
+<div class="container">
+<div class="main-menu-wrapper">
+<div id="menu-components-wrap">
+<div class="main-menu main-menu-wrap">
+<div id="main-nav-menu" class="main-menu header-menu"><ul id="menu-main" class="menu"><li id="menu-item-3049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3049 mega-menu mega-cat mega-menu-posts " data-id="52" ><a href="https://en.armradio.am/category/allnews/politics/">Politics</a>
+<div class="mega-menu-block menu-sub-content"  >
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content horizontal-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div><!-- .mega-ajax-content -->
+</div><!-- .mega-cat-content -->
+</div><!-- .mega-cat-Wrapper -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-3222" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3222 tie-current-menu mega-menu mega-cat mega-menu-posts " data-id="80" ><a href="https://en.armradio.am/category/allnews/society/">Society</a>
+<div class="mega-menu-block menu-sub-content"  >
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content horizontal-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div><!-- .mega-ajax-content -->
+</div><!-- .mega-cat-content -->
+</div><!-- .mega-cat-Wrapper -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-3048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3048 mega-menu mega-cat mega-menu-posts " data-id="1" ><a href="https://en.armradio.am/category/allnews/economics/">Economics</a>
+<div class="mega-menu-block menu-sub-content"  >
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content horizontal-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div><!-- .mega-ajax-content -->
+</div><!-- .mega-cat-content -->
+</div><!-- .mega-cat-Wrapper -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-3046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3046"><a href="https://en.armradio.am/category/allnews/analytics/">Analytics</a></li>
+<li id="menu-item-3059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3059"><a href="https://en.armradio.am/category/allnews/world/">World</a></li>
+<li id="menu-item-3047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3047"><a href="https://en.armradio.am/category/allnews/culture/">Culture</a></li>
+<li id="menu-item-3058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3058"><a href="https://en.armradio.am/category/allnews/sport/">Sport</a></li>
+</ul></div>					</div><!-- .main-menu /-->
+<ul class="components"><li class="weather-menu-item menu-item custom-menu-link">
+<div class="tie-weather-widget is-animated" title="Rain">
+<div class="weather-wrap">
+<div class="weather-forecast-day small-weather-icons">
+<div class="weather-icon drizzle-icons showers-icons">
+<div class="basecloud"></div>
+<div class="animi-icons-wrap">
+<div class="icon-rainy-animi"></div>
+<div class="icon-rainy-animi-2"></div>
+<div class="icon-rainy-animi-4"></div>
+<div class="icon-rainy-animi-5"></div>
+</div>
+</div>
+</div><!-- .weather-forecast-day -->
+<div class="city-data">
+<span>Yerevan</span>
+<span class="weather-current-temp">
+16								<sup>&#x2103;</sup>
+</span>
+</div><!-- .city-data -->
+</div><!-- .weather-wrap -->
+</div><!-- .tie-weather-widget -->
+</li>	<li class="skin-icon menu-item custom-menu-link">
+<a href="#" class="change-skin" title="Switch skin">
+<span class="tie-icon-moon change-skin-icon" aria-hidden="true"></span>
+<span class="screen-reader-text">Switch skin</span>
+</a>
+</li>
+<li class="search-bar menu-item custom-menu-link" aria-label="Search">
+<form method="get" id="search" action="https://en.armradio.am/">
+<input id="search-input" class="is-ajax-search"  inputmode="search" type="text" name="s" title="Search for" placeholder="Search for" />
+<button id="search-submit" type="submit">
+<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</button>
+</form>
+</li>
+</ul><!-- Components -->
+</div><!-- #menu-components-wrap /-->
+</div><!-- .main-menu-wrapper /-->
+</div><!-- .container /-->
+</nav><!-- #main-nav /-->
+</div><!-- .main-nav-wrapper /-->
+</header>
+<script type="text/javascript">
+try{if("undefined"!=typeof localStorage){var header,mnIsDark=!1,tnIsDark=!1;(header=document.getElementById("theme-header"))&&((header=header.classList).contains("main-nav-default-dark")&&(mnIsDark=!0),header.contains("top-nav-default-dark")&&(tnIsDark=!0),"dark"==tieSkin?(header.add("main-nav-dark","top-nav-dark"),header.remove("main-nav-light","top-nav-light")):"light"==tieSkin&&(mnIsDark||(header.remove("main-nav-dark"),header.add("main-nav-light")),tnIsDark||(header.remove("top-nav-dark"),header.add("top-nav-light"))))}}catch(a){console.log(a)}
+</script>
+<div id="content" class="site-content container"><div id="main-content-row" class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<article id="the-post" class="container-wrapper post-content tie-standard">
+<header class="entry-header-outer">
+<nav id="breadcrumb"><a href="https://en.armradio.am/"><span class="tie-icon-home" aria-hidden="true"></span> Home</a><em class="delimiter"> | </em><a href="https://en.armradio.am/category/allnews/">All news</a><em class="delimiter"> | </em><a href="https://en.armradio.am/category/allnews/society/">Society</a><em class="delimiter"> | </em><span class="current">NATO and Armenia strengthen cooperation in defense education</span></nav>
+<div class="entry-header">
+<span class="post-cat-wrap"><a class="post-cat tie-cat-80" href="https://en.armradio.am/category/allnews/society/">Society</a><a class="post-cat tie-cat-147" href="https://en.armradio.am/category/allnews/topnews/">Top</a></span>
+<h1 class="post-title entry-title">
+NATO and Armenia strengthen cooperation in defense education		</h1>
+<div class="single-post-meta post-meta clearfix"><span class="author-meta single-author with-avatars"><span class="meta-item meta-author-wrapper meta-author-3">
+<span class="meta-author-avatar">
+<a href="https://en.armradio.am/author/news/"><img alt='Photo of Siranush Ghazanchyan' src='https://secure.gravatar.com/avatar/84c04032437fad0111caa6cd4b424391?s=140&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/84c04032437fad0111caa6cd4b424391?s=280&#038;d=mm&#038;r=g 2x' class='avatar avatar-140 photo' height='140' width='140' decoding='async'/></a>
+</span>
+<span class="meta-author"><a href="https://en.armradio.am/author/news/" class="author-name tie-icon" title="Siranush Ghazanchyan">Siranush Ghazanchyan</a></span>
+<a href="/cdn-cgi/l/email-protection#394a504b58574c4a5179584b544b585d5056175854" class="author-email-link" target="_blank" rel="nofollow noopener" title="Send an email">
+<span class="tie-icon-envelope" aria-hidden="true"></span>
+<span class="screen-reader-text">Send an email</span>
+</a>
+</span></span><span class="date meta-item tie-icon">May 21, 2024, 17:41</span><div class="tie-alignright"><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 1 minute read</span> </div></div><!-- .post-meta -->	</div><!-- .entry-header /-->
+</header><!-- .entry-header-outer /-->
+<div  class="featured-area"><div class="featured-area-inner"><figure class="single-featured-image"><img width="774" height="440" src="https://en.armradio.am/wp-content/uploads/2024/05/240521-deep_rdax_775x440s.jpg" class="attachment-full size-full wp-post-image" alt="" data-main-img="1" decoding="async" fetchpriority="high" srcset="https://en.armradio.am/wp-content/uploads/2024/05/240521-deep_rdax_775x440s.jpg 774w, https://en.armradio.am/wp-content/uploads/2024/05/240521-deep_rdax_775x440s-300x171.jpg 300w, https://en.armradio.am/wp-content/uploads/2024/05/240521-deep_rdax_775x440s-768x437.jpg 768w" sizes="(max-width: 774px) 100vw, 774px" /></figure></div></div>
+<div class="entry-content entry clearfix">
+<p>Representatives from the Armenian Ministry of Defense met with their counterparts at NATO Headquarters at the end of April to review activities conducted within the framework of NATO’s Defence Education Enhancement Programme (DEEP) for Armenia.</p>
+<p>They took stock of the achievements made and set out the plan of joint activities for the rest of the year and for 2025. The Director of the Defense and Security Cooperation Directorate of NATO’s Operations Division, Piers Cazalet, who also contributed to the annual review, noted: “The DEEP programme is an excellent tool to support Armenian military education system reforms and strengthen the country’s cooperation with NATO.” </p>
+<p>The Deputy Chief of General Staff of the Armed Forces of Armenia, Colonel Arthur Yeroyan, underlined the importance of regular stock-taking and highlighted the added value of NATO’s cooperation through its Defense Education Enhancement Programme. He said: “As our Armed Forces are reforming and going through cultural changes, we are grateful for NATO’s support in the key area of military education.”</p>
+<p> The Commandant of Armenia’s Military Academy, Colonel Arsen Mangasaryan, added: “With the support of DEEP experts we implemented major changes in all levels of our educational curriculum, starting from cadets up to the most senior levels. It helped us to establish cooperation with many international partner institutions.” </p>
+<p>During the visit, Colonel Yeroyan also met with the Director of Cooperative Security Division of the NATO International Military Staff, Major General Darian Tiberiu Serban.</p>
+</div><!-- .entry-content /-->
+<div id="post-extra-info">
+<div class="theiaStickySidebar">
+<div class="single-post-meta post-meta clearfix"><span class="author-meta single-author with-avatars"><span class="meta-item meta-author-wrapper meta-author-3">
+<span class="meta-author-avatar">
+<a href="https://en.armradio.am/author/news/"><img alt='Photo of Siranush Ghazanchyan' src='https://secure.gravatar.com/avatar/84c04032437fad0111caa6cd4b424391?s=140&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/84c04032437fad0111caa6cd4b424391?s=280&#038;d=mm&#038;r=g 2x' class='avatar avatar-140 photo' height='140' width='140' decoding='async'/></a>
+</span>
+<span class="meta-author"><a href="https://en.armradio.am/author/news/" class="author-name tie-icon" title="Siranush Ghazanchyan">Siranush Ghazanchyan</a></span>
+<a href="/cdn-cgi/l/email-protection#31425843505f4442597150435c435055585e1f505c" class="author-email-link" target="_blank" rel="nofollow noopener" title="Send an email">
+<span class="tie-icon-envelope" aria-hidden="true"></span>
+<span class="screen-reader-text">Send an email</span>
+</a>
+</span></span><span class="date meta-item tie-icon">May 21, 2024, 17:41</span><div class="tie-alignright"><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 1 minute read</span> </div></div><!-- .post-meta -->
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="toggle-post-content clearfix">
+<a id="toggle-post-button" class="button" href="#">
+Show More <span class="tie-icon-angle-down"></span>
+</a>
+</div><!-- .toggle-post-content -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+var $thisPost = document.getElementById('the-post');
+$thisPost = $thisPost.querySelector('.entry');
+var $thisButton = document.getElementById('toggle-post-button');
+$thisButton.addEventListener( 'click', function(e){
+$thisPost.classList.add('is-expanded');
+$thisButton.parentNode.removeChild($thisButton);
+e.preventDefault();
+});
+</script>
+<div id="share-buttons-bottom" class="share-buttons share-buttons-bottom">
+<div class="share-links ">
+<div class="share-title">
+<span class="tie-icon-share" aria-hidden="true"></span>
+<span> Share</span>
+</div>
+<a href="https://www.facebook.com/sharer.php?u=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn  large-share-button" data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+<span class="share-btn-icon tie-icon-facebook"></span> <span class="social-text">Facebook</span>
+</a>
+<a href="https://twitter.com/intent/tweet?text=NATO%20and%20Armenia%20strengthen%20cooperation%20in%20defense%20education&#038;url=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/&#038;via=armradio" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn  large-share-button" data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=armradio">
+<span class="share-btn-icon tie-icon-twitter"></span> <span class="social-text">X</span>
+</a>
+<a href="https://reddit.com/submit?url=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/&#038;title=NATO%20and%20Armenia%20strengthen%20cooperation%20in%20defense%20education" rel="external noopener nofollow" title="Reddit" target="_blank" class="reddit-share-btn " data-raw="https://reddit.com/submit?url={post_link}&amp;title={post_title}">
+<span class="share-btn-icon tie-icon-reddit"></span> <span class="screen-reader-text">Reddit</span>
+</a>
+<a href="https://vk.com/share.php?url=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/" rel="external noopener nofollow" title="VKontakte" target="_blank" class="vk-share-btn " data-raw="https://vk.com/share.php?url={post_link}">
+<span class="share-btn-icon tie-icon-vk"></span> <span class="screen-reader-text">VKontakte</span>
+</a>
+<a href="https://telegram.me/share/url?url=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/&text=NATO%20and%20Armenia%20strengthen%20cooperation%20in%20defense%20education" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&text={post_title}">
+<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+</a>
+<a href="/cdn-cgi/l/email-protection#0a35797f68606f697e37444b5e452f383a6b646e2f383a4b78676f64636b2f383a797e786f646d7e626f642f383a6965657a6f786b7e6365642f383a63642f383a6e6f6c6f64796f2f383a6f6e7f696b7e6365642c293a39323168656e7337627e7e7a793025256f64246b7867786b6e6365246b6725383a383e253a3f25383b25646b7e65276b646e276b78676f64636b27797e786f646d7e626f64276965657a6f786b7e636564276364276e6f6c6f64796f276f6e7f696b7e63656425" rel="external noopener nofollow" title="Share via Email" target="_blank" class="email-share-btn " data-raw="mailto:?subject={post_title}&amp;body={post_link}">
+<span class="share-btn-icon tie-icon-envelope"></span> <span class="screen-reader-text">Share via Email</span>
+</a>
+<a href="#" rel="external noopener nofollow" title="Print" target="_blank" class="print-share-btn " data-raw="#">
+<span class="share-btn-icon tie-icon-print"></span> <span class="screen-reader-text">Print</span>
+</a>			</div><!-- .share-links /-->
+</div><!-- .share-buttons /-->
+</article><!-- #the-post /-->
+<div class="post-components">
+<div id="related-posts" class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>Related Articles</h3>
+</div>
+<div class="related-posts-list">
+<div class="related-item tie-standard">
+<a aria-label="Armenian FM discusses regional security issues with US Senior Adviser on Caucasus Negotiations" href="https://en.armradio.am/2024/05/23/armenian-fm-discusses-regional-security-issues-with-us-senior-adviser-on-caucasus-negotiations/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/17164828109314-390x220.jpeg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://en.armradio.am/2024/05/23/armenian-fm-discusses-regional-security-issues-with-us-senior-adviser-on-caucasus-negotiations/">Armenian FM discusses regional security issues with US Senior Adviser on Caucasus Negotiations</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">May 23, 2024, 21:08</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+<div class="related-item tie-standard">
+<a aria-label="Iran&#8217;s President buried at shrine in home city of Mashhad" href="https://en.armradio.am/2024/05/23/irans-president-buried-at-shrine-in-home-city-of-mashhad/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-390x220.webp" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-390x220.webp 390w, https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-300x169.webp 300w, https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-768x432.webp 768w, https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral.webp 1024w" sizes="(max-width: 390px) 100vw, 390px" /></a>
+<h3 class="post-title"><a href="https://en.armradio.am/2024/05/23/irans-president-buried-at-shrine-in-home-city-of-mashhad/">Iran&#8217;s President buried at shrine in home city of Mashhad</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">May 23, 2024, 20:06</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+<div class="related-item tie-standard">
+<a aria-label="Luxembourg delegation joins EU Mission in Armenia for patrol in Yeraskh" href="https://en.armradio.am/2024/05/23/luxembourg-delegation-joins-eu-mission-in-armenia-for-patrol-in-yeraskh/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/GOQx9nLXcAA1Bm0-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://en.armradio.am/2024/05/23/luxembourg-delegation-joins-eu-mission-in-armenia-for-patrol-in-yeraskh/">Luxembourg delegation joins EU Mission in Armenia for patrol in Yeraskh</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">May 23, 2024, 19:22</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+<div class="related-item tie-standard">
+<a aria-label="Special film event in London honors Charles Aznavour" href="https://en.armradio.am/2024/05/23/special-film-event-in-london-honors-charles-aznavour/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/436297306_856867313149898_7454160956479658004_n-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://en.armradio.am/2024/05/23/special-film-event-in-london-honors-charles-aznavour/">Special film event in London honors Charles Aznavour</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">May 23, 2024, 16:12</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+<div class="related-item tie-standard">
+<a aria-label="French arrest over suspected Olympic torch relay plot" href="https://en.armradio.am/2024/05/23/french-arrest-over-suspected-olympic-torch-relay-plot/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-390x220.webp" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-390x220.webp 390w, https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-300x168.webp 300w, https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-768x431.webp 768w, https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest.webp 1024w" sizes="(max-width: 390px) 100vw, 390px" /></a>
+<h3 class="post-title"><a href="https://en.armradio.am/2024/05/23/french-arrest-over-suspected-olympic-torch-relay-plot/">French arrest over suspected Olympic torch relay plot</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">May 23, 2024, 14:55</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+<div class="related-item tie-standard">
+<a aria-label="Park in the heart of Paris named after Charles Aznavour" href="https://en.armradio.am/2024/05/23/park-in-the-heart-of-paris-named-after-charles-aznavour/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/442419351_476039491612909_6665572220281711138_n-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://en.armradio.am/2024/05/23/park-in-the-heart-of-paris-named-after-charles-aznavour/">Park in the heart of Paris named after Charles Aznavour</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">May 23, 2024, 12:42</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+</div><!-- .related-posts-list /-->
+</div><!-- #related-posts /-->
+</div><!-- .post-components /-->
+</div><!-- .main-content -->
+<div id="check-also-box" class="container-wrapper check-also-right">
+<div class="widget-title the-global-title">
+<div class="the-subtitle">Check Also</div>
+<a href="#" id="check-also-close" class="remove">
+<span class="screen-reader-text">Close</span>
+</a>
+</div>
+<div class="widget posts-list-big-first has-first-big-post">
+<ul class="posts-list-items">
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="At least nine dead as stage collapses at Mexico rally" href="https://en.armradio.am/2024/05/23/at-least-nine-dead-as-stage-collapses-at-mexico-rally/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-56">World</span></span><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-390x220.webp" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-390x220.webp 390w, https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-300x169.webp 300w, https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-768x432.webp 768w, https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally.webp 1024w" sizes="(max-width: 390px) 100vw, 390px" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/at-least-nine-dead-as-stage-collapses-at-mexico-rally/">At least nine dead as stage collapses at Mexico rally</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 10:31</span>		</div>
+</div>
+</li>
+</ul><!-- .related-posts-list /-->
+</div>
+</div><!-- #related-posts /-->
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div id="widget_tabs-1" class="container-wrapper tabs-container-wrapper tabs-container-2">
+<div class="widget tabs-widget">
+<div class="widget-container">
+<div class="tabs-widget">
+<div class="tabs-wrapper">
+<ul class="tabs">
+<li><a href="#widget_tabs-1-recent">Recent</a></li><li><a href="#widget_tabs-1-popular">Popular</a></li>								</ul><!-- ul.tabs-menu /-->
+<div id="widget_tabs-1-recent" class="tab-content tab-content-recent">
+<ul class="tab-content-elements">
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Armenian FM discusses regional security issues with US Senior Adviser on Caucasus Negotiations" href="https://en.armradio.am/2024/05/23/armenian-fm-discusses-regional-security-issues-with-us-senior-adviser-on-caucasus-negotiations/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/17164828109314-220x150.jpeg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/armenian-fm-discusses-regional-security-issues-with-us-senior-adviser-on-caucasus-negotiations/">Armenian FM discusses regional security issues with US Senior Adviser on Caucasus Negotiations</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 21:08</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Iran&#8217;s President buried at shrine in home city of Mashhad" href="https://en.armradio.am/2024/05/23/irans-president-buried-at-shrine-in-home-city-of-mashhad/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-220x150.webp" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/irans-president-buried-at-shrine-in-home-city-of-mashhad/">Iran&#8217;s President buried at shrine in home city of Mashhad</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 20:06</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Luxembourg delegation joins EU Mission in Armenia for patrol in Yeraskh" href="https://en.armradio.am/2024/05/23/luxembourg-delegation-joins-eu-mission-in-armenia-for-patrol-in-yeraskh/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/GOQx9nLXcAA1Bm0-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/luxembourg-delegation-joins-eu-mission-in-armenia-for-patrol-in-yeraskh/">Luxembourg delegation joins EU Mission in Armenia for patrol in Yeraskh</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 19:22</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Special film event in London honors Charles Aznavour" href="https://en.armradio.am/2024/05/23/special-film-event-in-london-honors-charles-aznavour/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/436297306_856867313149898_7454160956479658004_n-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/special-film-event-in-london-honors-charles-aznavour/">Special film event in London honors Charles Aznavour</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 16:12</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="French arrest over suspected Olympic torch relay plot" href="https://en.armradio.am/2024/05/23/french-arrest-over-suspected-olympic-torch-relay-plot/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-220x150.webp" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/french-arrest-over-suspected-olympic-torch-relay-plot/">French arrest over suspected Olympic torch relay plot</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 14:55</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Park in the heart of Paris named after Charles Aznavour" href="https://en.armradio.am/2024/05/23/park-in-the-heart-of-paris-named-after-charles-aznavour/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/442419351_476039491612909_6665572220281711138_n-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/park-in-the-heart-of-paris-named-after-charles-aznavour/">Park in the heart of Paris named after Charles Aznavour</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 12:42</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="At least nine dead as stage collapses at Mexico rally" href="https://en.armradio.am/2024/05/23/at-least-nine-dead-as-stage-collapses-at-mexico-rally/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-220x150.webp" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/23/at-least-nine-dead-as-stage-collapses-at-mexico-rally/">At least nine dead as stage collapses at Mexico rally</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 23, 2024, 10:31</span>		</div>
+</div>
+</li>
+</ul>
+</div><!-- .tab-content#recent-posts-tab /-->
+<div id="widget_tabs-1-popular" class="tab-content tab-content-popular">
+<ul class="tab-content-elements">
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="One dead, more than 30 injured as London-Singapore flight hit by turbulence" href="https://en.armradio.am/2024/05/21/one-dead-more-than-30-injured-as-london-singapore-flight-hit-by-turbulence/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/London-Singapore-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/21/one-dead-more-than-30-injured-as-london-singapore-flight-hit-by-turbulence/">One dead, more than 30 injured as London-Singapore flight hit by turbulence</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 21, 2024, 14:24</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Armenia ready to provide all necessary support to Iran &#8211; MFA" href="https://en.armradio.am/2024/05/19/armenia-ready-to-provide-provide-all-necessary-support-to-iran-mfa/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/01/MFA-night-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/19/armenia-ready-to-provide-provide-all-necessary-support-to-iran-mfa/">Armenia ready to provide all necessary support to Iran &#8211; MFA</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 19, 2024, 21:08</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Prime Minister Nikol Pashinyan&#8217;s message on the 109th anniversary of the Armenian Genocide" href="https://en.armradio.am/2024/04/24/prime-minister-nikol-pashinyans-message-on-the-109th-anniversary-of-the-armenian-genocide/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/04/Nikol-Pashinyan-32-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/04/24/prime-minister-nikol-pashinyans-message-on-the-109th-anniversary-of-the-armenian-genocide/">Prime Minister Nikol Pashinyan&#8217;s message on the 109th anniversary of the Armenian Genocide</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">April 24, 2024, 10:41</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Raisi attended dam openings on Azerbaijan border before helicopter accident" href="https://en.armradio.am/2024/05/19/raisi-attended-dam-openings-on-azerbaijan-border-before-helicopter-accident/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-Aliyev-1-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/19/raisi-attended-dam-openings-on-azerbaijan-border-before-helicopter-accident/">Raisi attended dam openings on Azerbaijan border before helicopter accident</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 19, 2024, 20:40</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Armenia puts into circulation gold collector coin dedicated to Charles Aznavour’s 100th birth anniversary" href="https://en.armradio.am/2024/05/20/armenia-puts-into-circulation-gold-collector-coin-dedicated-to-charles-aznavours-100th-birth-anniversary/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Charles-Aznavour-100-2-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/20/armenia-puts-into-circulation-gold-collector-coin-dedicated-to-charles-aznavours-100th-birth-anniversary/">Armenia puts into circulation gold collector coin dedicated to Charles Aznavour’s 100th birth anniversary</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 20, 2024, 11:31</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Medieval rock-hewn tomb discovered in Armenia&#8217;s Ohanavan" href="https://en.armradio.am/2024/02/15/medieval-rock-hewn-tomb-discovered-in-armenias-ohanavan/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/02/Ohanavan-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/02/15/medieval-rock-hewn-tomb-discovered-in-armenias-ohanavan/">Medieval rock-hewn tomb discovered in Armenia&#8217;s Ohanavan</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">February 15, 2024, 14:15</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Catholicos of All Armenians receives Noubar Afeyan" href="https://en.armradio.am/2024/05/16/catholicos-of-all-armenians-receives-noubar-afeyan/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/436227600_871507935018126_7780960264735316127_n-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/16/catholicos-of-all-armenians-receives-noubar-afeyan/">Catholicos of All Armenians receives Noubar Afeyan</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 16, 2024, 22:42</span>		</div>
+</div>
+</li>
+</ul>
+</div><!-- .tab-content#popular-posts-tab /-->
+</div><!-- .tabs-wrapper-animated /-->
+</div><!-- .tabs-widget /-->
+</div><!-- .widget-container /-->
+</div><!-- .tabs-widget /-->
+</div><!-- .container-wrapper /-->
+<style scoped type="text/css">
+#tie-weather-widget-1{
+background-image: url( https://en.armradio.am/wp-content/uploads/2021/01/wt4.png );
+background-repeat: no-repeat;
+background-size: cover;
+}
+</style><div id="tie-weather-widget-1" class="widget tie-weather-widget"><div class="widget-title the-global-title"><div class="the-subtitle">Weather<span class="widget-title-icon tie-icon"></span></div></div><span class="tie-weather-user-location has-title" data-options="{'location':'Yerevan, AM','units':'C','forecast_days':'5','custom_name':'Yerevan','animated':'true'}"><span class="tie-icon-gps"></span></span>
+<div id="tie-weather-yerevan-am" class="weather-wrap is-animated">
+<div class="weather-icon-and-city">
+<div class="weather-icon drizzle-icons showers-icons">
+<div class="basecloud"></div>
+<div class="animi-icons-wrap">
+<div class="icon-rainy-animi"></div>
+<div class="icon-rainy-animi-2"></div>
+<div class="icon-rainy-animi-4"></div>
+<div class="icon-rainy-animi-5"></div>
+</div>
+</div>
+<div class="weather-name the-subtitle">Yerevan</div>
+<div class="weather-desc">Rain</div>
+</div>
+<div class="weather-todays-stats">
+<div class="weather-current-temp">
+16							<sup>&#x2103;</sup>
+</div>
+<div class="weather-more-todays-stats">
+<div class="weather_highlow">
+<span aria-hidden="true" class="tie-icon-thermometer-half"></span> 16&ordm; - 13&ordm;
+</div>
+<div class="weather_humidty">
+<span aria-hidden="true" class="tie-icon-raindrop"></span>
+<span class="screen-reader-text"></span> 55%
+</div>
+<div class="weather_wind">
+<span aria-hidden="true" class="tie-icon-wind"></span>
+<span class="screen-reader-text"></span> 5.66 km/h</div>
+</div>
+</div> <!-- /.weather-todays-stats -->
+<div class="weather-forecast small-weather-icons weather_days_5">
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="basecloud"></div>
+<div class="icon-basecloud-bg"></div>
+<div class="animi-icons-wrap">
+<div class="icon-rainy-animi"></div>
+<div class="icon-rainy-animi-2"></div>
+<div class="icon-rainy-animi-4"></div>
+<div class="icon-rainy-animi-5"></div>
+</div>
+<div class="icon-moon-animi"></div>
+</div>
+<div class="weather-forecast-day-temp">16<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Thu</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="basecloud"></div>
+<div class="icon-basecloud-bg"></div>
+<div class="animi-icons-wrap">
+<div class="icon-rainy-animi"></div>
+<div class="icon-rainy-animi-2"></div>
+<div class="icon-rainy-animi-4"></div>
+<div class="icon-rainy-animi-5"></div>
+</div>
+<div class="icon-sun-animi"></div>
+</div>
+<div class="weather-forecast-day-temp">23<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Fri</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="basecloud"></div>
+<div class="icon-basecloud-bg"></div>
+<div class="animi-icons-wrap">
+<div class="icon-rainy-animi"></div>
+<div class="icon-rainy-animi-2"></div>
+<div class="icon-rainy-animi-4"></div>
+<div class="icon-rainy-animi-5"></div>
+</div>
+<div class="icon-sun-animi"></div>
+</div>
+<div class="weather-forecast-day-temp">19<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Sat</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="basecloud"></div>
+<div class="icon-basecloud-bg"></div>
+<div class="animi-icons-wrap">
+<div class="icon-rainy-animi"></div>
+<div class="icon-rainy-animi-2"></div>
+<div class="icon-rainy-animi-4"></div>
+<div class="icon-rainy-animi-5"></div>
+</div>
+<div class="icon-sun-animi"></div>
+</div>
+<div class="weather-forecast-day-temp">20<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Sun</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="icon-sun"></div>
+</div>
+<div class="weather-forecast-day-temp">24<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Mon</div>
+</div>
+</div><!-- /.weather-forecast -->
+</div> <!-- /.weather-wrap -->
+<style scoped type="text/css">
+#tie-weather-widget-1{
+background-image: url( https://en.armradio.am/wp-content/uploads/2021/01/wt4.png );
+background-repeat: no-repeat;
+background-size: cover;
+}
+#tie-weather-widget-1 .icon-basecloud-bg:after{
+color: inherit;
+}
+</style><div class="clearfix"></div></div><!-- .widget /--><div id="social-statistics-1" class="container-wrapper widget social-statistics-widget"><div class="widget-title the-global-title"><div class="the-subtitle">Follow Us<span class="widget-title-icon tie-icon"></span></div></div>			<ul class="solid-social-icons two-cols transparent-icons Arqam-Lite">
+<li class="social-icons-item">
+<a class="facebook-social-icon" href="https://www.facebook.com/452252165229481" rel="nofollow noopener" target="_blank">
+<span class="counter-icon tie-icon-facebook"></span>									<span class="followers">
+<span class="followers-num">0</span>
+<span class="followers-name">Fans</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="twitter-social-icon" href="https://twitter.com/armradio" rel="nofollow noopener" target="_blank">
+<span class="counter-icon tie-icon-twitter"></span>									<span class="followers">
+<span class="followers-num">0</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+</ul>
+<div class="clearfix"></div></div><!-- .widget /--><div id="posts-list-widget-3" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><div class="the-subtitle">Most viewed<span class="widget-title-icon tie-icon"></span></div></div><div class="widget-posts-list-wrapper"><div class="widget-posts-list-container posts-list-counter" ><ul class="posts-list-items widget-posts-wrapper">
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Armenia ready to provide all necessary support to Iran &#8211; MFA" href="https://en.armradio.am/2024/05/19/armenia-ready-to-provide-provide-all-necessary-support-to-iran-mfa/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/01/MFA-night-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/19/armenia-ready-to-provide-provide-all-necessary-support-to-iran-mfa/">Armenia ready to provide all necessary support to Iran &#8211; MFA</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 19, 2024, 21:08</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Prime Minister Nikol Pashinyan&#8217;s message on the 109th anniversary of the Armenian Genocide" href="https://en.armradio.am/2024/04/24/prime-minister-nikol-pashinyans-message-on-the-109th-anniversary-of-the-armenian-genocide/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/04/Nikol-Pashinyan-32-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/04/24/prime-minister-nikol-pashinyans-message-on-the-109th-anniversary-of-the-armenian-genocide/">Prime Minister Nikol Pashinyan&#8217;s message on the 109th anniversary of the Armenian Genocide</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">April 24, 2024, 10:41</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Raisi attended dam openings on Azerbaijan border before helicopter accident" href="https://en.armradio.am/2024/05/19/raisi-attended-dam-openings-on-azerbaijan-border-before-helicopter-accident/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-Aliyev-1-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/19/raisi-attended-dam-openings-on-azerbaijan-border-before-helicopter-accident/">Raisi attended dam openings on Azerbaijan border before helicopter accident</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 19, 2024, 20:40</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Armenia puts into circulation gold collector coin dedicated to Charles Aznavour’s 100th birth anniversary" href="https://en.armradio.am/2024/05/20/armenia-puts-into-circulation-gold-collector-coin-dedicated-to-charles-aznavours-100th-birth-anniversary/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Charles-Aznavour-100-2-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/20/armenia-puts-into-circulation-gold-collector-coin-dedicated-to-charles-aznavours-100th-birth-anniversary/">Armenia puts into circulation gold collector coin dedicated to Charles Aznavour’s 100th birth anniversary</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 20, 2024, 11:31</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Medieval rock-hewn tomb discovered in Armenia&#8217;s Ohanavan" href="https://en.armradio.am/2024/02/15/medieval-rock-hewn-tomb-discovered-in-armenias-ohanavan/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/02/Ohanavan-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/02/15/medieval-rock-hewn-tomb-discovered-in-armenias-ohanavan/">Medieval rock-hewn tomb discovered in Armenia&#8217;s Ohanavan</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">February 15, 2024, 14:15</span>		</div>
+</div>
+</li>
+</ul></div></div><div class="clearfix"></div></div><!-- .widget /-->		</div><!-- .theiaStickySidebar /-->
+</aside><!-- .sidebar /-->
+</div><!-- .main-content-row /--></div><!-- #content /-->
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+<div id="footer-widgets-container">
+<div class="container">
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="tie-col-md-3 normal-side">
+<div id="posts-list-widget-1" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><div class="the-subtitle">Most Viewed Posts<span class="widget-title-icon tie-icon"></span></div></div><div class="widget-posts-list-wrapper"><div class="widget-posts-list-container timeline-widget" ><ul class="posts-list-items widget-posts-wrapper">					<li class="widget-single-post-item">
+<a href="https://en.armradio.am/2024/05/21/one-dead-more-than-30-injured-as-london-singapore-flight-hit-by-turbulence/">
+<span class="date meta-item tie-icon">May 21, 2024, 14:24</span>							<h3>One dead, more than 30 injured as London-Singapore flight hit by turbulence</h3>
+</a>
+</li>
+<li class="widget-single-post-item">
+<a href="https://en.armradio.am/2024/05/19/armenia-ready-to-provide-provide-all-necessary-support-to-iran-mfa/">
+<span class="date meta-item tie-icon">May 19, 2024, 21:08</span>							<h3>Armenia ready to provide all necessary support to Iran &#8211; MFA</h3>
+</a>
+</li>
+<li class="widget-single-post-item">
+<a href="https://en.armradio.am/2024/04/24/prime-minister-nikol-pashinyans-message-on-the-109th-anniversary-of-the-armenian-genocide/">
+<span class="date meta-item tie-icon">April 24, 2024, 10:41</span>							<h3>Prime Minister Nikol Pashinyan&#8217;s message on the 109th anniversary of the Armenian Genocide</h3>
+</a>
+</li>
+</ul></div></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+<div class="tie-col-md-3 normal-side">
+<div id="posts-list-widget-8" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><div class="the-subtitle">Recent<span class="widget-title-icon tie-icon"></span></div></div><div class="widget-posts-list-wrapper"><div class="widget-posts-list-container posts-pictures-widget" ><div class="tie-row widget-posts-wrapper">						<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Armenian FM discusses regional security issues with US Senior Adviser on Caucasus Negotiations" href="https://en.armradio.am/2024/05/23/armenian-fm-discusses-regional-security-issues-with-us-senior-adviser-on-caucasus-negotiations/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/17164828109314-390x220.jpeg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Iran&#8217;s President buried at shrine in home city of Mashhad" href="https://en.armradio.am/2024/05/23/irans-president-buried-at-shrine-in-home-city-of-mashhad/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-390x220.webp" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-390x220.webp 390w, https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-300x169.webp 300w, https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral-768x432.webp 768w, https://en.armradio.am/wp-content/uploads/2024/05/Raisi-funeral.webp 1024w" sizes="(max-width: 390px) 100vw, 390px" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Luxembourg delegation joins EU Mission in Armenia for patrol in Yeraskh" href="https://en.armradio.am/2024/05/23/luxembourg-delegation-joins-eu-mission-in-armenia-for-patrol-in-yeraskh/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/GOQx9nLXcAA1Bm0-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Special film event in London honors Charles Aznavour" href="https://en.armradio.am/2024/05/23/special-film-event-in-london-honors-charles-aznavour/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/436297306_856867313149898_7454160956479658004_n-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="French arrest over suspected Olympic torch relay plot" href="https://en.armradio.am/2024/05/23/french-arrest-over-suspected-olympic-torch-relay-plot/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-390x220.webp" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-390x220.webp 390w, https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-300x168.webp 300w, https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest-768x431.webp 768w, https://en.armradio.am/wp-content/uploads/2024/05/Olympic-arrest.webp 1024w" sizes="(max-width: 390px) 100vw, 390px" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Park in the heart of Paris named after Charles Aznavour" href="https://en.armradio.am/2024/05/23/park-in-the-heart-of-paris-named-after-charles-aznavour/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/442419351_476039491612909_6665572220281711138_n-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="At least nine dead as stage collapses at Mexico rally" href="https://en.armradio.am/2024/05/23/at-least-nine-dead-as-stage-collapses-at-mexico-rally/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-390x220.webp" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-390x220.webp 390w, https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-300x169.webp 300w, https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally-768x432.webp 768w, https://en.armradio.am/wp-content/uploads/2024/05/Mexico-rally.webp 1024w" sizes="(max-width: 390px) 100vw, 390px" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Rep. Jim Costa presses Secretary Blinken to hold Azerbaijan accountable for crimes against Armenians" href="https://en.armradio.am/2024/05/23/rep-jim-costa-presses-secretary-blinken-to-hold-azerbaijan-accountable-for-crimes-against-armenians/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2020/07/Jim-Costa-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2020/07/Jim-Costa-390x220.jpg 390w, https://en.armradio.am/wp-content/uploads/2020/07/Jim-Costa-300x169.jpg 300w, https://en.armradio.am/wp-content/uploads/2020/07/Jim-Costa-1024x576.jpg 1024w, https://en.armradio.am/wp-content/uploads/2020/07/Jim-Costa-768x432.jpg 768w, https://en.armradio.am/wp-content/uploads/2020/07/Jim-Costa.jpg 1200w" sizes="(max-width: 390px) 100vw, 390px" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Legend of a century, between France and Armenia: Macron pays tribute to Charles Aznavour on 100th anniversary" href="https://en.armradio.am/2024/05/22/legend-of-a-century-between-france-and-armenia-macron-pays-tribute-to-charles-aznavour-on-100th-anniversary/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2023/08/Emmanuel-Macron-44-390x220.webp" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2023/08/Emmanuel-Macron-44-390x220.webp 390w, https://en.armradio.am/wp-content/uploads/2023/08/Emmanuel-Macron-44-300x169.webp 300w, https://en.armradio.am/wp-content/uploads/2023/08/Emmanuel-Macron-44-1024x575.webp 1024w, https://en.armradio.am/wp-content/uploads/2023/08/Emmanuel-Macron-44-768x432.webp 768w, https://en.armradio.am/wp-content/uploads/2023/08/Emmanuel-Macron-44.webp 1194w" sizes="(max-width: 390px) 100vw, 390px" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Charles Aznavour a universal hero who united humanity around his art &#8211; PM Pashinyan" href="https://en.armradio.am/2024/05/22/charles-aznavour-a-universal-hero-who-united-humanity-around-his-art-pm-pashinyan/" class="post-thumb"><img width="331" height="220" src="https://en.armradio.am/wp-content/uploads/2016/02/Charles-Aznavour-24.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://en.armradio.am/wp-content/uploads/2016/02/Charles-Aznavour-24.jpg 640w, https://en.armradio.am/wp-content/uploads/2016/02/Charles-Aznavour-24-300x200.jpg 300w" sizes="(max-width: 331px) 100vw, 331px" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Rishi Sunak announces UK general election for Thursday 4 July" href="https://en.armradio.am/2024/05/22/rishi-sunak-announces-uk-general-election-for-thursday-4-july/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Rishi-Sunak-announces-UK-general-election-for-Thursday-4-July-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Not a single millimeter ceded: Armenian PM shows the map used for delimitation" href="https://en.armradio.am/2024/05/22/pm-pashinyan-shows-the-map-used-for-delimitation-of-armenia-azerbaijan-border/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/MHM0156487-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="21 new Peace Corps Volunteers to teach English in Armenia" href="https://en.armradio.am/2024/05/22/21-new-peace-corps-volunteers-to-teach-english-in-armenia/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/1-65-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Armenia&#8217;s top security official presents principles of Crossroads of Peace project at World Security Forum in Doha" href="https://en.armradio.am/2024/05/22/armenias-top-security-official-presents-principles-of-crossroads-of-peace-project-at-world-security-forum-in-doha/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/Armen-Grigoryan-Global-Securty-Forum-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+<div class="widget-single-post-item tie-col-xs-4 tie-standard">
+<a aria-label="Programs outlined by Armenian Prime Minister and Ebrahim Raisi will continue, Iran&#8217;s Acting President assures" href="https://en.armradio.am/2024/05/22/all-programs-outlined-by-armenian-prime-minister-and-ebrahim-raisi-will-continue-irans-acting-president-assures/" class="post-thumb"><img width="390" height="220" src="https://en.armradio.am/wp-content/uploads/2024/05/46455_b-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy" /></a>						</div>
+</div></div></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+<div class="tie-col-md-3 normal-side">
+<div id="tag_cloud-1" class="container-wrapper widget widget_tag_cloud"><div class="widget-title the-global-title"><div class="the-subtitle">Tags<span class="widget-title-icon tie-icon"></span></div></div><div class="tagcloud"><a href="https://en.armradio.am/tag/armenia/" class="tag-cloud-link tag-link-969 tag-link-position-1" style="font-size: 22pt;" aria-label="Armenia (820 items)">Armenia</a>
+<a href="https://en.armradio.am/tag/armenian-genocide/" class="tag-cloud-link tag-link-107 tag-link-position-2" style="font-size: 17.452991452991pt;" aria-label="Armenian Genocide (335 items)">Armenian Genocide</a>
+<a href="https://en.armradio.am/tag/azerbaijan/" class="tag-cloud-link tag-link-970 tag-link-position-3" style="font-size: 11.948717948718pt;" aria-label="Azerbaijan (117 items)">Azerbaijan</a>
+<a href="https://en.armradio.am/tag/eu/" class="tag-cloud-link tag-link-170 tag-link-position-4" style="font-size: 13.145299145299pt;" aria-label="EU (147 items)">EU</a>
+<a href="https://en.armradio.am/tag/eurovision/" class="tag-cloud-link tag-link-431 tag-link-position-5" style="font-size: 8.3589743589744pt;" aria-label="Eurovision (58 items)">Eurovision</a>
+<a href="https://en.armradio.am/tag/football/" class="tag-cloud-link tag-link-160 tag-link-position-6" style="font-size: 8.957264957265pt;" aria-label="Football (65 items)">Football</a>
+<a href="https://en.armradio.am/tag/france/" class="tag-cloud-link tag-link-89 tag-link-position-7" style="font-size: 8pt;" aria-label="France (54 items)">France</a>
+<a href="https://en.armradio.am/tag/henrikh-mkhitaryan/" class="tag-cloud-link tag-link-243 tag-link-position-8" style="font-size: 12.547008547009pt;" aria-label="Henrikh Mkhitaryan (132 items)">Henrikh Mkhitaryan</a>
+<a href="https://en.armradio.am/tag/iran/" class="tag-cloud-link tag-link-972 tag-link-position-9" style="font-size: 8.2393162393162pt;" aria-label="Iran (56 items)">Iran</a>
+<a href="https://en.armradio.am/tag/osce/" class="tag-cloud-link tag-link-149 tag-link-position-10" style="font-size: 9.9145299145299pt;" aria-label="OSCE (79 items)">OSCE</a>
+<a href="https://en.armradio.am/tag/osce-minsk-group/" class="tag-cloud-link tag-link-172 tag-link-position-11" style="font-size: 8.4786324786325pt;" aria-label="OSCE Minsk Group (59 items)">OSCE Minsk Group</a>
+<a href="https://en.armradio.am/tag/presidential-elections/" class="tag-cloud-link tag-link-275 tag-link-position-12" style="font-size: 12.068376068376pt;" aria-label="presidential elections (119 items)">presidential elections</a>
+<a href="https://en.armradio.am/tag/russia/" class="tag-cloud-link tag-link-974 tag-link-position-13" style="font-size: 9.9145299145299pt;" aria-label="Russia (79 items)">Russia</a>
+<a href="https://en.armradio.am/tag/syria/" class="tag-cloud-link tag-link-83 tag-link-position-14" style="font-size: 11.470085470085pt;" aria-label="Syria (106 items)">Syria</a>
+<a href="https://en.armradio.am/tag/turkey/" class="tag-cloud-link tag-link-973 tag-link-position-15" style="font-size: 14.222222222222pt;" aria-label="Turkey (180 items)">Turkey</a>
+<a href="https://en.armradio.am/tag/ukraine/" class="tag-cloud-link tag-link-414 tag-link-position-16" style="font-size: 8.4786324786325pt;" aria-label="Ukraine (59 items)">Ukraine</a>
+<a href="https://en.armradio.am/tag/un/" class="tag-cloud-link tag-link-159 tag-link-position-17" style="font-size: 9.3162393162393pt;" aria-label="UN (69 items)">UN</a>
+<a href="https://en.armradio.am/tag/us/" class="tag-cloud-link tag-link-135 tag-link-position-18" style="font-size: 10.153846153846pt;" aria-label="US (82 items)">US</a></div>
+<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+<div class="tie-col-md-3 normal-side">
+<div id="latest_tweets_widget-1" class="container-wrapper widget latest-tweets-widget"><div class="widget-title the-global-title"><div class="the-subtitle"><a href="https://twitter.com/armradio" rel="nofollow noopener">Twitter</a><span class="widget-title-icon tie-icon"></span></div></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+</div><!-- .tie-row /-->
+</div><!-- .footer-widget-area /-->
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="tie-col-md-3 normal-side">
+<div id="author-bio-widget-1" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper"><img alt="" src="https://en.armradio.am/wp-content/uploads/2019/06/footer_logo.png" style="margin-top: 20px; width: 270px; height: 66px;"  class="about-author-img" width="280" height="47">
+<div class="aboutme-widget-content">
+</div>
+<div class="clearfix"></div>
+</div><!-- .about-widget-content -->
+<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+<div class="tie-col-md-3 normal-side">
+<div id="author-bio-widget-4" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper">
+<div class="aboutme-widget-content">
+</div>
+<div class="clearfix"></div>
+</div><!-- .about-widget-content -->
+<div class="clearfix"></div></div><!-- .widget /--><div id="author-bio-widget-2" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper">
+<div class="aboutme-widget-content">Republic of Armenia
+</br>0025 Yerevan, 5 Alex Manoogian str. 
+</div>
+<div class="clearfix"></div>
+</div><!-- .about-widget-content -->
+<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+<div class="tie-col-md-3 normal-side">
+<div id="author-bio-widget-5" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper">
+<div class="aboutme-widget-content">
+</div>
+<div class="clearfix"></div>
+</div><!-- .about-widget-content -->
+<div class="clearfix"></div></div><!-- .widget /--><div id="author-bio-widget-3" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper">
+<div class="aboutme-widget-content">Tel. 00 37410 570970
+</br>Fax 00 37412 570007
+</div>
+<div class="clearfix"></div>
+</div><!-- .about-widget-content -->
+<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+<div class="tie-col-md-3 normal-side">
+<div id="author-bio-widget-6" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper">
+<div class="aboutme-widget-content">
+</div>
+<div class="clearfix"></div>
+</div><!-- .about-widget-content -->
+<div class="clearfix"></div></div><!-- .widget /--><div id="social-2" class="container-wrapper widget social-icons-widget"><ul class="solid-social-icons is-centered"><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/armradio.am"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/armradio"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">X</span></a></li><li class="social-icons-item"><a class="social-link youtube-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.youtube.com/user/armradiotv"><span class="tie-social-icon tie-icon-youtube"></span><span class="screen-reader-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.instagram.com/armradio/"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://en.armradio.am/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+<div class="clearfix"></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+</div><!-- .tie-row /-->
+</div><!-- .footer-widget-area /-->
+</div><!-- .container /-->
+</div><!-- #Footer-widgets-container /-->
+<div id="site-info" class="site-info site-info-layout-2">
+<div class="container">
+<div class="tie-row">
+<div class="tie-col-md-12">
+<div class="copyright-text copyright-text-first"><p style="text-align: left;"><strong>&copy; 2003-2024 Public Radio of Armenia</strong></p>
+<p style="text-align: left;font-size:12px;">Reproduction on full or in part is prohibited without reference to Public Radio of Armenia.</br>
+For more information and questions concerning our website contact us on the following address <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b2dbdcd4ddf2d3c0dfc0d3d6dbdd9cd3df">[email&#160;protected]</a>. </br>If you like to insert an advertisment into our website write on the following address <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0667624667746b7467626f6928676b">[email&#160;protected]</a></p></div>
+</div><!-- .tie-col /-->
+</div><!-- .tie-row /-->
+</div><!-- .container /-->
+</div><!-- #site-info /-->
+</footer><!-- #footer /-->
+<div id="share-buttons-mobile" class="share-buttons share-buttons-mobile">
+<div class="share-links  icons-only">
+<a href="https://www.facebook.com/sharer.php?u=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
+</a>
+<a href="https://twitter.com/intent/tweet?text=NATO%20and%20Armenia%20strengthen%20cooperation%20in%20defense%20education&#038;url=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/&#038;via=armradio" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=armradio">
+<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
+</a>
+<a href="https://api.whatsapp.com/send?text=NATO%20and%20Armenia%20strengthen%20cooperation%20in%20defense%20education%20https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+</a>
+<a href="https://telegram.me/share/url?url=https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/&text=NATO%20and%20Armenia%20strengthen%20cooperation%20in%20defense%20education" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&text={post_title}">
+<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+</a>
+<a href="viber://forward?text=NATO%20and%20Armenia%20strengthen%20cooperation%20in%20defense%20education%20https://en.armradio.am/2024/05/21/nato-and-armenia-strengthen-cooperation-in-defense-education/" rel="external noopener nofollow" title="Viber" target="_blank" class="viber-share-btn " data-raw="viber://forward?text={post_title}%20{post_link}">
+<span class="share-btn-icon tie-icon-phone"></span> <span class="screen-reader-text">Viber</span>
+</a>			</div><!-- .share-links /-->
+</div><!-- .share-buttons /-->
+<div class="mobile-share-buttons-spacer"></div>
+<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body">
+<span class="tie-icon-angle-up"></span>
+<span class="screen-reader-text">Back to top button</span>
+</a>
+</div><!-- #tie-wrapper /-->
+<aside class=" side-aside normal-side dark-skin dark-widgetized-area slide-sidebar-desktop appear-from-left" aria-label="Secondary Sidebar" style="visibility: hidden;">
+<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+<a href="#" class="close-side-aside remove big-btn">
+<span class="screen-reader-text">Close</span>
+</a><!-- .close-side-aside /-->
+<div id="mobile-container">
+<div id="mobile-search">
+<form role="search" method="get" class="search-form" action="https://en.armradio.am/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form>							</div><!-- #mobile-search /-->
+<div id="mobile-menu" class="">
+</div><!-- #mobile-menu /-->
+<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+<ul><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/armradio.am"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/armradio"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">X</span></a></li><li class="social-icons-item"><a class="social-link youtube-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.youtube.com/user/armradiotv"><span class="tie-social-icon tie-icon-youtube"></span><span class="screen-reader-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.instagram.com/armradio/"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://en.armradio.am/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+</div><!-- #mobile-social-icons /-->
+</div><!-- #mobile-container /-->
+<div id="slide-sidebar-widgets">
+<div id="posts-list-widget-4" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><div class="the-subtitle">Popular Posts<span class="widget-title-icon tie-icon"></span></div></div><div class="widget-posts-list-wrapper"><div class="widget-posts-list-container posts-list-counter" ><ul class="posts-list-items widget-posts-wrapper">
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="One dead, more than 30 injured as London-Singapore flight hit by turbulence" href="https://en.armradio.am/2024/05/21/one-dead-more-than-30-injured-as-london-singapore-flight-hit-by-turbulence/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/London-Singapore-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/21/one-dead-more-than-30-injured-as-london-singapore-flight-hit-by-turbulence/">One dead, more than 30 injured as London-Singapore flight hit by turbulence</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 21, 2024, 14:24</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Armenia ready to provide all necessary support to Iran &#8211; MFA" href="https://en.armradio.am/2024/05/19/armenia-ready-to-provide-provide-all-necessary-support-to-iran-mfa/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/01/MFA-night-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/19/armenia-ready-to-provide-provide-all-necessary-support-to-iran-mfa/">Armenia ready to provide all necessary support to Iran &#8211; MFA</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 19, 2024, 21:08</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Prime Minister Nikol Pashinyan&#8217;s message on the 109th anniversary of the Armenian Genocide" href="https://en.armradio.am/2024/04/24/prime-minister-nikol-pashinyans-message-on-the-109th-anniversary-of-the-armenian-genocide/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/04/Nikol-Pashinyan-32-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/04/24/prime-minister-nikol-pashinyans-message-on-the-109th-anniversary-of-the-armenian-genocide/">Prime Minister Nikol Pashinyan&#8217;s message on the 109th anniversary of the Armenian Genocide</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">April 24, 2024, 10:41</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Raisi attended dam openings on Azerbaijan border before helicopter accident" href="https://en.armradio.am/2024/05/19/raisi-attended-dam-openings-on-azerbaijan-border-before-helicopter-accident/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Raisi-Aliyev-1-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/19/raisi-attended-dam-openings-on-azerbaijan-border-before-helicopter-accident/">Raisi attended dam openings on Azerbaijan border before helicopter accident</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 19, 2024, 20:40</span>		</div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Armenia puts into circulation gold collector coin dedicated to Charles Aznavour’s 100th birth anniversary" href="https://en.armradio.am/2024/05/20/armenia-puts-into-circulation-gold-collector-coin-dedicated-to-charles-aznavours-100th-birth-anniversary/" class="post-thumb"><img width="220" height="150" src="https://en.armradio.am/wp-content/uploads/2024/05/Charles-Aznavour-100-2-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" decoding="async" loading="lazy" /></a>		</div><!-- post-alignleft /-->
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://en.armradio.am/2024/05/20/armenia-puts-into-circulation-gold-collector-coin-dedicated-to-charles-aznavours-100th-birth-anniversary/">Armenia puts into circulation gold collector coin dedicated to Charles Aznavour’s 100th birth anniversary</a>
+<div class="post-meta">
+<span class="date meta-item tie-icon">May 20, 2024, 11:31</span>		</div>
+</div>
+</li>
+</ul></div></div><div class="clearfix"></div></div><!-- .widget /-->				</div>
+</div><!-- .side-aside-wrapper /-->
+</aside><!-- .side-aside /-->
+</div><!-- #tie-container /-->
+</div><!-- .background-overlay /-->
+<div id="reading-position-indicator"></div><div id="autocomplete-suggestions" class="autocomplete-suggestions"></div><div id="is-scroller-outer"><div id="is-scroller"></div></div><div id="fb-root"></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" id="tie-scripts-js-extra">
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/en.armradio.am\/wp-admin\/admin-ajax.php","is_side_aside_light":"","is_taqyeem_active":"1","is_sticky_video":"1","mobile_menu_top":"1","mobile_menu_active":"area_1","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","autoload_posts":"","reading_indicator":"true","lazyload":"","select_share":"true","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"true","select_share_email":"true","facebook_app_id":"5303202981","twitter_username":"armradio","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"<div class=\"loader-overlay\">\n\t\t\t\t<div class=\"spinner\">\n\t\t\t\t\t<div class=\"bounce1\"><\/div>\n\t\t\t\t\t<div class=\"bounce2\"><\/div>\n\t\t\t\t\t<div class=\"bounce3\"> <\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>","type_to_search":"1","lang_no_results":"Nothing Found","sticky_share_mobile":"true","sticky_share_post":"","sticky_share_post_menu":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/scripts.min.js?ver=7.1.2" id="tie-scripts-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/ilightbox/lightbox.js?ver=7.1.2" id="tie-js-ilightbox-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/sliders.min.js?ver=7.1.2" id="tie-js-sliders-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/shortcodes.js?ver=7.1.2" id="tie-js-shortcodes-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/desktop.min.js?ver=7.1.2" id="tie-js-desktop-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/live-search.js?ver=7.1.2" id="tie-js-livesearch-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/single.min.js?ver=7.1.2" id="tie-js-single-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202421.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"164074135\",\"post\":\"184703\",\"tz\":\"4\",\"srv\":\"en.armradio.am\",\"j\":\"1:13.3.1\"}") ]);
+_stq.push([ "clickTrackerInit", "164074135", "184703" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/velocity.js?ver=7.1.2" id="tie-js-velocity-js"></script>
+<script type="text/javascript" src="https://en.armradio.am/wp-content/themes/armradiov5/assets/js/br-news.js?ver=7.1.2" id="tie-js-breaking-js"></script>
+<script type='text/javascript'>
+!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+</script>
+<script type='text/javascript'>
+var c = document.body.className;
+c = c.replace(/tie-no-js/, 'tie-js');
+document.body.className = c;
+</script>
+<script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'8888a59a9b200cb3',t:'MTcxNjUwNTA2Ny4wODUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html><!-- WP Fastest Cache file was created in 0.72240400314331 seconds, on 23-05-24 22:21:42 -->

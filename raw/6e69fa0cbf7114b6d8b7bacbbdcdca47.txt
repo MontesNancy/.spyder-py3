@@ -1,0 +1,923 @@
+
+<!DOCTYPE html>
+<!--date generated - 2024-05-23T22:56:22.105952Z-->
+<html lang='en' >
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <title>CENTCOM: over 569 tons of aid delivered across floating pier into Gaza</title>
+        <meta name="description" content="UN says no aid was received in warehouses since Saturday after  1 trucks were cleaned out by Palestinians; &amp;#x27;We need to make sure that the necessary security and logistical arrangements are in place before we proceed&amp;#x27;"/><meta property="vr:marketing content" content="0"/>
+            <link rel='canonical' href='https://www.ynetnews.com/article/ryyyj5fma'>
+        <meta itemprop="name" content="CENTCOM: over 569 tons of aid delivered across floating pier into Gaza">
+        
+        <meta itemprop="description" content="UN says no aid was received in warehouses since Saturday after  1 trucks were cleaned out by Palestinians; &#x27;We need to make sure that the necessary security and logistical arrangements are in place before we proceed&#x27;">
+                <meta property="og:type" content="article"/>
+                <meta property="og:url" content="https://www.ynetnews.com/article/ryyyj5fma"/>
+                <meta property="og:title" content="CENTCOM: over 569 tons of aid delivered across floating pier into Gaza"/>
+                <meta property="og:description" content="UN says no aid was received in warehouses since Saturday after  1 trucks were cleaned out by Palestinians; &#x27;We need to make sure that the necessary security and logistical arrangements are in place before we proceed&#x27;"/>
+                <meta property="og:image" content="https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/05/21/HJx00bPoFQC/HJx00bPoFQC_0_0_3000_2137_0_large.jpg"/>
+                <meta property="og:site_name" content="ynetnews"/>
+                <meta property="article:published_time" content="2024-05-21T04:48:34.776860Z"/>
+                <meta property="article:update_time" content="2024-05-21T04:48:34.776860Z"/>
+                <meta property="og:IsPay" content="0"/>
+                <meta property="article:content_tier" content="free"/>
+                <meta name="twitter:card" content="summary_large_image"/>
+                <meta name="twitter:url" content="https://www.ynetnews.com/article/ryyyj5fma"/>
+                <meta name="twitter:title" content="CENTCOM: over 569 tons of aid delivered across floating pier into Gaza"/>
+                <meta name="twitter:description" content="UN says no aid was received in warehouses since Saturday after  1 trucks were cleaned out by Palestinians; &#x27;We need to make sure that the necessary security and logistical arrangements are in place before we proceed&#x27;"/>
+                <meta name="twitter:image" content="https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/05/21/HJx00bPoFQC/HJx00bPoFQC_0_0_3000_2137_0_large.jpg"/>
+                
+            <meta property="vr:title" content='CENTCOM: over 569 tons of aid delivered across floating pier into Gaza'/>
+            <meta property="vr:image_credit" content='Photo: Ramadan Abed / Reuters'/>
+            <meta property="vr:published_time" content="2024-05-21T04:48:34.776860Z"/>
+            <meta property="vr:image" content="https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/05/21/HJx00bPoFQC/HJx00bPoFQC_0_0_3000_2137_0_large.jpg"/>
+            <meta property="vr:author" content='Reuters'/>
+            <meta property="vr:category" content="ENews"/>
+        <meta name="viewport" content="width=1240">
+        <meta name="application-name" content="ynetnews"/>
+            <meta property='channel-name' content='News'/>
+            
+            <meta name='can-recommend' content="true" />
+            <meta property="publishedPageId" content="66368">
+            <meta property="sub-channel-ID" content="3082">
+            <meta property="sub-channel-name" content="News">
+            <meta property="recommended content" content="false">
+<link href="https://ynet-pic1.yit.co.il/Common/frontend/site/prod/ynetnews.602d27085dd291589eae8a1a3909448a.css" rel="stylesheet"/><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><link rel="shortcut icon" type="image/x-icon" href="https://www.ynetnews.com/images/favicon/favicon_2.ico"/><script> window.articleId = "ryyyj5fma"</script>
+                <script>
+                    dataLayer = [{ 
+                         
+                        
+                'hostname': 'ynetnews.com',
+                'pageName': '/article/ryyyj5fma',
+                'dcPath': '3082.ENews-1.Home',
+                'contentPageType': 'Article',
+                'userId': window.YitPaywall && YitPaywall.user && YitPaywall.user.props ? YitPaywall.user.props.userId : '',
+                'user_type': window.YitPaywall && YitPaywall.user && YitPaywall.user.props ? (YitPaywall.user.props.user_type || '').toLowerCase() : 'guest',
+                'piano_id': window.YitPaywall && YitPaywall.user && YitPaywall.user.props ? YitPaywall.user.props.piano_id : '',
+                'display': window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark_mode' : 'light_mode',
+                'channel_name': 'News',
+             
+                        
+                    'articleID': 'ryyyj5fma',
+                    'authorName': 'Reuters',
+                    'articleTags': 'United Nations, Egypt, humanitarian aid, Rafah crossing, floating pier',
+                    'datePublished': '2024-05-21 07:48:34',
+                    'dateModified': '2024-05-21 07:48:34',
+                    'sponsoredContent': 'No',
+                    'wordCount': '1036',
+                    'editor': 'ynetnews',
+                    'statistics_name': 'ENews',
+                    'channelName': 'News',
+                    'commentsCount': 1,
+                    'videosCount': 0,
+                 
+                         
+                    }];
+                </script>
+                <script>
+                    (function (w, d, s, l, i) {
+                        w[l] = w[l] || [];
+                        w[l].push({
+                            'gtm.start': new Date().getTime(), 
+                            event: 'gtm.js'
+                        });
+                        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.async = true; 
+                        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                        f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-TC5SQQ');
+                </script>
+            
+            <script>
+                function _isMobile() {
+                    var isMobile = (/iphone|ipod|android|blackberry|fennec/).test
+                    (navigator.userAgent.toLowerCase());
+                    return isMobile;
+                }
+
+                var isMobile1 = _isMobile();
+            </script>
+        <script> window.defaultNativeVideoType = "flowplayer"</script>
+               <script>
+                var dcPath = "3082.ENews-1.Home"
+                var dcTags = ['United Nations', 'Egypt', 'humanitarian aid', 'Rafah crossing', 'floating pier']
+                var dcContentID = "ryyyj5fma"
+                
+                
+                
+              </script>
+         <script type='text/javascript'>
+                                                      var googletag = googletag || {};
+                                                      googletag.cmd = googletag.cmd || [];
+                                                      </script><script>
+                          
+                                              if (window.innerWidth >= 767) {
+                                                {
+                                                    var gen_ban = 'ads.300x250.1 ads.300x250.2 ads.300x250.3';
+                                                    var general_banners_divs = gen_ban.split(' ');
+                                                    var gen_ban_size = '300x250 300x250 300x250';
+                                                    var general_banners_divs_sizes = gen_ban_size.split(' ');
+                                                }
+                                              } else if (window.innerWidth <= 767) {} 
+                          
+                          var page_800 = false;
+                          var dcBgColor = 'fff';
+                          var dcGeo = '1';
+                          var ParentCategory = 'ENews';
+                          var dcCG = 'article';
+                          if (document.cookie.indexOf('dcGeoAB') != -1) dcGeo = '2';
+                          var video = '0'
+                          var dcSite = 'yns';                  
+                          var dcSite = 'yns';                    
+                          var dcLoadAds = 1;
+                          var Dc_refresh_all = 14;
+                          var Dc_refresh_jumbo = 14;
+                          var Dc_refresh_ozen = 14;
+                          var gptVer= '';
+                          var gptCtv= '';
+                          var new_gpt = '1';
+                          var newMedia = 'True';
+                          var browsi_on_gpt = 'False';
+                          var browsi_prebid = 'False';
+                          var show_truvid_mobile = 'True';
+                          var show_truvid_desktop = 'True';
+                          var adx_interstitial_mobile = 'False';
+                          var amazon_header_bidding = 'False';
+                          
+                          
+                      </script>
+                     <script src=//totalmedia2.ynet.co.il/new_gpt/english/gpt_script_yns.js></script>
+                      <script  src=></script>
+                  
+            <script type="application/ld+json">
+                {
+                  "@context": "http://schema.org",
+                  "@type": "NewsArticle",
+                  "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "https://www.ynetnews.com/article/ryyyj5fma"
+                  },
+                  "headline": "CENTCOM: over 569 tons of aid delivered across floating pier into Gaza",
+                  "image": [
+    "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/05/21/HJx00bPoFQC/HJx00bPoFQC_0_0_3000_2137_0_large.jpg",
+    "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/05/21/HJu11PotmC/HJu11PotmC_0_0_3000_2000_0_large.jpg"
+],
+                  "datePublished": "2024-05-21T04:48:34.776860Z",
+                  "dateModified": "2024-05-21T04:48:34.776860Z",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Reuters"
+                  },
+                  "publisher": {
+                    "@type": "Organization",
+                    "name": "ynetnews",
+                    "logo": {
+                      "@type": "ImageObject",
+                      "url": "https://www.ynetnews.com/images/news_defualt.jpg"
+                    }
+                  },
+                  "description": "UN says no aid was received in warehouses since Saturday after  1 trucks were cleaned out by Palestinians 'We need to make sure that the necessary security and logistical arrangements are in place before we proceed'",
+                  "wordCount": "1036",
+                  "commentCount": "1",
+                  "genre": "3082.ENews-1.Home",
+                  "isAccessibleForFree": "True",
+                  "keywords": "United Nations,Egypt,humanitarian aid,Rafah crossing,floating pier",
+                  "articleBody": " The U.S. Central Command (CENTCOM) said on Tuesday more than 569 metric tons of humanitarian assistance has been delivered so far across a temporary floating pier to Gaza, but not all the aid has reached warehouses. Aid deliveries began arriving at a U.S.-built pier on Friday as Israel comes under growing global pressure to allow more supplies into the besieged coastal enclave. But earlier, the UN said that there has been no aid delivered to a U.N. warehouse from a U.S.-built pier for two days after 11 trucks were cleaned out by Palestinians during the journey through an area that a U.N. official, speaking on condition of anonymity, said has been hard to access with humanitarian aid. \"We need to make sure that the necessary security and logistical arrangements are in place before we proceed,\" said the U.N. official.   Food and medicine for Palestinians in Gaza were also piling up in Egypt because the Rafah crossing remains U.N. officials warned on Monday. Senior U.N. aid official Edem Wosornu said there were insufficient supplies and fuel to provide any meaningful level of support to the people of Gaza. \"We are running out of words to describe what is happening in Gaza. We have described it as a catastrophe, a nightmare, as hell on earth. It is all of these, and worse,\" she said. She told the U.N. Security Council that the closure of Rafah crossing from Egypt had stopped the delivery of at least 82,000 metric tones of supplies, while access at Israel's Kerem Shalom crossing was limited due to \"hostilities, challenging logistical conditions, and complex coordination procedures.\"   Egypt said on Monday that the crossing is closed due to the threat posed to aid work by Israel's military operation.  Follow Ynetnews on Facebook | Twitter | Instagram >>      Senior U.N. aid official Edem Wosornu said there were insufficient supplies and fuel to provide any meaningful level of support to the people of Gaza as they endure Israel's military onslaught against Hamas militants.  \"We are running out of words to describe what is happening in Gaza. We have described it as a catastrophe, a nightmare, as hell on earth. It is all of these, and worse,\" she said.  She told the U.N. Security Council that the closure of Rafah crossing from Egypt had stopped the delivery of at least 82,000 metric tonnes of supplies, while access at Israel's Kerem Shalom crossing was limited due to \"hostilities, challenging logistical conditions, and complex coordination procedures.\"  Egypt said on Monday that the crossing is closed due to the threat posed to aid work by Israel's military operation.  Israel is retaliating against Hamas in Gaza - an enclave of 2.3 million people - over a brutal Oct. 7 attack by the Palestinian militants. Aid access into southern Gaza has been disrupted since Israel stepped up military operations in Rafah, a move that the U.N. says has forced 900,000 people to flee.  Israel's U.N. Ambassador Gilad Erdan told the Security Council that Israel had not other choice but to go after Hamas in Rafah and that the removal of civilians from an active war zone should be supported and not condemned.  \"They have moved to a designated humanitarian zone that is being filled with aid. And our hope is for many more civilians to leave Rafah and move out of harm's way,\" he said. \"Temporary evacuation is reversible, but the loss of life is not.\"  However, Wosornu described the situation for Palestinians at the new sites as horrendous.  In northern Gaza, where the U.N. warns a famine is imminent, Wosornu said the Erez crossing had been closed since May 9 and the newly-opened Erez West crossing \"is now being used for limited quantities of aid, but now areas in the vicinity of this crossing are also under evacuation orders\" by Israel.  U.S. PIER  Aid deliveries began arriving at a U.S.-built pier on Friday as Israel comes under growing global pressure to allow more supplies into the besieged coastal enclave. The U.N. agreed to assist in coordinating aid distribution from the floating pier, but has remained adamant that deliveries by land are the best way to combat the crisis.  The U.N. said that 10 truckloads of food aid - transported from the pier site by U.N. contractors - were received on Friday at a World Food Programme warehouse in Deir El Balah in Gaza.  But on Saturday, only five truckloads made it to the warehouse after 11 others were cleaned out by Palestinians during the journey through an area that a U.N. official said has been hard to access with humanitarian aid.  \"They've not seen trucks for a while,\" a U.N. official, speaking on condition of anonymity, told Reuters. \"They just basically mounted on the trucks and helped themselves to some of the food parcels.\"  The U.N. did not receive any aid from the pier on Sunday or Monday. \"We need to make sure that the necessary security and logistical arrangements are in place before we proceed,\" said the U.N. official.  Aid offloaded at the pier comes via a maritime corridor from Cyprus, where it is first inspected by Israel. The pier operation is estimated to cost $320 million and involve 1,000 U.S. service members.  U.S. officials have said the pier would initially handle 90 trucks a day, but that number could go to 150 trucks. The U.N. has said at least 500 trucks a day are needed to enter Gaza.  The United Nations has also warned of a severe fuel shortage in Gaza.  Wosornu said 654,000 litres (172,769 gallons) of fuel had been delivered to Gaza since May 6 - one quarter of the fuel allocations it had been receiving.   The U.N. said that 10 truckloads of food aid - transported from the pier site by U.N. contractors - were received on Friday at a World Food Program warehouse in Deir El Balah in Gaza.  But on Saturday, only five truckloads made it to the warehouse after 11 others were cleaned out by Palestinians during the journey through an area that a U.N. official, speaking on condition of anonymity, said has been hard to access with humanitarian aid.  The U.N. did not receive any aid from the pier on Sunday or Monday.",
+                  "video": []
+                  
+                }
+            </script>
+        
+            <script type="application/ld+json">
+                {
+                    "@context": "http://schema.org",
+                    "@type": "WebPage",
+                    "name": "CENTCOM: over 569 tons of aid delivered across floating pier into Gaza",
+                    "url": "https://www.ynetnews.com/article/ryyyj5fma",
+                    "description": "UN says no aid was received in warehouses since Saturday after  1 trucks were cleaned out by Palestinians; &#x27;We need to make sure that the necessary security and logistical arrangements are in place before we proceed&#x27;",
+                    "breadcrumb": {
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+    {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+            "@type": "WebSite",
+            "@id": "https://www.ynetnews.com/category/3082",
+            "name": "News"
+        }
+    }
+]
+                    }
+                }
+            </script>
+        <script type="application/ld+json">
+                {
+                    "@context": "http://schema.org",
+                    "@type": "Organization",
+                    "name": "ynet news",
+                    "url": "https://www.ynetnews.com/category/3083",
+                    "logo": "https://www.ynetnews.com/images/news_defualt.jpg",
+                    "sameAs": [
+                        "https://www.facebook.com/ynetenglish/",
+                        "https://twitter.com/ynetnews"
+                    ]
+                }
+                </script> <script>var video_ad_description_url = "https://www.ynetnews.com/article/ryyyj5fma";var video_analytics_src = "ynet";var video_ad_yncd = "ryyyj5fma";var video_ad_iu_mobile = "/6870/ynetnews/mobileweb/video_preroll";var video_ad_iu = "/6870/ynetnews/desktop/video_preroll";</script><script defer type="text/javascript" src="https://ynet-pic1.yit.co.il/Common/frontend/site/prod/vendors-widgets.5a75e38506bb012f5b8b.js"></script><script>var YITSiteWidgets=YITSiteWidgets||[];</script><script defer type="text/javascript" src="https://ynet-pic1.yit.co.il/Common/frontend/site/prod/widgets.4930f0c30e03218e9c5e.js"></script>
+                        <script src="https://cdn.flowplayer.com/releases/native/3/stable/flowplayer.min.js"></script>
+         <link rel="stylesheet" href="https://cdn.flowplayer.com/releases/native/3/stable/style/flowplayer.css" />
+          <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/ads.min.js"></script>
+         <script src="//cdn.flowplayer.com/releases/native/3/stable/plugins/cuepoints.min.js"></script>
+         <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/ga4.min.js"></script>
+         <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/keyboard.min.js"></script>
+         <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/share.min.js"></script>
+         <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/qsel.min.js"></script>
+          <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/asel.min.js"></script>
+          <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/hls.min.js"></script>
+          <script src="https://cdn.flowplayer.com/releases/native/3/stable/plugins/float-on-scroll.min.js"></script>
+		  <script>window.isGa4=1</script>
+                        <script type="text/javascript" src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+                        <script src="https://cdn.flowplayer.com/releases/native/translations/flowplayer.lang.en.js"></script> 
+                    
+<!--wcm pixel 11031 -->
+<style>
+    .flowplayer .fp-title {
+        display: none !important;
+    }
+</style>
+<!--wcm pixel 9383 -->
+<script type="text/javascript" src="https://ynet-pic1.yit.co.il/Common/Api/Scripts/jquery-3.6.3.min.js"></script>
+<!--wcm pixel 8302 -->
+<script type=""text/javascript"">
+  window._taboola = window._taboola || [];
+   if (window.dcPath != "3083.ECentral-1.Home" && window.dcCG != "article") {
+      _taboola.push({category:'auto'});
+   } else if (window.dcCG == "article") {
+      _taboola.push({article:'auto'});
+   } else {
+      _taboola.push({homepage:'auto'});
+   }
+
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/ynet-ynetnews/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+
+<!--wcm pixel 10129 -->
+<script> window.fpToken = "eyJraWQiOiJxYzh2NFJUMGYzWm8iLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJxYzh2NFJUMGYzWm9cIixcImRvbWFpblwiOltcInluZXRuZXdzLmNvbVwiXX0iLCJpc3MiOiJGbG93cGxheWVyIn0.NvEOUH7fCtT_7W5-T3_jNR0p8C6cE1LkU-92em_CD_uTO8lqPIRgm7feUtiAYTVDDCo0hKs_ZneZHA6mtKMdeQ"</script>
+<!--wcm pixel 9725 -->
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon/favicon_2.ico"/>
+
+<!--wcm pixel 9685 -->
+<meta property="fb:app_id" content="646875168792966"/>
+
+<!--wcm pixel 10142 -->
+<script>
+    window.WCM_POPULARITY_LINK = "https://stats.ynet.co.il/popularity/popularity.php"
+</script>
+<script> window.siteID = "ynetnews"</script><script src="https://www.google.com/recaptcha/api.js?render=6LfIRIEgAAAAAHZSla44gKgNZiscWCTKTpszR8N6"></script>
+                      <script> window.wcmCaptchaSiteKey = "6LfIRIEgAAAAAHZSla44gKgNZiscWCTKTpszR8N6"</script>
+                      
+</head>
+<body  >
+
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC5SQQ"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        
+            <script>
+                !function (t, e) {
+                    "use strict";
+                    var i = "classList", n = function (t, i) {
+                        var n = i || {};
+                        this.trigger = t, this.rate = n.rate || 500, this.el = e.getElementsByClassName("iframe-lightbox")[0] || "", this.body = this.el ? this.el.getElementsByClassName("body")[0] : "", this.content = this.el ? this.el.getElementsByClassName("content")[0] : "", this.href = t.dataset.src || "", this.paddingBottom = t.dataset.paddingBottom || "", this.onOpened = n.onOpened, this.onIframeLoaded = n.onIframeLoaded, this.onLoaded = n.onLoaded, this.onCreated = n.onCreated, this.onClosed = n.onClosed, this.init()
+                    };
+                    n.prototype.init = function () {
+                        var t = this;
+                        this.el || this.create();
+                        var e = function (t, e) {
+                            var i, n, o, s;
+                            return function () {
+                                o = this, n = [].slice.call(arguments, 0), s = new Date;
+                                var a = function () {
+                                    var d = new Date - s;
+                                    d < e ? i = setTimeout(a, e - d) : (i = null, t.apply(o, n))
+                                };
+                                i || (i = setTimeout(a, e))
+                            }
+                        }(function (e) {
+                            e.preventDefault(), t.open()
+                        }, this.rate);
+                        this.trigger.addEventListener("click", e)
+                    }, n.prototype.create = function () {
+                        var t = this, n = e.createElement("div");
+                        this.el = e.createElement("div"), this.content = e.createElement("div"), this.body = e.createElement("div"), this.el[i].add("iframe-lightbox"), n[i].add("backdrop"), this.content[i].add("content"), this.body[i].add("body"), this.el.appendChild(n), this.content.appendChild(this.body), this.contentHolder = e.createElement("div"), this.contentHolder[i].add("content-holder"), this.contentHolder.appendChild(this.content), this.el.appendChild(this.contentHolder), e.body.appendChild(this.el), n.addEventListener("click", function () {
+                            t.close()
+                        });
+                        var o = function () {
+                            t.isOpen() || (t.el[i].remove("is-showing"), t.body.innerHTML = "")
+                        };
+                        this.el.addEventListener("transitionend", o, !1), this.el.addEventListener("webkitTransitionEnd", o, !1), this.el.addEventListener("mozTransitionEnd", o, !1), this.el.addEventListener("msTransitionEnd", o, !1), this.callCallback(this.onCreated, this)
+                    }, n.prototype.loadIframe = function () {
+                        var t = this;
+                        this.iframeId = "iframe-lightbox" + Date.now(), this.body.innerHTML = '<iframe src="' + this.href + '" name="' + this.iframeId + '" id="' + this.iframeId + '" onload="this.style.opacity=1;" style="opacity:0;border:none;" scrolling="no" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" height="166" frameborder="no"></iframe>', function (n, o) {
+                            e.getElementById(n).onload = function () {
+                                this.style.opacity = 1, o[i].add("is-loaded"), t.callCallback(t.onIframeLoaded, t), t.callCallback(t.onLoaded, t)
+                            }
+                        }(this.iframeId, this.body)
+                    }, n.prototype.open = function () {
+                        this.loadIframe(), this.paddingBottom ? this.content.style.paddingBottom = this.paddingBottom : this.content.removeAttribute("style"), this.el[i].add("is-showing"), this.el[i].add("is-opened"), this.callCallback(this.onOpened, this)
+                    }, n.prototype.close = function () {
+                        this.el[i].remove("is-opened"), this.body[i].remove("is-loaded"), this.callCallback(this.onClosed, this)
+                    }, n.prototype.isOpen = function () {
+                        return this.el[i].contains("is-opened")
+                    }, n.prototype.callCallback = function (t, e) {
+                        "function" == typeof t && t.bind(this)(e)
+                    }, t.IframeLightbox = n
+                }("undefined" != typeof window ? window : this, document);
+            </script>
+        
+                        <div id=ads.skyscraper style='position:fixed;top:0;right:0;'>
+                        <script type='text/javascript'>
+                            if (navigator.appName != "Microsoft Internet Explorer") {
+                                if (document.getElementById('ads.skyscraper')) {
+                                    document.getElementById('ads.skyscraper').style.position = "fixed";
+                                }
+                            }
+                        </script>
+                        </div>
+                    
+                                <div id=ads.skyscraper.left style='position:fixed;top:0;left:0;'>
+                                            <script type='text/javascript'>
+                                                if (navigator.appName != "Microsoft Internet Explorer") {
+                                                    if (document.getElementById('ads.skyscraper.left')) {
+                                                        document.getElementById('ads.skyscraper.left').style.position = "fixed";
+                                                    }
+                                                }
+                                            </script>
+                                </div>
+                                <div id=ads.biglivebox></div><div id=ads.banner style='position:fixed;bottom:0;'>                            
+             <script type="text/javascript"> 
+
+             window.closeBigAd = false;
+             if(window.innerWidth <= '768') {                                     
+                 function waitForElement(elementPath, callBack){
+                           window.setTimeout(function(){
+                             if($(elementPath).length){
+                               callBack(elementPath, $(elementPath));
+                             }else{
+                               waitForElement(elementPath, callBack);
+                             }
+                           },500)
+                     }       
+                 if(document.cookie.indexOf('cookieconsent_status') === -1 && 
+                     window.cookieconsent != undefined) {
+                     document.getElementById("ads.banner").classList.add(
+                     'remove_sticky');
+                     $(window).scroll(function() {
+                         if(window.closeBigAd){
+                             return false;
+                         } 
+                         if ($( ".cc-grower" ).length > 0) {                      
+
+
+
+                         var top_of_element = $(".cc-grower").offset().top;
+                         var bottom_of_element = $(".cc-grower").offset().top + $(
+                         ".cc-grower").outerHeight();
+                         var bottom_of_screen = $(window).scrollTop() + $(
+                         window).height();
+                         var top_of_screen = $(window).scrollTop();
+                         if ((bottom_of_screen > top_of_element) && (
+                         top_of_screen < 
+                         bottom_of_element) && document.cookie.indexOf(
+                         'cookieconsent_status') === -1) {
+                          document.getElementById("ads.banner").classList.add(
+                          'remove_sticky');
+                         } else {
+                            document.getElementById("ads.banner").classList.remove(
+                            'remove_sticky');
+                         }
+                        }
+                     })
+                     waitForElement("#Biglivebox_Close_button",function(){
+                         $('#Biglivebox_Close_button').click(function(){
+                             window.closeBigAd = true;
+                            document.getElementById("ads.banner").classList.remove(
+                            'remove_sticky');     
+                         })
+                     })
+                   }                            
+                 
+              }
+              </script>                              
+        </div><div id="site_container" class=""><div><div class="hContainer ynetnews grid1280_2 isLtr article articleContainer"><script>window.dateFormat="mdy", window.timezone="Asia/Jerusalem", window.languageCode ="en-GB"</script><script>
+window.currentPlayingYoutubePlayer = window.currentPlayingYoutubePlayer || null;
+window.YoutubeAPIControlller  = {
+        _queue: [],
+        _isLoaded: false,
+
+        load: function (component) {
+            // if the API is loaded just create the player
+            if (this._isLoaded) {
+                component.createPlayer()
+            } else {
+                this._queue.push(component)
+            }
+        },
+
+        loadAPI: function () {
+            // load the api
+            var tag = document.createElement('script');
+            tag.src = "https://www.youtube.com/iframe_api";
+            var firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+            var that = this;
+            window.onYouTubeIframeAPIReady = function() {
+                that._isLoaded = true
+                for (let i = that._queue.length; i--;) {
+                    that._queue[i].createPlayer()
+                }
+                that._queue = []
+            }
+        },
+    }
+    setTimeout(function(){window.YoutubeAPIControlller.loadAPI()}, 1000);
+</script><span><span id="SJCXA9YSa7R"></span><script>window.YITSiteWidgets.push(['SJCXA9YSa7R','SiteLinkLightBoxInjector',{}]);</script></span><span><span id="HJk4RcKrpQ0"></span><script>window.YITSiteWidgets.push(['HJk4RcKrpQ0','SiteAnalyticsInjector',{"analyticsObject":{"dc_path":"","page_title":"CENTCOM: over 569 tons of aid delivered across floating pier into Gaza","cid":"","yid":"","page_type":"article","ad_blocker":false,"channel_name":"News","user_status":0,"article_id":"ryyyj5fma","author_name":"Reuters","editor_name":"","date_modified":"2024-05-21T04:48:34.776Z","date_published":"2024-05-21T04:48:34.776Z","videos_count":0,"sponsored_content":false,"word_count":1036,"article_tags":["Rafah crossing","floating pier","Egypt","humanitarian aid","United Nations"],"comments_count":0},"mainClassName":"hContainer ynetnews grid1280_2 isLtr article articleContainer"}]);</script></span><div style="width:1240px;direction:ltr;margin:0 auto" class="RelativeElementsContainer site_page_root"><div class="layoutContainer" style="position:relative;min-height:0;padding-bottom:0;width:1240px;margin:0 auto;box-sizing:border-box"><div tabindex="0" class="layoutItem top-ad" style="position:relative;top:0;left:0;margin-bottom:20px"><span class="no-print"><div style="height:100%"><div id="ads.top"></div></div></span></div></div><div class="layoutContainer" style="position:relative;min-height:1963px;padding-bottom:193px;width:1240px;margin:0 auto;box-sizing:border-box"><div tabindex="0" class="layoutItem ynetnews-header" style="position:absolute;top:0;left:0;height:133px;width:1240px"><div style="height:100%"><span><span id="HJxNRqYBp7C"><div class="YnetnewsHeader" id="YnetHeader"><div class="headerTop"><div class="leftSideLinks"><a id="r1ZER5YB6XC" href="https://www.ynetnews.com/category/3089" target="_top"><span class="headerIcon flash" id="flashBell"></span> <span class="flashText">Updates</span></a><a id="rJzVA9FrTX0" href="https://www.ynetnews.com/category/43972" target="_top"><span class="headerIcon redMail"></span> <span class="redMailText">Red Mail</span></a><div class="WeatherViewInHeader" id="main_header_weather"><div class="weatherimage"><a href="https://www.ynetnews.com/weather/tel-aviv-yafo"><img src="https://www.ynetnews.com/Cnt/Images/Weather/1220.png" aria-hidden="true"/></a></div><div class="weathertempsdiv"><a href="https://www.ynetnews.com/weather/tel-aviv-yafo" class="weatherLink"><span class="weathertemps">24°</span></a></div><div id="headerWeatherSelect" class="headerWeatherSelect"><a href="https://www.ynetnews.com/weather/tel-aviv-yafo" class="selectedCity">Tel Aviv-Jaffa</a><div class="menuToggler toOpen"></div></div></div></div><div class="logo"><a aria-label="" id="H1X40qFr67C" href="https://www.ynetnews.com/category/3083" target="_top"><img alt="" title="" aria-hidden="true" aria-label="Page Logo" src="https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2023/03/22/r1WVPDdgh/black.png"/></a></div><div class="followUsLinks"><div class="mediaLinks"><a href="https://twitter.com/ynetnews" class="mediaIcon linkToTw" target="_blank"></a><a href="https://www.facebook.com/ynetenglish/" class="mediaIcon linkToFb" target="_blank"></a><a href="https://www.instagram.com/ynetnews/" class="mediaIcon linkToInst" target="_blank"></a><div id="mainAccessibilityButton"><a id="INDmenu-btn" title="אתר נגיש" accessKey="m" aria-labelledby="INDbtnTooltip" role="button"><span class="icon"></span></a></div></div></div></div><div class="BottomHeaderArea" id="BottomHeaderArea"><div class="mainNav" role="navigation" aria-label="Main Menu" style="background-color:#de1a1a"><div class="navList"><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="SyVNAqKrT7C" href="https://www.ynetnews.com/category/3083" target="_top"><span> Main</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" class="selected" id="HJBNC9YS670" href="https://www.ynetnews.com/category/3082" target="_top"><span>News</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="SkL4Cctrpm0" href="https://www.ynetnews.com/category/3443" target="_top"><span> Jewish World</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="ByDV0cYr67A" href="https://www.ynetnews.com/magazine" target="_top"><span> Magazine</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="r1OVC5FrTXR" href="https://www.ynetnews.com/health_science" target="_top"><span> Health</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="HkK4A5FHTXA" href="https://www.ynetnews.com/culture" target="_top"><span> Culture</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="HJ94RcFrT70" href="https://www.ynetnews.com/category/3084" target="_top"><span> Opinions</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="SJjN05FBpQA" href="https://www.vesty.co.il/main" target="_top"><span> Vesty</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="rJh409trTmC" href="https://www.ynetespanol.com/" target="_top"><span>Español</span></a></div><div><a style="color:#ffffff;--menu-item-color:#ffffff" id="HJ64CqtSTXR" href="//www.ynet.co.il/home/0,7340,L-8,00.html" target="_top"><span>עברית</span></a></div></div><div id="wcm_MenuDisplay"><span class="moreBtn" id="wcm_MenuDisplay_moreBtn">More<span class="moreIcon toOpen"></span></span></div><div id="wcm_SearchDisplay"><span class="searchIcon" id="wcm_MenuDisplay_searchIcon">Search</span></div></div><div class="popUpmenu closed" role="sub-navigation" aria-label="Sub Menu"><div class="main_search_elements" id="mainSrchElements"><a href="javascript:void(0);" id="MsBtn" class="en" role="button"></a><div id="main_search_bg"><div id="mainSrchBoxInput"><input type="text" alt="חיפוש" class="mainSrchclass" id="mainSrchBox" aria-label="חיפוש" value="" placeholder="Search" style="background:#fff"/></div></div></div><div class="linksGroups"><div class="group"><div class="groupTitle">Ynetnews Channels</div><ul class="groupList"><li><a style="color:#000000" id="HyRNA5trpXR" href="https://www.ynetnews.com/category/3082" target="_top"><span> News</span></a></li><li><a style="color:#000000" id="rJJSR5Kr6QA" href="https://www.ynetnews.com/magazine" target="_top"><span> Magazine</span></a></li><li><a style="color:#000000" id="rJlrC9FHTmR" href="https://www.ynetnews.com/category/9733" target="_top"><span> Mideast News</span></a></li><li><a style="color:#000000" id="HyZrAqKSa7A" href="https://www.ynetnews.com/home/0,7340,L-4798,00.html" target="_top"><span> Art&Culture</span></a></li><li><a style="color:#000000" id="r1MSC5trTQA" href="https://www.ynetnews.com/travel" target="_top"><span> Travel</span></a></li><li><a style="color:#000000" id="r1mBAqYra7C" href="https://www.ynetnews.com/business" target="_top"><span> Business</span></a></li><li><a style="color:#000000" id="HyVBAqtrpQ0" href="https://www.ynetnews.com/business/category/10006" target="_top"><span> Tech</span></a></li></ul></div><div class="group"><div class="groupTitle">More Channels</div><ul class="groupList"><li><a style="color:#000000" id="r1SH0cFB67R" href="https://www.ynetnews.com/weather" target="_top"><span>Weather
+</span></a></li><li><a style="color:#000000" id="B18SR5traQC" href="https://yschool.co.il/" target="_top"><span>yschool</span></a></li><li><a style="color:#000000" id="ByvrRcYrpX0" href="https://www.ynetart.co.il/" target="_top"><span>Art</span></a></li><li><a style="color:#000000" id="HkdBA9Fr6QR" href="https://www.ynetnews.com/shopping" target="_top"><span>shopping</span></a></li></ul></div><div class="group"><div class="groupTitle">More sites</div><ul class="groupList"><li><a style="color:#000000" id="H1KHRcYBTmR" href="https://www.ynet.co.il/home/0,7340,L-8,00.html" target="_top"><span>Ynet</span></a></li><li><a style="color:#000000" id="SJ5BC9YrT7A" href="https://www.calcalist.co.il/home/0,7340,L-8,00.html" target="_top"><span>Calcalist</span></a></li><li><a style="color:#000000" id="ByiB0ctramA" href="https://www.yad2.co.il/?utm_source=ynet&amp;utm_medium=link_footer" target="_top"><span>yad2</span></a></li><li><a style="color:#000000" id="H1nBR5Yr6XC" href="https://www.ynetespanol.com/" target="_top"><span>ynetespanol</span></a></li><li><a style="color:#000000" id="rJTBC5YramC" href="https://www.vesty.co.il/main" target="_top"><span>vesty</span></a></li><li><a style="color:#000000" id="BJRS05Kr67C" href="https://de-wcm-mynet-cloud.yit.co.il/Common/home/#" target="_top"><span>mynet</span></a></li></ul></div><div class="group"><div class="groupTitle">Contact</div><ul class="groupList"><li><a style="color:#000000" id="BJJL0cFS67A" href="https://www.ynetnews.com/articles/0,7340,L-4522700,00.html" target="_top"><span>Contact us</span></a></li><li><a style="color:#000000" id="rkeLR5tHTQR" href="https://www.ynetnews.com/article/syrcqnwmt" target="_top"><span>Privacy Policy</span></a></li><li><a style="color:#000000" id="r1WI0qKB6XA" href="https://www.ynetnews.com/article/bkh7s3p7t" target="_top"><span>Terms of Use</span></a></li></ul></div></div></div></div></div></span><script>window.YITSiteWidgets.push(['HJxNRqYBp7C','SiteYnetNewsHeaderComponenta',{"mainNavItems":[{"title":" Main","link":"https://www.ynetnews.com/category/3083","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":"News","link":"https://www.ynetnews.com/category/3082","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":true},{"title":" Jewish World","link":"https://www.ynetnews.com/category/3443","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":" Magazine","link":"https://www.ynetnews.com/magazine","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":" Health","link":"https://www.ynetnews.com/health_science","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":" Culture","link":"https://www.ynetnews.com/culture","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":" Opinions","link":"https://www.ynetnews.com/category/3084","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":" Vesty","link":"https://www.vesty.co.il/main","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":"Español","link":"https://www.ynetespanol.com/","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false},{"title":"עברית","link":"//www.ynet.co.il/home/0,7340,L-8,00.html","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#ffffff","isSelected":false}],"tabBgColor":"#de1a1a","groupsWithItems":[{"groupId":"Bk8h3kU3gj","groupName":"Ynetnews Channels","items":[{"title":" News","link":"https://www.ynetnews.com/category/3082","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":" Magazine","link":"https://www.ynetnews.com/magazine","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":" Mideast News","link":"https://www.ynetnews.com/category/9733","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":" Art&Culture","link":"https://www.ynetnews.com/home/0,7340,L-4798,00.html","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":" Travel","link":"https://www.ynetnews.com/travel","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":" Business","link":"https://www.ynetnews.com/business","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":" Tech","link":"https://www.ynetnews.com/business/category/10006","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"}]},{"groupId":"ByOZXT2es","groupName":"More Channels","items":[{"title":"Weather\n","link":"https://www.ynetnews.com/weather","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"yschool","link":"https://yschool.co.il/","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"Art","link":"https://www.ynetart.co.il/","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"shopping","link":"https://www.ynetnews.com/shopping","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"}]},{"groupId":"r1WMQahej","groupName":"More sites","items":[{"title":"Ynet","link":"https://www.ynet.co.il/home/0,7340,L-8,00.html","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"Calcalist","link":"https://www.calcalist.co.il/home/0,7340,L-8,00.html","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"yad2","link":"https://www.yad2.co.il/?utm_source=ynet&utm_medium=link_footer","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"ynetespanol","link":"https://www.ynetespanol.com/","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"vesty","link":"https://www.vesty.co.il/main","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"mynet","link":"https://de-wcm-mynet-cloud.yit.co.il/Common/home/#","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"}]},{"groupId":"rkSMm6hgs","groupName":"Contact","items":[{"title":"Contact us","link":"https://www.ynetnews.com/articles/0,7340,L-4522700,00.html","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"Privacy Policy","link":"https://www.ynetnews.com/article/syrcqnwmt","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"},{"title":"Terms of Use","link":"https://www.ynetnews.com/article/bkh7s3p7t","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"color":"#000000"}]}],"flashPageLink":"https://www.ynetnews.com/category/3089","flashLinkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"redMailLink":"https://www.ynetnews.com/category/43972","mailLinkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700},"weatherData":[{"temp":24,"imageName":"1220.png","weatherCode":1220,"city":"תל אביב - יפו"},{"temp":24,"imageName":"1220.png","weatherCode":1220,"city":"לוד"},{"temp":21,"imageName":"1220.png","weatherCode":1220,"city":"נצרת"},{"temp":0,"imageName":"1310.png","weatherCode":1310,"city":"עין גדי"},{"temp":18,"imageName":"1220.png","weatherCode":1220,"city":"צפת"},{"temp":0,"imageName":"1310.png","weatherCode":1310,"city":"אילת"},{"temp":22,"imageName":"1220.png","weatherCode":1220,"city":"באר שבע"},{"temp":24,"imageName":"1310.png","weatherCode":1310,"city":"בית שאן"},{"temp":21,"imageName":"1220.png","weatherCode":1220,"city":"חיפה"},{"temp":23,"imageName":"1220.png","weatherCode":1220,"city":"טבריה"},{"temp":20,"imageName":"1220.png","weatherCode":1220,"city":"ירושלים"},{"temp":20,"imageName":"1220.png","weatherCode":1220,"city":"קצרין"},{"temp":24,"imageName":"1220.png","weatherCode":1220,"city":"אשדוד"},{"temp":22,"imageName":"1220.png","weatherCode":1220,"city":"מצפה רמון"},{"temp":22,"imageName":"1220.png","weatherCode":1220,"city":"עפולה"}],"defaultCityIndex":0,"weatherUrl":"https://www.ynetnews.com/weather","logoData":{"isManual":false,"url":"https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2023/03/22/r1WVPDdgh/black.png","mediaTitle":"","link":"https://www.ynetnews.com/category/3083","linkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"same","lightBoxHeight":700}},"promoText":"חודש ראשון חינם","promoLink":"","yplusLink":"","followUsText":"Follow Us","linkToInst":"https://www.instagram.com/ynetnews/","linkToFb":"https://www.facebook.com/ynetenglish/","linkToTw":"https://twitter.com/ynetnews","linkToYtube":"","linkToTelegram":"","enableSticky":true,"searchPageLink":"https://www.ynetnews.com/category/43973","commercialBtnTitle":"","commercialLinksList":[],"followUsLink":"","folowUsLinkTarget":{"lightBoxBgColor":"#000000","lightBoxOpacity":70,"lightBoxWidth":803,"linkOpenType":"new","lightBoxHeight":700}}]);</script></span></div></div><div tabindex="0" class="layoutItem category-breadcrumbs-1280" style="position:absolute;top:148px;left:0;height:25px;width:1240px"><span class=""><div style="height:"><nav aria-label="Breadcrumb" class="categoryBreadcrumbs"><ul><li><a href="https://www.ynetnews.com/category/3082">News</a><span class="arrow"></span></li></ul></nav></div></span></div><div tabindex="0" class="layoutItem banner" style="position:absolute;top:193px;left:940px;height:250px;width:300px"><span class="no-print"><div style="height:100%"><div id="ads.300x250.1" data-banner="ads.300x250.1, 300x250"></div></div></span></div><div tabindex="0" class="layoutItem taboola-general" style="position:absolute;top:463px;left:940px;height:945px;width:300px"><span class="no-print"><div style="height:100%"><span><span id="SyG8AqYrTXA"><div id="taboola-left-rail-thumbnails-nd"></div></span><script>window.YITSiteWidgets.push(['SyG8AqYrTXA','TaboolaComponenta',{"mode":"thumbnails-z-nd","container":"taboola-left-rail-thumbnails-nd","placement":"Left Rail Thumbnails ND","target_type":"mix"}]);</script></span></div></span></div><div tabindex="0" class="layoutItem banner" style="position:absolute;top:1423px;left:940px;height:250px;width:300px"><span class="no-print"><div style="height:100%"><div id="ads.300x250.2" data-banner="ads.300x250.2, 300x250"></div></div></span></div><div tabindex="0" class="layoutItem banner" style="position:absolute;top:1693px;left:940px;height:250px;width:300px"><span class="no-print"><div style="height:100%"><div id="ads.300x250.3" data-banner="ads.300x250.3, 300x250"></div></div></span></div><div class="dynamicHeightItemsColumn" style="position:relative;display:inline-block;vertical-align:top;top:193px;left:84px;width:740px"><div tabindex="0" class="layoutItem article-header-eng-1280" style="width:740px;margin-bottom:15px"><div id="ArticleHeaderComponent" class="ArticleHeaderEngComponent1280 selectableShareable for-print" role="header" aria-label="article header"><div class="mainTitleWrapper"><h1 class="mainTitle">CENTCOM: over 569 tons of aid delivered across floating pier into Gaza</h1></div><div class="subTitleWrapper"><h2><span disabled="" class="subTitle" contenteditable="false">UN says no aid was received in warehouses since Saturday after&nbsp; 1 trucks were cleaned out by Palestinians; 'We need to make sure that the necessary security and logistical arrangements are in place before we proceed'</span></h2></div><div class="authorAndDateContainer   "><div class="authoranddate"><div class="authors " style="max-width:400px"><span><a href="https://www.ynetnews.com/topics/Reuters" target="_blank" title="Reuters">Reuters</a></span><span class="infoSeparator">|</span><span class="date"><time class="DateDisplay" dateTime="2024-05-21T04:48:34.776Z" data-wcmdate="2024-05-21T04:48:34.776Z" data-wcm-is-article-date="1"></time></span></div></div><span><span id="SyQ8AqFHpQ0"><div class="SiteArticleSocialShareNew1280 "><button class="addNewComment tb" id="addNewComment-header" title="Add a comment"><span class="shareIcon1280"></span><span class="verticalSidebarCommentNumber"></span><span>Add a comment</span></button><button title="Whatsapp" class="shareIcon1280 wa"></button><button title="Facebook" class="shareIcon1280 fb"></button><button title="Twitter" class="shareIcon1280 tw"></button><button title="Send Email" class="shareIcon1280 mailto"></button><button title="More" class="shareIcon1280 more"></button><div class="menuMore close"><a title="Print">Print</a><a title="Find an error? Report us" href="//ynet.co.il/redmail?notifyMistake=ryyyj5fma" target="_blank">Find an error? Report us</a></div></div></span><script>window.YITSiteWidgets.push(['SyQ8AqFHpQ0','SiteArticleSocialShareNew1280',{"categorySubChannel":"News","author":"Reuters","articleId":"ryyyj5fma","showComments":true,"isSpotim":false,"lang":"en-GB","title":"CENTCOM: over 569 tons of aid delivered across floating pier into Gaza"}]);</script></span></div></div></div><div tabindex="0" class="layoutItem article-tags-1280-2" style="width:740px;margin-bottom:20px"><div class="ArticleTagsComponent ltr"><div class="tagsLabel"> Related Topics</div><div class="tagWrapper"><div class="tagName"><a href="https://www.ynetnews.com/topics/Rafah_crossing" title="Rafah crossing">Rafah crossing</a></div></div><div class="tagWrapper"><div class="tagName"><a href="https://www.ynetnews.com/topics/floating_pier" title="floating pier">floating pier</a></div></div><div class="tagWrapper"><div class="tagName"><a href="https://www.ynetnews.com/topics/Egypt" title="Egypt">Egypt</a></div></div><div class="tagWrapper"><div class="tagName"><a href="https://www.ynetnews.com/topics/humanitarian_aid" title="humanitarian aid">humanitarian aid</a></div></div><div class="tagWrapper"><div class="tagName"><a href="https://www.ynetnews.com/topics/United_Nations" title="United Nations">United Nations</a></div></div></div></div><div tabindex="0" class="layoutItem article-body-english" style="width:740px;margin-bottom:20px"><div id="ArticleBodyComponent" class="ArticleBodyComponent selectableShareable for-print englishSite"><div class="textEditor_container readOnly"><div class="DraftEditor-root DraftEditor-alignLeft"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="64d6m-0-0"><div data-offset-key="64d6m-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="64d6m-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="d6dft-0-0"><div data-offset-key="d6dft-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="d6dft-0-0"><span data-text="true">The U.S. Central Command (CENTCOM) said on Tuesday more than 569 metric tons of humanitarian assistance has been delivered so far across a temporary floating pier to Gaza, but not all the aid has reached warehouses.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="e47dc-0-0"><div data-offset-key="e47dc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e47dc-0-0"><span data-text="true">Aid deliveries began arriving at a U.S.-built pier on Friday as Israel comes under growing global pressure to allow more supplies into the besieged coastal enclave.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="dr5ab-0-0"><div data-offset-key="dr5ab-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dr5ab-0-0"><span data-text="true">But earlier, the UN said that there has been no aid delivered to a U.N. warehouse from a U.S.-built pier for two days after 11 trucks were cleaned out by Palestinians during the journey through an area that a U.N. official, speaking on condition of anonymity, said has been hard to access with humanitarian aid.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="6h2km-0-0"><div data-offset-key="6h2km-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="6h2km-0-0"><span data-text="true">&quot;We need to make sure that the necessary security and logistical arrangements are in place before we proceed,&quot; said the U.N. official.</span></span></div></div><figure data-block="true" data-editor="aodqr" data-offset-key="74sqs-0-0" contenteditable="false"><div class="ArticleImageComponenta full_wide firstImageInArticle firstImageInArticleBody"><a class="gelleryOpener" aria-label="open article gallery" data-image-id="ArticleImageData.r1ehODoYmC" id="image_ArticleImageData.r1ehODoYmC"><div class="galleryCounterExpand"><span class="numOfImg">2</span> View gallery </div><div class="expand" aria-hidden="true"></div><img id="ReduxEditableImage_ArticleImageData.r1ehODoYmC" src="https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver5/crop_images/2024/05/21/HJx00bPoFQC/HJx00bPoFQC_0_0_3000_2137_0_x-large.jpg" alt="Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier " title="Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier  (Photo: Ramadan Abed / Reuters) " aria-hidden="false"/></a><span class="mobileView"><img id="ReduxEditableImage_ArticleImageData.r1ehODoYmC" src="https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver5/crop_images/2024/05/21/HJx00bPoFQC/HJx00bPoFQC_0_0_3000_2137_0_x-large.jpg" alt="Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier " title="Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier  (Photo: Ramadan Abed / Reuters) " aria-hidden="false"/></span><div class="ImageDetails"><div class="ImageCaption"><span disabled="" class="" contenteditable="false">Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier </span></div><div class="ImageCredit">(<span disabled="" class="" contenteditable="false">Photo: Ramadan Abed / Reuters</span>)</div></div></div></figure><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="4tqt1-0-0"><div data-offset-key="4tqt1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4tqt1-0-0"><span data-text="true">Food and medicine for Palestinians in Gaza were also piling up in Egypt because the Rafah crossing remains U.N. officials warned on Monday.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="796rm-0-0"><div data-offset-key="796rm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="796rm-0-0"><span data-text="true">Senior U.N. aid official Edem Wosornu said there were insufficient supplies and fuel to provide any meaningful level of support to the people of Gaza. &quot;We are running out of words to describe what is happening in Gaza. We have described it as a catastrophe, a nightmare, as hell on earth. It is all of these, and worse,&quot; she said.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="4kv1j-0-0"><div data-offset-key="4kv1j-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4kv1j-0-0"><span data-text="true">She told the U.N. Security Council that the closure of Rafah crossing from Egypt had stopped the delivery of at least 82,000 metric tones of supplies, while access at Israel&#x27;s Kerem Shalom crossing was limited due to &quot;hostilities, challenging logistical conditions, and complex coordination procedures.&quot;</span></span></div></div><figure data-block="true" data-editor="aodqr" data-offset-key="59vf9-0-0" contenteditable="false"><div class="ArticleImageComponenta full_wide"><a class="gelleryOpener" aria-label="open article gallery" data-image-id="ArticleImageData.rklLtDjF70" id="image_ArticleImageData.rklLtDjF70"><div class="galleryCounterExpand"><span class="numOfImg">2</span> View gallery </div><div class="expand" aria-hidden="true"></div><img id="ReduxEditableImage_ArticleImageData.rklLtDjF70" src="https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver5/crop_images/2024/05/21/HJu11PotmC/HJu11PotmC_0_0_3000_2000_0_x-large.jpg" alt="Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip" title="Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip (File Photo: Mohamed Abd El Ghany / Reuters) " aria-hidden="false"/></a><span class="mobileView"><img id="ReduxEditableImage_ArticleImageData.rklLtDjF70" src="https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver5/crop_images/2024/05/21/HJu11PotmC/HJu11PotmC_0_0_3000_2000_0_x-large.jpg" alt="Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip" title="Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip (File Photo: Mohamed Abd El Ghany / Reuters) " aria-hidden="false"/></span><div class="ImageDetails"><div class="ImageCaption"><span disabled="" class="" contenteditable="false">Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip</span></div><div class="ImageCredit">(<span disabled="" class="" contenteditable="false">File Photo: Mohamed Abd El Ghany / Reuters</span>)</div></div></div></figure><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="5dn21-0-0"><div data-offset-key="5dn21-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5dn21-0-0"><span data-text="true">Egypt said on Monday that the crossing is closed due to the threat posed to aid work by Israel&#x27;s military operation.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="blv7k-0-0"><div data-offset-key="blv7k-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="blv7k-0-0" style="font-weight:bold"><span data-text="true">&lt;&lt; Follow Ynetnews on </span></span><a id="rkNU09YrpXA" href="https://www.facebook.com/ynetenglish/" target="_blank"><span data-offset-key="blv7k-1-0" style="font-weight:bold"><span data-text="true">Facebook </span></span></a><span data-offset-key="blv7k-2-0" style="font-weight:bold"><span data-text="true">| </span></span><a id="BkSUCcYH6QR" href="https://twitter.com/ynetnews" target="_blank"><span data-offset-key="blv7k-3-0" style="font-weight:bold"><span data-text="true">Twitter</span></span></a><span data-offset-key="blv7k-4-0" style="font-weight:bold"><span data-text="true"> | </span></span><a id="ry88AqtHT70" href="https://www.instagram.com/ynetnews/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><span data-offset-key="blv7k-5-0" style="font-weight:bold"><span data-text="true">Instagram</span></span></a><span data-offset-key="blv7k-6-0" style="font-weight:bold"><span data-text="true"> &gt;&gt;</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="busoj-0-0"><div data-offset-key="busoj-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="busoj-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="d5n9c-0-0"><div data-offset-key="d5n9c-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="d5n9c-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="9r709-0-0"><div data-offset-key="9r709-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9r709-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="5omd2-0-0"><div data-offset-key="5omd2-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5omd2-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="2glij-0-0"><div data-offset-key="2glij-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2glij-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="e0dg7-0-0"><div data-offset-key="e0dg7-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e0dg7-0-0"><span data-text="true">Senior U.N. aid official Edem Wosornu said there were insufficient supplies and fuel to provide any meaningful level of support to the people of \\Gaza\\ as they endure Israel&#x27;s military onslaught against Hamas militants.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="7svg-0-0"><div data-offset-key="7svg-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7svg-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="5dbv1-0-0"><div data-offset-key="5dbv1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5dbv1-0-0"><span data-text="true">&quot;We are running out of words to describe what is happening in \\Gaza\\. We have described it as a catastrophe, a nightmare, as hell on earth. It is all of these, and worse,&quot; she said.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="en32-0-0"><div data-offset-key="en32-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="en32-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="ahgq5-0-0"><div data-offset-key="ahgq5-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ahgq5-0-0"><span data-text="true">She told the U.N. Security Council that the closure of Rafah crossing from Egypt had stopped the delivery of at least 82,000 metric tonnes of supplies, while access at Israel&#x27;s Kerem Shalom crossing was limited due to &quot;hostilities, challenging logistical conditions, and complex coordination procedures.&quot;</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="4tde3-0-0"><div data-offset-key="4tde3-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4tde3-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="c2jim-0-0"><div data-offset-key="c2jim-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="c2jim-0-0"><span data-text="true">Egypt said on Monday that the crossing is closed due to the threat posed to aid work by Israel&#x27;s military operation.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="en5io-0-0"><div data-offset-key="en5io-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="en5io-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="ajmmd-0-0"><div data-offset-key="ajmmd-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ajmmd-0-0"><span data-text="true">Israel is retaliating against Hamas in \\Gaza\\ - an enclave of 2.3 million people - over a brutal Oct. 7 attack by the Palestinian militants. Aid access into southern \\Gaza\\ has been disrupted since Israel stepped up military operations in Rafah, a move that the U.N. says has forced 900,000 people to flee.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="856c1-0-0"><div data-offset-key="856c1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="856c1-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="as80b-0-0"><div data-offset-key="as80b-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="as80b-0-0"><span data-text="true">Israel&#x27;s U.N. Ambassador Gilad Erdan told the Security Council that Israel had not other choice but to go after Hamas in Rafah and that the removal of civilians from an active war zone should be supported and not condemned.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="c1io5-0-0"><div data-offset-key="c1io5-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="c1io5-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="9qhhn-0-0"><div data-offset-key="9qhhn-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9qhhn-0-0"><span data-text="true">&quot;They have moved to a designated humanitarian zone that is being filled with aid. And our hope is for many more civilians to leave Rafah and move out of harm&#x27;s way,&quot; he said. &quot;Temporary evacuation is reversible, but the loss of life is not.&quot;</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="2lnbq-0-0"><div data-offset-key="2lnbq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2lnbq-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="8dh52-0-0"><div data-offset-key="8dh52-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8dh52-0-0"><span data-text="true">However, Wosornu described the situation for Palestinians at the new sites as horrendous.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="bjof0-0-0"><div data-offset-key="bjof0-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bjof0-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="fhjo8-0-0"><div data-offset-key="fhjo8-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fhjo8-0-0"><span data-text="true">In northern \\Gaza\\, where the U.N. warns a famine is imminent, Wosornu said the Erez crossing had been closed since May 9 and the newly-opened Erez West crossing &quot;is now being used for limited quantities of aid, but now areas in the vicinity of this crossing are also under evacuation orders&quot; by Israel.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="41j3j-0-0"><div data-offset-key="41j3j-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="41j3j-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="9vnp2-0-0"><div data-offset-key="9vnp2-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9vnp2-0-0"><span data-text="true">U.S. PIER</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="bacjq-0-0"><div data-offset-key="bacjq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bacjq-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="fcl9j-0-0"><div data-offset-key="fcl9j-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fcl9j-0-0"><span data-text="true">Aid deliveries began arriving at a U.S.-built pier on Friday as Israel comes under growing global pressure to allow more supplies into the besieged coastal enclave. The U.N. agreed to assist in coordinating aid distribution from the floating pier, but has remained adamant that deliveries by land are the best way to combat the crisis.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="14qkc-0-0"><div data-offset-key="14qkc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="14qkc-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="b1gq6-0-0"><div data-offset-key="b1gq6-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="b1gq6-0-0"><span data-text="true">The U.N. said that 10 truckloads of food aid - transported from the pier site by U.N. contractors - were received on Friday at a World Food Programme warehouse in Deir El Balah in \\Gaza\\.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="ecf20-0-0"><div data-offset-key="ecf20-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ecf20-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="1r1bc-0-0"><div data-offset-key="1r1bc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1r1bc-0-0"><span data-text="true">But on Saturday, only five truckloads made it to the warehouse after 11 others were cleaned out by Palestinians during the journey through an area that a U.N. official said has been hard to access with humanitarian aid.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="5e28n-0-0"><div data-offset-key="5e28n-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5e28n-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="4h8ks-0-0"><div data-offset-key="4h8ks-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4h8ks-0-0"><span data-text="true">&quot;They&#x27;ve not seen trucks for a while,&quot; a U.N. official, speaking on condition of anonymity, told Reuters. &quot;They just basically mounted on the trucks and helped themselves to some of the food parcels.&quot;</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="clk5l-0-0"><div data-offset-key="clk5l-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="clk5l-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="fmeb4-0-0"><div data-offset-key="fmeb4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fmeb4-0-0"><span data-text="true">The U.N. did not receive any aid from the pier on Sunday or Monday. &quot;We need to make sure that the necessary security and logistical arrangements are in place before we proceed,&quot; said the U.N. official.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="4qtls-0-0"><div data-offset-key="4qtls-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4qtls-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="9tel2-0-0"><div data-offset-key="9tel2-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9tel2-0-0"><span data-text="true">Aid offloaded at the pier comes via a maritime corridor from Cyprus, where it is first inspected by Israel. The pier operation is estimated to cost $320 million and involve 1,000 U.S. service members.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="6h4fd-0-0"><div data-offset-key="6h4fd-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="6h4fd-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="90hho-0-0"><div data-offset-key="90hho-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="90hho-0-0"><span data-text="true">U.S. officials have said the pier would initially handle 90 trucks a day, but that number could go to 150 trucks. The U.N. has said at least 500 trucks a day are needed to enter \\Gaza\\.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="4f965-0-0"><div data-offset-key="4f965-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4f965-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="cq8rq-0-0"><div data-offset-key="cq8rq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cq8rq-0-0"><span data-text="true">The United Nations has also warned of a severe fuel shortage in \\Gaza\\.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="3g00r-0-0"><div data-offset-key="3g00r-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3g00r-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="dgbb6-0-0"><div data-offset-key="dgbb6-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dgbb6-0-0"><span data-text="true">Wosornu said 654,000 litres (172,769 gallons) of fuel had been delivered to \\Gaza\\ since May 6 - one quarter of the fuel allocations it had been receiving.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="7vto5-0-0"><div data-offset-key="7vto5-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7vto5-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="2s3i1-0-0"><div data-offset-key="2s3i1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2s3i1-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="ftrpe-0-0"><div data-offset-key="ftrpe-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ftrpe-0-0"><span data-text="true">The U.N. said that 10 truckloads of food aid - transported from the pier site by U.N. contractors - were received on Friday at a World Food Program warehouse in Deir El Balah in Gaza.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="1b07q-0-0"><div data-offset-key="1b07q-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1b07q-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="falnc-0-0"><div data-offset-key="falnc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="falnc-0-0"><span data-text="true">But on Saturday, only five truckloads made it to the warehouse after 11 others were cleaned out by Palestinians during the journey through an area that a U.N. official, speaking on condition of anonymity, said has been hard to access with humanitarian aid.</span></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="5mahp-0-0"><div data-offset-key="5mahp-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5mahp-0-0"><br data-text="true"/></span></div></div><div class="text_editor_paragraph ltr" data-block="true" data-editor="aodqr" data-offset-key="4h04f-0-0"><div data-offset-key="4h04f-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4h04f-0-0"><span data-text="true">The U.N. did not receive any aid from the pier on Sunday or Monday.</span></span></div></div></div></div></div></div></div></div></div><div tabindex="0" class="layoutItem taboola-Div" style="height:30px;width:740px;margin-bottom:20px"><span class="no-print"><div style="height:100%"><span><span id="ByPIR9KH6QR"><div id="taboola-below-article-thumbnails-wide-nd"></div></span><script>window.YITSiteWidgets.push(['ByPIR9KH6QR','TaboolaComponenta',{"mode":"thumbs-feed-01-b-nd","container":"taboola-below-article-thumbnails-wide-nd","placement":"Below Article Thumbnails Wide ND","target_type":"mix","isTabollaContainerOverwrite":true}]);</script></span></div></span></div><div tabindex="0" class="layoutItem Talkbacks-widget-eng-grid1280" style="width:740px;margin-bottom:20px"><span class="no-print"><span><span id="rJOUC9FB6X0"><div class="SiteArticleComments englishSite" id="SiteArticleComments"><div><div class="ArticleCommentsTopTabUI1280"><div class="tabTitle"><span class="tbIcon"></span><span>Comments</span></div><div class="tabPanel"><button class="newCommentBtn" title="new comment"><span>New comment</span></button></div></div></div><div class="mainFormWrapper"><div class="AddCommentFormUI1280 hide"><div class="AddCommentForm"><div class="AddCommentFormContainer"><div class="userDetailsInputs"><input class="userDetailsInput inputStyle" maxLength="20" value="" placeholder="name"/><input class="userDetailsInput inputStyle" maxLength="35" value="" placeholder="mail"/></div><div class="commentInputs"><input type="text" class="title inputStyle" maxLength="60" value="" placeholder="title"/><textarea class="comment inputStyle" type="text" maxLength="4000" placeholder="text"></textarea></div><div class="bottomPanel"><div class="bottomPanelRow"><div class="termsOfService">The commenter agrees to the privacy policy of Ynet News and agrees not to submit comments that violate the <a href="//www.ynetnews.com/articles/0,7340,L-3048342,00.html" target="_blank" title="terms of use" style="margin:auto 5px">terms of use</a>, including incitement, libel and expressions that exceed the accepted norms of freedom of speech.</div><button class="sendBtn" id="addCommentSendButton" title="send comment"><span>send comment</span></button></div></div></div></div></div></div><div class="commentsContainer"></div></div></span><script>window.YITSiteWidgets.push(['rJOUC9FB6X0','SiteArticleComments',{"articleId":"ryyyj5fma","lang":"en","isLtr":true,"isGptType":false,"displayType":"firma","isGrid1280":false,"version":1,"showFormWhenEmpty":true}]);</script></span></span></div><div tabindex="0" class="layoutItem Comments-facebook-widget" style="width:740px;margin-bottom:20px"><span class="no-print"><div class="ArticleFacebookComments"><div id="fb-root"></div><script type="text/javascript">(function (appid, lang) {
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = `//connect.facebook.net/${lang ? lang : "en_US"}/sdk.js#xfbml=1&version=v5.0&appId=${appid}`;
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        })(646875168792966, "en_US")</script><div id="articleComments" style="margin-bottom:10px"><div class="fb-comments" data-href="https://www.ynetnews.com/article/ryyyj5fma" data-numposts="5" data-width="100%"></div></div></div></span></div></div></div><div class="layoutContainer" style="position:relative;min-height:0;padding-bottom:0;width:1240px;margin:0 auto;box-sizing:border-box"><div tabindex="0" class="layoutItem Article Feed" style="position:relative;top:0;left:0;margin-bottom:0"><span class="no-print"><div style="height:100%"><div id="taboola-after-comment"></div></div></span></div></div></div><span><span id="B1tICctBpQA"></span><script>window.YITSiteWidgets.push(['B1tICctBpQA','SiteScrollToTopButton',{}]);</script></span><span><span id="SkcL05tSa7C"></span><script>window.YITSiteWidgets.push(['SkcL05tSa7C','SiteArticleImagesGallery',{"images":[{"url":"https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2024/05/21/HJx00bPoFQC/Reuters_2024_05_20T190920Z_722952335_RC24T7AAY7Q8_RTRMADP_799562.jpg","imageId":"ArticleImageData.r1ehODoYmC","publishedLink":"https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver5/crop_images/2024/05/21/HJx00bPoFQC/HJx00bPoFQC_0_0_3000_2137_0_xxx.jpg","originalId":"HJx00bPoFQC","x":0,"y":0,"width":3000,"height":2137,"rotate":0,"credit":"Photo: Ramadan Abed / Reuters","caption":"Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier ","alt":"Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier ","originalCaption":"Palestinians climb onto trucks to grab aid that was delivered into Gaza through a U.S.-built pier ","notes":"","editData":null,"editedImageUrl":"","fsError":0,"compositeType":null,"compositeTypeId":null},{"url":"https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2024/05/21/HJu11PotmC/Reuters_2024_05_16T104349Z_1892958278_RC2KD7A3IZ7N_RTRMADP705859.jpg","imageId":"ArticleImageData.rklLtDjF70","publishedLink":"https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver5/crop_images/2024/05/21/HJu11PotmC/HJu11PotmC_0_0_3000_2000_0_xxx.jpg","originalId":"HJu11PotmC","x":0,"y":0,"width":3000,"height":2000,"rotate":0,"credit":"File Photo: Mohamed Abd El Ghany / Reuters","caption":"Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip","alt":"Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip","originalCaption":"Trucks stand at the Rafah border crossing between Egypt and the Gaza Strip ","notes":"","editData":null,"editedImageUrl":"","fsError":0,"compositeType":null,"compositeTypeId":null}],"articleId":"ryyyj5fma","isLtr":true}]);</script></span><span><span id="rkjIC5traQA"><div class="tradingview-widget-container"> </div></span><script>window.YITSiteWidgets.push(['rkjIC5traQA','StockPopUp',{}]);</script></span></div></div></div>
+            <script>
+                var isAbroad = false;
+            </script>
+        
+<!--wcm pixel 7107 -->
+<style>
+.commertial-article, .commertial-article #ArticleHeaderComponent, .commertial-article #ArticleBodyComponent{background-color:rgb(245, 244, 244) ! important;}
+</style>
+
+<!--wcm pixel 11802 -->
+<script>
+(function(parent_divs) {
+	const new_div = document.createElement("div");
+  if(parent_divs[1]){
+	window._taboola = window._taboola || [];
+	new_div.setAttribute("id", "taboola-mid-oc-thumbnails");
+	parent_divs[1].parentNode.insertBefore(new_div, parent_divs[1].nextSibling);
+	_taboola.push({
+		mode: 'organic-thumbnails-oc',
+		container: 'taboola-mid-oc-thumbnails',
+		placement: 'mid OC thumbnails',
+		target_type: 'mix'
+	  });
+  }
+	
+})(document.querySelectorAll(".text_editor_paragraph"));
+</script>
+
+<!--wcm pixel 12522 -->
+<script>
+(function() {
+  /** CONFIGURATION START **/
+  var author = "ynetnews";
+  if (window.dcCG == "article") {
+   meta_author = document.querySelector("meta[property='vr:author']");
+   author = (meta_author) ? (meta_author.getAttribute("content") ? meta_author.getAttribute("content") : "ynetnews") : "ynetnews";
+  }
+  var section = (window.dcCG == "article" ? window.dataLayer[0].statistics_name : 
+  (window.dcCG == "home" ? "Central" : window.dataLayer[0].pageName.substring("1").split("/")[0])) || "Ynetnews";
+  var new_cat = section.charAt(0).toUpperCase();
+  var capitalize_cat = new_cat + section.slice(1);
+  var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+  _sf_async_config.uid = 20691;
+  _sf_async_config.domain = 'ynetnews.com'; //CHANGE THIS TO THE ROOT DOMAIN
+  _sf_async_config.flickerControl = false;
+  _sf_async_config.useCanonical = true;
+  _sf_async_config.useCanonicalDomain = true;
+  _sf_async_config.sections = capitalize_cat; // CHANGE THIS TO YOUR SECTION NAME(s)
+  _sf_async_config.authors = author; // CHANGE THIS TO YOUR AUTHOR NAME(s)
+  /** CONFIGURATION END **/
+  function loadChartbeat() {
+      var e = document.createElement('script');
+      var n = document.getElementsByTagName('script')[0];
+      e.type = 'text/javascript';
+      e.async = true;
+      e.src = '//static.chartbeat.com/js/chartbeat.js';
+      n.parentNode.insertBefore(e, n);
+  }
+  loadChartbeat();
+})();
+</script>
+
+<!--wcm pixel 11424 -->
+<style>
+.frontCopyButton {
+display: none;
+}
+</style>
+<!--wcm pixel 1072 -->
+<script>
+  let article_body = document.querySelector('.ArticleBodyComponent');
+  let div_trinity = document.createElement('div');
+  div_trinity.setAttribute('id', 'trinity_media_ai');
+  article_body.prepend(div_trinity);
+
+   let trinity_script = document.createElement('script');
+   trinity_script.setAttribute('type','text/javascript');
+   trinity_script.setAttribute('src',
+   'https://trinitymedia.ai/sas/player/trinity.php?sCampaignID=2900000632&playerType=sdp&GDPR=$$GDPR_MACRO$$&GDPR_CONSENT=$$GDPR_CONSENT_MACRO$$');
+   div_trinity.prepend(trinity_script);
+</script>
+<!--wcm pixel 8303 -->
+"<script type=""text/javascript"">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>"
+<!--wcm pixel 1075 -->
+ <style>body {overflow: unset;}</style>
+<!--wcm pixel 6402 -->
+<script src="https://cdn.browsiprod.com/bootstrap/bootstrap.js" id="browsi-tag" data-pubKey="ynet" data-siteKey="ynetnews" async></script>
+
+<!--wcm pixel 7025 -->
+<script>
+    document.addEventListener('userway:init_completed', function (event) {
+        var instance = event.detail.userWayInstance
+        instance.iconVisibilityOff()
+        window[`interdeal`] = { "a11y": { "openMenu": () => UserWay.widgetOpen() } }
+    });
+    (function (d) { var s = d.createElement("script"); s.setAttribute("data-account", "TMdH3tdGg3"); s.src="https://cdn.userway.org/widget.js";s.async = true; (d.body || d.head).appendChild(s); })(document)
+</script>
+<!--wcm pixel 7625 -->
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b4221a04f1fc40129a4e2c36bbacd6e0"}'></script><!-- End Cloudflare Web Analytics -->
+<!--wcm pixel 10742 -->
+<script>
+(function() {
+    let div_id = "";
+    let placement_id = "";
+    let mode_id = "";
+    if (document.querySelector(".PremiumArticleHeaderComponenta")) {
+        if (document.querySelector("#ynet_premium_blocked")) {
+            /* premium close article */
+            return;
+        }
+        /* premium open article */
+        div_id = "taboola-mobile-mid-article-plus";
+        placement_id = "Mid Article Plus";
+        mode_id = "alternating-thumbnails-e-new";
+    } else if (document.querySelector("#ArticleHeaderComponent")) {
+        /* not premium article */
+        div_id = 'taboola-mid-page-article-thumbnails-nd';
+        placement_id = "Mid Page Article Thumbnails ND";
+        mode_id = "alternating-thumbnails-abc";
+    } else {
+        return;
+    }
+    let parent_div = ''
+    let first_div_is_video = false
+    let first_div_is_image = false
+    let first_div_is_live = false
+    let parent_divs = document.querySelectorAll("div.ArticleImageComponenta, .VideoComponenta, .VideoLiveComponenta");
+    if (parent_divs[0]) {
+        if (parent_divs[0].className.indexOf("VideoComponenta") > -1) {
+            first_div_is_video = true
+        }
+	else if(parent_divs[0].className.indexOf("VideoLiveComponenta") > -1){
+		first_div_is_live = true
+		}
+ else if (parent_divs[0].className.indexOf("ArticleImageComponenta") > -1 && !parent_divs[0].querySelector(".ArticleLinkedImageComponenta") && !parent_divs[0].querySelector(".ArticleWrappedImageComponenta")) {
+            first_div_is_image = true
+        }
+    }
+ 
+    if (first_div_is_video || first_div_is_image || first_div_is_live ) {
+        parent_div = parent_divs[0]
+    }
+    if (parent_div) {
+        const new_div = document.createElement("div");
+        new_div.setAttribute("id", div_id);
+        parent_div.parentNode.insertBefore(new_div, parent_div.nextSibling);
+		if(new_div){
+			addingThirdparagraphVideo(new_div)
+			}
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: mode_id,
+            container: div_id,
+            placement: placement_id,
+            target_type: 'mix'
+        });
+    }
+})();
+
+    function addingThirdparagraphVideo(new_div) {
+        const element = new_div.parentNode;
+        const parent = element.parentNode;
+        const new_video_div = document.createElement("div");
+        new_video_div.setAttribute("id", "Taboola-inline-video");
+        const arrayOfDivs = Array.from(parent.children);
+        const firstIndex = Array.from(parent.children).indexOf(element);
+        const totalParag = arrayOfDivs.filter(item => item.classList.contains("text_editor_paragraph")).length;
+        const allparag = document.querySelectorAll(".text_editor_paragraph");
+        const paragAfterNewDiv = arrayOfDivs.slice(firstIndex).filter(item => item.classList.contains("text_editor_paragraph")).length;
+        const lastParag = allparag[allparag.length-1]
+        let textIndex = 0;
+        if (paragAfterNewDiv > 2) {
+            index = allparag.length - paragAfterNewDiv + 2;
+            allparag[index].appendChild(new_video_div);
+        }
+        else if (paragAfterNewDiv === 0){
+            parent.appendChild(new_video_div)
+        }
+        else{
+            lastParag.appendChild(new_video_div);
+        }
+    }
+</script>
+
+<!--wcm pixel 10682 -->
+<script>
+(function (parent_divs) {
+const parent_div = parent_divs[0];
+const new_iframe = document.createElement("iframe");
+new_iframe.src = "https://p.ynet.co.il/XRDbA68IN/";
+new_iframe.scrolling = "no";
+new_iframe.style.width = "100%";
+new_iframe.style.height = "150px";
+new_iframe.style.border = "none";
+parent_div.parentNode.insertBefore(new_iframe, parent_div.nextSibling);
+}
+)(document.querySelectorAll(".text_editor_paragraph"));
+</script>
+
+<!--wcm pixel 1681 -->
+<script>
+setTimeout(function() {
+    window.$(".mistakeText").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Redmail",
+            Action: "Report To Red Mail",
+            Label: window.articleId
+        });
+    });
+    window.$(".redMail, .redMailText").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Report Article Error",
+            Action: "Article Top",
+            Label: window.articleId
+        });
+    });
+    window.$(".tagName").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Tags",
+            Action: "Click on Tag",
+            Label: window.$(this).text()
+        });
+    });
+    window.$(".SiteArticleSocialShareNew1280 .shareIcon1280.tb").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Comments",
+            Action: "Add a Comment From - Article Page Top Menu",
+            Label: document.body.querySelector(".mainTitle").innerText
+        });
+    });
+    window.$(".SiteArticleContact .addNewComment").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Comments",
+            Action: "Add a Comment From - Article Page Bottom Menu",
+            Label: document.body.querySelector(".mainTitle").innerText
+        });
+    });
+    window.$(".ArticleComment1280 .topView .topLeftView .details .commentToComent").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Comments",
+            Action: "Add a Comment From - Another Comment",
+            Label: document.body.querySelector(".mainTitle").innerText
+        });
+    });
+    window.$(".ArticleImageGalleryShareButtons .fbBtn").on("click", function() 
+{
+            window.dataLayer.push({
+                event: "GA_Events",
+                Category: "Share",
+                Action: "Photo Gallery",
+                Label: "Facebook"
+            });
+        });
+        window.$(".ArticleImageGalleryShareButtons .twBtn").on("click", function() {
+            window.dataLayer.push({
+                event: "GA_Events",
+                Category: "Share",
+                Action: "Photo Gallery",
+                Label: "Tweeter"
+            });
+        });
+        window.$(".ArticleImageGalleryShareButtons .mlBtn").parent().on("click", function() {
+            window.dataLayer.push({
+                event: "GA_Events",
+                Category: "Share",
+                Action: "Photo Gallery",
+                Label: "Mail"
+            });
+        });
+        window.$(".flash, .flashText").parent().on("click", function() {
+            window.dataLayer.push({
+                event: "Navigation_Events",
+                Category: "Navigation Bar",
+                Action: "Header",
+                Label: "מבזקים"
+            });
+        });
+}, 3000);
+</script>
+<!--wcm pixel 5634 -->
+<script>
+setTimeout(function() {
+    window.$(".mainNav").on("click", "span", function() {
+        window.dataLayer.push({
+            event: "Navigation_Events",
+            Category: "Navigation Bar",
+            Action: "Header",
+            Label: window.$(this).text()
+        });
+    });
+    window.$(".linksGroups").on("click","span", function() {
+        window.dataLayer.push({
+            event: "Navigation_Events",
+            Category: "Side Menu",
+            Action: "Content",
+            Label: window.$(this).text()
+        });
+    });
+    
+}, 3000);
+</script>
+<!--wcm pixel 2021 -->
+<script>
+setTimeout(function() {
+    window.$(".promoLabel").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Ynet+ - Registration",
+            Action: "Registration Source",
+            Label: "Ynet - Header"
+        });
+    });
+    window.$(".promButton").on("click", function() {
+        window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Ynet+ - Registration",
+            Action: "Registration Source",
+            Label: "Ynet - Strip"
+        });
+    });
+}, 3000);
+</script>
+<!--wcm pixel 1701 -->
+<script>
+setTimeout(function() {
+    window.$(".shareIcon1280.print").on("click", function() {
+         window.dataLayer.push({
+            event: "GA_Events",
+            Category: "Print Article",
+            Action: "Article Top",
+            Label: window.articleId
+        });
+    });
+}, 3000);
+</script>
+<!--wcm pixel 1881 -->
+<script>
+setTimeout(function() {
+let options = {};
+let firstTime = true;
+let observer = new IntersectionObserver(
+    function handleTaboola(entries, observer) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting && firstTime) {
+                firstTime = false;
+                window.dataLayer.push({
+                    'taboolaFeedDisplay': '1',
+                    'event': 'taboola_event',
+                    'Category': 'Taboola',
+                    'Action': 'Endless Feed',
+                    'Label': 'Feed Displayed'
+                });
+                function pushVideo() {
+                    let video_container = document.querySelector('._cm-video-ad._cm-ad-feed-manager');
+                    if (video_container) {
+                        window.dataLayer.push({
+                            'taboolaFeedDisplay': '1',
+                            'event': 'taboola_event',
+                            'Category': 'Taboola',
+                            'Action': 'Endless Feed',
+                            'Label': 'Video Displayed'
+                        });
+                    }
+                }
+                setTimeout(pushVideo, 1000);
+            }
+        });
+    }, options);
+taboolaElementCategory = document.querySelector("#taboola-below-home-page-nd");
+taboolaElementArticle = document.querySelector("#taboola-below-article-thumbnails-wide-nd");
+if (taboolaElementCategory) {
+    observer.observe(taboolaElementCategory);
+} else if (taboolaElementArticle) {
+    observer.observe(taboolaElementArticle);
+}
+}, 1000);
+</script>
+<!--wcm pixel 9969 -->
+<script>
+(function () {
+        if (document.querySelector(".hContainer.yplus")) return;
+	window.addEventListener('DOMContentLoaded', function() {
+		window._taboola = window._taboola || [];
+		_taboola.push({flush: true});
+	});
+})();
+</script>
+
+<!--wcm pixel 9823 -->
+<script>
+_pageRefresher = {
+    c: {},
+    i: function() {
+        var a = this;
+        var stopFromLive = 1;
+        window.pageRefreshDisable = function(g) {
+            if (!g) {
+                var g = 'flashvideoplayer'
+            } else if (g == 'liveVideo') {
+                stopFromLive = 0;
+            }
+            a.c[g] = true;
+        };
+        if (stopFromLive == 1) {
+            window.pageRefreshEnable = function(g) {
+                if (!g)
+                    var g = 'flashvideoplayer';
+                a.c[g] = false;
+            };
+        }
+        a.t();
+    },
+    t: function() {
+        var subchannel_id = document.head.querySelector("[property~=sub-channel-ID][content]").content;
+        var refresh_time = 420000
+        if (document.querySelector(".articleContainer.yplus")) {
+            refresh_time = 7200000
+        } else if (document.querySelector(".articleContainer")) {
+            refresh_time = 900000
+        } else if (subchannel_id == '8') {
+            refresh_time = 840000
+        } else if (subchannel_id == '43113') {
+            refresh_time = 18000000
+        }
+        var a = this;
+        setTimeout(function() {
+            var o = false;
+            for (var g in a.c) {
+                if (a.c[g]) {
+                    o = true;
+                    break;
+                }
+            }
+            if (!o) {
+                window.location.reload();
+            }
+            a.t();
+        }, refresh_time);
+    }
+};
+_pageRefresher.i();
+</script>
+
+<!--wcm pixel 12122 -->
+<script id="ga4_ynetnews" src="https://ynet-pic1.yit.co.il/Common/Api/Scripts/GA4/ga4-ynetnews_31.3.24.js"></script><script>window.wcm_marketingArticle=false</script>
+</body>
+</html>

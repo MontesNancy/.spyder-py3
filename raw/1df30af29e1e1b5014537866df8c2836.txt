@@ -1,0 +1,2841 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="pl-PL">
+    <head id="ctl00_ctl00_ctl00_head1"><meta charset="utf-8" /><title>
+	European Investment Bank to invest &#8364;300 million in Poland&#39;s satellite program - English Section - polskieradio.pl
+</title><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" /><link rel="preconnect" href="https://ajax.googleapis.com" crossorigin="" /><link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="" /><link rel="dns-prefetch" href="//fonts.googleapis.com" /><link rel="dns-prefetch" href="//static.prsa.pl" /><link rel="dns-prefetch" href="//static.polskieradio.pl" /><link rel="dns-prefetch" href="//cdn.prsa.pl" /><link rel="dns-prefetch" href="//cdn.polskieradio.pl" /><link rel="dns-prefetch" href="//api.polskieradio.pl" /><link rel="dns-prefetch" href="//apipr.polskieradio.pl" /><link rel="dns-prefetch" href="//embed.polskieradio.pl" /><link rel="dns-prefetch" href="//stats.polskieradio.pl" /><link rel="dns-prefetch" href="//www.google-analytics.com" /><link rel="dns-prefetch" href="https://fonts.gstatic.com/" /><link rel="dns-prefetch" href="https://www.googletagmanager.com" /><link rel="dns-prefetch" href="https://ajax.googleapis.com" /><script>var config = {"debug":false,"ova":false,"device":"","cookiePlayer":"PR_PLAYER_NEW","cookieSong":"PR_PLAYER_TMP_NEW","fileserver":"//static.prsa.pl/","isEnabledPlayer":false,"streaming":true,"gfkContentId":"english-section_395","hitmapEnable":true,"hContrast":true,"advertising":{"section":"english-section","category":"national"},"categorization":"pozostale"};</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link href="//fonts.googleapis.com/css?family=Hammersmith+One&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700,900&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    
+        <link href="/style/responsive2/responsive.no-reload.bootstrap.min.css?v=1.0.8444.20177" rel="stylesheet" type="text/css" /> 
+        <link href="/style/responsive2/responsive.reload.min.css?v=1.0.8444.20177" rel="stylesheet" type="text/css" />
+        <link href="/style/responsive2/responsive.no-reload.min.css?v=1.0.8444.20177" rel="stylesheet" type="text/css" /> 
+         
+    
+<link type="text/css" href="//static.prsa.pl/App_Themes/_External/_style/Main.min.css?v=1.0.8444.20170" rel="stylesheet" media="All" />
+
+
+    
+
+
+    <!-- Google Optimize Anti-flicker snippet  -->
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-WC9S9PQ':true});</script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WC9S9PQ');</script>
+    <!-- End Google Tag Manager -->
+    <script src="//cdn.polskieradio.pl/jquery/compiled.min.js?v=1.0.8444.20177"></script>
+    
+        <script src="//www.polskieradio.pl/vastconfig/player.vast.js?v=1.0.8444.20177"></script>
+    
+    
+    <!-- (C)2000-2024 Gemius SA - gemiusPrism  / pp.polskieradio.pl2/Default section -->
+    <script type="text/javascript">
+        var pp_gemius_identifier = 'bV.r28_AAI4V_sTmH4vPNNWb76bZOI7_5H80oSKzXuP.R7';
+        
+        function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=Array.prototype.slice.call(arguments, 0);};};
+        (function(cmds) { var c; while(c = cmds.pop()) gemius_pending(c)})(['gemius_cmd', 'gemius_hit', 'gemius_event', 'gemius_init', 'pp_gemius_hit', 'pp_gemius_event', 'pp_gemius_init']);
+        window.pp_gemius_cmd = window.pp_gemius_cmd || window.gemius_cmd;
+        (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+        gt.setAttribute('defer','defer'); gt.src=l+'://gapl.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+    </script>
+
+    
+        <script src="//static.prsa.pl/scripts/responsive2/responsive.min.js?v=1.0.8444.20177"></script>
+    
+
+
+    <script src="//static.prsa.pl/scripts/jwplayer-7.12.8/jwplayer.js?v=1.0.8444.20177"></script>
+            
+        <meta name="robots" content="index, follow" />
+    
+    <link rel="stylesheet" href="/App_Themes/_External/_style/article_subpage/ArticleMain.min.css" type="text/css" />
+
+    
+     <!--[if lt IE 9]>
+      <script src="//static.prsa.pl/scripts/responsive/html5shiv.js?v=1.0.8444.20177"></script>
+      <script src="//static.prsa.pl/scripts/responsive/respond.min.js?v=1.0.8444.20177"></script>
+    <![endif]-->
+   
+    <meta property="og:title" content="European Investment Bank to invest &#8364;300 million in Poland&#39;s satellite program"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.polskieradio.pl/395/7784/artykul/3380924,european-investment-bank-to-invest-€300-million-in-polands-satellite-program"/>
+<meta property="og:site_name" content="PolskieRadio.pl"/>
+<meta property="og:description" content="The European Investment Bank (EIB) has committed to investing &#8364;300 million in Poland&#39;s satellite program, EIB President Nadia Calvi&#241;o announced."/>
+<meta property="og:image" content="https://static.prsa.pl/images/b7f27b9a-a9f4-40e3-a959-5fb6fd353e70.jpg"/>
+<meta property="twitter:card" content="summary_large_image"/>
+<meta property="twitter:site" content="@PolskieRadiopl1"/>
+<meta name="description" content="The&#32;European&#32;Investment&#32;Bank&#32;(EIB)&#32;has&#32;committed&#32;to&#32;investing&#32;&#8364;300&#32;million&#32;in&#32;Poland&#39;s&#32;satellite&#32;program,&#32;EIB&#32;President&#32;Nadia&#32;Calviño&#32;announced." /><link href="https://polskieradio.pl/395/7784/artykul/3380924,european-investment-bank-to-invest-&#8364;300-million-in-polands-satellite-program" rel="canonical" /></head>
+    
+<body id="ctl00_ctl00_ctl00_ContentPlaceHolder1_bodyCtrl" class="id7703&#32;ExternalArticle&#32;ArticleMasterModern&#32;polskieradio">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WC9S9PQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+
+
+<div id="ajax-wrap-body">
+    
+    <span id="categoryName" style="display:none;" data-category-name=" National"> National</span>
+<!-- <script defer src="/App_Themes/_External/Scripts/cookies/cookie-info-en.js"></script>
+
+    <script>
+        window.addEventListener('load', function() {
+            var rodoVisibleSpring = localStorage.getItem('rodoStoreExternalEng');
+    
+            if(!(rodoVisibleSpring  === "true")) {
+                var rodoModal = document.querySelector('.rodo-modal');
+                var closeBtn = document.querySelector('.rodo-modal__close');
+                var acceptBtn = document.querySelector('.rodo-modal__accept');
+                rodoModal.classList.add('rodo-modal_active');
+    
+                closeBtn.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    rodoModal.classList.remove('rodo-modal_active');
+                    localStorage.setItem('rodoStoreExternalEng', "true");
+                });
+                acceptBtn.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    rodoModal.classList.remove('rodo-modal_active');
+                    localStorage.setItem('rodoStoreExternalEng', "true");
+                });
+            }
+
+        });
+    
+    </script> -->
+
+<!-- one trust cookies tool -->
+<script
+  defer
+  src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+  type="text/javascript"
+  charset="UTF-8"
+  data-domain-script="862184ff-e0e1-47d2-9fb1-c74d168817fc"
+></script>
+<script type="text/javascript">
+  function OptanonWrapper() {}
+</script>
+
+<style>
+  .external-menu .prMobileFooter {
+    width: 96px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    height: 47px;
+    box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.21);
+  }
+
+  .external-menu .prMobileFooter svg {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 5px;
+  }
+
+  .external-menu .prMobileFooter a p {
+    margin: 0;
+    position: absolute;
+    bottom: 4px;
+    font-size: 10px;
+  }
+  .menu-pr-programs__link--prd:before {
+    background-color: #00a6e8 !important;
+  }
+  .menu-pr-programs__link--kierowcy:before {
+    background-color: rgb(243, 70, 63) !important;
+  }
+
+  /*podcasty*/
+  @media (min-width: 768px) {
+    #podcasty .menu-pr-programs__link {
+      background-color: #3a3a3a !important;
+    }
+    #podcasty:hover .menu-pr-programs__link {
+      background-color: transparent !important;
+    }
+    #podcasty .menu-pr-programs__link:before {
+      background-color: #e31936;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 991px) {
+    #extMenu .menu-pr-programs__link {
+      font-size: 10px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .podcasty-item {
+      margin-left: -15px !important;
+      margin-right: -15px !important;
+      margin-top: -1px !important;
+    }
+    .podcasty-item .list-item {
+      background-color: #3a3a3a !important;
+      padding-left: 15px;
+    }
+    .podcasty-item .item-title {
+      border-bottom: none;
+    }
+  }
+
+  @media (max-width: 1280px) {
+    .external-menu .container {
+      width: 100%;
+      padding: 0;
+    }
+  }
+
+  /* ukr flag */
+
+  #extMenu .menu-header .logo {
+    background: url("//static.prsa.pl/110ab231-e175-4699-90b5-d41a124ddfc4.file") !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    width: 228px !important;
+    height: 40px;
+  }
+
+  #prMobileMenu .mobile-menu-wrapper .logo-wrapper .logo {
+    background: url("//static.prsa.pl/110ab231-e175-4699-90b5-d41a124ddfc4.file") !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    width: auto;
+    height: 26px !important;
+  }
+</style>
+<!-- <div class="rodo-modal">
+    <div class="rodo-modal__content">
+        <div class="rodo-modal__logo-wrapper">
+            <div class="rodo-modal__logo-portal"></div>
+            <div class="rodo-modal__logo-radio"></div>
+            <div class="rodo-modal__close">X</div>
+        </div>
+        <div class="rodo-modal__info">
+            <div class="rodo-modal__title">
+                Dear User,
+            </div>
+            <div class="rodo-modal__description">
+                On May 25, 2018, Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 (General Data Protection Regulation) came into force. 
+We encourage you to familiarise yourself with information about the processing of personal data on the PolskieRadio.pl website.                
+            </div>
+        </div>
+        <div class="rodo-modal__rules">
+            <span>1.</span>The Data Administrator is Polish Radio S.A., based at 77/85 Niepodległości Ave., 00-977, Warsaw. <br>
+            <span>2.</span>On issues regarding your data, please contact the Data Protection Officer, e-mail: iod@polskieradio.pl, tel. 22 645 34 03.<br>
+            <span>3.</span>Personal data may be processed for marketing purposes based on consent.<br>
+            <span>4.</span>Personal data may be shared solely for the purpose of proper implementation of services defined in the privacy policy.<br>
+            <span>5.</span>Personal data will not be transferred outside the European Economic Area or to an international organisation.<br>
+            <span>6.</span>Personal data will be stored for 5 years after an account is deactivated, in accordance with the law.<br>
+            <span>7.</span>You have the right to access your personal data, correct it, to have it moved or deleted, or to limit its processing.<br>
+            <span>8.</span>You have the right to object to further processing, and in the case of voicing consent to the processing of personal data, you have the right to withdraw your consent. The exercise of the right to withdraw consent does not affect any processing that has already taken place.<br>
+            <span>9.</span>You have the right to lodge a complaint with the supervisory authority.<br>
+            <span>10.</span>Polish Radio S.A. declares that no automated decisions are made when personal data is processed, and that profiling is not used.<br>
+        </div>
+        <div class="rodo-modal__more">
+            For more information on this subject, please read our <a href="#" target="_blank">personal data</a> and <a href="#" target="_blank">privacy policy</a>.
+        </div>
+        <div class="rodo-modal__accept">I UNDERSTAND</div>
+    </div>
+</div> -->
+
+<div class="external-menu external-menu--eng">
+  <div id="prMobileMenuPane" class="box" data-idboxinstance="1100001">
+    <div class="mobile-pane-wrapper">
+      <i class="close-mobile-menu">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="white"
+        >
+          <path
+            d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+          />
+          <path d="M0 0h24v24H0z" fill="none" />
+        </svg>
+      </i>
+      <ul class="mobile-ul">
+        <li class="mobile-li">
+          <a href="https://radiokierowcow.pl/" class="list-item">
+            <div class="item-title">Kierowcy</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="//polskieradio24.pl" class="list-item">
+            <div class="item-title">wiadomości</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/7,Jedynka" class="list-item">
+            <div class="item-title">jedynka</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/8,Dwojka" class="list-item">
+            <div class="item-title">dwójka</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/9,Trojka" class="list-item">
+            <div class="item-title">trójka</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/10,Czworka" class="list-item">
+            <div class="item-title">czwórka</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="//polskieradio24.pl" class="list-item">
+            <div class="item-title">polskie radio 24</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/326" class="list-item">
+            <div class="item-title">Chopin</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/377" class="list-item">
+            <div class="item-title">RCKL</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="http://www.thenews.pl" class="list-item">
+            <div class="item-title">radio poland</div>
+          </a>
+        </li>
+
+        <li class="mobile-li">
+          <a href="/18,Dzieci" class="list-item">
+            <div class="item-title">polskie radio dzieciom</div>
+          </a>
+        </li>
+        <li class="mobile-li podcasty-item">
+          <a href="https://podcasty.polskieradio.pl/" class="list-item">
+            <div class="item-title">Podcasty</div>
+          </a>
+        </li>
+      </ul>
+      <ul class="mobile-ul">
+        <li class="mobile-li">
+          <a href="http://moje.polskieradio.pl" class="list-item">
+            <div class="item-title">kanały internetowe</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/219,Serwisy-Specjalne-Polskiego-Radia" class="list-item">
+            <div class="item-title">serwisy historyczne</div>
+          </a>
+        </li>
+      </ul>
+      <ul class="mobile-ul">
+        <li class="mobile-li">
+          <a href="/80,Reportaz" class="list-item">
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <path
+                  d="M17 20c-.29 0-.56-.06-.76-.15-.71-.37-1.21-.88-1.71-2.38-.51-1.56-1.47-2.29-2.39-3-.79-.61-1.61-1.24-2.32-2.53C9.29 10.98 9 9.93 9 9c0-2.8 2.2-5 5-5s5 2.2 5 5h2c0-3.93-3.07-7-7-7S7 5.07 7 9c0 1.26.38 2.65 1.07 3.9.91 1.65 1.98 2.48 2.85 3.15.81.62 1.39 1.07 1.71 2.05.6 1.82 1.37 2.84 2.73 3.55.51.23 1.07.35 1.64.35 2.21 0 4-1.79 4-4h-2c0 1.1-.9 2-2 2zM7.64 2.64L6.22 1.22C4.23 3.21 3 5.96 3 9s1.23 5.79 3.22 7.78l1.41-1.41C6.01 13.74 5 11.49 5 9s1.01-4.74 2.64-6.36zM11.5 9c0 1.38 1.12 2.5 2.5 2.5s2.5-1.12 2.5-2.5-1.12-2.5-2.5-2.5-2.5 1.12-2.5 2.5z"
+                ></path>
+                <path d="M0 0h24v24H0z" fill="none"></path>
+              </svg>
+            </div>
+            <div class="item-title">
+              studio reportażu<br />i dokumentu polskiego radia
+            </div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/357" class="list-item">
+            <div class="icon">
+              <i
+                class="theatre"
+                style="
+                  background: url('/style/responsive2/_img/theatre_icon.png')
+                    center center no-repeat;
+                  background-size: contain;
+                "
+              ></i>
+            </div>
+            <div class="item-title">teatr polskiego radia</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/79,Orkiestra-Polskiego-Radia-w-Warszawie" class="list-item">
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <path fill="none" d="M0 0h24v24H0z" />
+                <path
+                  d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"
+                />
+              </svg>
+            </div>
+            <div class="item-title">Orkiestra Polskiego Radia w Warszawie</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/211,Powiesci-na-antenie" class="list-item">
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <defs>
+                  <path id="a" d="M0 0h24v24H0V0z" />
+                </defs>
+                <clipPath id="b">
+                  <use xlink:href="#a" overflow="visible" />
+                </clipPath>
+                <path
+                  clip-path="url(#b)"
+                  d="M21 5c-1.11-.35-2.33-.5-3.5-.5-1.95 0-4.05.4-5.5 1.5-1.45-1.1-3.55-1.5-5.5-1.5S2.45 4.9 1 6v14.65c0 .25.25.5.5.5.1 0 .15-.05.25-.05C3.1 20.45 5.05 20 6.5 20c1.95 0 4.05.4 5.5 1.5 1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.3 4.75 1.05.1.05.15.05.25.05.25 0 .5-.25.5-.5V6c-.6-.45-1.25-.75-2-1zm0 13.5c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5V8c1.35-.85 3.8-1.5 5.5-1.5 1.2 0 2.4.15 3.5.5v11.5z"
+                />
+              </svg>
+            </div>
+            <div class="item-title">lektury do słuchania</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="https://polskieradio.pl/ramowka" class="list-item">
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <path d="M0 0h24v24H0z" fill="none" />
+                <path
+                  d="M17 10H7v2h10v-2zm2-7h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zm-5-5H7v2h7v-2z"
+                />
+              </svg>
+            </div>
+            <div class="item-title">ramówka</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a
+            href="http://www2.polskieradio.pl/czestotliwosci"
+            class="list-item"
+          >
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <path
+                  d="M4 10.5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5zm0-6c-.83 0-1.5.67-1.5 1.5S3.17 7.5 4 7.5 5.5 6.83 5.5 6 4.83 4.5 4 4.5zm0 12c-.83 0-1.5.68-1.5 1.5s.68 1.5 1.5 1.5 1.5-.68 1.5-1.5-.67-1.5-1.5-1.5zM7 19h14v-2H7v2zm0-6h14v-2H7v2zm0-8v2h14V5H7z"
+                />
+                <path fill="none" d="M0 0h24v24H0V0z" />
+              </svg>
+            </div>
+            <div class="item-title">częstotliwości</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="http://sklep.polskieradio.pl/" class="list-item">
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <path
+                  d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"
+                />
+                <path d="M0 0h24v24H0z" fill="none" />
+              </svg>
+            </div>
+            <div class="item-title">sklep</div>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/275,Szkolenia" class="list-item">
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <path d="M0 0h24v24H0z" fill="none" />
+                <path
+                  d="M12 12.25c1.24 0 2.25-1.01 2.25-2.25S13.24 7.75 12 7.75 9.75 8.76 9.75 10s1.01 2.25 2.25 2.25zm4.5 4c0-1.5-3-2.25-4.5-2.25s-4.5.75-4.5 2.25V17h9v-.75zM19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14z"
+                />
+              </svg>
+            </div>
+            <span class="item-title">szkolenia</span>
+          </a>
+        </li>
+        <li class="mobile-li">
+          <a href="/275/8869,Akademia" class="list-item">
+            <div class="icon">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="white"
+              >
+                <path d="M0 0h24v24H0z" fill="none" />
+                <path
+                  d="M12 12.25c1.24 0 2.25-1.01 2.25-2.25S13.24 7.75 12 7.75 9.75 8.76 9.75 10s1.01 2.25 2.25 2.25zm4.5 4c0-1.5-3-2.25-4.5-2.25s-4.5.75-4.5 2.25V17h9v-.75zM19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14z"
+                />
+              </svg>
+            </div>
+            <span class="item-title">Akademia Radiowa</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div id="extMobileMenu">
+    <div id="prMobileMenu" class="box" data-idboxinstance="1100003">
+      <div class="mobile-menu-wrapper">
+        <div id="btnMobileNav">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="white"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+          >
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z" />
+          </svg>
+        </div>
+        <div class="logo-wrapper">
+          <a
+            href="/"
+            class="logo"
+            style="
+              background: url('/style/responsive2/_img/radio-logo.png') center
+                center no-repeat;
+              background-size: contain;
+            "
+          ></a>
+        </div>
+        <a class="shop" href="http://sklep.polskieradio.pl/" target="_blank">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="white"
+            width="24"
+            height="24"
+          >
+            <path
+              d="M7 18a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM1 2v2h2l4 8-2 2v1l2 2h12v-2H7l1-2h8l1-1 4-7-1-1H5L4 2H1zm16 16a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"
+            />
+            <path d="M0 0h24v24H0z" fill="none" />
+          </svg>
+        </a>
+        <span class="submenu-ext-category__search">
+          <div
+            id="searchBarMobileExt"
+            class="box menu-search-bar"
+            data-idboxinstance="1100014"
+          >
+            <div class="search-wrapper">
+              <input
+                type="text"
+                id="globalsearchMobileExt"
+                name="search"
+                placeholder="Type in keywords"
+              />
+              <div class="button">
+                <span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="white"
+                    width="24"
+                    height="24"
+                  >
+                    <path
+                      d="M15.5 14h-.8l-.3-.3c1-1.1 1.6-2.6 1.6-4.2a6.5 6.5 0 1 0-2.3 5l.3.2v.8l5 5 1.5-1.5-5-5zm-6 0a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9z"
+                    />
+                    <path d="M0 0h24v24H0z" fill="none" />
+                  </svg>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item-select"
+            id="searchToggleMobileExt"
+            data-idboxinstance="1100012"
+            style="height: 100%"
+          >
+            <div class="btn-search-toggle">
+              <i class="open-icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="white"
+                  width="24"
+                  height="24"
+                >
+                  <path
+                    d="M15.5 14h-.8l-.3-.3c1-1.1 1.6-2.6 1.6-4.2a6.5 6.5 0 1 0-2.3 5l.3.2v.8l5 5 1.5-1.5-5-5zm-6 0a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9z"
+                  />
+                  <path d="M0 0h24v24H0z" fill="none" />
+                </svg>
+              </i>
+              <i class="close-icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="white"
+                >
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  ></path>
+                  <path d="M0 0h24v24H0z" fill="none"></path>
+                </svg>
+              </i>
+            </div>
+          </div>
+        </span>
+      </div>
+    </div>
+    <div class="menu-ext">
+      <div class="menu-ext__wrapper">
+        <a href="/395" class="menu-ext-logo">
+          <svg
+            id="prdz-logo-svg"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 404.5 148.3"
+            fill="white"
+          >
+            <style>
+              .st0 {
+                fill: #fcfcfc;
+              }
+
+              .st1 {
+                fill: #fff;
+              }
+            </style>
+            <path
+              class="st0"
+              d="M71.8 12.3a61.7 61.7 0 1 0 0 123.5 61.7 61.7 0 0 0 0-123.5zm0 114.3a52.5 52.5 0 1 1 0-105 52.5 52.5 0 0 1 0 105z"
+            ></path>
+            <path
+              class="st0"
+              d="M71.8 31.5a42.5 42.5 0 1 0 .1 85.1 42.5 42.5 0 0 0-.1-85.1zm0 76.1a33.5 33.5 0 1 1 0-67 33.5 33.5 0 0 1 0 67z"
+            ></path>
+            <path
+              class="st0"
+              d="M71.8 50.4a24.3 24.3 0 0 0-23.6 23.7c0 12.5 11.1 23.7 23.6 23.7s23.6-11.2 23.6-23.7a24.3 24.3 0 0 0-23.6-23.7zm0 38a14.3 14.3 0 1 1 0-28.6 14.3 14.3 0 0 1 0 28.6z"
+            ></path>
+            <path
+              class="st0"
+              d="M.9 3.2v141.7h141.7V3.2H.9zm132.4 132.4H10.2V12.5h123.1v123.1z"
+            ></path>
+            <path
+              class="st1"
+              d="M189.4 48.2v14.2h-7.9V25.3h10.8c5 0 8.8.9 11.2 2.8 2.4 1.8 3.6 4.6 3.6 8.4 0 2.2-.6 4.1-1.8 5.8-1.2 1.7-2.9 3-5.1 4l10.9 16.2h-8.7l-8.8-14.3h-4.2zm0-6.4h2.5a10 10 0 0 0 5.5-1.2c1.2-.8 1.8-2.1 1.8-3.9 0-1.8-.6-3-1.8-3.8-1.2-.7-3.1-1.1-5.6-1.1h-2.4v10zM245 62.4l-2.7-8.8h-13.5l-2.7 8.8h-8.5l13.1-37.2h9.6l13.2 37.2H245zM240.5 47l-4.2-13.6-.7-2.5-4.8 16.1h9.7zM291.3 43.5c0 6.1-1.7 10.8-5.2 14s-8.5 4.9-15.1 4.9h-10.5V25.3h11.7c6.1 0 10.8 1.6 14.1 4.8s5 7.7 5 13.4zm-8.1.2c0-8-3.5-12-10.6-12h-4.2v24.2h3.4c7.6 0 11.4-4 11.4-12.2zM300.3 62.4V25.3h7.9v37.1h-7.9zM351.5 43.8c0 6.1-1.5 10.9-4.6 14.2s-7.4 5-13.1 5-10.1-1.7-13.1-5-4.6-8-4.6-14.2 1.5-10.9 4.6-14.2 7.4-4.9 13.1-4.9 10.1 1.6 13.1 4.9c3.1 3.3 4.6 8.1 4.6 14.2zm-27.1 0c0 4.1.8 7.3 2.4 9.4s3.9 3.1 7.1 3.1c6.3 0 9.4-4.2 9.4-12.5 0-8.4-3.1-12.5-9.4-12.5a8.4 8.4 0 0 0-7.1 3.2 15.2 15.2 0 0 0-2.4 9.3zM207.1 96c0 4-1.2 7.1-3.7 9.2a16 16 0 0 1-10.7 3.2h-3.4v13.2h-7.8V84.5h11.9c4.5 0 7.9 1 10.3 2.9 2.3 1.9 3.4 4.8 3.4 8.6zm-17.7 5.9h2.6a9 9 0 0 0 5.4-1.4c1.2-1 1.8-2.3 1.8-4.2 0-1.8-.5-3.2-1.5-4.1s-2.6-1.3-4.7-1.3h-3.6v11zM249.1 102.9c0 6.1-1.5 10.9-4.6 14.2s-7.4 5-13.1 5-10.1-1.7-13.1-5-4.6-8-4.6-14.2 1.5-10.9 4.6-14.2c3.1-3.3 7.4-4.9 13.1-4.9s10.1 1.6 13.1 4.9c3.1 3.4 4.6 8.1 4.6 14.2zm-27.1 0c0 4.1.8 7.3 2.4 9.4 1.6 2.1 3.9 3.1 7.1 3.1 6.3 0 9.4-4.2 9.4-12.5 0-8.4-3.1-12.5-9.4-12.5a8.4 8.4 0 0 0-7.1 3.2 15.2 15.2 0 0 0-2.4 9.3zM257.1 121.6V84.5h7.9v30.6h15.1v6.5h-23zM314.7 121.6l-2.7-8.8h-13.5l-2.7 8.8h-8.5l13.1-37.3h9.6l13.2 37.3h-8.5zm-4.6-15.5l-4.2-13.6-.7-2.5-4.8 16.1h9.7zM364.1 121.6h-10L338 93.5h-.2l.5 10.6v17.5h-7V84.5h9.9l16.1 27.8h.2a175 175 0 0 1-.4-10.2V84.5h7.1v37.1h-.1zM403.5 102.6c0 6.1-1.7 10.8-5.2 14s-8.5 4.9-15.1 4.9h-10.5V84.4h11.7c6.1 0 10.8 1.6 14.1 4.8s5 7.7 5 13.4zm-8.2.2c0-8-3.5-12-10.6-12h-4.2V115h3.4c7.6.1 11.4-4 11.4-12.2z"
+            ></path>
+          </svg>
+        </a>
+        <div class="menu-ext-actions">
+          <div class="menu-ext-social">
+            <a
+              href="https://www.facebook.com/radiopoland"
+              target="_blank"
+              class="menu-ext-social__link"
+            >
+              <svg
+                version="1.1"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                x="0px"
+                y="0px"
+                viewBox="0 0 76.5 76.5"
+                fill="white"
+                style="enable-background: new 0 0 76.5 76.5"
+                xml:space="preserve"
+              >
+                <g>
+                  <path
+                    class="st0"
+                    d="M56.8,2.3l-9.3,0c-10.5,0-17.3,7-17.3,17.7v8.2h-9.4c-0.8,0-1.5,0.7-1.5,1.5v11.9c0,0.8,0.7,1.5,1.5,1.5h9.4
+																	 v29.9c0,0.8,0.7,1.5,1.5,1.5h12.3c0.8,0,1.5-0.7,1.5-1.5V43h11c0.8,0,1.5-0.7,1.5-1.5l0-11.9c0-0.4-0.2-0.8-0.4-1
+																	 c-0.3-0.3-0.6-0.4-1-0.4h-11v-6.9c0-3.3,0.8-5,5.1-5h6.3c0.8,0,1.5-0.7,1.5-1.5v-11C58.2,2.9,57.6,2.3,56.8,2.3L56.8,2.3z
+																		M56.8,2.3"
+                  />
+                </g>
+              </svg>
+            </a>
+            <a
+              href="https://twitter.com/thenews_PL"
+              target="_blank"
+              class="menu-ext-social__link"
+            >
+            <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.15 121.82">
+              <defs>
+                <style>
+                  .cls-1 {
+                    fill: #fff;
+                  }
+                </style>
+              </defs>
+              <g id="Layer_2-2" data-name="Layer 2">
+                <g id="layer1">
+                  <path id="path1009" class="cls-1" d="m.32,0l50.25,67.19L0,121.82h11.38l44.27-47.83,35.77,47.83h38.73l-53.08-70.97L124.14,0h-11.38l-40.77,44.05L39.05,0H.32Zm16.74,8.38h17.79l78.57,105.05h-17.79L17.05,8.38Z"/>
+                </g>
+              </g>
+            </svg>
+            </a>
+          </div>
+          <div class="menu-ext-redaction">
+            <div
+              class="menu-ext-redaction__item menu-ext-redaction__item--mobile"
+            >
+              <div class="menu-ext-redaction__link menu-ext-redaction__btn">
+                <div
+                  class="menu-ext-redaction__flag menu-ext-redaction__flag--en"
+                ></div>
+                <div
+                  class="menu-ext-redaction__name menu-ext-redaction__btn-main"
+                >
+                  English
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <ul class="menu-ext-redaction__mobile">
+        <li class="menu-ext-redaction__item menu-ext-redaction__item--decorate">
+          <a href="/399" class="menu-ext-redaction__link">
+            <div
+              class="menu-ext-redaction__flag menu-ext-redaction__flag--pl"
+            ></div>
+            <div class="menu-ext-redaction__name">Polska</div>
+          </a>
+        </li>
+        <li class="menu-ext-redaction__item menu-ext-redaction__item--decorate">
+          <a href="/396" class="menu-ext-redaction__link">
+            <div
+              class="menu-ext-redaction__flag menu-ext-redaction__flag--by"
+            ></div>
+            <div class="menu-ext-redaction__name">Беларуская</div>
+          </a>
+        </li>
+        <li class="menu-ext-redaction__item menu-ext-redaction__item--decorate">
+          <a href="/400" class="menu-ext-redaction__link">
+            <div
+              class="menu-ext-redaction__flag menu-ext-redaction__flag--de"
+            ></div>
+            <div class="menu-ext-redaction__name">Deutsch</div>
+          </a>
+        </li>
+        <li class="menu-ext-redaction__item menu-ext-redaction__item--decorate">
+          <a href="/397" class="menu-ext-redaction__link">
+            <div
+              class="menu-ext-redaction__flag menu-ext-redaction__flag--ru"
+            ></div>
+            <div class="menu-ext-redaction__name">Русская</div>
+          </a>
+        </li>
+        <li class="menu-ext-redaction__item menu-ext-redaction__item--decorate">
+          <a href="/398" class="menu-ext-redaction__link">
+            <div
+              class="menu-ext-redaction__flag menu-ext-redaction__flag--ua"
+            ></div>
+            <div class="menu-ext-redaction__name">Українська</div>
+          </a>
+        </li>
+        <li class="menu-ext-redaction__item menu-ext-redaction__item--decorate">
+          <a href="http://www.kolpolin.pl/7" class="menu-ext-redaction__link">
+            <div
+              class="menu-ext-redaction__flag menu-ext-redaction__flag--il"
+            ></div>
+            <div class="menu-ext-redaction__name">Hebrew</div>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="submenu-ext-category">
+      <div class="submenu-ext-category__wrapper">
+        <div class="submenu-ext-category__name"></div>
+        <div class="submenu-ext-category__btn">Category</div>
+      </div>
+      <ul class="submenu-more__mobile">
+        <li class="submenu-more__item">
+          <a href="/395/7784" class="submenu-more__link">National</a>
+        </li>
+        <li class="submenu-more__item">
+          <a href="/395/7785" class="submenu-more__link">Foreign Affairs</a>
+        </li>
+        <li class="submenu-more__item">
+          <a href="/395/7791" class="submenu-more__link">Culture</a>
+        </li>
+        <li class="submenu-more__item">
+          <a href="/395/7789" class="submenu-more__link">Society</a>
+        </li>
+        <li class="submenu-more__item">
+          <a href="/395/7786" class="submenu-more__link">Business</a>
+        </li>
+        <li class="submenu-more__item">
+          <a href="/395/7790" class="submenu-more__link">Sport</a>
+        </li>
+        <li class="submenu-more__item">
+          <a
+            href="https://polskieradio.pl/ramowka/antena/5"
+            class="submenu-more__link"
+            >Schedule</a
+          >
+        </li>
+        <li class="submenu-more__item">
+          <a
+            href="/395/7993/Artykul/2338069"
+            class="submenu-more__link submenu-more__link--main"
+            >How to Listen</a
+          >
+        </li>
+        <li class="submenu-more__item">
+          <a
+            href="/395/7787/Artykul/2338281"
+            class="submenu-more__link submenu-more__link--main"
+            >About Us</a
+          >
+        </li>
+        <li class="submenu-more__item">
+          <a
+            href="/395/7805"
+            class="submenu-more__link submenu-more__link--main"
+            >Contact Us</a
+          >
+        </li>
+        <li class="submenu-more__item">
+          <a
+            href="/395/7807"
+            class="submenu-more__link submenu-more__link--main"
+            >Podcast</a
+          >
+        </li>
+        <li class="submenu-more__item">
+          <a
+            href="/395/7808"
+            class="submenu-more__link submenu-more__link--main"
+            >RSS</a
+          >
+        </li>
+      </ul>
+    </div>
+    <div class="prMobileFooter">
+      <a
+        href=""
+        title="Launch the Polish Radio player"
+        class="listen play-popup"
+        data-station="-5"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="28"
+          height="28"
+          viewBox="0 0 24 24"
+        >
+          <path d="M0 0h24v24H0z" fill="none" />
+          <path
+            fill="white"
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"
+          />
+        </svg>
+        <p>Listen</p>
+      </a>
+    </div>
+  </div>
+  <div id="extMenu">
+    <div class="menu-header">
+      <div class="container">
+        <div class="logo-wrapper">
+          <a
+            href="/"
+            class="logo"
+            alt="Polskie Radio"
+            style="
+              background: url('/style/responsive2/_img/radio-logo.png') center
+                center no-repeat;
+              background-size: contain;
+            "
+          ></a>
+          <a href="/" class="title" alt="Polskie Radio"
+            >Portal Polskiego Radia SA</a
+          >
+          <div class="actions-wrapper">
+            <div class="item-select" data-idboxinstance="11000011">
+              <a
+                href=""
+                title="Uruchom player Polskiego Radia"
+                class="listen play-popup"
+                id="launch-player-3"
+                data-station="-5"
+              >
+                <span class="listen-ico">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="white"
+                    width="24"
+                    height="24"
+                  >
+                    <path
+                      d="M3 9v6h4l5 5V4L7 9H3zm14 3c0-2-2-3-3-4v8c1-1 3-2 3-4zm-3-9v2a7 7 0 0 1 0 14v2a9 9 0 0 0 0-18z"
+                    />
+                    <path d="M0 0h24v24H0z" fill="none" />
+                  </svg>
+                </span>
+                <span>Słuchaj</span>
+              </a>
+            </div>
+            <div class="item-select" data-idboxinstance="1100016">
+              <a
+                href="http://sklep.polskieradio.pl/"
+                class="item-name"
+                target="_blank"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="white"
+                  width="24"
+                  height="24"
+                >
+                  <path
+                    d="M7 18a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM1 2v2h2l4 8-2 2v1l2 2h12v-2H7l1-2h8l1-1 4-7-1-1H5L4 2H1zm16 16a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"
+                  />
+                  <path d="M0 0h24v24H0z" fill="none" />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="menu-pr-programs__wrapper">
+      <div class="container">
+        <ul class="menu-pr-programs">
+          <li class="menu-pr-programs__item">
+            <a
+              href="https://radiokierowcow.pl/"
+              class="menu-pr-programs__link menu-pr-programs__link--kierowcy"
+              >Kierowcy</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="/7,Jedynka"
+              class="menu-pr-programs__link menu-pr-programs__link--jedynka"
+              >jedynka</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="/8,Dwojka"
+              class="menu-pr-programs__link menu-pr-programs__link--dwojka"
+              >dwójka</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="/9,Trojka"
+              class="menu-pr-programs__link menu-pr-programs__link--trojka"
+              >trójka</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="/10,Czworka"
+              class="menu-pr-programs__link menu-pr-programs__link--czworka"
+              >czwórka</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="//polskieradio24.pl"
+              class="menu-pr-programs__link menu-pr-programs__link--pr24"
+              >polskie radio 24</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="/326"
+              class="menu-pr-programs__link menu-pr-programs__link--chopin"
+              >Chopin</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="/377"
+              class="menu-pr-programs__link menu-pr-programs__link--rckl"
+              >RCKL</a
+            >
+          </li>
+          <li class="menu-pr-programs__item">
+            <a
+              href="/18,Dzieci"
+              class="menu-pr-programs__link menu-pr-programs__link--prd"
+              >Dzieci</a
+            >
+          </li>
+          <li class="menu-pr-programs__item" id="podcasty">
+            <a
+              href="https://podcasty.polskieradio.pl/"
+              class="menu-pr-programs__link"
+              >Podcasty</a
+            >
+          </li>
+          <li id="moreMedia" class="box" data-idboxinstance="1100010">
+            <div class="item-name">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="#fff"
+              >
+                <path d="M0 0h24v24H0z" fill="none" />
+                <path
+                  d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+                />
+              </svg>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="menu-ext">
+      <div class="container">
+        <div class="menu-ext__wrapper">
+          <div class="submenu-ext__wrapper">
+            <ul class="submenu-ext-category">
+              <li class="submenu-ext-category__item">
+                <a href="/395" class="menu-ext-logo">
+                  <svg
+                    id="prdz-logo-svg"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 404.5 148.3"
+                    fill="white"
+                  >
+                    <style>
+                      .st0 {
+                        fill: #fcfcfc;
+                      }
+
+                      .st1 {
+                        fill: #fff;
+                      }
+                    </style>
+                    <path
+                      class="st0"
+                      d="M71.8 12.3a61.7 61.7 0 1 0 0 123.5 61.7 61.7 0 0 0 0-123.5zm0 114.3a52.5 52.5 0 1 1 0-105 52.5 52.5 0 0 1 0 105z"
+                    ></path>
+                    <path
+                      class="st0"
+                      d="M71.8 31.5a42.5 42.5 0 1 0 .1 85.1 42.5 42.5 0 0 0-.1-85.1zm0 76.1a33.5 33.5 0 1 1 0-67 33.5 33.5 0 0 1 0 67z"
+                    ></path>
+                    <path
+                      class="st0"
+                      d="M71.8 50.4a24.3 24.3 0 0 0-23.6 23.7c0 12.5 11.1 23.7 23.6 23.7s23.6-11.2 23.6-23.7a24.3 24.3 0 0 0-23.6-23.7zm0 38a14.3 14.3 0 1 1 0-28.6 14.3 14.3 0 0 1 0 28.6z"
+                    ></path>
+                    <path
+                      class="st0"
+                      d="M.9 3.2v141.7h141.7V3.2H.9zm132.4 132.4H10.2V12.5h123.1v123.1z"
+                    ></path>
+                    <path
+                      class="st1"
+                      d="M189.4 48.2v14.2h-7.9V25.3h10.8c5 0 8.8.9 11.2 2.8 2.4 1.8 3.6 4.6 3.6 8.4 0 2.2-.6 4.1-1.8 5.8-1.2 1.7-2.9 3-5.1 4l10.9 16.2h-8.7l-8.8-14.3h-4.2zm0-6.4h2.5a10 10 0 0 0 5.5-1.2c1.2-.8 1.8-2.1 1.8-3.9 0-1.8-.6-3-1.8-3.8-1.2-.7-3.1-1.1-5.6-1.1h-2.4v10zM245 62.4l-2.7-8.8h-13.5l-2.7 8.8h-8.5l13.1-37.2h9.6l13.2 37.2H245zM240.5 47l-4.2-13.6-.7-2.5-4.8 16.1h9.7zM291.3 43.5c0 6.1-1.7 10.8-5.2 14s-8.5 4.9-15.1 4.9h-10.5V25.3h11.7c6.1 0 10.8 1.6 14.1 4.8s5 7.7 5 13.4zm-8.1.2c0-8-3.5-12-10.6-12h-4.2v24.2h3.4c7.6 0 11.4-4 11.4-12.2zM300.3 62.4V25.3h7.9v37.1h-7.9zM351.5 43.8c0 6.1-1.5 10.9-4.6 14.2s-7.4 5-13.1 5-10.1-1.7-13.1-5-4.6-8-4.6-14.2 1.5-10.9 4.6-14.2 7.4-4.9 13.1-4.9 10.1 1.6 13.1 4.9c3.1 3.3 4.6 8.1 4.6 14.2zm-27.1 0c0 4.1.8 7.3 2.4 9.4s3.9 3.1 7.1 3.1c6.3 0 9.4-4.2 9.4-12.5 0-8.4-3.1-12.5-9.4-12.5a8.4 8.4 0 0 0-7.1 3.2 15.2 15.2 0 0 0-2.4 9.3zM207.1 96c0 4-1.2 7.1-3.7 9.2a16 16 0 0 1-10.7 3.2h-3.4v13.2h-7.8V84.5h11.9c4.5 0 7.9 1 10.3 2.9 2.3 1.9 3.4 4.8 3.4 8.6zm-17.7 5.9h2.6a9 9 0 0 0 5.4-1.4c1.2-1 1.8-2.3 1.8-4.2 0-1.8-.5-3.2-1.5-4.1s-2.6-1.3-4.7-1.3h-3.6v11zM249.1 102.9c0 6.1-1.5 10.9-4.6 14.2s-7.4 5-13.1 5-10.1-1.7-13.1-5-4.6-8-4.6-14.2 1.5-10.9 4.6-14.2c3.1-3.3 7.4-4.9 13.1-4.9s10.1 1.6 13.1 4.9c3.1 3.4 4.6 8.1 4.6 14.2zm-27.1 0c0 4.1.8 7.3 2.4 9.4 1.6 2.1 3.9 3.1 7.1 3.1 6.3 0 9.4-4.2 9.4-12.5 0-8.4-3.1-12.5-9.4-12.5a8.4 8.4 0 0 0-7.1 3.2 15.2 15.2 0 0 0-2.4 9.3zM257.1 121.6V84.5h7.9v30.6h15.1v6.5h-23zM314.7 121.6l-2.7-8.8h-13.5l-2.7 8.8h-8.5l13.1-37.3h9.6l13.2 37.3h-8.5zm-4.6-15.5l-4.2-13.6-.7-2.5-4.8 16.1h9.7zM364.1 121.6h-10L338 93.5h-.2l.5 10.6v17.5h-7V84.5h9.9l16.1 27.8h.2a175 175 0 0 1-.4-10.2V84.5h7.1v37.1h-.1zM403.5 102.6c0 6.1-1.7 10.8-5.2 14s-8.5 4.9-15.1 4.9h-10.5V84.4h11.7c6.1 0 10.8 1.6 14.1 4.8s5 7.7 5 13.4zm-8.2.2c0-8-3.5-12-10.6-12h-4.2V115h3.4c7.6.1 11.4-4 11.4-12.2z"
+                    ></path>
+                  </svg>
+                </a>
+              </li>
+              <li class="submenu-ext-category__item">
+                <a
+                  href="/395"
+                  class="submenu-ext-category__link submenu-ext-category__link--hp"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="white"
+                    width="24"
+                    height="24"
+                  >
+                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+                    <path d="M0 0h24v24H0z" fill="none" />
+                  </svg>
+                </a>
+              </li>
+              <li class="submenu-ext-category__item">
+                <a href="#" class="submenu-ext-category__link">Category</a>
+                <div class="submenu-more">
+                  <div class="container">
+                    <ul class="submenu-more__list">
+                      <li class="submenu-more__item">
+                        <a href="/395/7784" class="submenu-more__link"
+                          >National</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a href="/395/7785" class="submenu-more__link"
+                          >Foreign Affairs</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a href="/395/7791" class="submenu-more__link"
+                          >Culture</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a href="/395/7789" class="submenu-more__link"
+                          >Society</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a href="/395/7786" class="submenu-more__link"
+                          >Business</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a href="/395/7790" class="submenu-more__link">Sport</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+
+              <li
+                class="submenu-ext-category__item submenu-ext-category__actions--item submenu-ext-category__item"
+              >
+                <div
+                  class="submenu-ext-category__link submenu-ext-category__actions--expand-menu"
+                >
+                  <span class="submenu-ext-category__actions--ico">
+                    <svg
+                      version="1.1"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 19.5 4.6"
+                      fill="white"
+                      width="22px"
+                      height="22px"
+                    >
+                      <circle class="st1" cx="2.3" cy="2.3" r="2" />
+                      <circle class="st1" cx="9.8" cy="2.3" r="2" />
+                      <circle class="st1" cx="17.3" cy="2.3" r="2" />
+                    </svg>
+                  </span>
+                </div>
+                <div class="submenu-more">
+                  <div class="container">
+                    <ul class="submenu-more__list">
+                      <li class="submenu-more__item">
+                        <a
+                          href="https://polskieradio.pl/ramowka/antena/5"
+                          class="submenu-more__link"
+                          >Schedule</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a
+                          href="/395/7993/Artykul/2338069"
+                          class="submenu-more__link"
+                          >How to listen</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a
+                          href="/395/7787/Artykul/2338281"
+                          class="submenu-more__link"
+                          >About Us</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a href="/395/7807" class="submenu-more__link"
+                          >Podcast</a
+                        >
+                      </li>
+                      <li class="submenu-more__item">
+                        <a href="/395/7808" class="submenu-more__link">RSS</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li
+                class="submenu-ext-category__item submenu-ext-category__actions--item"
+              >
+                <a
+                  href="/395/7805"
+                  class="submenu-ext-category__link submenu-ext-category__actions--link"
+                >
+                  <span class="submenu-ext-category__actions--ico">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="white"
+                      width="22"
+                      height="22"
+                    >
+                      <path
+                        d="M20 4H4L2 6v12l2 2h16l2-2V6l-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"
+                      />
+                      <path d="M0 0h24v24H0z" fill="none" />
+                    </svg>
+                  </span>
+                </a>
+              </li>
+              <li
+                class="submenu-ext-category__item submenu-ext-category__search"
+              >
+                <div
+                  id="searchBarExt"
+                  class="box menu-search-bar"
+                  data-idboxinstance="1100014"
+                >
+                  <div class="search-wrapper">
+                    <input
+                      type="text"
+                      id="globalsearchExt"
+                      name="search"
+                      placeholder="Type in keywords"
+                    />
+                    <div class="button">
+                      <span>
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          fill="white"
+                          width="24"
+                          height="24"
+                        >
+                          <path
+                            d="M15.5 14h-.8l-.3-.3c1-1.1 1.6-2.6 1.6-4.2a6.5 6.5 0 1 0-2.3 5l.3.2v.8l5 5 1.5-1.5-5-5zm-6 0a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9z"
+                          />
+                          <path d="M0 0h24v24H0z" fill="none" />
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="item-select"
+                  id="searchToggleExt"
+                  data-idboxinstance="1100012"
+                  style="height: 100%"
+                >
+                  <div
+                    class="submenu-ext-category__actions--link btn-search-toggle"
+                  >
+                    <i class="open-icon">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="white"
+                        width="24"
+                        height="24"
+                      >
+                        <path
+                          d="M15.5 14h-.8l-.3-.3c1-1.1 1.6-2.6 1.6-4.2a6.5 6.5 0 1 0-2.3 5l.3.2v.8l5 5 1.5-1.5-5-5zm-6 0a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9z"
+                        />
+                        <path d="M0 0h24v24H0z" fill="none" />
+                      </svg>
+                    </i>
+                    <i class="close-icon">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="white"
+                      >
+                        <path
+                          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                        ></path>
+                        <path d="M0 0h24v24H0z" fill="none"></path>
+                      </svg>
+                    </i>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div class="submenu-ext__wrapper">
+            <div class="menu-ext-social">
+              <a
+                href="https://www.facebook.com/radiopoland"
+                target="_blank"
+                class="menu-ext-social__link"
+              >
+                <svg
+                  version="1.1"
+                  xmlns="http://www.w3.org/2000/svg"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  x="0px"
+                  y="0px"
+                  viewBox="0 0 76.5 76.5"
+                  fill="white"
+                  style="enable-background: new 0 0 76.5 76.5"
+                  xml:space="preserve"
+                >
+                  <g>
+                    <path
+                      class="st0"
+                      d="M56.8,2.3l-9.3,0c-10.5,0-17.3,7-17.3,17.7v8.2h-9.4c-0.8,0-1.5,0.7-1.5,1.5v11.9c0,0.8,0.7,1.5,1.5,1.5h9.4
+																	 v29.9c0,0.8,0.7,1.5,1.5,1.5h12.3c0.8,0,1.5-0.7,1.5-1.5V43h11c0.8,0,1.5-0.7,1.5-1.5l0-11.9c0-0.4-0.2-0.8-0.4-1
+																	 c-0.3-0.3-0.6-0.4-1-0.4h-11v-6.9c0-3.3,0.8-5,5.1-5h6.3c0.8,0,1.5-0.7,1.5-1.5v-11C58.2,2.9,57.6,2.3,56.8,2.3L56.8,2.3z
+																		M56.8,2.3"
+                    />
+                  </g>
+                </svg>
+              </a>
+              <a
+                href="https://twitter.com/thenews_PL"
+                target="_blank"
+                class="menu-ext-social__link"
+              >
+              <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.15 121.82">
+                <defs>
+                  <style>
+                    .cls-1 {
+                      fill: #fff;
+                    }
+                  </style>
+                </defs>
+                <g id="Layer_2-2" data-name="Layer 2">
+                  <g id="layer1">
+                    <path id="path1009" class="cls-1" d="m.32,0l50.25,67.19L0,121.82h11.38l44.27-47.83,35.77,47.83h38.73l-53.08-70.97L124.14,0h-11.38l-40.77,44.05L39.05,0H.32Zm16.74,8.38h17.79l78.57,105.05h-17.79L17.05,8.38Z"/>
+                  </g>
+                </g>
+              </svg>
+              </a>
+            </div>
+            <ul class="submenu-ext-category submenu-ext-category--flags">
+              <li class="submenu-ext-category__item">
+                <span class="submenu-ext-category__link"
+                  >Language Sections:</span
+                >
+              </li>
+              <li class="submenu-ext-category__item">
+                <ul class="menu-ext-redaction">
+                  <li class="menu-ext-redaction__item">
+                    <a href="/395" class="menu-ext-redaction__link">
+                      <div
+                        class="menu-ext-redaction__flag menu-ext-redaction__flag--en"
+                      ></div>
+                      <div class="menu-ext-redaction__name">English</div>
+                    </a>
+                    <div class="menu-ext-redaction__expand-btn">
+                      <svg
+                        id="menu-expand-svg"
+                        version="1.1"
+                        xmlns="http://www.w3.org/2000/svg"
+                        x="0px"
+                        y="0px"
+                        viewBox="0 0 14 8"
+                        style="enable-background: new 0 0 14 8"
+                        xml:space="preserve"
+                        width="16px"
+                        height="10px"
+                      >
+                        <polyline class="st1" points="0.5,0.5 7,7 13.5,0.5 	" />
+                      </svg>
+                    </div>
+                  </li>
+                  <div class="menu-ext-redaction__collapse-menu">
+                    <li class="menu-ext-redaction__item">
+                      <a href="/399" class="menu-ext-redaction__link">
+                        <div
+                          class="menu-ext-redaction__flag menu-ext-redaction__flag--pl"
+                        ></div>
+                        <div class="menu-ext-redaction__name">Polska</div>
+                      </a>
+                    </li>
+                    <li class="menu-ext-redaction__item">
+                      <a href="/396" class="menu-ext-redaction__link">
+                        <div
+                          class="menu-ext-redaction__flag menu-ext-redaction__flag--by"
+                        ></div>
+                        <div class="menu-ext-redaction__name">Беларуская</div>
+                      </a>
+                    </li>
+                    <li class="menu-ext-redaction__item">
+                      <a href="/400" class="menu-ext-redaction__link">
+                        <div
+                          class="menu-ext-redaction__flag menu-ext-redaction__flag--de"
+                        ></div>
+                        <div class="menu-ext-redaction__name">Deutsch</div>
+                      </a>
+                    </li>
+                    <li class="menu-ext-redaction__item">
+                      <a href="/397" class="menu-ext-redaction__link">
+                        <div
+                          class="menu-ext-redaction__flag menu-ext-redaction__flag--ru"
+                        ></div>
+                        <div class="menu-ext-redaction__name">Русская</div>
+                      </a>
+                    </li>
+                    <li class="menu-ext-redaction__item">
+                      <a href="/398" class="menu-ext-redaction__link">
+                        <div
+                          class="menu-ext-redaction__flag menu-ext-redaction__flag--ua"
+                        ></div>
+                        <div class="menu-ext-redaction__name">Українська</div>
+                      </a>
+                    </li>
+                    <li class="menu-ext-redaction__item">
+                      <a
+                        href="http://www.kolpolin.pl/7"
+                        class="menu-ext-redaction__link"
+                      >
+                        <div
+                          class="menu-ext-redaction__flag menu-ext-redaction__flag--il"
+                        ></div>
+                        <div class="menu-ext-redaction__name">Hebrew</div>
+                      </a>
+                    </li>
+                  </div>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="moreMediaMenu" class="box" data-idboxinstance="1100013">
+      <div class="pr-container">
+        <div class="pr-row">
+          <div class="pr-col-ld-8 pr-col-md-12">
+            <div class="pr-row">
+              <div class="pr-col-ld-4 center-content">
+                <div class="column-content">
+                  <ul class="first-list">
+                    <li>
+                      <a href="http://moje.polskieradio.pl"
+                        >kanały internetowe</a
+                      >
+                    </li>
+                    <li>
+                      <a href="/219,Serwisy-Specjalne-Polskiego-Radia"
+                        >serwisy historyczne</a
+                      >
+                    </li>
+                  </ul>
+                  <hr class="clearfix" />
+                </div>
+              </div>
+              <div class="pr-col-ld-4 center-content">
+                <div class="column-content">
+                  <ul>
+                    <li>
+                      <a href="https://polskieradio.pl/ramowka">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <path d="M0 0h24v24H0z" fill="none"></path>
+                          <path
+                            d="M17 10H7v2h10v-2zm2-7h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zm-5-5H7v2h7v-2z"
+                          ></path>
+                        </svg>
+                        <span>ramówka</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://www2.polskieradio.pl/czestotliwosci/">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <path
+                            d="M4 10.5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5zm0-6c-.83 0-1.5.67-1.5 1.5S3.17 7.5 4 7.5 5.5 6.83 5.5 6 4.83 4.5 4 4.5zm0 12c-.83 0-1.5.68-1.5 1.5s.68 1.5 1.5 1.5 1.5-.68 1.5-1.5-.67-1.5-1.5-1.5zM7 19h14v-2H7v2zm0-6h14v-2H7v2zm0-8v2h14V5H7z"
+                          ></path>
+                          <path fill="none" d="M0 0h24v24H0V0z"></path>
+                        </svg>
+                        <span>częstotliwości</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://sklep.polskieradio.pl/">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <path
+                            d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"
+                          ></path>
+                          <path d="M0 0h24v24H0z" fill="none"></path>
+                        </svg>
+                        <span>sklep</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/275,Szkolenia">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <path d="M0 0h24v24H0z" fill="none"></path>
+                          <path
+                            d="M12 12.25c1.24 0 2.25-1.01 2.25-2.25S13.24 7.75 12 7.75 9.75 8.76 9.75 10s1.01 2.25 2.25 2.25zm4.5 4c0-1.5-3-2.25-4.5-2.25s-4.5.75-4.5 2.25V17h9v-.75zM19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14z"
+                          ></path>
+                        </svg>
+                        <span>szkolenia</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/275/8869,Akademia">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <path d="M0 0h24v24H0z" fill="none"></path>
+                          <path
+                            d="M12 12.25c1.24 0 2.25-1.01 2.25-2.25S13.24 7.75 12 7.75 9.75 8.76 9.75 10s1.01 2.25 2.25 2.25zm4.5 4c0-1.5-3-2.25-4.5-2.25s-4.5.75-4.5 2.25V17h9v-.75zM19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14z"
+                          ></path>
+                        </svg>
+                        <span>Akademia Radiowa</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="pr-col-ld-4 center-content">
+                <div class="column-content">
+                  <ul>
+                    <li>
+                      <a href="/80,Reportaz">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <path
+                            d="M17 20c-.29 0-.56-.06-.76-.15-.71-.37-1.21-.88-1.71-2.38-.51-1.56-1.47-2.29-2.39-3-.79-.61-1.61-1.24-2.32-2.53C9.29 10.98 9 9.93 9 9c0-2.8 2.2-5 5-5s5 2.2 5 5h2c0-3.93-3.07-7-7-7S7 5.07 7 9c0 1.26.38 2.65 1.07 3.9.91 1.65 1.98 2.48 2.85 3.15.81.62 1.39 1.07 1.71 2.05.6 1.82 1.37 2.84 2.73 3.55.51.23 1.07.35 1.64.35 2.21 0 4-1.79 4-4h-2c0 1.1-.9 2-2 2zM7.64 2.64L6.22 1.22C4.23 3.21 3 5.96 3 9s1.23 5.79 3.22 7.78l1.41-1.41C6.01 13.74 5 11.49 5 9s1.01-4.74 2.64-6.36zM11.5 9c0 1.38 1.12 2.5 2.5 2.5s2.5-1.12 2.5-2.5-1.12-2.5-2.5-2.5-2.5 1.12-2.5 2.5z"
+                          ></path>
+                          <path d="M0 0h24v24H0z" fill="none"></path>
+                        </svg>
+                        <span
+                          >studio reportażu<br />i dokumentu polskiego
+                          radia</span
+                        >
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/357">
+                        <i
+                          class="theatre"
+                          style="
+                            background: url('/style/responsive2/_img/theatre_icon.png')
+                              center center no-repeat;
+                            background-size: cover;
+                          "
+                        ></i>
+                        <span>teatr polskiego radia</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/79,Orkiestra-Polskiego-Radia-w-Warszawie">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <path fill="none" d="M0 0h24v24H0z"></path>
+                          <path
+                            d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"
+                          ></path>
+                        </svg>
+                        <span>Orkiestra Polskiego Radia w Warszawie</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/211,Powiesci-na-antenie">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          xmlns:xlink="http://www.w3.org/1999/xlink"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="white"
+                        >
+                          <defs><path id="a" d="M0 0h24v24H0V0z"></path></defs>
+                          <clipPath id="b">
+                            <use xlink:href="#a" overflow="visible"></use>
+                          </clipPath>
+                          <path
+                            clip-path="url(#b)"
+                            d="M21 5c-1.11-.35-2.33-.5-3.5-.5-1.95 0-4.05.4-5.5 1.5-1.45-1.1-3.55-1.5-5.5-1.5S2.45 4.9 1 6v14.65c0 .25.25.5.5.5.1 0 .15-.05.25-.05C3.1 20.45 5.05 20 6.5 20c1.95 0 4.05.4 5.5 1.5 1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.3 4.75 1.05.1.05.15.05.25.05.25 0 .5-.25.5-.5V6c-.6-.45-1.25-.75-2-1zm0 13.5c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5V8c1.35-.85 3.8-1.5 5.5-1.5 1.2 0 2.4.15 3.5.5v11.5z"
+                          ></path>
+                        </svg>
+                        <span>lektury do słuchania</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+   
+        <form name="aspnetForm" method="post" action="./3380924,european-investment-bank-to-invest-&#8364;300-million-in-polands-satellite-program" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ8WBB4LQm94QmluZGluZ3MywgMAAQAAAP////8BAAAAAAAAAAwCAAAAYEJpbGxlbm5pdW0uUFIuRW50aXRpZXMsIFZlcnNpb249MS4wLjg0NDQuMjAxNjUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTAzMDAyZDU0YjE1NzcyYwQBAAAArgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0JpbGxlbm5pdW0uUFIuRW50aXRpZXMuQm94ZXMuQm94QmluZGluZywgQmlsbGVubml1bS5QUi5FbnRpdGllcywgVmVyc2lvbj0xLjAuODQ0NC4yMDE2NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMDMwMDJkNTRiMTU3NzJjXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAAClCaWxsZW5uaXVtLlBSLkVudGl0aWVzLkJveGVzLkJveEJpbmRpbmdbXQIAAAAICAkDAAAAAAAAAAAAAAAHAwAAAAABAAAAAAAAAAQnQmlsbGVubml1bS5QUi5FbnRpdGllcy5Cb3hlcy5Cb3hCaW5kaW5nAgAAAAseE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg8PFgQeD19fQW50aVhzcmZUb2tlbgUgNWM3MzZmNmIxNTA0NGZkOGFjYjQwMTA3MDVjMTg3MGMeEl9fQW50aVhzcmZVc2VyTmFtZWVkFgJmDw8WBB8CBSA1YzczNmY2YjE1MDQ0ZmQ4YWNiNDAxMDcwNWMxODcwYx8DZWQWAmYPDxYEHwIFIDVjNzM2ZjZiMTUwNDRmZDhhY2I0MDEwNzA1YzE4NzBjHwNlZBYCAgMPZBYCAgEPFgIeBWNsYXNzBTdpZDc3MDMgRXh0ZXJuYWxBcnRpY2xlIEFydGljbGVNYXN0ZXJNb2Rlcm4gcG9sc2tpZXJhZGlvFgJmD2QWAmYPZBYCZg8WAh4EVGV4dAVdPHNwYW4gaWQ9ImNhdGVnb3J5TmFtZSIgc3R5bGU9ImRpc3BsYXk6bm9uZTsiIGRhdGEtY2F0ZWdvcnktbmFtZT0iIE5hdGlvbmFsIj4gTmF0aW9uYWw8L3NwYW4+ZBgCBVNjdGwwMCRjdGwwMCRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJENvbnRlbnRQbGFjZUhvbGRlcjEkU2VjdGlvbjA1JGN0bDAwJG1WaWV3TWFpbg8PZGZkBVNjdGwwMCRjdGwwMCRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJENvbnRlbnRQbGFjZUhvbGRlcjEkU2VjdGlvbjAxJGN0bDAxJG1WaWV3TWFpbg8PZGZkcz5I7mp8lDRgTyj6cObtN+aus0I=" />
+
+
+<script src="/ScriptResource.axd?d=daQX09GrUFJlYiELGbSNq_81zxYsDHDg0WPvG85XZugkSIejVnuhfl9oLaCqNFvVSIQLD3R9Vue9nU5ymB8XP2qJO03aJRqbiWISwrJgRvLTNTyO-6nrPo0J2tE4SWwZKScKiJh4TU56zS8QjPRpQztKRnw1&amp;t=5d0a842b" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="65E7F3AF" />
+            <input name="ctl00$ctl00$ctl00$ContentPlaceHolder1$__vsKey" type="hidden" id="ctl00_ctl00_ctl00_ContentPlaceHolder1___vsKey" value="2a4bddbb-dca6-46c0-8435-b11a78770fe7" />
+            
+            
+            <div id="ajax-wrap-page">
+                
+                
+                
+
+ 
+<div class="container ArticleMaster">
+       
+	
+<div class="thismenu-positioner">
+    <div class="row thismenu">
+        
+            <header class="mobile-menu" data-formenu=".mobile-menu-wiadomosci">
+                <a id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_thismenu_mainLink" href="//www.polskieradio.pl/395,English-Section">English Section</a>
+            </header>		
+            <div id="thismenu" class="mobile-menu-wiadomosci off">				
+                
+            </div>
+           <script>
+
+               //$(document).ready(function () {
+               //    jQuery(function ($) {
+               //        $('.mobile-menu').on('click', function (e) {
+               //            if ($.screen.width < 768) {
+               //                var self = $(this), element = $(self.data('formenu'));
+
+               //                if (element.size() > 0) {
+               //                    self.toggleClass('active');
+               //                    element.toggleClass('off');
+               //                }
+               //                return false;
+               //            }
+               //        });
+               //});
+               
+
+                   //var URI = new RegExp(window.location.pathname);
+                   //var URI_e = window.location.pathname.split('/');
+                   //$('.thismenu a').each(function () {
+                   //    var attrHref = $(this).attr('href');
+                   //    if (URI_e.length > 2) {
+                   //        if (URI.test(attrHref)) {
+                   //            $(this).parent().addClass('active');
+                   //        }
+                   //    }
+                   //});
+               //});
+            </script>
+        
+
+        
+    </div>
+</div>
+     
+	
+        <div class="row">
+            <div class="col-md-12 extra full Section03">    
+				
+
+<div class="StaticContent box " data-idboxinstance="79006">
+
+    
+
+    <div id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section03_ctl00_ContentDiv">
+        <style>
+@media print {
+  body {
+    width: 1024px;
+  }
+}
+</style>
+    </div>
+
+</div>
+	        </div>   
+        </div>
+        <div class="row">
+	            <div class="col-md-8 twothirds art-body Section00">    
+				
+<div class="BreadCrumbs">
+    <a href="/" id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section01_ctl00_linkMainPage" title="Strona&#32;główna">Polskie Radio</a>
+    <a href="/395,English-Section" id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section01_ctl00_linkSection" title="English&#32;Section">English Section</a>
+    
+    <a href="/395/7784,National" id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section01_ctl00_linkCategory" title="&#32;National"> National</a>
+ </div>
+
+<script>
+    ; (function (root) {
+        var $ = root.jQuery,
+            Scroll = null;
+
+        function scrollInit() {
+            Scroll = ({
+                current: 0,
+                element: null,
+                init: function () {
+                    this.element = $('html, body');
+                    this.current = $(window).scrollTop();
+
+                    return this;
+                },
+                move: function (value, num, callback) {
+                    this.current = num ? value : this.current += value;
+                    this.element.stop(true, false).animate({ scrollTop: this.current }, 'slow', callback);
+                    return this;
+                },
+                position: function (element) {
+                    var el = $(element);
+                    if (el.size() > 0) {
+                        return el.first().offset();
+                    }
+                    return { top: 0, left: 0 };
+                }
+            }).init();
+        }
+
+        function relatedArticlesInit() {
+
+            $.relatedArticles.reinit();
+
+            $('.related-article').find('.btn-show-related-article').on('click', function () {
+                var $this = $(this);
+                $this.toggleClass('active').parents('.related-article').find('.wrap-content').slideToggle('slow', function () {
+                    $.relatedArticles.refresh();
+                });
+
+                var top = Scroll.position($this.parents('.related-article')).top,
+                    menuHeight = $('#prMenu').outerHeight(true) || $('#prMobileMenu').outerHeight(true) || 0;
+
+                Scroll.move(top - menuHeight, true);
+                return false;
+            });
+
+            $('article').map(function () {
+                var count = $('.sounds-wrapper', this).children().length,
+                    index = count === 1 ? 0 : (count > 1 && count <= 4) ? 1 : 2;
+
+                $('.sounds-count', this).text(count);
+            });
+
+        }
+
+        function audioListScrollerInit() {
+            var ARTICLE_SOUND_LIST_SELECTOR = '#articleSoundsList .swiper-container';
+            var isIScrollReady = !!window.Swiper;
+            var articleSoundsListHeight = $(ARTICLE_SOUND_LIST_SELECTOR).find('ul').height();
+
+            if (articleSoundsListHeight <= 325 || !isIScrollReady) {
+                return;
+            }
+
+            var scrollerOptions = {
+                scrollbar: '.swiper-scrollbar',
+                direction: 'vertical',
+                slidesPerView: 'auto',
+                mousewheelControl: true,
+                freeMode: true,
+                iOSEdgeSwipeDetection: true,
+                touchReleaseOnEdges: true,
+                scrollbarHide: false
+            };
+
+            var myScroll = new Swiper(ARTICLE_SOUND_LIST_SELECTOR, scrollerOptions);
+        }
+
+        function embedVideoScroller() {
+            $('.embed-video').eq(0).embedVideoScroll({
+                threshold: -100,
+                create: function () { $(document).trigger('lazyload.reinit'); }
+            });
+        }
+
+        function showImages() {
+            var imgages = $(".imageOnLayer");
+
+            imgages.on("click", function (event) {
+                //event.preventDefault();
+                //event.stopPropagation();
+
+                $('body').append('<div class="imageLayer"><div class="overlay-body container"><span class="NoRightBtn closeBtn close"><i class="fa fa-remove ico-pr"></i></span>' + $(this).get(0).outerHTML + '</div></div>');
+
+                $(".imageLayer .closeBtn").on("click", function () {
+                    $(".imageLayer").remove();
+                });
+
+                //return false;
+            });
+        }
+
+        function setup() {
+            scrollInit();
+            relatedArticlesInit();
+            audioListScrollerInit();
+            embedVideoScroller();
+            showImages();
+        }
+
+        $(setup);
+
+    }(window))
+</script>
+
+
+
+
+        <div id='article-3380924' class=" this-article " data-article-id='3380924' data-article-url='/395/7784/Artykul/3380924,European-Investment-Bank-to-invest-€300-million-in-Polands-satellite-program' data-article-title='European Investment Bank to invest €300 million in Poland's satellite program' data-gfkcontentid="english-section_395">
+            <div class="art-body">
+                <article>
+                    <div class="wrap-article">
+
+                        
+                            <header class="no-border">
+                                 
+                                <h1 class="title">
+                                    European Investment Bank to invest €300 million in Poland's satellite program
+                                </h1>
+                                <div class="article-time">
+                                    
+                                    <span id="datetime2" class="time">                                        
+                                        <svg id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="12px" height="12px">
+                                            <path class="st2" d="M8.5 2a6.5 6.5 0 1 1 0 13 6.5 6.5 0 0 1 0-13m0-1a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15z" />
+                                            <path class="st2" d="M9 3H8v6h1V3z" />
+                                            <path class="st2" d="M12 8H8v1h4V8z" />
+                                        </svg>
+                                        20.05.2024 15:00
+                                    </span>
+
+                                </div>
+
+                                <div class="article-source">
+                                    <span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section01_ctl01_divSource2" class="divSource&#32;prdlazagranicy"></span>
+                                </div>
+
+                                
+<script>
+    $(document).ready(function () {
+        $(".wykop").off().on("click", function (e) {
+            e.preventDefault();
+            var that = $(this);
+            var title = that.parents().siblings("h1.title");
+            var titletext = title.text();
+            var lead = that.parents().siblings("div.desc");
+            var leadtext = lead.text();
+            var addresspol = "https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program";
+
+            var address = "https://www.wykop.pl/dodaj/link/?url=" + addresspol + "&title=" + titletext + "&desc=" + leadtext;
+            window.open(address, '_blank');
+            return false;
+        });
+    });
+
+
+</script>
+  
+    <div class="article-social-panel socialPanel_3380924">
+	    <a class="facebook" 
+            title="Share on Facebook" 
+            data-idDocument="3380924" 
+            href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program">
+            <span></span>
+	    </a>
+    	<a class="twitter" 
+            title="Twitter – share link" 
+            data-idDocument="3380924" 
+            href="http://twitter.com/intent/tweet?source=webclient&amp;text=European%20Investment%20Bank%20to%20invest%20%E2%82%AC300%20million%20in%20Poland%27s%20satellite%20program&amp;url=https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program">
+            <span></span>
+    	</a>
+        <a class="wykop" 
+            title="Wykop" 
+            href="https://www.wykop.pl/dodaj/link/?url=https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program" 
+            target="_blank">
+            <span></span>
+        </a>
+        <a class="email" 
+            title="Share link via email" 
+            data-idDocument="3380924" 
+            href="mailto:?body=https://www.polskieradio.pl/395/7784/Artykul/3380924,european-investment-bank-to-invest-%E2%82%AC300-million-in-polands-satellite-program">
+            <span></span>
+        </a>
+    </div>
+
+
+                                <div class="desc">
+                                    The European Investment Bank (EIB) has committed to investing €300 million in Poland's satellite program, EIB President Nadia Calviño announced.
+                                </div>
+                            </header>
+
+                            <div class="related-create-event"></div>
+
+                            
+                                <div class="article-listen-audio">
+                                    <div class="small-title">Audio</div>
+                                    
+                                    
+                                    <span class="sounds-count"></span>
+                                    <div id="articleSoundsList">
+                                        <div class="swiper-container">
+                                            <div class="swiper-wrapper">
+                                                <ul class="sounds-wrapper swiper-slide">
+                                                    
+                                                            <li>
+                                                                <div class="play-wrap">
+                                                                    <a title="Click to listen Audio report: Click to listen" class="pr-media-play" data-media={"id":3556432,"file":"//static.prsa.pl/36381522-122a-4b42-a30e-fe3a1148cbf0.mp3","provider":"audio","uid":"36381522-122a-4b42-a30e-fe3a1148cbf0","length":232,"autostart":true,"link":"/395/7784/Artykul/3380924,european-investment-bank-to-invest-%E2%82%AC300-million-in-polands-satellite-program","title":"NFP%2024%2005%2022%20KOPU%C5%81A.mp3","desc":"Audio%20report%3A%20Click%20to%20listen","advert":0,"type":"muzyka"}>
+                                                                        <i class="material-icons">
+                                                                            <span class="play-ico">&#xE038;</span>
+                                                                            <span class="pause-ico">&#xE035;</span>
+                                                                        </i>
+                                                                    </a>
+                                                                    <div class="time">03'52</div>
+                                                                    <a title="Add to playlist Audio report: Click to listen" href="javascript:void(null);" class="pr-media-play" data-media={"id":3556432,"file":"//static.prsa.pl/36381522-122a-4b42-a30e-fe3a1148cbf0.mp3","provider":"audio","uid":"36381522-122a-4b42-a30e-fe3a1148cbf0","length":232,"autostart":false,"link":"/395/7784/Artykul/3380924,european-investment-bank-to-invest-%E2%82%AC300-million-in-polands-satellite-program","title":"NFP%2024%2005%2022%20KOPU%C5%81A.mp3","desc":"Audio%20report%3A%20Click%20to%20listen","advert":0,"type":"muzyka"}>
+                                                                        <i class="material-icons">&#xE145;</i>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="description">
+                                                                    Audio report: Click to listen
+                                                                </div>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                            <div class="swiper-scrollbar"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+
+                            <div class="imageOnLayer">
+                                <img class="NoRightBtn" id="imgArticleMain" src='//static.prsa.pl/images/b7f27b9a-a9f4-40e3-a959-5fb6fd353e70.jpg' alt="Polish Prime Minister Donald Tusk and the head of the European Investment Bank, Nadia Calvio." />
+                                <i class="fa fa-arrows-alt"></i>
+                            </div>
+
+                            <div class="imgdesc"><span class="imgLead">Polish Prime Minister Donald Tusk and the head of the European Investment Bank, Nadia Calviño.</span><span class="imgAuthor">Photo: PAP/Leszek Szymański</span></div>
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+
+
+                        <div class="content">
+                            <span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section01_ctl01_lblContent"><p>The investment is part of the EIB's new action plan for <strong>security and defense.</strong></p><div id='PolskieRadio_artykuly_intext_rec'><script>googletag.cmd.push(function() { googletag.display('PolskieRadio_artykuly_intext_rec'); });</script></div>
+<p>Polish Prime Minister Donald Tusk praised the agreement, stating that it represents a significant advancement in the plan to build an <strong>"iron dome"</strong> over <strong>Poland</strong> and <strong>Europe</strong>.</p>
+<p><strong>"Today we can count on very cheap, favorable loans for investments that will serve civilian tasks and at the same time promote our defense and security,"</strong> Tusk said after his meeting with EIB President Calviño in Warsaw on Monday.</p>
+<p>He emphasized the importance of the bank’s involvement in the <strong>Polish satellite program</strong>, which is being implemented in <strong>cooperation with France.</strong></p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">🇪🇺🇵🇱 Excellent meeting with Prime Minister <a href="https://twitter.com/donaldtusk?ref_src=twsrc%5Etfw">@donaldtusk</a>. Our priorities are fully aligned.<a href="https://twitter.com/hashtag/Poland?src=hash&amp;ref_src=twsrc%5Etfw">#Poland</a> is a great success story, a bright example of the benefits of EU membership.<br /><br />The <a href="https://twitter.com/EIB?ref_src=twsrc%5Etfw">@EIB</a> Group has invested €100bn and will be a key partner for security, growth &amp; social progress. <a href="https://t.co/rGPcudJkFg">pic.twitter.com/rGPcudJkFg</a></p>
+— Nadia Calviño (@NadiaCalvino) <a href="https://twitter.com/NadiaCalvino/status/1792513675112087701?ref_src=twsrc%5Etfw">May 20, 2024</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>Calviño noted that the investment marks the EIB's first action under its new security and defense plan. She recalled that the bank has already invested nearly <strong>EUR 100 billion in Poland</strong>, financing <strong>infrastructure</strong> projects such as <strong>roads</strong>, <strong>railways</strong>, <strong>energy transition</strong>, <strong>offshore wind energy</strong>, and the <strong>Warsaw metro.</strong></p>
+<p><strong>"Poland is a great example of success, of taking advantage of the benefits of EU membership. We will always be a trusted partner of Poland to ensure prosperity and development," </strong>Calviño stated during her joint speech with Tusk.</p>
+<p>Tusk expressed his gratitude to the EIB for its continued support, saying that the “EIB's readiness to support our plans for security, protection, and defense of Polish and European borders" was crucial for his country.</p>
+<p>(jh)</p>
+<p>Source: PAP</p>
+<p><em>Click on the audio player above to listen to a report by Radio Poland's <strong>Michał Owczarek</strong>.</em></p></span>
+                            
+
+                            <!-- /351994693/PolskieRadio_artykuly_dol_rec -->
+
+                            <div>
+                                <div class="article-source">
+                                    <span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section01_ctl01_divSourceBottom"></span>
+                                </div>
+
+                                <div class="tags">
+                                    
+                                            
+                                        
+                                </div>
+                            </div>
+
+                            
+<script>
+    $(document).ready(function () {
+        $(".wykop").off().on("click", function (e) {
+            e.preventDefault();
+            var that = $(this);
+            var title = that.parents().siblings("h1.title");
+            var titletext = title.text();
+            var lead = that.parents().siblings("div.desc");
+            var leadtext = lead.text();
+            var addresspol = "https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program";
+
+            var address = "https://www.wykop.pl/dodaj/link/?url=" + addresspol + "&title=" + titletext + "&desc=" + leadtext;
+            window.open(address, '_blank');
+            return false;
+        });
+    });
+
+
+</script>
+  
+    <div class="article-social-panel socialPanel_3380924">
+	    <a class="facebook" 
+            title="Share on Facebook" 
+            data-idDocument="3380924" 
+            href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program">
+            <span></span>
+	    </a>
+    	<a class="twitter" 
+            title="Twitter – share link" 
+            data-idDocument="3380924" 
+            href="http://twitter.com/intent/tweet?source=webclient&amp;text=European%20Investment%20Bank%20to%20invest%20%E2%82%AC300%20million%20in%20Poland%27s%20satellite%20program&amp;url=https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program">
+            <span></span>
+    	</a>
+        <a class="wykop" 
+            title="Wykop" 
+            href="https://www.wykop.pl/dodaj/link/?url=https%3A%2F%2Fwww.polskieradio.pl%2F395%2F7784%2FArtykul%2F3380924%2Ceuropean-investment-bank-to-invest-%25E2%2582%25AC300-million-in-polands-satellite-program" 
+            target="_blank">
+            <span></span>
+        </a>
+        <a class="email" 
+            title="Share link via email" 
+            data-idDocument="3380924" 
+            href="mailto:?body=https://www.polskieradio.pl/395/7784/Artykul/3380924,european-investment-bank-to-invest-%E2%82%AC300-million-in-polands-satellite-program">
+            <span></span>
+        </a>
+    </div>
+
+                        </div>
+                    </div>
+
+                    <div class="comments">
+                        
+                    </div>
+                </article>
+            </div>
+        </div>
+
+
+        
+        <script>
+            function validForm(obj) {
+                var o = $(obj);
+                var elemToValid = o.parent().find('.comment');
+
+                o.parent().find('.userMessage').text('');
+                var max = 2000;
+
+                if (($(elemToValid).val().length < 1) || ($(elemToValid).val().length > max)) {
+                    o.parent().find('.userMessage').text($(elemToValid).data('validation-error-msg'));
+                    return false;
+                }
+                else {
+                    return true;
+                }
+
+            }
+        </script>
+
+        <script>(function (d, s, id) {
+    if (window["FB"]) {
+        return;
+    }
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.3";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+        </script>
+
+        <script>
+            jQuery(function ($) {
+                if ($.isFunction($.fn.More)) {
+                    $('.audio').More({
+                        size: 4,
+                        selector: '.positioner',
+                        button: '.more-bottom'
+                    });
+                }
+            });
+        </script>
+        
+
+
+
+
+
+<script src="/scripts/jquery.more.js?v=1.0.8444.20171"></script>
+<script src="/scripts/jquery.embedvideo.scroll.js?v=1.0.8444.20171"></script>
+<script src="/App_Themes/_External/script.js?v=1.0.8444.20171"></script>
+	            </div>    
+
+            <div class="col-md-4 third Section02">
+                
+<div id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section02_ctl00_s_panel_list" class="box&#32;clearfix&#32;documentsList_59439&#32;sidebar-most-popular" data-idBoxInstance="59439">
+	
+    <div id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section02_ctl00_s_panel_listName">
+		
+        
+        
+                
+    
+	</div>         
+        <div id='s_panel_tabs_59439' >
+        
+        
+                <div id='s_panel_allContent_59439_373864'>
+                    <div id='s_panel_content_59439_373864'>
+                        
+
+
+
+
+<section class="section">
+  
+  <header class="box-header">
+    <h2  data-hover="Most Popular News" class="title sidebar-most-popular__title">
+      <span>
+        Most
+      </span>
+      <span>
+        Popular News /
+      </span>
+    </h2>
+  </header>
+  
+  
+  <article class="ID-3382148 article">
+    <a href="/395/7784/Artykul/3382148,poland-reaffirms-longstanding-recognition-of-palestinian-statehood" title="Poland reaffirms long-standing recognition of Palestinian statehood" class="sidebar-most-popular__link">
+      <span class="sidebar-most-popular__decorator">
+        1
+      </span>
+      <h3 class="title sidebar-most-popular__article-title">
+        Poland reaffirms long-standing recognition of Palestinian statehood
+      </h3>
+    </a>
+    
+  </article>
+  <article class="ID-3382125 article">
+    <a href="/395/7784/Artykul/3382125,polish-fm-to-attend-defence-conference-in-london" title="Polish FM to attend defence conference in London" class="sidebar-most-popular__link">
+      <span class="sidebar-most-popular__decorator">
+        2
+      </span>
+      <h3 class="title sidebar-most-popular__article-title">
+        Polish FM to attend defence conference in London
+      </h3>
+    </a>
+    
+  </article>
+  <article class="ID-3382099 article">
+    <a href="/395/7791/Artykul/3382099,spotlight-on-italy-at-warsaw-book-fair" title="Spotlight on Italy at Warsaw book fair" class="sidebar-most-popular__link">
+      <span class="sidebar-most-popular__decorator">
+        3
+      </span>
+      <h3 class="title sidebar-most-popular__article-title">
+        Spotlight on Italy at Warsaw book fair
+      </h3>
+    </a>
+    
+  </article>
+  <article class="ID-3382185 article">
+    <a href="/395/7785/Artykul/3382185,eu-to-impose-more-sanctions-on-russia-over-navalnys-death" title="EU to impose more sanctions on Russia over Navalny&#39;s death" class="sidebar-most-popular__link">
+      <span class="sidebar-most-popular__decorator">
+        4
+      </span>
+      <h3 class="title sidebar-most-popular__article-title">
+        EU to impose more sanctions on Russia over Navalny&#39;s death
+      </h3>
+    </a>
+    
+  </article>
+</section>
+                    </div>
+                    <div id='s_panel_pager_59439_373864'>
+                        
+                    </div>
+                </div>
+            
+            
+    
+    </div>   
+
+</div>
+
+
+
+            </div>
+        </div>
+
+        <div class="row" id="">    
+			<div class="col-md-12 full Section05">	
+                
+
+        
+    
+
+<div class="StaticContent box " data-idboxinstance="60696">
+
+    
+
+    <div id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section05_ctl01_ContentDiv">
+        <script>
+$( document ).ready(function() {
+ if( $('.rel-galleries').length ) {
+    $('.rel-galleries .small-title').text("Gallery");
+    $('.rel-galleries .see-more').html("See more <i class='material-icons' style='position:relative; left:0;top:5px;'>keyboard_arrow_right</i>")
+}
+});
+</script>
+    </div>
+
+</div>
+
+<div class="StaticContent box " data-idboxinstance="89661">
+
+    
+
+    <div id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_Section05_ctl02_ContentDiv">
+        <script>
+document.addEventListener('DOMContentLoaded', () => {
+document.querySelectorAll('.list-links').forEach(linkBox => linkBox.querySelector('.title').innerText = linkBox.querySelector('.title').innerText.replace('Czytaj także:', 'Read more:'))
+})
+</script>
+    </div>
+
+</div>
+			</div>
+        </div>
+</div>
+       
+<div id="prFooter">
+  <div class="footer-wrapper">
+    <div class="top-pane">
+      <div class="footer-column box" data-idboxinstance="1200000">
+        <a href="https://polskieradio24.pl/" class="category uppercase">Wiadomości</a>
+        <ul>
+          <li>
+              <a href="https://polskieradio24.pl/polska" class="link">Polska</a>
+          </li>
+          <li>
+              <a href="https://polskieradio24.pl/swiat" class="link">Świat</a>
+          </li>
+          <li>
+              <a href="https://polskieradio24.pl/gospodarka" class="link">Gospodarka</a>
+          </li>
+          <li>
+              <a href="https://polskieradio24.pl/sport" class="link">Sport</a>
+          </li>
+      </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200001">
+        <a href="/7,Jedynka" class="category uppercase">
+          Jedynka
+          <div class="border color-1"></div>
+        </a>
+        <ul>
+          <li>
+            <a href="/7,Jedynka/16,Audycje" class="link">Audycje</a>
+          </li>
+          <li>
+            <a href="/7,Jedynka/19,Playlista" class="link">Playlista</a>
+          </li>
+          <li>
+            <a href="/7,Jedynka/18,Zespol" class="link">Zespół</a>
+          </li>
+          <li>
+            <a href="/7,Jedynka/169,Konkursy" class="link">Konkursy</a>
+          </li>
+          <li>
+            <a href="https://jedynka.polskieradio.pl/ramowka" class="link">Ramówka</a>
+          </li>
+          <li>
+            <a href="/7,Jedynka/3050,Czestotliwosci" class="link"
+              >Częstotliwości</a
+            >
+          </li>
+          <li>
+            <a href="/7,Jedynka/20,Kontakt" class="link">Kontakt</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200002">
+        <a href="/8,Dwojka" class="category uppercase">
+          Dwójka
+          <div class="border color-2"></div>
+        </a>
+        <ul>
+          <li>
+            <a href="/8,Dwojka/23,Audycje" class="link">Audycje</a>
+          </li>
+          <li>
+            <a href="/8,Dwojka/5660,Koncerty-w-dwojce" class="link">Koncerty</a>
+          </li>
+          <li>
+            <a href="/8,Dwojka/26,Playlista" class="link">Playlista</a>
+          </li>
+          <li>
+            <a href="/8,Dwojka/25,Zespol" class="link">Zespół</a>
+          </li>
+          <li>
+            <a href="/8,Dwojka/364,Konkursy" class="link">Konkursy</a>
+          </li>
+          <li>
+            <a href="/8,Dwojka/6546,Patronaty" class="link">Patronaty</a>
+          </li>
+          <li>
+            <a href="https://www.polskieradio.pl/ramowka/antena/2" class="link">Ramówka</a>
+          </li>
+          <li>
+            <a href="/8,Dwojka/4940,Czestotliwosci" class="link"
+              >Częstotliwości</a
+            >
+          </li>
+          <li>
+            <a href="/8,Dwojka/27,Kontakt" class="link">Kontakt</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200003">
+        <a href="/9,Trojka" class="category uppercase">
+          Trójka
+          <div class="border color-3"></div>
+        </a>
+        <ul>
+          <li>
+            <a href="/9,Trojka/30,Audycje" class="link">Audycje</a>
+          </li>
+          <li>
+            <a href="/9,Trojka/33,Playlista" class="link">Playlista</a>
+          </li>
+          <li>
+            <a href="http://lp3.polskieradio.pl" class="link">LP3</a>
+          </li>
+          <li>
+            <a href="/9,Trojka/319,Koncert-w-Trojce" class="link"
+              >Koncert w Trójce</a
+            >
+          </li>
+          <li>
+            <a href="/9,Trojka/203,Konkursy-w-Trojce" class="link">Konkursy</a>
+          </li>
+          <li>
+            <a href="/9,Trojka/32,Zespol" class="link">Zespół</a>
+          </li>
+          <li>
+            <a href="https://trojka.polskieradio.pl/ramowka" class="link">Ramówka</a>
+          </li>
+          <li>
+            <a href="/9,Trojka/4939,Czestotliwosci" class="link"
+              >Częstotliwości</a
+            >
+          </li>
+          <li>
+            <a href="/9,Trojka/34,Kontakt" class="link">Kontakt</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200004">
+        <a href="/10,Czworka" class="category uppercase">
+          Czwórka
+          <div class="border color-4"></div>
+        </a>
+        <ul>
+          <li>
+            <a href="/10,Czworka/37,Audycje" class="link">Audycje</a>
+          </li>
+          <li>
+            <a href="/10,Czworka/40,Playlista" class="link">Playlista</a>
+          </li>
+          <li>
+            <a href="/10/5798,Koncerty" class="link">Koncerty</a>
+          </li>
+          <li>
+            <a href="/10,Czworka/39,Zespol" class="link">Zespół</a>
+          </li>
+          <li>
+            <a href="/10,Czworka/1365,Konkursy" class="link">Konkursy</a>
+          </li>
+          <li>
+            <a href="/10,Czworka/1366,Patronaty" class="link">Patronaty</a>
+          </li>
+          <li>
+            <a href="/10,Czworka/5496,Jak-nas-sluchac" class="link"
+              >Jak nas słuchać</a
+            >
+          </li>
+          <li>
+            <a href="/10,Czworka/41,Kontakt" class="link">Kontakt</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200005">
+        <a href="https://polskieradio24.pl/" class="category uppercase">
+          Polskie Radio 24
+          <div class="border color-pr24"></div>
+        </a>
+        <ul>
+          <li>
+              <a href="https://polskieradio24.pl/antena/audycje" class="link">Audycje</a>
+          </li>
+          <li>
+              <a href="https://polskieradio24.pl/antena/zespol-antenowy" class="link">Zespół</a>
+          </li>
+          <li>
+              <a href="https://polskieradio24.pl/antena/ramowka" class="link">Ramówka</a>
+          </li>
+          <li>
+              <a href="https://polskieradio24.pl/antena/czestotliwosci" class="link">Częstotliwości</a>
+          </li>
+          <li>
+              <a href="https://polskieradio24.pl/antena/kontakt" class="link">Kontakt</a>
+          </li>
+      </ul>
+      </div>
+    </div>
+    <div class="middle-pane">
+      <div class="footer-column box" data-idboxinstance="1200006">
+        <div class="category uppercase plain-text">Zagranica/External</div>
+        <ul class="no-category uppercase">
+          <li>
+            <a href="https://www.polskieradio.pl/395" class="link"
+              >English Section</a
+            >
+          </li>
+          <li>
+            <a href="https://www.polskieradio.pl/396" class="link"
+              >Беларуская Служба</a
+            >
+          </li>
+          <li>
+            <a href="https://www.polskieradio.pl/397" class="link"
+              >Русская редакция</a
+            >
+          </li>
+          <li>
+            <a href="https://www.polskieradio.pl/398" class="link"
+              >Українська Служба</a
+            >
+          </li>
+          <li>
+            <a href="https://www.polskieradio.pl/399" class="link"
+              >Redakcja Polska</a
+            >
+          </li>
+          <li>
+            <a href="https://www.polskieradio.pl/400" class="link"
+              >Deutsche Redaktion</a
+            >
+          </li>
+          <li>
+            <a href="http://www.kolpolin.pl/7" class="link">Hebrew Section</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200007">
+        <a href="/18,Dzieci" class="category uppercase"
+          >Polskie Radio Dzieciom</a
+        >
+        <ul>
+          <li>
+            <a href="/18,Polskie-Radio-dzieciom/4474,Audycje" class="link"
+              >Audycje</a
+            >
+          </li>
+          <li>
+            <a href="/18,Polskie-Radio-dzieciom/4654,Dla-rodzicow" class="link"
+              >Dla rodziców</a
+            >
+          </li>
+          <li>
+            <a href="/18,Polskie-Radio-dzieciom/87,Dzieje-sie" class="link"
+              >Dzieje się</a
+            >
+          </li>
+          <li>
+            <a href="/18,Polskie-Radio-dzieciom/4573,Ambasadorzy" class="link"
+              >Ambasadorzy</a
+            >
+          </li>
+          <li>
+            <a
+              href="/18,Polskie-Radio-dzieciom/4630,Jak-nas-sluchac"
+              class="link"
+              >Jak nas słuchać</a
+            >
+          </li>
+          <li>
+            <a href="/18,Polskie-Radio-dzieciom/4932,Newsletter" class="link"
+              >Newsletter</a
+            >
+          </li>
+          <li>
+            <a href="/18,Polskie-Radio-dzieciom/4655,Kontakt" class="link"
+              >Kontakt</a
+            >
+          </li>
+          <li>
+            <a href="/18,Polskie-Radio-dzieciom/5350,Zespol" class="link"
+              >Zespół</a
+            >
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200008">
+        <a href="/326" class="category uppercase">
+          Radio Chopin
+          <div class="border color-chopin"></div>
+        </a>
+        <ul>
+          <li>
+            <a href="/326/6330/Artykul/1893448,O-Radiu-Chopin" class="link"
+              >O Radiu Chopin</a
+            >
+          </li>
+          <li>
+            <a href="/326/6381,Ramowka" class="link">Ramówka</a>
+          </li>
+          <li>
+            <a href="/326/6379,Audycje" class="link">Audycje</a>
+          </li>
+          <li>
+            <a href="/326/6375,Kontakt" class="link">Kontakt</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="bottom-pane">
+      <div class="footer-column box" data-idboxinstance="1200009">
+        <ul class="no-category uppercase first">
+          <li>
+            <a href="http://moje.polskieradio.pl" class="link"
+              >Kanały internetowe</a
+            >
+          </li>
+          <li>
+            <a href="/219,Serwisy-Specjalne-Polskiego-Radia" class="link"
+              >Serwisy historyczne</a
+            >
+          </li>
+        </ul>
+        <ul class="no-category uppercase">
+          <li class="first">
+            <a href="/80,Reportaz" class="link"
+              >Studio reportażu <br />i dokumentu polskiego radia</a
+            >
+          </li>
+          <li>
+            <a href="/13/2772" class="link">Euranet plus</a>
+          </li>
+          <li>
+            <a href="/37,Redakcja-Katolicka" class="link">Redakcja katolicka</a>
+          </li>
+          <li>
+            <a href="/196,Redakcja-Ekumeniczna" class="link"
+              >Redakcja ekumeniczna</a
+            >
+          </li>
+          <li>
+            <a href="/357" class="link">Teatr polskiego radia</a>
+          </li>
+          <li>
+            <a href="/79,Polska-Orkiestra-Radiowa" class="link"
+              >Polska orkiestra radiowa</a
+            >
+          </li>
+          <li>
+            <a href="http://www.nospr.org.pl/pl" class="link">NOSPR</a>
+          </li>
+          <li>
+            <a href="http://www.amadeus.pl" class="link">Orkiestra Amadeus</a>
+          </li>
+          <li>
+            <a href="https://chorpolskiegoradia.pl/" class="link"
+              >Chór polskiego radia</a
+            >
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column box" data-idboxinstance="1200010">
+        <a href="http://www.prsa.pl/" class="category uppercase"
+          >Polskie Radio S.A.</a
+        >
+        <ul class="no-category first">
+          <li class="first">
+            <a href="http://reklama.polskieradio.pl" class="link"
+              >Agencja Reklamy</a
+            >
+          </li>
+          <li>
+            <a href="http://prsa.com.pl/personlist.aspx?i=24" class="link"
+              >Agencja Muzyczna</a
+            >
+          </li>
+          <li>
+            <a href="http://prsa.com.pl/personlist.aspx?i=23" class="link"
+              >Agencja Promocji</a
+            >
+          </li>
+          <li>
+            <a href="http://www.studianagran.com.pl" class="link"
+              >Studia Nagraniowe</a
+            >
+          </li>
+          <li>
+            <a href="http://www.prsa.pl/zamowienia" class="link"
+              >Zamówienia publiczne</a
+            >
+          </li>
+          <li>
+            <a href="/117" class="link">Zasady kampanii społecznych</a>
+          </li>
+        </ul>
+        <ul class="">
+          <li>
+            <a href="https://cem.polskieradio.pl/" class="link">
+              <span class="uppercase">Centrum Edukacji Medialnej</span>
+              <br />
+              Szkolenia Polskiego Radia</a
+            >
+          </li>
+        </ul>
+      </div>
+      <div class="footer-column-wrapper">
+        <div class="footer-column box" data-idboxinstance="1200011">
+          <ul class="no-category first">
+            <li>
+              <a href="/78,IAR" class="link"
+                >Informacyjna <span>Agencja Radiowa</span></a
+              >
+            </li>
+            <li>
+              <a href="https://polskieradio24.pl/dla-mediow" class="link">Dla mediów</a>
+            </li>
+          </ul>
+          <ul class="no-category">
+            <li>
+              <a href="https://sklep.polskieradio.pl" class="link">Sklep</a>
+            </li>
+            <li>
+              <a href="https://sklep.polskieradio.pl/Bilety.aspx" class="link"
+                >Bilety</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div class="footer-column box" data-idboxinstance="1200012">
+          <ul class="no-category first">
+            <li>
+              <a href="/13/53/Artykul/254368" class="link"
+                >Polityka prywatności</a
+              >
+            </li>
+            <li>
+              <a href="/13/6788" class="link">Dane osobowe</a>
+            </li>
+          </ul>
+          <ul class="no-category">
+            <li>
+              <a href="/13/515,Kontakt" class="link">Skontaktuj się z nami</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div class="special-pane">
+      <a
+        href="/"
+        class="logo"
+        style="
+          background: url('/style/responsive2/_img/radio-logo.png') center
+            center no-repeat;
+          background-size: contain;
+        "
+      ></a>
+      <div class="social-links box" data-idboxinstance="1200013">
+        <a href="//facebook.com/polskieradiopl/?fref=ts" class="facebook"
+          ><img src="/style/responsive2/_img/facebook.png" alt="Facebook"
+        /></a>
+        <a href="//twitter.com/PolskieRadiopl1" class="twitter"
+          ><img src="//static.prsa.pl/a6d9bcca-0881-4e20-b278-d51de1c7424d.file" alt="Twitter"
+        /></a>
+        <a href="//youtube.com/channel/UC_jYNCh6rV-wl8KNR3uVooA" class="youtube"
+          ><img src="/style/responsive2/_img/youtube.png" alt="YouTube"
+        /></a>
+      </div>
+      <div class="text-wrapper">
+        <div class="first">Pobierz aplikację mobilną:</div>
+      </div>
+      <div class="app-phones box" data-idboxinstance="1200014">
+        <a
+          href="//www.polskieradio.pl/13/8733"
+          class="special"
+          style="
+            background: url('//static.prsa.pl/9a47f241-50d7-4487-85bc-91ac968e04e7.file')
+              center center no-repeat;
+            background-size: contain;
+          "
+        ></a>
+      </div>
+      <div class="app-links box" data-idboxinstance="1200015">
+        <a
+          href="//play.google.com/store/apps/details?id=pl.polskieradio.mobile&gl=PL"
+          class="android app-download__google-play"
+          style="
+            background: url('//static.prsa.pl/d66be8a4-5b41-465c-a0f2-96881399c192.file')
+              center center no-repeat;
+            background-size: contain;
+          "
+        ></a>
+        <a
+          href="//apps.apple.com/pl/app/polskie-radio/id1505314962?l=pl"
+          class="apple app-download__app-store"
+          style="
+            background: url('//static.prsa.pl/d7c3ef92-4943-4984-81b5-ba16b9db42e1.file')
+              center center no-repeat;
+            background-size: contain;
+          "
+        ></a>
+        <a
+          href="//appgallery.huawei.com/#/app/C102179337?channelId=EUPLBDD20201001PR&detailType=0"
+          class="huawei app-download__app-store"
+          style="
+            background: url('//static.prsa.pl/39e0f9b5-c086-468f-b2c9-4a7132731e39.file')
+              center center no-repeat;
+            background-size: contain;
+          "
+        ></a>
+      </div>
+      <div class="copyright">Copyright© Polskie Radio S.A.</div>
+    </div>
+  </div>
+</div>
+<style>
+  #prFooter .app-phones a.special {
+    width: 100% !important;
+    height: 160px !important;
+  }
+  @media (max-width: 1400px) {
+    #prFooter .app-phones a.special {
+      width: 150px !important;
+      height: 110px !important;
+    }
+  }
+  @media (max-width: 991px) {
+    #prFooter .app-phones a.special {
+      width: 120px !important;
+      height: 80px !important;
+    }
+  }
+</style>
+
+
+            </div>
+        </form>
+        
+        
+            <script type="text/javascript">PR_GoogleAnalytics.reload();</script>
+        
+
+</div>
+
+<div id="player-audio"></div>
+
+<script src="/scripts/responsive2/iscroll.js?v=1.0.8444.20177"></script>
+    <script src="/scripts/responsive2/swiper.js?v=1.0.8444.20177"></script>
+<script src="/scripts/responsive2/jquery.drawer.js?v=1.0.8444.20177"></script>
+<script src="/scripts/responsive2/init.use.main.menu.js?v=1.0.8444.20177"></script>
+<script src="/scripts/init.responsivenew.js?v=1.0.8444.20177"></script>
+
+<script src="/scripts/jquery.tabs.js"></script>
+<script src="/scripts/widget.PrsaAjaxTabs.js"></script> 
+
+<script type="text/javascript" src="/scripts/v1109/jquery.search.debug.js"></script>
+<script type="text/javascript" src="/scripts/notifications/pr/notifications.js"></script>
+<script type="text/javascript" src="/scripts/register-service-worker.js"></script>
+<script>sessionStorage.setItem('sessionUId', "dny33irwbxr14mrg3ar1hzjg");</script>
+<script src="/scripts/heatmap/heatmapv2_8.js"></script>
+</body>
+
+</html>

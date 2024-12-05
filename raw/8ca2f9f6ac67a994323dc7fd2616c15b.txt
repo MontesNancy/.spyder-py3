@@ -1,0 +1,219 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#">
+<head><title>
+	UNDP amplifies fight against climate change in Somalia
+</title>
+<script type="text/javascript" language="JavaScript" src="/js/include.js"></script>
+<meta property="fb:admins" content="752904621" /><meta property="fb:app_id" content="437394039608722" /><meta id="description" name="description" content="The United Nations Development Programme (UNDP) in Somalia is leveraging new areas that it says will help amplify its climate mitigation measures in the country that is synonymous with climate change-induced natural disasters." /><meta id="fbtitle" property="og:title" content="UNDP amplifies fight against climate change in Somalia" /><meta id="fbdescription" property="og:description" content="The United Nations Development Programme (UNDP) in Somalia is leveraging new areas that it says will help amplify its climate mitigation measures in the country that is synonymous with climate change-induced natural disasters." /><meta id="fburl" property="og:url" content="http://www.hiiraan.com/news4/2024/may/196397/undp_amplifies_fight_against_climate_change_in_somalia.aspx" /><meta id="fbimage" property="og:image" content="http://www.hiiraan.com/2024/images/May/2024523638520518057791970.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@hiiraan" /><meta name="twitter:creator" content="@hiiraan" /><meta id="ttitle" name="twitter:title" content="UNDP amplifies fight against climate change in Somalia" /><meta id="tdescription" name="twitter:description" content="The United Nations Development Programme (UNDP) in Somalia is leveraging new areas that it says will help amplify its climate mitigation measures in the country that is synonymous with climate change-induced natural disasters." /><meta id="timage" name="twitter:image" content="http://www.hiiraan.com/2024/images/May/2024523638520518057791970.jpg" /><meta id="keywords" name="keywords" content="UNDP amplifies fight against climate change in Somalia,UNDP,amplifies,fight,against,climate,change,in,Somalia,hiiraan online, hiiraan, online,somali news, somalia,somalia news" /><link rel="alternate" type="application/rss+xml" title="Somali news RSS feed" href="https://rss.hiiraan.com/rss.xml" /><link rel="alternate" type="application/rss+xml" title="Wararka Maanta RSS Feed" href="https://rss.hiiraan.com/wararka_maanta_rss.xml" /><link rel="shortcut icon" href="/holimages5/favicon.ico" type="image/x-icon" /><link rel="icon" href="/holimages5/favicon.ico" type="image/x-icon" />
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f908d4b7aa52439"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58aa27f635de59001102d9bf&product=inline-share-buttons"></script>
+<script>
+var truepush = window.truepush || [];
+truepush.push(function(){
+    truepush.Init({
+        id: "5da8a2da0f27c7acab0cb6ef"
+        }, function(error){
+          if(error) console.error(error);
+        })
+    })
+</script>
+<SCRIPT LANGUAGE="JavaScript">
+<!--    Begin
+    function popUp(URL) {
+        day = new Date();
+        id = day.getTime();
+        eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=300,height=490,left = 310,top = 262');");
+    }
+// End -->
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H5EKQSDQH1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H5EKQSDQH1');
+</script>
+<style type="text/css">
+
+.articles {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	color: #0000EE;
+	text-decoration: none;
+}
+    </style>
+<script data-cfasync="false" type="text/javascript">
+        var freestar = freestar || {};
+        freestar.hitTime = Date.now();
+        freestar.queue = freestar.queue || [];
+        freestar.config = freestar.config || {};
+        freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+        freestar.config.enabled_slots = [];
+        !function (a, b) { var c = b.getElementsByTagName("script")[0], d = b.createElement("script"), e = "https://a.pub.network/hiiraan-com"; e += freestar.debug ? "/qa/pubfig.min.js" : "/pubfig.min.js", d.async = !0, d.src = e, c.parentNode.insertBefore(d, c) }(window, document);
+        freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+    </script>
+</head>
+<body onLoad="img1();">
+<form name="form1" method="post" action="newsop2new2.aspx?year=2024&amp;month=May&amp;id=196397&amp;fname=undp_amplifies_fight_against_climate_change_in_somalia&amp;type=news" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTgzNjE3NTEyMmRkCdo3wkXJ6sCFhOWVyvvUWVM02BA=" />
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E512EFBB" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLmkc4+Asjq5eACAqfRs+kLVPhUcGVDtgORRJ773TGg+nddYSU=" />
+<span id="Label1" style="font-size: large"></span>
+<SCRIPT LANGUAGE="JavaScript">
+<!--    Begin
+    function popUp(URL) {
+        day = new Date();
+        id = day.getTime();
+        eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=300,height=490,left = 310,top = 262');");
+    }
+// End -->
+</script>
+<style type="text/css">
+
+.articles {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	color: #0000EE;
+	text-decoration: none;
+}
+    </style>
+<link href="/style4news.css" rel="stylesheet" type="text/css" />
+<div id="body" class="wide"><div id="body-content">
+<div id="header">
+<h1><a href="/">Hiiraan Online</a></h1>
+<div id="header-ad">
+<iframe width="500" style="border:none;" height="80" src="/ad1.html">  
+  <p></p>
+</iframe>
+</div>
+</div>
+<div id="ticker">
+<div id="ticker-date">5/23/2024
+</div>
+<div id="ticker-text">
+Today from Hiiraan Online:
+<img class="tickButton" id="back" src="/buttonBackOnWht.gif" border="0" height="11" width="10" alt />
+<img class="tickButton" id="next" src="/buttonNextOnWht.gif" border="0" height="11" width="10" alt />
+<span id="tick" class="tickContent"><a href="#">&nbsp;</a></span><span id="cursor"><img src="/tickerCursor.gif" border="0" alt="_" height="10" width="8" /></span> <script language="javascript"> var arrNewsItems = new Array();  arrNewsItems.push(new Array('Armed group attacks Danab troops in Middle Shabelle: casualt...', '/news4/2024/May/196404/armed_group_attacks_danab_troops_in_middle_shabelle_casualties_reported.aspx'));  arrNewsItems.push(new Array('Fake air traffic controllers are making Somali airspace more...', '/news4/2024/May/196403/fake_air_traffic_controllers_are_making_somali_airspace_more_dangerous.aspx'));  arrNewsItems.push(new Array('Somali nonprofit got a million-dollar cut from Feeding Our F...', '/news4/2024/May/196402/somali_nonprofit_got_a_million_dollar_cut_from_feeding_our_future_fraud_prosecutors_say.aspx'));  arrNewsItems.push(new Array('Howlgalo lagu dilay xubno ka tirsan kooxda Al-shabaab oo ka ...', '/news/2024/May/wararka_maanta23-187193.htm'));  arrNewsItems.push(new Array('Golaha Ammaanka oo Cunaqabatayn kusoo rogay hoggaamiyayaal k...', '/news/2024/May/wararka_maanta23-187192.htm'));  arrNewsItems.push(new Array('Maleeshiyo beeleed hubeysan oo Shabeellaha dhexe ku weeraray...', '/news/2024/May/wararka_maanta23-187191.htm'));  var intTickSpeed = 8000;  var intTickPos = 0;  var tickLocked = false; var fadeTimerID; var autoTimerID = 0; var intTypeSpeed = 16; var intCurrentPos = 0; var currentText = ''; var currentLink = ''; var strText = ''; var isFirstPass = true; </script> <script language="javascript" src="/news2.js"></script>
+</div>
+</div>
+<div id="menu">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="http://www.un.org/Depts/Cartographic/map/profile/somalia.pdf#search=%27somalia%20map%27">Somali Map</a></li>
+<li><a href="https://goo.gl/ucUFae">Sports</a></li>
+<li><a href="/moreop.aspx">Opinion</a></li>
+<li class="rss"><a href="/news2/2013/mar/rss_really_simple_syndication.aspx">RSS</a></li>
+<li><a href="/music.aspx">Somali Music</a></li>
+<li><a href="/news4/2017/feb/140758/contact_us.aspx">Contact Us</a></li>
+<li class="facebook"><a href="https://www.facebook.com/hiiraanpage">Facebook</a></li>
+<li class="twitter"><a href="https://twitter.com/#!/hiiraan">Twitter</a></li>
+<li class="gplus"><a href="https://plus.google.com/108515464951719182609/posts">Google Plus</a></li>
+</ul>
+</div>
+<div style="font-size:14px;text-align:center;">advertisements</div>
+<div id="leaderboard">
+
+<div align="center" data-freestar-ad="__320x100 __970x250" id="hiiraan_leaderboard_btf">
+<script data-cfasync="false" type="text/javascript">
+      freestar.config.enabled_slots.push({ placementName: "hiiraan_leaderboard_btf", slotId: "hiiraan_leaderboard_btf" });
+  </script>
+</div>
+</div>
+<div id="main" class="normal-thin"><div id="main-content">
+<div id="sidebar-left">
+<div class="sidebar-ads2">
+<script language="javascript" type="text/javascript" async> imgto = new Image(); seconds ="1"; function img1() {setTimeout("img2()", seconds *3500);} function img1() { document.myimg.src = '/2024/jobs/May/2024522638519782246580542.gif'; setTimeout("img2()", seconds * 2500); }  function img2() { document.myimg.src = '/2024/jobs/May/2024522638519779219032827.gif'; setTimeout("img3()", seconds * 2500); }  function img3() { document.myimg.src = '/2024/jobs/May/2024521638518931098840522.gif'; setTimeout("img4()", seconds * 2500); }  function img4() { document.myimg.src = '/2024/jobs/May/2024520638518038378549857.gif'; setTimeout("img5()", seconds * 2500); }  function img5() { document.myimg.src = '/2024/jobs/May/2024520638518031786963746.gif'; setTimeout("img6()", seconds * 2500); }  function img6() { document.myimg.src = '/2024/jobs/May/2024519638517310616700123.gif'; setTimeout("img7()", seconds * 2500); }  </script> <script language="javascript" type="text/javascript" async> imgto = new Image(); seconds ="1"; function img1() {setTimeout("img2()", seconds *3500);} function img1() { document.myimg.src = '/2024/jobs/May/2024522638519782246580542.gif'; setTimeout("img2()", seconds * 2500); }  function img2() { document.myimg.src = '/2024/jobs/May/2024522638519779219032827.gif'; setTimeout("img3()", seconds * 2500); }  function img3() { document.myimg.src = '/2024/jobs/May/2024521638518931098840522.gif'; setTimeout("img4()", seconds * 2500); }  function img4() { document.myimg.src = '/2024/jobs/May/2024520638518038378549857.gif'; setTimeout("img5()", seconds * 2500); }  function img5() { document.myimg.src = '/2024/jobs/May/2024520638518031786963746.gif'; setTimeout("img6()", seconds * 2500); }  function img6() { document.myimg.src = '/2024/jobs/May/2024519638517310616700123.gif'; setTimeout("img1()", seconds * 2500); }  </script> <a href="/news4/2016/job/105060/hol_job_posting_expression_of_interest_call_for_proposals.aspx"><img src="/2024/jobs/May/2024523638520673728415741.gif" height=" 200px" width="150px" name="myimg"> </a>
+<BR></A><IMG style="FONT-SIZE: 11px; VERTICAL-ALIGN: middle" alt src="/index_files/divider.gif"><BR style="FONT-SIZE: 11px"><A style="FONT-SIZE: 11px; COLOR: blue" href="http://www.aminarts.com/"><IMG style="VERTICAL-ALIGN: middle" alt src="/2005/jan/images/aminarts.jpg"></A><BR style="FONT-SIZE: 11px"><IMG style="FONT-SIZE: 11px; VERTICAL-ALIGN: middle" alt src="/index_files/divider.gif"><BR style="FONT-SIZE: 11px"><A style="FONT-SIZE: 11px; COLOR: blue" href="https://www.facebook.com/hiiraanonlinepage/"><IMG style="VERTICAL-ALIGN: middle" alt src="/images/fbhol.jpg" width="150"></A><BR style="FONT-SIZE: 11px"><IMG style="FONT-SIZE: 11px; VERTICAL-ALIGN: middle" alt src="/index_files/divider.gif"><BR style="FONT-SIZE: 11px"><A style="FONT-SIZE: 11px; COLOR: blue" href="http://www.dralimaoaweys.com/"><IMG style="VERTICAL-ALIGN: middle" width="100%" alt src="/2022/images/Dec/2022125638058767462898919.jpg"></A><BR style="FONT-SIZE: 11px"><IMG style="FONT-SIZE: 11px; VERTICAL-ALIGN: middle" alt src="/index_files/divider.gif">
+<script id="_wau1t7">var _wau = _wau || []; _wau.push(["classic", "od00u2fp", "1t7"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="//widgets.amung.us/classic.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();</script>
+
+<div align="center" data-freestar-ad="__160x600" id="hiiraan_medrec_left">
+<script data-cfasync="false" type="text/javascript">
+      freestar.config.enabled_slots.push({ placementName: "hiiraan_medrec_left", slotId: "hiiraan_medrec_left" });
+  </script>
+</div>
+</div>
+</div>
+<div id="content">
+<div class="google-search">
+<a href="https://www.google.com/"><img alt="Google" src="/index_files/Logo_25wht.gif" align="middle" border="0"></a><input name="desktopcontrol1$newsdesktop3$search1$TextBox1" type="text" id="desktopcontrol1_newsdesktop3_search1_TextBox1" />
+<input type="submit" name="desktopcontrol1$newsdesktop3$search1$Button1" value="Search on Hiiraan.com" id="desktopcontrol1_newsdesktop3_search1_Button1" style="height: 26px" />
+</div>
+<div class="single">
+<div class="title">
+<span id="desktopcontrol1_newsdesktop3_lbltitle">UNDP amplifies fight against climate change in Somalia </span></div>
+<div class="description">
+<link rel="stylesheet" type="text/css" href="/2022/css/socializer.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+<style>
+.socializer2  {
+    float: left;
+    list-style: none;
+    padding: 1px;
+    margin: 6px 0px 0px 0px;
+    display: inline-block;
+    position: relative
+}
+</style>
+<div class="socializer a sr-32px sr-circle sr-fade-white sr-font-sm sr-icon-white sr-bdr-md sr-sw-icon-1 sr-pad"><span class="socializer2"><i class="fa fa-share-alt"></i><span class="text"> 218 Shares</span><ul class="socializer"></ul></span><span class="sr-facebook sr-text-in"><a href="/social/social.aspx?id=196397&s=1" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i><span class="text">Facebook</span></a></span><span class="sr-fbmessenger sr-text-in"><a href="/social/social.aspx?id=196397&s=2" target="_blank" title="Facebook messenger"><i class="fa fa-comment"></i><span class="text">Facebook messenger</span></a></span><span class="sr-twitter sr-text-in"><a href="/social/social.aspx?id=196397&s=4" target="_blank" title="Twitter"><i class="fab fa-twitter"></i><span class="text">Twitter</span></a></span><span class="sr-whatsapp sr-text-in"><a href="/social/social.aspx?id=196397&s=3" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i><span class="text">WhatsApp</span></a></span><span class="sr-linkedin sr-text-in"><a href="/social/social.aspx?id=196397&s=6"><i class="fab fa-linkedin"></i><span class="text">LinkedIn</span></a></span><span class="sr-telegram sr-text-in"><a href="/social/social.aspx?id=196397&s=5" target="_blank" title="Telegram"><i class="fab fa-telegram-plane"></i><span class="text">Telegram</span></a></span><span class="sr-email sr-text-in"><a href="/social/social.aspx?id=196397&s=8" target="_blank" title="Email"><i class="fa fa-envelope"></i><span class="text">Email</span></a></span></div>
+<span id="desktopcontrol1_newsdesktop3_lblcontent"><p><img src="/images/logo/KBC.jpg" style="border-width:0px;" /><br>By Martin Mwanje <br> Thursday May 23, 2024</p><p><img id="imageuploader41_Image1" src="/2024/images/May/2024523638520518057791970.jpg" style="border-width:0px;"></p><p>The United Nations Development Programme (UNDP) in Somalia is leveraging new areas that it says will help amplify its climate mitigation measures in the country that is synonymous with climate change-induced natural disasters.<br><br>&nbsp;Over the years, Somalia has borne the brunt of climate extremes that include drought and floods, and which among other things often trigger mass displacement and unemployment, scramble for the scarce resources and security risks.<br><br><b>Youths and Climate Change</b><br><br><div class="inline-ad"><div style="font-size:14px;text-align:center;">advertisements</div><div align="center" data-freestar-ad="__300x250 __336x280" id="hiiraan_incontent_3"><script data-cfasync="false" type="text/javascript"> freestar.config.enabled_slots.push({ placementName: "hiiraan_incontent_3", slotId: "hiiraan_incontent_3" }); </script> </div></div>In the midst of the lingering challenges posed by the ensuing effects of climate change in the country, one arsenal has seldom been used to reverse the trend – the young people who are the majority in the country.<br><br>An estimated 73% of Somalia’s population is made up of the youths. Aware of the impact they can have in its climate mitigation measures as it maps out new areas that can help redefine the climate change discourse in the country, the UNDP has since resolved to incorporate the young people in its climate change initiatives.<br><br>Tarik Islam is the Chief Technical Specialist, Resilience and Climate Change Portfolio of UNDP Somalia. He says it is not only critical for the youths to be involved in initiatives aimed at nipping the effects of climate change in the bud, but such involvement ought to be concentrated at the grassroots countrywide.<br><br>“We are not focusing on youth organizations based in Mogadishu only. It has to be at the local level by making sure that in Somalia, a country where 73% of the population are in the youth group, any development solution that we talk about satisfies the expectations of the youthful generation. If it does not satisfy the expectations of the youths, it is probably not relevant for Somalia when it comes to resilience,” said Islam while talking to KBC Digital from Mogadishu in an interview last Friday.<br><br>“There are many opportunities that are accessible by the youths no matter where there are physically located. So, it is important that the youths in Somalia should not be wasted, the youths should not be left unattended and used by terrorist groups and ignored by the development processes that are in place.”<br><br>A year and a half ago, UNDP and Sida, in collaboration with the Ministry of Environment and Climate Change (MoECC), unveiled the “Somalia Youth Climate Platform” to highlight the vital role that young people can play in addressing climate change in the country. This initiative aims to unite youth groups from all regions to actively engage in efforts to combat the long-standing climate risks affecting Somalia.<br><br>Further, mid this month, UNDP Somalia also brought together youth groups drawn from across the country for a stock taking exercise of the Conference Of The Parties (COP28) which was held in UAE last year. At the meeting, participants reflected on their participation, the challenges, what needs to be done, and the lessons learned during the two-weeks conference that was held in Dubai with thousands of delegates from across the globe in attendance.<br><br><b>Blue Economy </b><br><br>Yet, the involvement of the youths in climate change discourse is not only the new frontier that the UNDP is seeking to leverage on.<br><br>Islam emphasized the vast untapped potential of the blue economy and announced that the UNDP, in collaboration with FAO and UNIDO, has completed a proposal for launching the Blue Economy project in the country’s coastal areas under the leadership of the Ministry of Fishery and Blue Economy. The project is set to kick off in the third quarter of this year, promising significant opportunities for sustainable development and growth.<br><br>“If the country needs to be graduated from poverty, in its current situation, if the full potential of the blue economy can be unleashed, that can change the face of the country. It is a game changer program,” added the UNDP Somalia official.<br><br>According to him, the project, if implemented will also ensure the country’s fisheries sector operates optimally, as well as spur eco-tourism through the opening up of the virgin Coastal ecosystems to other interested players among them ecologists and environmentalists.<br><br>However, amid the mapping of the new areas, Islam singles out three fundamental issues that need to be urgently ironed out to ensure the success of their campaigns.<br><br>To begin with, he singles out the issue of climate financing which remains a thorn in the flesh of various partners working round the clock to curb the effects of climate change in Somalia.<br><br>“There are a number of international partners now coming up to really help the country mobilize more resources, more climate resources, but they are still limited compared to what is needed. There is need to ensure funding gaps of national priorities are mitigated.”<br><br>He at the same time decries the disjointed manner in which climate change initiatives are carried out, a maladjustment he says they working round the clock to address.<br><br>“What we are trying to really do is to ensure that the country comes up with an integrated approach that make sure that policy, institutional, technological and information and legal barriers are identified and addressed, and an enabling policy environment is put in place so that the private sector who are the main players for the investment in the blue economy feel confident in the country’s strategies and participate in the economic activities across the board,” notes Islam.<br><br>Lastly, in the light of institutions most of which are nascent and lack requisite resources to execute their mandate, Islam roots for capacity building which he terms critical in helping them define their niche and mandate. In so doing, he strongly advocates that this approach will effectively minimize redundancies, bolster existing mitigation and adaptation strategies, and ultimately combat the pressing climate issues confronting Somalia.<br></p></span>
+<br/>
+<br/>
+&nbsp;
+<span id="desktopcontrol1_newsdesktop3_lblmorenews"></span>
+</div>
+<br/>
+<br/>
+<br/>
+
+<div class="adsbyvli" data-ad-slot="vi_1303650606"></div><script>(vitag.Init = window.vitag.Init || []).push(function(){viAPItag.display("vi_1303650606")})</script>
+
+<br/>
+<br/>
+<span id="desktopcontrol1_newsdesktop3_lblframe"><a href="/comments/comments7.aspx?fname=undp_amplifies_fight_against_climate_change_in_somalia&month=May&year=2024&id=196397"><img src="https://hiiraan.com/comments/comments.gif" alt="Click here" /></a></span>
+<br/>
+<br/>
+<span id="desktopcontrol1_newsdesktop3_lblfb"> </span>
+</div>
+<div class="nav">
+<ul>
+<li class="home"><a id="desktopcontrol1_newsdesktop3_HyperLink5" href="/">Home</a></li>
+<li class="email"><a id="desktopcontrol1_newsdesktop3_HyperLink6" href="javascript:popUp('http://www.hiiraan.com/email.aspx?title=UNDP amplifies fight against climate change in Somalia&amp;link=http://www.hiiraan.com/news4/2024/May/196397/undp_amplifies_fight_against_climate_change_in_somalia.aspx')">Email</a></li>
+</ul>
+</div>
+</div>
+<div id="sidebar-right2a">
+</div>
+<div class="clear"></div>
+</div></div>
+<div id="footer">
+<a href="/moreop.aspx">Opinion</a> | <a href="/news4/2021/jan/181422/privacy_policy.aspx">Privacy Policy</a> | <a href="https://goo.gl/ucUFae">Sports</a> | <a href="/music.aspx">Somali Music</a> | <a href="http://www.un.org/Depts/Cartographic/map/profile/somalia.pdf#search=%27somalia%20map%27">Somali Map</a> <br>
+All Rights Reserved Copyright. &copy; 1999-2024, www.hiiraan.com
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</div>
+<script>(function(){/* Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0*/'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);window.__d3lUW8vwsKlB__("WyJmMDgzOGYyM2IyZDZhN2YwIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4Vy0yRC1OcE9qLUhoNjdaUzdKVkk0X1EwR0VNZW1rUGtGOW1fX3ZfNllGVWgxcjdLZ2VVOW9UanNhamRMY19ueEFSWklYVzRCREhYb3dpUURWQkJJOFx1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiWmpBNE16aG1Nak5pTW1RMllUZG1NQVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC9mMDgzOGYyM2IyZDZhN2YwLmpzP3VzcXBcdTAwM2RDQUUiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVdjVHVWkteWFtOFpOWC1jYzRjUjd2Q1JJTlNUOFZyVHp4LW9VcmQzOXMyV0xYQkZiR0pmS1FOWDNVN3VGbHNsWFdJTEV1Njl6LUNNQ1VlNUlyP2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4VnNETGtUcmdSSlRtTEZOMXRTNnlmRHdjS1h5WVBLQzlHUzdjLXFRb1YtOXNhOF9rNDAtRFgwbXlMRGRlZEFJeGRSNEtoOXZjcU9JZF9OenI0cD9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVM0MyRm85SDZNR1d1R3hSX3YwcXB3Qm0zVzN0cWg3ajkxRm9RR3ZwTi1yOGY2RWtXTUdod2RVa3UwNGhJVjVLV2ZxUWppUWRCLVdkZUZEa0RDP3NiZlx1MDAzZDIiXQo=");</script>
+</div></div>
+</form>
+</body>
+</html>

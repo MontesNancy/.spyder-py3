@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <title>Syrian first lady Asma Assad suffers from leukemia | Al Bawaba</title>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TR99CZG');</script>
+    <!-- End Google Tag Manager -->
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_QPJdcOd2_kaknCoLBgHtaE_Nxx1l0MljDkTap94m-HI.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_7wMMfYTNRYOw_LJkVY54SwmmcdGTBsnF5HcLxHbtsYw.css" />
+
+        <meta charset="utf-8" />
+<meta name="mrf-extractable" content="false" />
+<link rel="canonical" href="https://www.albawaba.com/node/syrian-first-lady-asma-assad-suffers-leukemia-1567960" />
+<script>window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push ({ 'articleAuthor' : 'syndicationeditor', 'articleCategory': 'The node', 'articleLanguage': 'EN'});</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QBCQST9H29"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-QBCQST9H29", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","link_attribution":true});</script>
+<meta name="description" content="ALBAWABA - The Syrian presidency announced on Tuesday that the country&#039;s First Lady Asma Assad, wife of Syrian President Bashar Assad, has been diagnose" />
+<meta name="abstract" content="ALBAWABA - The Syrian presidency announced on Tuesday that the country&#039;s First Lady Asma Assad, wife of Syrian President Bashar Assad, has been diagnose" />
+<meta name="keywords" content="Asma Assad, Bashar Assad, Syria, First Lady" />
+<link rel="shortlink" href="https://www.albawaba.com/node/1567960" />
+<meta name="robots" content="max-image-preview:large" />
+<meta name="referrer" content="origin" />
+<meta name="rights" content="©2024 Al Bawaba. All rights reserved." />
+<meta property="og:site_name" content="Al Bawaba" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.albawaba.com/node/syrian-first-lady-asma-assad-suffers-leukemia-1567960" />
+<meta property="og:title" content="Syrian first lady Asma Assad suffers from leukemia | Al Bawaba" />
+<meta property="og:description" content="ALBAWABA - The Syrian presidency announced on Tuesday that the country&#039;s First Lady Asma Assad, wife of Syrian President Bashar Assad, has been diagnose" />
+<meta property="og:image" content="https://www.albawaba.com/sites/default/files/styles/default/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?itok=XLovD2j7" />
+<meta property="og:image:url" content="https://www.albawaba.com/sites/default/files/styles/default/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?itok=XLovD2j7" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta itemprop="image" content="https://www.albawaba.com/sites/default/files/styles/default/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?itok=XLovD2j7" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Syrian first lady Asma Assad suffers from leukemia | Al Bawaba" />
+<meta name="twitter:description" content="ALBAWABA - The Syrian presidency announced on Tuesday that the country&#039;s First Lady Asma Assad, wife of Syrian President Bashar Assad, has been diagnose" />
+<meta name="twitter:image:height" content="630" />
+<meta name="twitter:image" content="https://www.albawaba.com/sites/default/files/styles/default/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?itok=XLovD2j7" />
+<meta name="twitter:image:width" content="1200" />
+<meta name="facebook-domain-verification" content="sbzhyua4w38y4p0fgzc13xsv6lm4w1" />
+<meta name="p:domain_verify" content="85420ddac6963c616968109fe3d1e16b" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Syrian first lady Asma Assad suffers from leukemia",
+            "description": "ALBAWABA - The Syrian presidency announced on Tuesday that the country\u0027s First Lady Asma Assad, wife of Syrian President Bashar Assad, has been diagnosed with leukemia.The statement published by the Presidency of the Syrian Arab Republic a few minutes ago on social media platforms revealed that Asma Assad, 48, recently underwent a series of medical and laboratory tests.The results of the tests confirmed that the Syrian First Lady is suffering from acute myelogenous leukemia.",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.albawaba.com/sites/default/files/styles/d08_standard/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?h=4362216e\u0026itok=cN3xsyVH",
+                "width": "800",
+                "height": "450"
+            },
+            "datePublished": "2024-05-21T07:42:35+0000",
+            "dateModified": "2024-05-21T08:20:03+0000",
+            "author": {
+                "@type": "Person",
+                "name": "Sally Shakkour"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Al Bawaba",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.albawaba.com/themes/custom/abn/logo.png"
+                }
+            },
+            "mainEntityOfPage": "https://www.albawaba.com/node/syrian-first-lady-asma-assad-suffers-leukemia-1567960",
+            "articleSection": ""
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.albawaba.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "The Node",
+                    "item": "https://www.albawaba.com/the-node"
+                }
+            ]
+        }
+    ]
+}</script>
+<link href="/themes/custom/abn/images/touch-icon-iphone.png?v=1" rel="apple-touch-icon" />
+<link href="/themes/custom/abn/images/touch-icon-ipad.png?v=1" rel="apple-touch-icon" />
+<link href="/themes/custom/abn/images/touch-icon-iphone-retina.png?v=1" rel="apple-touch-icon" />
+<link href="/themes/custom/abn/images/touch-icon-ipad-retina.png?v=1" rel="apple-touch-icon" />
+<link rel="icon" href="/themes/custom/abn/favicon.ico" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://www.albawaba.com/node/syrian-first-lady-asma-assad-suffers-leukemia-1567960" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    
+        <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "lwwxi1a184");
+</script>
+
+<script type="text/javascript">
+function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement("script");c.src=e,t?c.type="module":(c.async=!0,c.type="text/javascript",c.setAttribute("nomodule",""));var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(c,n)}function t(t,c,n){var a,o,r;null!==(a=t.marfeel)&&void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&&void 0!==o||(r.cmd=[]),t.marfeel.config=n,t.marfeel.config.accountId=c;var i="https://sdk.mrf.io/statics";e("".concat(i,"/marfeel-sdk.js?id=").concat(c),!0),e("".concat(i,"/marfeel-sdk.es5.js?id=").concat(c),!1)}!function(e,c){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};t(e,c,n)}(window,1446,{} /*config*/);
+</script>
+
+<!-- SETUPADS -->
+
+<!--    Start of scripts for lazy loading-->
+<script src="https://cdn.jsdelivr.net/npm/in-view@0.6.1/dist/in-view.min.js"></script>
+<script> (window.innerWidth >= 1024) ? inView.offset(-200) : inView.offset(-300); </script>
+<!--    End of scripts for lazy loading-->
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+    if (window.location.href.indexOf(".net") > -1) {
+        stpd = window.stpd || {que: []};
+        window.googletag = window.googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function() {
+            if (window.innerWidth >= 1024) {
+                googletag.defineSlot('/147246189,48467244/albawaba.net_1000x100_anchor_desktop', [[1000,100],[970,90],[728,90],[990,90],[970,50],[960,90],[950,90],[980,90]], 'albawaba_net_anchor_responsive').addService(googletag.pubads());            
+                googletag.defineSlot('/147246189,48467244/albawaba.net_970x250_top_billboard_desktop', [[970,250],[970,90],[728,90],[970,200],[970,120],[950,90],[728,100],[728,250]], 'albawaba_net_top_billboard_responsive').addService(googletag.pubads());            
+            } else {
+                googletag.defineSlot('/147246189,48467244/albawaba.net_320x100_anchor_mobile', [[320,100],[320,50],[300,100],[300,50]], 'albawaba_net_anchor_responsive').addService(googletag.pubads());            
+                googletag.defineSlot('/147246189,48467244/albawaba.net_336x336_top_billboard_mobile', [[336,336],[336,320],[320,336],[320,320],[300,300],[336,280],[320,250],[300,250]], 'albawaba_net_top_billboard_responsive').addService(googletag.pubads());            
+            }               
+
+            var interstitialSlot = googletag.defineOutOfPageSlot('/147246189,48467244/albawaba.net_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+            if (interstitialSlot) interstitialSlot.addService(googletag.pubads());
+
+            googletag.pubads().disableInitialLoad();
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+            googletag.display(interstitialSlot);
+        });    
+    }
+</script>
+<script async src="https://stpd.cloud/saas/7169"></script>
+<style>
+    .in_article_responsive_ad_banner{
+        min-height: 336px !important;
+    }
+    @media (min-width: 1200px) {
+        .in_article_responsive_ad_banner{
+            min-height: 280px !important;
+        }
+    }
+    @media (max-width: 767px) {
+        .mobile_ad_banner_square{
+            min-height: 336px !important;
+        }
+        .mobile_ad_banner_tall{
+            min-height: 600px !important;
+        }
+    }
+</style>
+      </head>
+    <body class="path-node page-node-type-article has-glyphicons">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR99CZG"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+      <a href="#main-content" class="visually-hidden focusable skip-link">
+        Skip to main content
+      </a>
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="colorized-page colorized-node-page the-node nero term-490">
+                        <header class="navbar navbar-default container-fluid header-margin" id="navbar" role="banner">
+                  <div class="navbar-header">
+            <div class="container">
+
+                <div class="region region-navigation">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img src="/themes/custom/abn/logo-new-24.png" alt="Home" width="288" height="70" />
+    </a>
+      <section id="block-subscribebutton" class="subscribe-btn basic block block-block-content block-block-content6c07b915-62a0-4745-aecf-c03313be3729 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><a href="/node/113" class="btn btn-default">Subscribe</a></div>
+      
+  </section>
+
+<section id="block-dummysearch" class="block-views-exposed-filter-blocksearch-search-page basic block block-block-content block-block-content9b7ae47f-3b69-4242-9916-bb7ef0a48e92 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><section class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksearch-search-page clearfix" data-drupal-selector="views-exposed-form-companies-companies-landing-page" id="block-exposedformsearchsearch-page-2"><form action="/search" method="get" id="views-exposed-form-companies-companies-landing-page2" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <a href="#" class="iconopen glyphicon glyphicon-search"></a><div class="custom-search-wrapper" style="display: none;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-group">
+      <label for="edit-keyword" class="control-label">Search</label>
+  
+  
+  <input placeholder="Enter Keyword" data-drupal-selector="edit-keyword" class="form-text form-control" type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128" required="" /></div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit-search" class="button js-form-submit form-submit btn-primary btn icon-before" type="submit" id="edit-submit-search" value="Search" name=""><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+Search</button></div>
+</div><div class="form-item js-form-item form-type-select js-form-type-select form-item-sort-by js-form-item-sort-by form-group">
+      <label for="edit-sort-by" class="control-label">Sort by</label>
+  
+  
+  <input type="hidden" name="sort_by" value="created" /><div data-drupal-selector="edit-sort-by" class="form-select bef-links" id="edit-sort-by" name="sort_by">
+                    <ul><li><a href="/search" id="edit-sort-by-search-api-relevance" name="sort_by[search_api_relevance]" class="bef-link bef-link--selected">Relevance</a>                      </li><li><a href="/search?sort_by=title" id="edit-sort-by-title" name="sort_by[title]" class="bef-link">Title</a>                      </li><li><a href="/search?sort_by=created" id="edit-sort-by-created" name="sort_by[created]" class="bef-link">Date</a></li></ul></div>
+
+
+  
+  
+  </div>
+
+</div>
+
+</form>
+
+  </section></div>
+      
+  </section>
+
+<section class="language-switcher block block-abn-misc block-language-switcher clearfix" id="block-languageswitcher-2">
+  
+    
+
+      <a href="/ar">عربي</a>
+  </section>
+
+
+  </div>
+
+              <span class="page-category sm-page-category">The Node</span>
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                          </div>
+          </div>
+
+                                <div class="navbar-menu">
+              <div class="container">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                    <div class="region region-navigation-collapsible">
+    <nav role="navigation" aria-labelledby="block-abn-main-menu-menu" id="block-abn-main-menu">
+            <h2 class="sr-only" id="block-abn-main-menu-menu">English Main navigation</h2>
+
+      
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/" target="_self" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                      <li>
+                                        <a href="/news" target="_self" data-drupal-link-system-path="taxonomy/term/260">News</a>
+              </li>
+                      <li>
+                                        <a href="/business" target="_self" data-drupal-link-system-path="taxonomy/term/261">Business</a>
+              </li>
+                      <li>
+                                        <a href="/entertainment" target="_self" data-drupal-link-system-path="taxonomy/term/262">Entertainment</a>
+              </li>
+                      <li>
+                                        <a href="/sport" target="_self" data-drupal-link-system-path="taxonomy/term/449">Sports</a>
+              </li>
+                      <li>
+                                        <a href="/lifestyle" target="_self" data-drupal-link-system-path="taxonomy/term/1044432">Lifestyle</a>
+              </li>
+                      <li>
+                                        <a href="/the-node" target="_self" data-drupal-link-system-path="taxonomy/term/490">The Node</a>
+              </li>
+                      <li class="last">
+                                        <a href="/slideshows" data-drupal-link-system-path="node/182">Slideshows</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher block block-abn-misc block-language-switcher clearfix" id="block-languageswitcher">
+  
+    
+
+      <a href="/ar">عربي</a>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-socialmedialinks-menu" id="block-socialmedialinks" class="social-media-links">
+            
+  <h2 class="visually-hidden" id="block-socialmedialinks-menu">Social media links</h2>
+  
+
+        
+      <ul class="menu menu--social-media-links nav">
+                      <li class="first">
+                                        <a href="https://www.facebook.com/AlBawabaNews" target="_blank" class="fab fa-facebook-f" title="Facebook">FB</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/company/al-bawaba-news/" target="_blank" class="fab fa-linkedin">Linkedin</a>
+              </li>
+                      <li>
+                                        <a href="https://twitter.com/AlBawabaEnglish" target="_blank" class="fab fa-twitter" title="Twitter">Twitter</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.youtube.com/channel/UCq7q_X4Wwf4yWsyG83zZV3w" target="_blank" class="fab fa-youtube">YouTube</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-subscribebutton-2" class="subscribe-btn-mobile basic block block-block-content block-block-content6c07b915-62a0-4745-aecf-c03313be3729 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><a href="/node/113" class="btn btn-default">Subscribe</a></div>
+      
+  </section>
+
+
+  </div>
+
+                </div>
+              </div>
+            </div>
+              <span class="page-category xs-page-category">The Node</span>
+                          </header>
+      
+    <div class="visible-print-block header-print page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+                                <img class="logo pull-left visible-print-inline-block" src="/themes/custom/abn/logo-print.png" />
+                  </div>
+      </div>
+    </div>
+  </div>
+
+    
+        <div role="main" class="main-container container js-quickedit-main-content">
+      <div class="row">
+
+                                      <div class="col-sm-12" role="heading">
+                <div class="region region-header">
+    <div data-drupal-messages-fallback class="hidden"></div>
+    <ol class="breadcrumb">
+          <li >
+                  <a href="/">Home</a>
+              </li>
+          <li >
+                  <a href="/the-node">The Node</a>
+              </li>
+          <li  class="active">
+                  Syrian first lady Asma Assad suffers from leukemia
+              </li>
+      </ol>
+
+    <h1 class="page-header">
+<span>Syrian first lady Asma Assad suffers from leukemia</span>
+</h1>
+
+
+  </div>
+
+            </div>
+                  
+                
+                        <section class="col-sm-12">
+
+                    
+                    
+                    
+                    
+                                <a id="main-content"></a>
+              <div class="region region-content">
+      <article data-history-node-id="1567960" role="article" class="article full clearfix">
+
+  <div class="content">
+    <div class="row bs-2col">
+  
+
+    <div class="col-sm-8 bs-region bs-region--left">
+    <section class="block block-layout-builder block-field-blocknodearticlecreated clearfix">
+  
+    
+
+      
+<span>Published May 21st, 2024 - 07:42 GMT</span>
+
+  </section>
+
+<section class="block block-addtoany block-addtoany-block clearfix">
+  
+    
+
+      <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://www.albawaba.com/node/syrian-first-lady-asma-assad-suffers-leukemia-1567960" data-a2a-title="Syrian first lady Asma Assad suffers from leukemia"><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_whatsapp"></a><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.albawaba.com%2Fnode%2Fsyrian-first-lady-asma-assad-suffers-leukemia-1567960&amp;title=Syrian%20first%20lady%20Asma%20Assad%20suffers%20from%20leukemia"></a></span>
+  </section>
+
+<section class="block block-layout-builder block-field-blocknodearticlefield-image-file clearfix">
+  
+    
+
+      
+            <div class="field field--name-field-image-file field--type-image field--label-hidden field--item">      <picture>
+                  <source srcset="/sites/default/files/styles/d08_standard/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?h=4362216e&amp;itok=cN3xsyVH 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d04_standard/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?h=4362216e&amp;itok=m5dz9U7C 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+                  <img height="450" width="800" fetchpriority="high" loading="eager" src="/sites/default/files/styles/d06_standard/public/2024-05/AFP__20230923__33WC4G7__v3__Preview__TopshotAsiad20222023HangzhouOpening.jpg?h=4362216e&amp;itok=Z5XDOh8Q" alt="Asma Assad" title="Syria&#039;s President Bashar Assad (C) and his wife Asma Assad (L) attend the opening ceremony of the 2022 Asian Games at the Hangzhou Olympic Sports Centre Stadium in Hangzhou in China&#039;s eastern Zhejiang province on September 23, 2023. (Photo by Philip FONG / AFP)" class="img-responsive" />
+
+  </picture>
+
+    <div class="abn-image-caption">Syria&#039;s President Bashar Assad (C) and his wife Asma Assad (L) attend the opening ceremony of the 2022 Asian Games at the Hangzhou Olympic Sports Centre Stadium in Hangzhou in China&#039;s eastern Zhejiang province on September 23, 2023. (Photo by Philip FONG / AFP)</div>
+</div>
+      
+  </section>
+
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">
+<p><strong>ALBAWABA - The Syrian presidency announced on Tuesday that the country's First Lady Asma Assad, wife of Syrian President Bashar Assad, has been diagnosed with leukemia.</strong></p><div class="related_articles_block"><span>Also Read</span><a href="/news/asma-assad-damascus-478068" target="_blank"><img alt="There she is! Asma Assad steps out in Damascus for the first time this year" src="https://www.albawaba.com/sites/default/files/styles/large/public/im/Slide_Show/Syria_Anniversary_Refugees/Asma_Assad_March_16_2.jpg?itok=fL7eBF5J" /></a><a href="/news/asma-assad-damascus-478068" target="_blank">There she is! Asma Assad steps out in Damascus for the first time this year</a></div><p>The statement published by the Presidency of the Syrian Arab Republic a few minutes ago on social media platforms revealed that Asma Assad, 48, recently underwent a series of medical and laboratory tests.</p><p>The results of the tests confirmed that the Syrian First Lady is suffering from acute myelogenous leukemia.</p><p>The statement also reads that Asma Assad is set to undergo a specialized treatment protocol that requires isolation conditions while achieving appropriate social distancing, so she will be absent from many official events.</p><img src="/sites/default/files/im_new/syndicationeditor/GOFhSFgXEAEfW4Q.jpeg" data-entity-uuid="a928dd5c-3e21-471c-bb76-064e36a33738" data-entity-type="file" alt="" width="76.4%" height="1993" loading="lazy" /></div>
+      
+  </section>
+
+<section class="block block-ads-system block-ad-blockwysiwyg-1 clearfix">
+  
+    
+
+      <div id="ad-wysiwyg_1" class="block-entity-ads wysiwyg_1" ><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8473527651240985"
+     data-ad-slot="3902990211"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- /48467244/Albawaba_Seedtag -->
+<!--
+<div id='div-gpt-ad-1611146064522-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1611146064522-0'); });
+  </script>
+</div>
+--></div>
+  </section>
+
+<section class="views-element-container block block-views block-views-blockarticles-article-tags-block clearfix">
+  
+    
+
+      <div class="form-group"><div class="view view-articles view-id-articles view-display-id-article_tags_block js-view-dom-id-a7348852d81475c52424230980d667759886202e37b084a22fac0835f0003d48">
+  
+    
+      
+      <div class="view-content">
+      
+    <div class="views-row"><span class="views-field views-field-nothing"><span class="field-content">Tags:</span></span><a href="/tags/asma-assad" hreflang="en">Asma Assad</a><a href="/tags/bashar-assad" hreflang="en">Bashar Assad</a><a href="/tags/syria" hreflang="en">Syria</a><a href="/tags/first-lady" hreflang="en">First Lady</a></div>
+
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+<section class="basic block block-block-content block-block-contenta1dc33d2-72e9-466e-9ab7-5eb0888569e8 clearfix">
+  
+    
+
+      
+  </section>
+
+<section class="basic block block-block-content block-block-contentb9b16ca0-5517-4d75-ad7b-d5c4e9c41428 clearfix">
+  
+    
+
+      
+  </section>
+
+<section class="footer-logo block block-abn-misc block-syndigate-article clearfix">
+  
+    
+
+      <img class='syndigate-logo' src='/themes/custom/abn/images/syndigate-logo.svg' width='181' height='28'><br><p class="syndigate-compyrights">© 2000 - 2024 Al Bawaba (www.albawaba.com)</p>
+  </section>
+
+<section class="basic block block-block-content block-block-content7ad01536-ce39-401e-98ce-014da0bae541 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><!-- Composite Start -->
+<!--
+<div id="M800659ScriptRootC1301424"></div>
+<script src="https://jsc.mgid.com/a/l/albawaba.com.1301424.js" async></script>
+-->
+<!-- Composite End --></div>
+      
+  </section>
+
+
+  </div>
+  
+    <div class="col-sm-4 bs-region bs-region--right">
+    <section class="block block-ads-system block-ad-blocksidebar-1 clearfix">
+  
+    
+
+      <div id="ad-sidebar_1" class="block-entity-ads sidebar_1" ><!--<script>
+    var i=drupalSettings.adsystem.adcodes.medium_rectangle_2;
+    document.getElementById("sidebar1_ad").innerHTML='<div id="'+i+'">'+drupalSettings.adsystem.admessage+'</div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="sidebar1_ad"></div>-->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985"
+     crossorigin="anonymous"></script>
+<!-- Albawaba_Sidebar_Resp_1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8473527651240985"
+     data-ad-slot="9115271521"
+     data-ad-format="vertical"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  </section>
+
+<section class="block block-quicktabs block-quicktabs-blockhome-page-tabs clearfix">
+  
+    
+
+      <div class="quicktabs-wrapper form-group" id="quicktabs-home_page_tabs"><ul class="quicktabs-tabs" role="tablist"><li role="tab" aria-controls="quicktabs-tabpage-home_page_tabs-0" aria-selected="true" id="quicktabs-tab-home_page_tabs-0" tabIndex="-1" class="active latest" tabindex="0"><a href="/quicktabs/nojs/home_page_tabs/0" class="use-ajax quicktabs-loaded" data-quicktabs-tab-index="0">Latest</a></li><li role="tab" aria-controls="quicktabs-tabpage-home_page_tabs-1" aria-selected="false" id="quicktabs-tab-home_page_tabs-1" tabIndex="-1" class="popular"><a href="/quicktabs/nojs/home_page_tabs/1" class="use-ajax" data-quicktabs-tab-index="1">Popular</a></li></ul><div class="quicktabs-main form-group" id="quicktabs-container-home_page_tabs"><div id="quicktabs-tabpage-home_page_tabs-0" class="quicktabs-tabpage" role="tabpanel" aria-labelledby="quicktabs-tab-home_page_tabs-0" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div><div class="views-element-container form-group"><div class="latest-articles small-teaser-view view view-articles view-id-articles view-display-id-latest_articles js-view-dom-id-1901078766580d388755d23251ee83a24737bb783a0dc50aad94cf04492d0683">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><article data-history-node-id="1568523" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div  class="field--type-image has-video-0">
+        
+                    <a href="/lifestyle/what-difference-between-mounjaro-and-ozempic-1568523">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2024-05/Screenshot%20%2831%29.png?h=f179db35&amp;itok=lRMd1a_s 1x" media="all and (max-width: 767px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2024-05/Screenshot%20%2831%29.png?h=f179db35&amp;itok=2-V3C6kc 1x" media="all and (min-width: 768px)" type="image/png"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2024-05/Screenshot%20%2831%29.png?h=f179db35&amp;itok=2-V3C6kc" alt="Mounjaro " title="Shutterstock " class="img-responsive" />
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/lifestyle/what-difference-between-mounjaro-and-ozempic-1568523" hreflang="en">What is difference between Mounjaro and Ozempic?</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1568520" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div  class="field--type-image has-video-0">
+        
+                    <a href="/news/presidents-china-japan-skorea-meet-next-week-1568520">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2024-05/AFP__20240318__34LM87Z__v1__HighRes__SkoreaUsDiplomacySummit.jpg?h=d7417d8a&amp;itok=QxuV0yV8 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2024-05/AFP__20240318__34LM87Z__v1__HighRes__SkoreaUsDiplomacySummit.jpg?h=d7417d8a&amp;itok=Iclq8Dvj 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2024-05/AFP__20240318__34LM87Z__v1__HighRes__SkoreaUsDiplomacySummit.jpg?h=d7417d8a&amp;itok=Iclq8Dvj" alt="South Korea&#039;s President Yoon Suk Yeol" title="South Korea&#039;s President Yoon Suk Yeol speaks during the Third Summit for Democracy in Seoul on March 18, 2024. (Photo by KIM Min-Hee / POOL / AFP)" class="img-responsive" />
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/news/presidents-china-japan-skorea-meet-next-week-1568520" hreflang="en">Presidents of China, Japan, S.Korea to meet next week</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1568518" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div  class="field--type-image has-video-0">
+        
+                    <a href="/node/algerian-man-stabs-sister-neck-instagram-live-stream-1568518">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2024-05/shutterstock_2180176341.jpg?h=f7d9296c&amp;itok=zzAj2WKw 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2024-05/shutterstock_2180176341.jpg?h=f7d9296c&amp;itok=c8E6khDq 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2024-05/shutterstock_2180176341.jpg?h=f7d9296c&amp;itok=c8E6khDq" alt="Algerian man stabs sister in the neck on Instagram live stream" title="Stabbing attack. (Shutterstock)" class="img-responsive" />
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/node/algerian-man-stabs-sister-neck-instagram-live-stream-1568518" hreflang="en">Algerian man stabs sister in the neck on Instagram live stream</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1568500" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div  class="field--type-image has-video-0">
+        
+                    <a href="/news/macron-faces-showdown-he-arrives-new-caledonia-1568500">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2024-05/AFP__20240523__34TN8FQ__v6__Preview__FranceOverseasNcaledoniaPoliticsConstitutionUnr.jpg?h=6f3285a6&amp;itok=oQzZNUBr 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2024-05/AFP__20240523__34TN8FQ__v6__Preview__FranceOverseasNcaledoniaPoliticsConstitutionUnr.jpg?h=6f3285a6&amp;itok=uj29nqDJ 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2024-05/AFP__20240523__34TN8FQ__v6__Preview__FranceOverseasNcaledoniaPoliticsConstitutionUnr.jpg?h=6f3285a6&amp;itok=uj29nqDJ" alt="Macron" title="French President Emmanuel Macron visits the central police station with France&#039;s Minister for Interior and Overseas Gerald Darmanin (R) in Noumea, France&#039;s Pacific territory of New Caledonia on May 23, 2024. (Photo by Ludovic MARIN / POOL / AFP)" class="img-responsive" />
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/news/macron-faces-showdown-he-arrives-new-caledonia-1568500" hreflang="en">Macron faces showdown as he arrives in New Caledonia</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1568496" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div  class="field--type-image has-video-0">
+        
+                    <a href="/news/sunak-calls-national-elections-july-4-1568496">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2024-05/shutterstock_2218406965.jpg?h=164490b8&amp;itok=L2JnKwSj 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2024-05/shutterstock_2218406965.jpg?h=164490b8&amp;itok=9OlfK95B 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2024-05/shutterstock_2218406965.jpg?h=164490b8&amp;itok=9OlfK95B" alt="Rishi Sunak" title="Shutterstock" class="img-responsive" />
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/news/sunak-calls-national-elections-july-4-1568496" hreflang="en">Sunak calls for national elections on July 4</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      
+    </div>
+    </div>
+</div>
+</div>
+</div>
+<div id="quicktabs-tabpage-home_page_tabs-1" class="quicktabs-tabpage quicktabs-hide" role="tabpanel" aria-labelledby="quicktabs-tab-home_page_tabs-1" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div>Loading content ...</div>
+</div>
+</div>
+</div>
+
+  </section>
+
+<section class="block block-ads-system block-ad-blocksidebar-2 clearfix">
+  
+    
+
+      <div id="ad-sidebar_2" class="block-entity-ads sidebar_2" ><!--<script>
+    var i=drupalSettings.adsystem.adcodes.half_page_1;
+    document.getElementById("sidebar2_ad").innerHTML='<div id="'+i+'">'+drupalSettings.adsystem.admessage+'</div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="sidebar2_ad"></div>-->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985"
+     crossorigin="anonymous"></script>
+<!-- Albawaba_Sidebar_Resp_3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8473527651240985"
+     data-ad-slot="7616101995"
+     data-ad-format="vertical"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  </section>
+
+<section class="basic block block-block-content block-block-content6bd222aa-670c-49f7-937f-a6b5d47b668e clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="black-box sub-box-general">
+    <h4 class="title"> Subscribe </h4>
+    <div class="description">
+        Sign up to our newsletter for exclusive updates and enhanced content
+    </div>
+    <div class="white-button">
+        <a href="/newsletter-en/signup" class="btn btn-white">Subscribe Now </a>
+    </div>
+</div>
+
+<div class="black-box sub-box-entz" style="display:none;">
+    <form action="https://albawaba.us20.list-manage.com/subscribe/post?u=a0a085997cb4a23edb66b254a&amp;id=b8ceb6a589" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank" data-drupal-form-fields="mce-EMAIL,mc-embedded-subscribe">
+            <h4 class="title"> Subscribe </h4>
+            <div class="description">
+                Sign up to get Al Bawaba's exclusive celeb scoops and entertainment news
+            </div>
+            
+            <div class="input">
+                <input class="form-control form-text" id="mce-EMAIL" name="EMAIL" type="email" value="" placeholder="Enter Email" /></div>
+            
+            <br /><div class="white-button">
+                <input type="submit" class="btn btn-white" value="Subscribe Now" /></div>
+    </form>
+</div></div>
+      
+  </section>
+
+<section class="block block-ads-system block-ad-blocksidebar-3 clearfix">
+  
+    
+
+      <div id="ad-sidebar_3" class="block-entity-ads sidebar_3" ><!--<script>
+    var i=drupalSettings.adsystem.adcodes.medium_rectangle_2;
+    document.getElementById("sidebar3_ad").innerHTML='<div id="'+i+'">'+drupalSettings.adsystem.admessage+'</div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="sidebar3_ad"></div>-->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985"
+     crossorigin="anonymous"></script>
+<!-- Albawaba_Sidebar_MPU_2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8473527651240985"
+     data-ad-slot="4290320257"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  </section>
+
+
+  </div>
+  
+</div>
+<div class="row bs-1col">
+  
+  <div class="col-sm-12 bs-region bs-region--main">
+    
+  </div>
+</div>
+
+  </div>
+
+</article>
+
+
+  </div>
+
+                  </section>
+
+                      </div>
+    </div>
+  
+  
+  <div class="footer-wrapper">
+    <footer class="container" role="contentinfo">
+      <div class="row">
+                  <div class="footer-first col-sm-2 hidden-sm" >
+              <div class="region region-footer-first">
+    <section class="footer-logo block block-abn-misc block-footer-logo clearfix" id="block-footerlogo-2">
+  
+    
+
+      <a href="/"><img src='/themes/custom/abn/images/footer-logo.png' alt='Al Bawaba News' width='178' height='165' /></a>
+  </section>
+
+
+  </div>
+
+          </div>
+        
+                  <div class="footer-second col-sm-7" >
+              <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-abn-footer-menu" id="block-abn-footer" class="footer-menu">
+            
+  <h2 class="visually-hidden" id="block-abn-footer-menu">Footer menu</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/abstatic/about-us" target="_self" title="About Us" data-drupal-link-system-path="node/30">About Us</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/advertise-us" target="_self" title="أعلن معنا" data-drupal-link-system-path="node/16">Advertise With Us </a>
+              </li>
+                      <li>
+                                        <a href="/subscribe-to-al-bawaba" target="_self" title="Become a Subscriber" data-drupal-link-system-path="node/113">Become a Subscriber</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/editorial-team-contributors-columnists" target="_self" title="Our Team" data-drupal-link-system-path="node/50">Our Team</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/solve-technical-question" target="_self" title="حل مشكلة فنية" data-drupal-link-system-path="node/22">Solve a Technical Question</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/complaints-and-suggestions" target="_self" title="Complaints &amp; Corrections" data-drupal-link-system-path="node/21">Complaints and Suggestions</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/contact-us" target="_self" title="Contact Us" data-drupal-link-system-path="node/24">Contact Us</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/terms-use" target="_self" title="Terms of Use" data-drupal-link-system-path="node/94">Terms of Use</a>
+              </li>
+                      <li class="last">
+                                        <a href="/rss" data-drupal-link-system-path="node/1187023">RSS Feeds</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+          </div>
+        
+                  <div class="footer-third col-md-3 col-sm-5" >
+              <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-socialmedialinks-2-menu" id="block-socialmedialinks-2">
+            
+  <h2 class="visually-hidden" id="block-socialmedialinks-2-menu">Social media links</h2>
+  
+
+        
+      <ul class="menu menu--social-media-links nav">
+                      <li class="first">
+                                        <a href="https://www.facebook.com/AlBawabaNews" target="_blank" class="fab fa-facebook-f" title="Facebook">FB</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/company/al-bawaba-news/" target="_blank" class="fab fa-linkedin">Linkedin</a>
+              </li>
+                      <li>
+                                        <a href="https://twitter.com/AlBawabaEnglish" target="_blank" class="fab fa-twitter" title="Twitter">Twitter</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.youtube.com/channel/UCq7q_X4Wwf4yWsyG83zZV3w" target="_blank" class="fab fa-youtube">YouTube</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-subscribefooter" class="subscribe-footer basic block block-block-content block-block-content8aef04bd-d3ef-4867-b0e2-ea422752a650 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">
+<p>Subscribe to our newsletter for exclusive updates and enhanced content</p>
+
+<p><a class="btn btn-default" href="/subscribe-to-al-bawaba">Subscribe</a></p>
+
+</div>
+      
+  </section>
+
+
+  </div>
+
+          </div>
+              </div>
+    </footer>
+
+                  <div class="copyright" role="contentinfo">
+          <div class="container">
+              <div class="region region-footer">
+    <section id="block-dcma" class="basic block block-block-content block-block-content693cb608-c977-4799-beaf-0cfc91ed58f4 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">
+<p><a class="dmca-badge" href="//www.dmca.com/Protection/Status.aspx?ID=10df430b-fab6-4076-a8d3-f7f8b6c4abed" title="DMCA.com Protection Status"><img alt="DMCA.com Protection Status" src="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=10df430b-fab6-4076-a8d3-f7f8b6c4abed" width="135" height="28" /></a> <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js">
+<!--//--><![CDATA[// ><!--
+ 
+//--><!]]>
+</script></p>
+
+</div>
+      
+  </section>
+
+<section id="block-footercopyright" class="block block-abn-misc block-footer-copyright clearfix">
+  
+    
+
+      © 2000 - 2024 Al Bawaba (www.albawaba.com)
+  </section>
+
+
+  </div>
+
+          </div>
+        </div>
+            </div>
+
+  </div>
+
+  </div>
+
+      
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1567960","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"abn\/bootstrap-styles,abn\/global-colors-styles,abn\/global-scripts,abn\/global-styles,abn\/instawidgetblock-override,abn\/vartheme-styles,abn\/vbp-colors,abn_premium\/abn_premium,addtoany\/addtoany.front,bootstrap\/popover,bootstrap\/tooltip,extlink\/drupal.extlink,google_analytics\/google_analytics,poll\/drupal.poll-links,quicktabs\/quicktabs,social_media_links\/social_media_links.theme,system\/base,views\/views.module,vmi\/horizontal_media_teaser_small,webform_bootstrap\/webform_bootstrap","theme":"abn","theme_token":null},"ajaxTrustedUrl":[],"google_analytics":{"account":"G-QBCQST9H29","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"adsystem":{"adchannel":"","adcodes":{"medium_rectangle_1":"div-gpt-ad-1606040811203-0","medium_rectangle_2":"div-gpt-ad-1606041444149-0","half_page_1":"div-gpt-ad-1606039604423-0","half_page_2":"div-gpt-ad-1606040094520-0","leaderboard_top":"div-gpt-ad-1606039370609-0","leaderboard_2":"div-gpt-ad-1606040556175-0","inread":"div-gpt-ad-1600772701624-0","onebyone":"div-gpt-ad-1601470348171-0"},"admessage":"\u003Csomething\u003EAdvertisement\u003C\/something\u003E"},"quicktabs":{"qt_home_page_tabs":{"tabs":[{"title":"Latest","weight":0,"type":"view_content","content":{"block_content":{"options":{"bid":"footer_logo","block_title":"","display_title":false}},"view_content":{"options":{"vid":"articles","display":"latest_articles","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"qtabs_content":{"options":{"machine_name":"entertainment_tabs"}}},"tab_page":0},{"title":"Popular","weight":0,"type":"view_content","content":{"block_content":{"options":{"bid":"footer_logo","block_title":"","display_title":false}},"view_content":{"options":{"vid":"google_counter","display":"popular_article","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"qtabs_content":{"options":{"machine_name":"business_tabs"}}},"tab_page":1}]}},"user":{"uid":0,"permissionsHash":"4081b05711ffc6c378ad806ddf759cd6740a3e85b224d3ffdd6ffe2715de86dd"}}</script>
+<script src="/sites/default/files/js/js_7rX1xO-UaUJb2T8HBQMLaCF_5aKt3aMdBnj5g4IJitk.js"></script>
+<script src="//static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_82-APxP9-wx7u1W31SfsI4V4cFjGVjd102Cu4S7h_NE.js"></script>
+
+    <script src="https://statics.dmcdn.net/c/dm-ce.min.js"></script>
+  </body>
+</html>
